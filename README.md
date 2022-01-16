@@ -1,2 +1,1 @@
-# timetablebot-files
-File hosting for TimetableBot project
+Хранилище файлов для проекта TimetableBot
