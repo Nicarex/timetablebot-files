@@ -19,1329 +19,971 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Радиационная\, химическая и би
- ологическая защита 1/320 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260114T104500
-DTEND;TZID=Europe/Moscow:20260114T121500
-DTSTAMP:20260703T094406Z
-UID:20260114T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.1 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20260901T104500
+DTEND;TZID=Europe/Moscow:20260901T121500
+DTSTAMP:20260826T120003Z
+UID:20260901T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/320\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Радиационная\, химическая и би
- ологическая защита 1/320 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260115T090000
-DTEND;TZID=Europe/Moscow:20260115T103000
-DTSTAMP:20260703T094406Z
-UID:20260115T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.1 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260901T123000
+DTEND;TZID=Europe/Moscow:20260901T140000
+DTSTAMP:20260826T120003Z
+UID:20260901T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.2 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260902T090000
+DTEND;TZID=Europe/Moscow:20260902T103000
+DTSTAMP:20260826T120003Z
+UID:20260902T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/320\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Организация радиационной и 
- химической защиты населения и территори
- й 1/317 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260122T090000
-DTEND;TZID=Europe/Moscow:20260122T103000
-DTSTAMP:20260703T094406Z
-UID:20260122T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Организация радиационной и химической 
- защиты населения и территорий\nАудитори
- я: 1/317\nГруппы: 6251
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  1.2 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20260903T090000
+DTEND;TZID=Europe/Moscow:20260903T103000
+DTSTAMP:20260826T120003Z
+UID:20260903T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Организация радиационной и 
- химической защиты населения и территори
- й 1/320 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260129T090000
-DTEND;TZID=Europe/Moscow:20260129T103000
-DTSTAMP:20260703T094406Z
-UID:20260129T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Организация радиационной и химической 
- защиты населения и территорий\nАудитори
- я: 1/320\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.3 Радиационная\, химическая и би
- ологическая защита 1/320 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260129T123000
-DTEND;TZID=Europe/Moscow:20260129T140000
-DTSTAMP:20260703T094406Z
-UID:20260129T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.3 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260903T123000
+DTEND;TZID=Europe/Moscow:20260903T140000
+DTSTAMP:20260826T120003Z
+UID:20260903T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/320\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Радиационная\, химическая и би
- ологическая защита 1/320 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260130T104500
-DTEND;TZID=Europe/Moscow:20260130T121500
-DTSTAMP:20260703T094406Z
-UID:20260130T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.4 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260904T090000
+DTEND;TZID=Europe/Moscow:20260904T103000
+DTSTAMP:20260826T120003Z
+UID:20260904T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/320\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.5 Радиационная\, химическая и би
- ологическая защита 1/321 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260202T090000
-DTEND;TZID=Europe/Moscow:20260202T103000
-DTSTAMP:20260703T094406Z
-UID:20260202T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.3 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20260904T104500
+DTEND;TZID=Europe/Moscow:20260904T121500
+DTSTAMP:20260826T120003Z
+UID:20260904T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.5 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261007T090000
+DTEND;TZID=Europe/Moscow:20261007T103000
+DTSTAMP:20260826T120003Z
+UID:20261007T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/321\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.6 Радиационная\, химическая и би
- ологическая защита 1/321 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260206T104500
-DTEND;TZID=Europe/Moscow:20260206T121500
-DTSTAMP:20260703T094406Z
-UID:20260206T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.5 Организация радиационной и хи
+ мической защиты населения и территорий 1
+ /317 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261007T104500
+DTEND;TZID=Europe/Moscow:20261007T121500
+DTSTAMP:20260826T120003Z
+UID:20261007T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: О
+ рганизация радиационной и химической за
+ щиты населения и территорий\nАудитория: 1
+ /317\nГруппы: 6261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.4 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261007T123000
+DTEND;TZID=Europe/Moscow:20261007T140000
+DTSTAMP:20260826T120003Z
+UID:20261007T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.5 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261008T090000
+DTEND;TZID=Europe/Moscow:20261008T103000
+DTSTAMP:20260826T120003Z
+UID:20261008T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.6 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261008T104500
+DTEND;TZID=Europe/Moscow:20261008T121500
+DTSTAMP:20260826T120003Z
+UID:20261008T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.6\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/321\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.7 Радиационная\, химическая и 
- биологическая защита 1/321 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260206T123000
-DTEND;TZID=Europe/Moscow:20260206T140000
-DTSTAMP:20260703T094406Z
-UID:20260206T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/321\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  1.6 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261008T123000
+DTEND;TZID=Europe/Moscow:20261008T140000
+DTSTAMP:20260826T120003Z
+UID:20261008T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.6\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Радиационная\, химическая и би
- ологическая защита 1/321 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260213T123000
-DTEND;TZID=Europe/Moscow:20260213T140000
-DTSTAMP:20260703T094406Z
-UID:20260213T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  1.7 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261009T090000
+DTEND;TZID=Europe/Moscow:20261009T103000
+DTSTAMP:20260826T120003Z
+UID:20261009T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.7\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.7 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261009T104500
+DTEND;TZID=Europe/Moscow:20261009T121500
+DTSTAMP:20260826T120003Z
+UID:20261009T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.7\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261009T123000
+DTEND;TZID=Europe/Moscow:20261009T140000
+DTSTAMP:20260826T120003Z
+UID:20261009T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.8 Радиационная и химическая з
+ ащита 1/316 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261012T090000
+DTEND;TZID=Europe/Moscow:20261012T103000
+DTSTAMP:20260826T120003Z
+UID:20261012T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/316\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.5 Организация радиационной и хи
+ мической защиты населения и территорий 1
+ /320 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261012T104500
+DTEND;TZID=Europe/Moscow:20261012T121500
+DTSTAMP:20260826T120003Z
+UID:20261012T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: О
+ рганизация радиационной и химической за
+ щиты населения и территорий\nАудитория: 1
+ /320\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.6 Организация радиационной и хи
+ мической защиты населения и территорий 1
+ /320 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261013T104500
+DTEND;TZID=Europe/Moscow:20261013T121500
+DTSTAMP:20260826T120003Z
+UID:20261013T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.6\nПредмет: О
+ рганизация радиационной и химической за
+ щиты населения и территорий\nАудитория: 1
+ /320\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261013T123000
+DTEND;TZID=Europe/Moscow:20261013T140000
+DTSTAMP:20260826T120003Z
+UID:20261013T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/321\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Радиационная\, химическая и 
- биологическая защита 1/321 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260220T104500
-DTEND;TZID=Europe/Moscow:20260220T121500
-DTSTAMP:20260703T094406Z
-UID:20260220T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/321\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  1.8 Радиационная и химическая з
+ ащита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261013T144000
+DTEND;TZID=Europe/Moscow:20261013T161000
+DTSTAMP:20260826T120003Z
+UID:20261013T144000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Радиационная\, химическая и 
- биологическая защита 1/320 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260220T123000
-DTEND;TZID=Europe/Moscow:20260220T140000
-DTSTAMP:20260703T094406Z
-UID:20260220T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  1.7 Организация радиационной и 
+ химической защиты населения и территори
+ й 1/320 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261014T090000
+DTEND;TZID=Europe/Moscow:20261014T103000
+DTSTAMP:20260826T120003Z
+UID:20261014T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Организация радиационной и химической 
+ защиты населения и территорий\nАудитори
+ я: 1/320\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260224T123000
-DTEND;TZID=Europe/Moscow:20260224T140000
-DTSTAMP:20260703T094406Z
-UID:20260224T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  2.1 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261014T123000
+DTEND;TZID=Europe/Moscow:20261014T140000
+DTSTAMP:20260826T120003Z
+UID:20261014T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261015T090000
+DTEND;TZID=Europe/Moscow:20261015T103000
+DTSTAMP:20260826T120003Z
+UID:20261015T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Радиационная\, химическая и 
- биологическая защита 1/320 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260225T123000
-DTEND;TZID=Europe/Moscow:20260225T140000
-DTSTAMP:20260703T094406Z
-UID:20260225T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  2.3 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261015T104500
+DTEND;TZID=Europe/Moscow:20261015T121500
+DTSTAMP:20260826T120003Z
+UID:20261015T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Радиационная\, химическая и 
- биологическая защита 1/321 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260227T104500
-DTEND;TZID=Europe/Moscow:20260227T121500
-DTSTAMP:20260703T094406Z
-UID:20260227T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(ЗСТ)  2.4 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261016T104500
+DTEND;TZID=Europe/Moscow:20261016T121500
+DTSTAMP:20260826T120003Z
+UID:20261016T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/321\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Радиационная\, химическая и 
- биологическая защита 4/418 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260227T123000
-DTEND;TZID=Europe/Moscow:20260227T140000
-DTSTAMP:20260703T094406Z
-UID:20260227T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 4/418\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  2.3 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T120003Z
+UID:20261021T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.5 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260302T123000
-DTEND;TZID=Europe/Moscow:20260302T140000
-DTSTAMP:20260703T094406Z
-UID:20260302T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(ЗСТ)  2.5 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261022T123000
+DTEND;TZID=Europe/Moscow:20261022T140000
+DTSTAMP:20260826T120003Z
+UID:20261022T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.5 Радиационная\, химическая и 
- биологическая защита 1/316 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260305T104500
-DTEND;TZID=Europe/Moscow:20260305T121500
-DTSTAMP:20260703T094406Z
-UID:20260305T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  2.5 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261026T090000
+DTEND;TZID=Europe/Moscow:20261026T103000
+DTSTAMP:20260826T120003Z
+UID:20261026T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.6 Радиационная\, химическая и 
- биологическая защита 1/316 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260305T123000
-DTEND;TZID=Europe/Moscow:20260305T140000
-DTSTAMP:20260703T094406Z
-UID:20260305T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  2.6 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261102T090000
+DTEND;TZID=Europe/Moscow:20261102T103000
+DTSTAMP:20260826T120003Z
+UID:20261102T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.6 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260306T090000
-DTEND;TZID=Europe/Moscow:20260306T103000
-DTSTAMP:20260703T094406Z
-UID:20260306T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Радиационная\, химическая и 
- биологическая защита 1/316 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260306T104500
-DTEND;TZID=Europe/Moscow:20260306T121500
-DTSTAMP:20260703T094406Z
-UID:20260306T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Радиационная\, химическая и 
- биологическая защита 1/320 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260312T090000
-DTEND;TZID=Europe/Moscow:20260312T103000
-DTSTAMP:20260703T094406Z
-UID:20260312T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Радиационная\, химическая и 
- биологическая защита 1/320 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260312T123000
-DTEND;TZID=Europe/Moscow:20260312T140000
-DTSTAMP:20260703T094406Z
-UID:20260312T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 2238
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Радиационная\, химическая и 
- биологическая защита 1/321 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260313T090000
-DTEND;TZID=Europe/Moscow:20260313T103000
-DTSTAMP:20260703T094406Z
-UID:20260313T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/321\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   РХЗ 1/320 519А гр.
-DTSTART;TZID=Europe/Moscow:20260317T090000
-DTEND;TZID=Europe/Moscow:20260317T103000
-DTSTAMP:20260703T094406Z
-UID:20260317T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Р
- ХЗ\nАудитория: 1/320\nГруппы: 519А
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   РХЗ 1/320 519А гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260703T094406Z
-UID:20260317T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Р
- ХЗ\nАудитория: 1/320\nГруппы: 519А
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   РХЗ 1/321 519Б гр.
-DTSTART;TZID=Europe/Moscow:20260318T090000
-DTEND;TZID=Europe/Moscow:20260318T103000
-DTSTAMP:20260703T094406Z
-UID:20260318T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Р
- ХЗ\nАудитория: 1/321\nГруппы: 519Б
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   РХЗ 1/321 519Б гр.
-DTSTART;TZID=Europe/Moscow:20260318T104500
-DTEND;TZID=Europe/Moscow:20260318T121500
-DTSTAMP:20260703T094406Z
-UID:20260318T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Р
- ХЗ\nАудитория: 1/321\nГруппы: 519Б
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Радиационная\, химическая и би
- ологическая защита 1/316 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260319T104500
-DTEND;TZID=Europe/Moscow:20260319T121500
-DTSTAMP:20260703T094406Z
-UID:20260319T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  3.1 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261105T090000
+DTEND;TZID=Europe/Moscow:20261105T103000
+DTSTAMP:20260826T120003Z
+UID:20261105T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Р
- адиационная\, химическая и биологическа
- я защита\nАудитория: 1/316\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260323T123000
-DTEND;TZID=Europe/Moscow:20260323T140000
-DTSTAMP:20260703T094406Z
-UID:20260323T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  2.5 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261105T104500
+DTEND;TZID=Europe/Moscow:20261105T121500
+DTSTAMP:20260826T120003Z
+UID:20261105T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.6 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261109T090000
+DTEND;TZID=Europe/Moscow:20261109T103000
+DTSTAMP:20260826T120003Z
+UID:20261109T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261110T123000
+DTEND;TZID=Europe/Moscow:20261110T140000
+DTSTAMP:20260826T120003Z
+UID:20261110T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.8 Организация радиационной и 
+ химической защиты населения и территори
+ й\, ч Выезд 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261113T090000
+DTEND;TZID=Europe/Moscow:20261113T103000
+DTSTAMP:20260826T120003Z
+UID:20261113T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
+  Организация радиационной и химической 
+ защиты населения и территорий\, ч\nАудито
+ рия: Выезд\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.8 Организация радиационной и 
+ химической защиты населения и территори
+ й\, ч Выезд 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261113T104500
+DTEND;TZID=Europe/Moscow:20261113T121500
+DTSTAMP:20260826T120003Z
+UID:20261113T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
+  Организация радиационной и химической 
+ защиты населения и территорий\, ч\nАудито
+ рия: Выезд\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.8 Организация радиационной и 
+ химической защиты населения и территори
+ й\, ч Выезд 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261113T123000
+DTEND;TZID=Europe/Moscow:20261113T140000
+DTSTAMP:20260826T120003Z
+UID:20261113T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
+  Организация радиационной и химической 
+ защиты населения и территорий\, ч\nАудито
+ рия: Выезд\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Основы радиационной и химич
+ еской защиты 1/321 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261116T090000
+DTEND;TZID=Europe/Moscow:20261116T103000
+DTSTAMP:20260826T120003Z
+UID:20261116T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/321\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260324T090000
-DTEND;TZID=Europe/Moscow:20260324T103000
-DTSTAMP:20260703T094406Z
-UID:20260324T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.6 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260324T104500
-DTEND;TZID=Europe/Moscow:20260324T121500
-DTSTAMP:20260703T094406Z
-UID:20260324T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Радиационная\, химическая и 
- биологическая защита 1/320 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260325T123000
-DTEND;TZID=Europe/Moscow:20260325T140000
-DTSTAMP:20260703T094406Z
-UID:20260325T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.7 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260326T123000
-DTEND;TZID=Europe/Moscow:20260326T140000
-DTSTAMP:20260703T094406Z
-UID:20260326T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260330T123000
-DTEND;TZID=Europe/Moscow:20260330T140000
-DTSTAMP:20260703T094406Z
-UID:20260330T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.2 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260401T104500
-DTEND;TZID=Europe/Moscow:20260401T121500
-DTSTAMP:20260703T094406Z
-UID:20260401T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.9 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260402T123000
-DTEND;TZID=Europe/Moscow:20260402T140000
-DTSTAMP:20260703T094406Z
-UID:20260402T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260403T104500
-DTEND;TZID=Europe/Moscow:20260403T121500
-DTSTAMP:20260703T094406Z
-UID:20260403T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 6251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260403T123000
-DTEND;TZID=Europe/Moscow:20260403T140000
-DTSTAMP:20260703T094406Z
-UID:20260403T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.5 Радиационная и химическая з
+ ащита 1/320 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261116T104500
+DTEND;TZID=Europe/Moscow:20261116T121500
+DTSTAMP:20260826T120003Z
+UID:20261116T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+  Радиационная и химическая защита\nАудит
+ ория: 1/320\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.6 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260406T123000
-DTEND;TZID=Europe/Moscow:20260406T140000
-DTSTAMP:20260703T094406Z
-UID:20260406T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.6 Радиационная и химическая з
+ ащита 1/320 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T120003Z
+UID:20261117T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+  Радиационная и химическая защита\nАудит
+ ория: 1/320\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.7 Радиационная\, химическая и 
- биологическая защита 1/316 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260407T104500
-DTEND;TZID=Europe/Moscow:20260407T121500
-DTSTAMP:20260703T094406Z
-UID:20260407T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.5 Радиационная и химическая з
+ ащита 1/316 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261118T090000
+DTEND;TZID=Europe/Moscow:20261118T103000
+DTSTAMP:20260826T120003Z
+UID:20261118T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/316\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  к.р.3.7 Радиационная и химическа
+ я защита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261119T090000
+DTEND;TZID=Europe/Moscow:20261119T103000
+DTSTAMP:20260826T120003Z
+UID:20261119T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  к.р.3.7\nПред
+ мет: Радиационная и химическая защита\nА
+ удитория: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  к.р.3.7 Радиационная и химическа
+ я защита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261119T104500
+DTEND;TZID=Europe/Moscow:20261119T121500
+DTSTAMP:20260826T120003Z
+UID:20261119T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  к.р.3.7\nПред
+ мет: Радиационная и химическая защита\nА
+ удитория: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Радиационная и химическая з
+ ащита 1/320 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261119T123000
+DTEND;TZID=Europe/Moscow:20261119T140000
+DTSTAMP:20260826T120003Z
+UID:20261119T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/320\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Основы радиационной и химич
+ еской защиты 1/321 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261120T123000
+DTEND;TZID=Europe/Moscow:20261120T140000
+DTSTAMP:20260826T120003Z
+UID:20261120T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/321\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261124T090000
+DTEND;TZID=Europe/Moscow:20261124T103000
+DTSTAMP:20260826T120003Z
+UID:20261124T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Организация радиационной и 
+ химической защиты населения и территори
+ й 1/320 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261124T104500
+DTEND;TZID=Europe/Moscow:20261124T121500
+DTSTAMP:20260826T120003Z
+UID:20261124T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Организация радиационной и химической 
+ защиты населения и территорий\nАудитори
+ я: 1/320\nГруппы: 1261
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.7 Радиационная и химическая з
+ ащита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261124T123000
+DTEND;TZID=Europe/Moscow:20261124T140000
+DTSTAMP:20260826T120003Z
+UID:20261124T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+  Радиационная и химическая защита\nАудит
+ ория: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.10 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260407T123000
-DTEND;TZID=Europe/Moscow:20260407T140000
-DTSTAMP:20260703T094406Z
-UID:20260407T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.10\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.7 Радиационная и химическая з
+ ащита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261124T144000
+DTEND;TZID=Europe/Moscow:20261124T161000
+DTSTAMP:20260826T120003Z
+UID:20261124T144000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.11 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260409T104500
-DTEND;TZID=Europe/Moscow:20260409T121500
-DTSTAMP:20260703T094406Z
-UID:20260409T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.11\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  4.1 Радиационная и химическая защ
+ ита 1/316 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261130T090000
+DTEND;TZID=Europe/Moscow:20261130T103000
+DTSTAMP:20260826T120003Z
+UID:20261130T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.12 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260409T123000
-DTEND;TZID=Europe/Moscow:20260409T140000
-DTSTAMP:20260703T094406Z
-UID:20260409T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.12\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.6 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261203T104500
+DTEND;TZID=Europe/Moscow:20261203T121500
+DTSTAMP:20260826T120003Z
+UID:20261203T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  5.2 Организация радиационной и хи
- мической защиты населения и территорий 1
- /316 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260414T123000
-DTEND;TZID=Europe/Moscow:20260414T140000
-DTSTAMP:20260703T094406Z
-UID:20260414T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /316\nГруппы: 6251
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.7 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261204T090000
+DTEND;TZID=Europe/Moscow:20261204T103000
+DTSTAMP:20260826T120003Z
+UID:20261204T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.8 Радиационная\, химическая и 
- биологическая защита 1/320 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260415T104500
-DTEND;TZID=Europe/Moscow:20260415T121500
-DTSTAMP:20260703T094406Z
-UID:20260415T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(л.)  4.4 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261204T104500
+DTEND;TZID=Europe/Moscow:20261204T121500
+DTSTAMP:20260826T120003Z
+UID:20261204T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261207T090000
+DTEND;TZID=Europe/Moscow:20261207T103000
+DTSTAMP:20260826T120003Z
+UID:20261207T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+  Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.9 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260415T123000
-DTEND;TZID=Europe/Moscow:20260415T140000
-DTSTAMP:20260703T094406Z
-UID:20260415T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
-  Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  4.4 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261207T144000
+DTEND;TZID=Europe/Moscow:20261207T161000
+DTSTAMP:20260826T120003Z
+UID:20261207T144000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.13 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260505T090000
-DTEND;TZID=Europe/Moscow:20260505T103000
-DTSTAMP:20260703T094406Z
-UID:20260505T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.13\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  4.5 Радиационная и химическая з
+ ащита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261208T144000
+DTEND;TZID=Europe/Moscow:20261208T161000
+DTSTAMP:20260826T120003Z
+UID:20261208T144000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.14 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260703T094406Z
-UID:20260512T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.14\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  5.1 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261209T104500
+DTEND;TZID=Europe/Moscow:20261209T121500
+DTSTAMP:20260826T120003Z
+UID:20261209T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/320 5252Б гр.
-DTSTART;TZID=Europe/Moscow:20260512T123000
-DTEND;TZID=Europe/Moscow:20260512T140000
-DTSTAMP:20260703T094406Z
-UID:20260512T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 1/320\nГруппы: 5252Б
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(ЗСТ)  4.5 Радиационная и химическая з
+ ащита 1/316 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261210T104500
+DTEND;TZID=Europe/Moscow:20261210T121500
+DTSTAMP:20260826T120003Z
+UID:20261210T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
+  Радиационная и химическая защита\nАудит
+ ория: 1/316\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/320 5252Б гр.
-DTSTART;TZID=Europe/Moscow:20260512T144000
-DTEND;TZID=Europe/Moscow:20260512T161000
-DTSTAMP:20260703T094406Z
-UID:20260512T144000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 1/320\nГруппы: 5252Б
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  5.2 Радиационная и химическая защ
+ ита 1/316 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261211T104500
+DTEND;TZID=Europe/Moscow:20261211T121500
+DTSTAMP:20260826T120003Z
+UID:20261211T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/316\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.16 Радиационная\, химическая и 
- биологическая защита 1/317 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260513T104500
-DTEND;TZID=Europe/Moscow:20260513T121500
-DTSTAMP:20260703T094406Z
-UID:20260513T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.16\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  5.1 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261215T104500
+DTEND;TZID=Europe/Moscow:20261215T121500
+DTSTAMP:20260826T120003Z
+UID:20261215T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.10 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260513T123000
-DTEND;TZID=Europe/Moscow:20260513T140000
-DTSTAMP:20260703T094406Z
-UID:20260513T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.10\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  5.5 Радиационная и химическая защ
+ ита 1/317 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261216T104500
+DTEND;TZID=Europe/Moscow:20261216T121500
+DTSTAMP:20260826T120003Z
+UID:20261216T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.5\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/316 5253Б гр.
-DTSTART;TZID=Europe/Moscow:20260514T123000
-DTEND;TZID=Europe/Moscow:20260514T140000
-DTSTAMP:20260703T094406Z
-UID:20260514T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 1/316\nГруппы: 5253Б
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  5.2 Радиационная и химическая защ
+ ита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261216T123000
+DTEND;TZID=Europe/Moscow:20261216T140000
+DTSTAMP:20260826T120003Z
+UID:20261216T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/316 5253Б гр.
-DTSTART;TZID=Europe/Moscow:20260514T144000
-DTEND;TZID=Europe/Moscow:20260514T161000
-DTSTAMP:20260703T094406Z
-UID:20260514T144000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 1/316\nГруппы: 5253Б
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 2/108 5253А гр.
-DTSTART;TZID=Europe/Moscow:20260515T090000
-DTEND;TZID=Europe/Moscow:20260515T103000
-DTSTAMP:20260703T094406Z
-UID:20260515T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 2/108\nГруппы: 5253А
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 2/108 5253А гр.
-DTSTART;TZID=Europe/Moscow:20260515T104500
-DTEND;TZID=Europe/Moscow:20260515T121500
-DTSTAMP:20260703T094406Z
-UID:20260515T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 2/108\nГруппы: 5253А
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/316 5252А гр.
-DTSTART;TZID=Europe/Moscow:20260518T123000
-DTEND;TZID=Europe/Moscow:20260518T140000
-DTSTAMP:20260703T094406Z
-UID:20260518T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 1/316\nГруппы: 5252А
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/316 5252А гр.
-DTSTART;TZID=Europe/Moscow:20260518T144000
-DTEND;TZID=Europe/Moscow:20260518T161000
-DTSTAMP:20260703T094406Z
-UID:20260518T144000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рия: 1/316\nГруппы: 5252А
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.11 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260521T090000
-DTEND;TZID=Europe/Moscow:20260521T103000
-DTSTAMP:20260703T094406Z
-UID:20260521T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
+SUMMARY:(ЗСТ)  3.11 Основы радиационной и химич
+ еской защиты 1/316 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261218T104500
+DTEND;TZID=Europe/Moscow:20261218T121500
+DTSTAMP:20260826T120003Z
+UID:20261218T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.11\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+ : Основы радиационной и химической защит
+ ы\nАудитория: 1/316\nГруппы: 4241А
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.12 Радиационная\, химическая и 
- биологическая защита 1/321 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260521T162500
-DTEND;TZID=Europe/Moscow:20260521T175500
-DTSTAMP:20260703T094406Z
-UID:20260521T162500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.12\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/321\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(л.)  5.5 Радиационная и химическая защ
+ ита 1/320 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261218T123000
+DTEND;TZID=Europe/Moscow:20261218T140000
+DTSTAMP:20260826T120003Z
+UID:20261218T123000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.5\nПредмет: Р
+ адиационная и химическая защита\nАудито
+ рия: 1/320\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Организация радиационной и хи
- мической защиты населения и территорий 1
- /316 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260525T104500
-DTEND;TZID=Europe/Moscow:20260525T121500
-DTSTAMP:20260703T094406Z
-UID:20260525T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /316\nГруппы: 6251
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(зач.)  с оценкой Радиационная и хими
+ ческая защита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261222T090000
+DTEND;TZID=Europe/Moscow:20261222T103000
+DTSTAMP:20260826T120003Z
+UID:20261222T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Радиационная и химическая защи
+ та\nАудитория: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.17 Радиационная\, химическая и 
- биологическая защита 1/321 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260525T123000
-DTEND;TZID=Europe/Moscow:20260525T140000
-DTSTAMP:20260703T094406Z
-UID:20260525T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.17\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/321\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(зач.)  с оценкой Радиационная и хими
+ ческая защита 1/317 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261222T104500
+DTEND;TZID=Europe/Moscow:20261222T121500
+DTSTAMP:20260826T120003Z
+UID:20261222T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Радиационная и химическая защи
+ та\nАудитория: 1/317\nГруппы: 3243
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Организация радиационной и 
- химической защиты населения и территори
- й Выезд 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260529T090000
-DTEND;TZID=Europe/Moscow:20260529T103000
-DTSTAMP:20260703T094406Z
-UID:20260529T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Организация радиационной и химической 
- защиты населения и территорий\nАудитори
- я: Выезд\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(зач.)  с оценкой Радиационная и хими
+ ческая защита 1/321 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261224T090000
+DTEND;TZID=Europe/Moscow:20261224T103000
+DTSTAMP:20260826T120003Z
+UID:20261224T090000@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Радиационная и химическая защи
+ та\nАудитория: 1/321\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Организация радиационной и 
- химической защиты населения и территори
- й Выезд 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260529T104500
-DTEND;TZID=Europe/Moscow:20260529T121500
-DTSTAMP:20260703T094406Z
-UID:20260529T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Организация радиационной и химической 
- защиты населения и территорий\nАудитори
- я: Выезд\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Организация радиационной и 
- химической защиты населения и территори
- й Выезд 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260529T123000
-DTEND;TZID=Europe/Moscow:20260529T140000
-DTSTAMP:20260703T094406Z
-UID:20260529T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Организация радиационной и химической 
- защиты населения и территорий\nАудитори
- я: Выезд\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.2 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260603T104500
-DTEND;TZID=Europe/Moscow:20260603T121500
-DTSTAMP:20260703T094406Z
-UID:20260603T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.2\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 6251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.18 Радиационная\, химическая и 
- биологическая защита 1/320 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260604T090000
-DTEND;TZID=Europe/Moscow:20260604T103000
-DTSTAMP:20260703T094406Z
-UID:20260604T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/320\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.18 Радиационная\, химическая и 
- биологическая защита 1/320 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260604T104500
-DTEND;TZID=Europe/Moscow:20260604T121500
-DTSTAMP:20260703T094406Z
-UID:20260604T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/320\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.18 Радиационная\, химическая и 
- биологическая защита 1/316 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260604T123000
-DTEND;TZID=Europe/Moscow:20260604T140000
-DTSTAMP:20260703T094406Z
-UID:20260604T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/316\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.3 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260605T090000
-DTEND;TZID=Europe/Moscow:20260605T103000
-DTSTAMP:20260703T094406Z
-UID:20260605T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.3\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 6251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260608T090000
-DTEND;TZID=Europe/Moscow:20260608T103000
-DTSTAMP:20260703T094406Z
-UID:20260608T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.19 Радиационная\, химическая и 
- биологическая защита 1/320 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260609T162500
-DTEND;TZID=Europe/Moscow:20260609T175500
-DTSTAMP:20260703T094406Z
-UID:20260609T162500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.19\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/320\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Радиационная\, химическая и б
- иологическая защита 1/316 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260611T090000
-DTEND;TZID=Europe/Moscow:20260611T103000
-DTSTAMP:20260703T094406Z
-UID:20260611T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Радиационная\, химическая и б
- иологическая защита 1/316 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260611T104500
-DTEND;TZID=Europe/Moscow:20260611T121500
-DTSTAMP:20260703T094406Z
-UID:20260611T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 2233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.15 Радиационная\, химическая и б
- иологическая защита 1/320 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260615T090000
-DTEND;TZID=Europe/Moscow:20260615T103000
-DTSTAMP:20260703T094406Z
-UID:20260615T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.15\nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 6233 6234
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.3 Организация радиационной и хи
- мической защиты населения и территорий 1
- /320 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260616T090000
-DTEND;TZID=Europe/Moscow:20260616T103000
-DTSTAMP:20260703T094406Z
-UID:20260616T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.3\nПредмет: О
- рганизация радиационной и химической за
- щиты населения и территорий\nАудитория: 1
- /320\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.18 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260618T090000
-DTEND;TZID=Europe/Moscow:20260618T103000
-DTSTAMP:20260703T094406Z
-UID:20260618T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.18 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260618T104500
-DTEND;TZID=Europe/Moscow:20260618T121500
-DTSTAMP:20260703T094406Z
-UID:20260618T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.18 Радиационная\, химическая и 
- биологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260618T123000
-DTEND;TZID=Europe/Moscow:20260618T140000
-DTSTAMP:20260703T094406Z
-UID:20260618T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
- : Радиационная\, химическая и биологичес
- кая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/320 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260702T090000
-DTEND;TZID=Europe/Moscow:20260702T103000
-DTSTAMP:20260703T094406Z
-UID:20260702T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 2236
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/320 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260702T104500
-DTEND;TZID=Europe/Moscow:20260702T121500
-DTSTAMP:20260703T094406Z
-UID:20260702T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 2236
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/320 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260702T123000
-DTEND;TZID=Europe/Moscow:20260702T140000
-DTSTAMP:20260703T094406Z
-UID:20260702T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/320\nГруппы: 2236
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Радиационная\, химическа
- я и биологическая защита 1/320 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260706T090000
-DTEND;TZID=Europe/Moscow:20260706T103000
-DTSTAMP:20260703T094406Z
-UID:20260706T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Радиационная\, химическая и биологи
- ческая защита\nАудитория: 1/320\nГруппы: 6234
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/317 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260707T090000
-DTEND;TZID=Europe/Moscow:20260707T103000
-DTSTAMP:20260703T094406Z
-UID:20260707T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6234
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/316 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260707T104500
-DTEND;TZID=Europe/Moscow:20260707T121500
-DTSTAMP:20260703T094406Z
-UID:20260707T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/316\nГруппы: 6234
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/317 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260707T123000
-DTEND;TZID=Europe/Moscow:20260707T140000
-DTSTAMP:20260703T094406Z
-UID:20260707T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6234
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Радиационная\, химическа
- я и биологическая защита 1/320 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260708T090000
-DTEND;TZID=Europe/Moscow:20260708T103000
-DTSTAMP:20260703T094406Z
-UID:20260708T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Радиационная\, химическая и биологи
- ческая защита\nАудитория: 1/320\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260713T090000
-DTEND;TZID=Europe/Moscow:20260713T103000
-DTSTAMP:20260703T094406Z
-UID:20260713T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260713T104500
-DTEND;TZID=Europe/Moscow:20260713T121500
-DTSTAMP:20260703T094406Z
-UID:20260713T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Радиационная\, химическая и б
- иологическая защита 1/317 6233 гр.
-DTSTART;TZID=Europe/Moscow:20260713T123000
-DTEND;TZID=Europe/Moscow:20260713T140000
-DTSTAMP:20260703T094406Z
-UID:20260713T123000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Радиационная\, химическая и биологическ
- ая защита\nАудитория: 1/317\nГруппы: 6233
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Организация радиационной и х
- имической защиты населения и территорий
-  1/316 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260717T090000
-DTEND;TZID=Europe/Moscow:20260717T103000
-DTSTAMP:20260703T094406Z
-UID:20260717T090000@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Организация радиационной и химической з
- ащиты населения и территорий\nАудитория:
-  1/316\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Организация радиационной и х
- имической защиты населения и территорий
-  1/316 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260717T104500
-DTEND;TZID=Europe/Moscow:20260717T121500
-DTSTAMP:20260703T094406Z
-UID:20260717T104500@20260703T124406@Ермаков С.И.
-CREATED:20260703T094406Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Организация радиационной и химической з
- ащиты населения и территорий\nАудитория:
-  1/316\nГруппы: 1251
-LAST-MODIFIED:20260703T094406Z
+SUMMARY:(зач.)  с оценкой Радиационная и хими
+ ческая защита 1/321 3233 гр.
+DTSTART;TZID=Europe/Moscow:20261224T104500
+DTEND;TZID=Europe/Moscow:20261224T121500
+DTSTAMP:20260826T120003Z
+UID:20261224T104500@20260826T150003@Ермаков С.И.
+CREATED:20260826T120003Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Радиационная и химическая защи
+ та\nАудитория: 1/321\nГруппы: 3233
+LAST-MODIFIED:20260826T120003Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
