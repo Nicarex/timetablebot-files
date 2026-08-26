@@ -18,430 +18,635 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Ин.язык в проф.д-ти 4/317
-DTSTART;TZID=Europe/Moscow:20260512T090000
-DTEND;TZID=Europe/Moscow:20260512T103000
-DTSTAMP:20260508T130445Z
-UID:20260512T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- н.язык в проф.д-ти\nАудитории: 4/317\nПрепода
- ватели: Жукова Е.М.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Разработка тех.документации и
+  маркетинговых материалов в сфере IT ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T090000
+DTEND;TZID=Europe/Moscow:20260921T103000
+DTSTAMP:20260826T120638Z
+UID:20260921T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Р
+ азработка тех.документации и маркетинго
+ вых материалов в сфере IT\nАудитории: ЭИОС
+ \nПреподаватели: Пестовский И.Н.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Ин.язык в проф.д-ти 4/317
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260508T130445Z
-UID:20260512T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- н.язык в проф.д-ти\nАудитории: 4/317\nПрепода
- ватели: Жукова Е.М.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(Пр.)  5.1 Иностранный язык в проф.д-ти 
+ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T104500
+DTEND;TZID=Europe/Moscow:20260921T121500
+DTSTAMP:20260826T120638Z
+UID:20260921T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  5.1\nПредмет: 
+ Иностранный язык в проф.д-ти\nАудитории: 
+ ЭИОС\nПреподаватели: Жукова Е.М.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Экономико-математические про
- блемы управления 2/217
-DTSTART;TZID=Europe/Moscow:20260512T123000
-DTEND;TZID=Europe/Moscow:20260512T140000
-DTSTAMP:20260508T130445Z
-UID:20260512T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Э
- кономико-математические проблемы управ
- ления\nАудитории: 2/217\nПреподаватели: Гуд
- ков Б.Н.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Управление IT-проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T120638Z
+UID:20260921T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: У
+ правление IT-проектами\nАудитории: ЭИОС\nП
+ реподаватели: Безвесильная А.А.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Экономико-математические про
- блемы управления 2/217
-DTSTART;TZID=Europe/Moscow:20260512T144000
-DTEND;TZID=Europe/Moscow:20260512T161000
-DTSTAMP:20260508T130445Z
-UID:20260512T144000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Э
- кономико-математические проблемы управ
- ления\nАудитории: 2/217\nПреподаватели: Гуд
- ков Б.Н.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Инженерия информационных сис
+ тем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T144000
+DTEND;TZID=Europe/Moscow:20260921T161000
+DTSTAMP:20260826T120638Z
+UID:20260921T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: И
+ нженерия информационных систем\nАудитор
+ ии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Информационные технологии в с
- фере безопасности 3/510
-DTSTART;TZID=Europe/Moscow:20260513T090000
-DTEND;TZID=Europe/Moscow:20260513T103000
-DTSTAMP:20260508T130445Z
-UID:20260513T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- нформационные технологии в сфере безопа
- сности\nАудитории: 3/510\nПреподаватели: Са
- дыкова О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Системы поддержки принятия ре
+ шений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T090000
+DTEND;TZID=Europe/Moscow:20260922T103000
+DTSTAMP:20260826T120638Z
+UID:20260922T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: С
+ истемы поддержки принятия решений\nАуди
+ тории: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Информационные технологии в с
- фере безопасности 3/510
-DTSTART;TZID=Europe/Moscow:20260513T104500
-DTEND;TZID=Europe/Moscow:20260513T121500
-DTSTAMP:20260508T130445Z
-UID:20260513T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- нформационные технологии в сфере безопа
- сности\nАудитории: 3/510\nПреподаватели: Са
- дыкова О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.2 Системы поддержки принятия ре
+ шений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T104500
+DTEND;TZID=Europe/Moscow:20260922T121500
+DTSTAMP:20260826T120638Z
+UID:20260922T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: С
+ истемы поддержки принятия решений\nАуди
+ тории: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   УП\, ознакомительная 3/510
-DTSTART;TZID=Europe/Moscow:20260513T123000
-DTEND;TZID=Europe/Moscow:20260513T140000
-DTSTAMP:20260508T130445Z
-UID:20260513T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
- П\, ознакомительная\nАудитории: 3/510\nПрепо
- даватели: Безвесильная А.А.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(Пр.)  1.2 Управление IT-проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T123000
+DTEND;TZID=Europe/Moscow:20260922T140000
+DTSTAMP:20260826T120638Z
+UID:20260922T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  1.2\nПредмет: 
+ Управление IT-проектами\nАудитории: ЭИОС\n
+ Преподаватели: Безвесильная А.А.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   УП\, ознакомительная 3/510
-DTSTART;TZID=Europe/Moscow:20260513T144000
-DTEND;TZID=Europe/Moscow:20260513T161000
-DTSTAMP:20260508T130445Z
-UID:20260513T144000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
- П\, ознакомительная\nАудитории: 3/510\nПрепо
- даватели: Безвесильная А.А.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.1 Управление IT-проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T144000
+DTEND;TZID=Europe/Moscow:20260922T161000
+DTSTAMP:20260826T120638Z
+UID:20260922T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: У
+ правление IT-проектами\nАудитории: ЭИОС\nП
+ реподаватели: Безвесильная А.А.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Оперативное управление в РСЧС
-  и ГО 3/510
-DTSTART;TZID=Europe/Moscow:20260514T090000
-DTEND;TZID=Europe/Moscow:20260514T103000
-DTSTAMP:20260508T130445Z
-UID:20260514T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- перативное управление в РСЧС и ГО\nАудит
- ории: 3/510\nПреподаватели: Кузьмин А.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Геоинформационные технологии
+  ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T090000
+DTEND;TZID=Europe/Moscow:20260923T103000
+DTSTAMP:20260826T120638Z
+UID:20260923T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Г
+ еоинформационные технологии\nАудитории:
+  ЭИОС\nПреподаватели: Заяц Е.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Оперативное управление в РСЧС
-  и ГО 3/510
-DTSTART;TZID=Europe/Moscow:20260514T104500
-DTEND;TZID=Europe/Moscow:20260514T121500
-DTSTAMP:20260508T130445Z
-UID:20260514T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- перативное управление в РСЧС и ГО\nАудит
- ории: 3/510\nПреподаватели: Кузьмин А.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Технологии проектирования ИС
+ иТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T104500
+DTEND;TZID=Europe/Moscow:20260923T121500
+DTSTAMP:20260826T120638Z
+UID:20260923T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
+ ехнологии проектирования ИСиТ\nАудитори
+ и: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Интеллектуальные системы и те
- хнологии 3/510
-DTSTART;TZID=Europe/Moscow:20260514T123000
-DTEND;TZID=Europe/Moscow:20260514T140000
-DTSTAMP:20260508T130445Z
-UID:20260514T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- нтеллектуальные системы и технологии\nА
- удитории: 3/510\nПреподаватели: Садыкова О.
- И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Управление информационными р
+ есурсами и сервисами в организациях МЧС 
+ России ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T123000
+DTEND;TZID=Europe/Moscow:20260923T140000
+DTSTAMP:20260826T120638Z
+UID:20260923T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: У
+ правление информационными ресурсами и с
+ ервисами в организациях МЧС России\nАуди
+ тории: ЭИОС\nПреподаватели: Пестовский И.
+ Н.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Интеллектуальные системы и те
- хнологии 3/510
-DTSTART;TZID=Europe/Moscow:20260514T144000
-DTEND;TZID=Europe/Moscow:20260514T161000
-DTSTAMP:20260508T130445Z
-UID:20260514T144000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- нтеллектуальные системы и технологии\nА
- удитории: 3/510\nПреподаватели: Садыкова О.
- И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(Пр.)  1.2 Управление информационными 
+ ресурсами и сервисами в организациях МЧ
+ С России ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T144000
+DTEND;TZID=Europe/Moscow:20260923T161000
+DTSTAMP:20260826T120638Z
+UID:20260923T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  1.2\nПредмет: 
+ Управление информационными ресурсами и 
+ сервисами в организациях МЧС России\nАуд
+ итории: ЭИОС\nПреподаватели: Пестовский 
+ И.Н.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Научная публицистика 3/510
-DTSTART;TZID=Europe/Moscow:20260515T090000
-DTEND;TZID=Europe/Moscow:20260515T103000
-DTSTAMP:20260508T130445Z
-UID:20260515T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Н
- аучная публицистика\nАудитории: 3/510\nПреп
- одаватели: Садыкова О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.1 Инженерия информационных сис
+ тем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T090000
+DTEND;TZID=Europe/Moscow:20260924T103000
+DTSTAMP:20260826T120638Z
+UID:20260924T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: И
+ нженерия информационных систем\nАудитор
+ ии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Научная публицистика 3/510
-DTSTART;TZID=Europe/Moscow:20260515T104500
-DTEND;TZID=Europe/Moscow:20260515T121500
-DTSTAMP:20260508T130445Z
-UID:20260515T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Н
- аучная публицистика\nАудитории: 3/510\nПреп
- одаватели: Садыкова О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(Пр.)  5.2 Иностранный язык в проф.д-ти 
+ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T120638Z
+UID:20260924T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  5.2\nПредмет: 
+ Иностранный язык в проф.д-ти\nАудитории: 
+ ЭИОС\nПреподаватели: Жукова Е.М.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Инженерия требований к програ
- ммному обеспечиванию в сфере РСЧС 3/510
-DTSTART;TZID=Europe/Moscow:20260515T123000
-DTEND;TZID=Europe/Moscow:20260515T140000
-DTSTAMP:20260508T130445Z
-UID:20260515T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- нженерия требований к программному обес
- печиванию в сфере РСЧС\nАудитории: 3/510\nПр
- еподаватели: Козлов М.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.1 Программная инженерия ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T123000
+DTEND;TZID=Europe/Moscow:20260924T140000
+DTSTAMP:20260826T120638Z
+UID:20260924T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
+ рограммная инженерия\nАудитории: ЭИОС\nП
+ реподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Инженерия требований к програ
- ммному обеспечиванию в сфере РСЧС 3/510
-DTSTART;TZID=Europe/Moscow:20260515T144000
-DTEND;TZID=Europe/Moscow:20260515T161000
-DTSTAMP:20260508T130445Z
-UID:20260515T144000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- нженерия требований к программному обес
- печиванию в сфере РСЧС\nАудитории: 3/510\nПр
- еподаватели: Козлов М.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.1 Программная инженерия ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T144000
+DTEND;TZID=Europe/Moscow:20260924T161000
+DTSTAMP:20260826T120638Z
+UID:20260924T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
+ рограммная инженерия\nАудитории: ЭИОС\nП
+ реподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Социальные и философские проб
- лемы информатизации общества 3/510
-DTSTART;TZID=Europe/Moscow:20260518T104500
-DTEND;TZID=Europe/Moscow:20260518T121500
-DTSTAMP:20260508T130445Z
-UID:20260518T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: С
- оциальные и философские проблемы информ
- атизации общества\nАудитории: 3/510\nПрепод
- аватели: Малинка А.Н.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(См.)  1.2 Разработка тех.документации 
+ и маркетинговых материалов в сфере IT 2/115
+DTSTART;TZID=Europe/Moscow:20260925T090000
+DTEND;TZID=Europe/Moscow:20260925T103000
+DTSTAMP:20260826T120638Z
+UID:20260925T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: См.\nТема:  1.2\nПредмет: 
+ Разработка тех.документации и маркетинг
+ овых материалов в сфере IT\nАудитории: 2/115\
+ nПреподаватели: Пестовский И.Н.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Социальные и философские проб
- лемы информатизации общества 3/510
-DTSTART;TZID=Europe/Moscow:20260518T123000
-DTEND;TZID=Europe/Moscow:20260518T140000
-DTSTAMP:20260508T130445Z
-UID:20260518T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: С
- оциальные и философские проблемы информ
- атизации общества\nАудитории: 3/510\nПрепод
- аватели: Малинка А.Н.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.1 Разработка тех.документации и
+  маркетинговых материалов в сфере IT ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T104500
+DTEND;TZID=Europe/Moscow:20260925T121500
+DTSTAMP:20260826T120638Z
+UID:20260925T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Р
+ азработка тех.документации и маркетинго
+ вых материалов в сфере IT\nАудитории: ЭИОС
+ \nПреподаватели: Пестовский И.Н.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Специальные главы математики
-  2/114
-DTSTART;TZID=Europe/Moscow:20260519T090000
-DTEND;TZID=Europe/Moscow:20260519T103000
-DTSTAMP:20260508T130445Z
-UID:20260519T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Специальные главы математики\nАудитории
- : 2/114\nПреподаватели: Усачева Т.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  1.2 Технологии проектирования ИС
+ иТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T123000
+DTEND;TZID=Europe/Moscow:20260925T140000
+DTSTAMP:20260826T120638Z
+UID:20260925T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Т
+ ехнологии проектирования ИСиТ\nАудитори
+ и: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Специальные главы математики
-  2/115
-DTSTART;TZID=Europe/Moscow:20260519T104500
-DTEND;TZID=Europe/Moscow:20260519T121500
-DTSTAMP:20260508T130445Z
-UID:20260519T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Специальные главы математики\nАудитории
- : 2/115\nПреподаватели: Усачева Т.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.2 Технологии проектирования ИС
+ иТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T144000
+DTEND;TZID=Europe/Moscow:20260925T161000
+DTSTAMP:20260826T120638Z
+UID:20260925T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: Т
+ ехнологии проектирования ИСиТ\nАудитори
+ и: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Специальные главы математики
-  2/114
-DTSTART;TZID=Europe/Moscow:20260519T123000
-DTEND;TZID=Europe/Moscow:20260519T140000
-DTSTAMP:20260508T130445Z
-UID:20260519T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Специальные главы математики\nАудитории
- : 2/114\nПреподаватели: Усачева Т.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  3.1 Инженерия информационных сис
+ тем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260926T090000
+DTEND;TZID=Europe/Moscow:20260926T103000
+DTSTAMP:20260826T120638Z
+UID:20260926T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: И
+ нженерия информационных систем\nАудитор
+ ии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Логика и методология науки 3/51
- 0
-DTSTART;TZID=Europe/Moscow:20260520T090000
-DTEND;TZID=Europe/Moscow:20260520T103000
-DTSTAMP:20260508T130445Z
-UID:20260520T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Логика и методология науки\nАудитории: 3/5
- 10\nПреподаватели: Аракелян М.А.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  4.1 Инженерия информационных сис
+ тем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260926T104500
+DTEND;TZID=Europe/Moscow:20260926T121500
+DTSTAMP:20260826T120638Z
+UID:20260926T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: И
+ нженерия информационных систем\nАудитор
+ ии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Логика и методология науки 3/51
- 0
-DTSTART;TZID=Europe/Moscow:20260520T104500
-DTEND;TZID=Europe/Moscow:20260520T121500
-DTSTAMP:20260508T130445Z
-UID:20260520T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Логика и методология науки\nАудитории: 3/5
- 10\nПреподаватели: Аракелян М.А.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.4 Технологии проектирования ИС
+ иТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260926T123000
+DTEND;TZID=Europe/Moscow:20260926T140000
+DTSTAMP:20260826T120638Z
+UID:20260926T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.4\nПредмет: Т
+ ехнологии проектирования ИСиТ\nАудитори
+ и: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Логика и методология науки 3/51
- 0
-DTSTART;TZID=Europe/Moscow:20260520T123000
-DTEND;TZID=Europe/Moscow:20260520T140000
-DTSTAMP:20260508T130445Z
-UID:20260520T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Логика и методология науки\nАудитории: 3/5
- 10\nПреподаватели: Аракелян М.А.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  2.1 Системы поддержки принятия ре
+ шений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T090000
+DTEND;TZID=Europe/Moscow:20260928T103000
+DTSTAMP:20260826T120638Z
+UID:20260928T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: С
+ истемы поддержки принятия решений\nАуди
+ тории: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Основы автоматизации управле
- ния в РСЧС 3/510
-DTSTART;TZID=Europe/Moscow:20260521T090000
-DTEND;TZID=Europe/Moscow:20260521T103000
-DTSTAMP:20260508T130445Z
-UID:20260521T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Основы автоматизации управления в РСЧС\n
- Аудитории: 3/510\nПреподаватели: Козлов М.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  3.1 Системы поддержки принятия ре
+ шений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T104500
+DTEND;TZID=Europe/Moscow:20260928T121500
+DTSTAMP:20260826T120638Z
+UID:20260928T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: С
+ истемы поддержки принятия решений\nАуди
+ тории: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Основы автоматизации управле
- ния в РСЧС 3/510
-DTSTART;TZID=Europe/Moscow:20260521T104500
-DTEND;TZID=Europe/Moscow:20260521T121500
-DTSTAMP:20260508T130445Z
-UID:20260521T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Основы автоматизации управления в РСЧС\n
- Аудитории: 3/510\nПреподаватели: Козлов М.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  4.2 Инженерия информационных сис
+ тем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T123000
+DTEND;TZID=Europe/Moscow:20260928T140000
+DTSTAMP:20260826T120638Z
+UID:20260928T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: И
+ нженерия информационных систем\nАудитор
+ ии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Основы автоматизации управле
- ния в РСЧС 3/510
-DTSTART;TZID=Europe/Moscow:20260521T123000
-DTEND;TZID=Europe/Moscow:20260521T140000
-DTSTAMP:20260508T130445Z
-UID:20260521T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Основы автоматизации управления в РСЧС\n
- Аудитории: 3/510\nПреподаватели: Козлов М.В.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  4.3 Инженерия информационных сис
+ тем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T144000
+DTEND;TZID=Europe/Moscow:20260928T161000
+DTSTAMP:20260826T120638Z
+UID:20260928T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: И
+ нженерия информационных систем\nАудитор
+ ии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Модели информационных процес
- сов и систем 3/510
-DTSTART;TZID=Europe/Moscow:20260522T090000
-DTEND;TZID=Europe/Moscow:20260522T103000
-DTSTAMP:20260508T130445Z
-UID:20260522T090000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Модели информационных процессов и систе
- м\nАудитории: 3/510\nПреподаватели: Садыков
- а О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(л.)  4.1 Программная инженерия ЭИОС
+DTSTART;TZID=Europe/Moscow:20260929T090000
+DTEND;TZID=Europe/Moscow:20260929T103000
+DTSTAMP:20260826T120638Z
+UID:20260929T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
+ рограммная инженерия\nАудитории: ЭИОС\nП
+ реподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Модели информационных процес
- сов и систем 3/510
-DTSTART;TZID=Europe/Moscow:20260522T104500
-DTEND;TZID=Europe/Moscow:20260522T121500
-DTSTAMP:20260508T130445Z
-UID:20260522T104500@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Модели информационных процессов и систе
- м\nАудитории: 3/510\nПреподаватели: Садыков
- а О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(Пр.)  6.1 Иностранный язык в проф.д-ти 
+ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260929T104500
+DTEND;TZID=Europe/Moscow:20260929T121500
+DTSTAMP:20260826T120638Z
+UID:20260929T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.1\nПредмет: 
+ Иностранный язык в проф.д-ти\nАудитории: 
+ ЭИОС\nПреподаватели: Жукова Е.М.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Модели информационных процес
- сов и систем 3/510
-DTSTART;TZID=Europe/Moscow:20260522T123000
-DTEND;TZID=Europe/Moscow:20260522T140000
-DTSTAMP:20260508T130445Z
-UID:20260522T123000@20260508T160445@5254
-CREATED:20260508T130445Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Модели информационных процессов и систе
- м\nАудитории: 3/510\nПреподаватели: Садыков
- а О.И.
-LAST-MODIFIED:20260508T130445Z
+SUMMARY:(Пр.)  2.2 Управление IT-проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260929T123000
+DTEND;TZID=Europe/Moscow:20260929T140000
+DTSTAMP:20260826T120638Z
+UID:20260929T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Управление IT-проектами\nАудитории: ЭИОС\n
+ Преподаватели: Безвесильная А.А.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.2 Управление IT-проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260929T144000
+DTEND;TZID=Europe/Moscow:20260929T161000
+DTSTAMP:20260826T120638Z
+UID:20260929T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Управление IT-проектами\nАудитории: ЭИОС\n
+ Преподаватели: Безвесильная А.А.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.5 Технологии проектирования И
+ СиТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260826T120638Z
+UID:20260930T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.5\nПредмет: 
+ Технологии проектирования ИСиТ\nАудитор
+ ии: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.6 Технологии проектирования И
+ СиТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260826T120638Z
+UID:20260930T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.6\nПредмет: 
+ Технологии проектирования ИСиТ\nАудитор
+ ии: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  4.4 Инженерия информационных си
+ стем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T120638Z
+UID:20260930T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  4.4\nПредмет: 
+ Инженерия информационных систем\nАудито
+ рии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  4.4 Инженерия информационных си
+ стем ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T144000
+DTEND;TZID=Europe/Moscow:20260930T161000
+DTSTAMP:20260826T120638Z
+UID:20260930T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  4.4\nПредмет: 
+ Инженерия информационных систем\nАудито
+ рии: ЭИОС\nПреподаватели: Козлов М.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.8 Технологии проектирования И
+ СиТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260826T120638Z
+UID:20261001T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.8\nПредмет: 
+ Технологии проектирования ИСиТ\nАудитор
+ ии: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.8 Технологии проектирования И
+ СиТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T121500
+DTSTAMP:20260826T120638Z
+UID:20261001T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.8\nПредмет: 
+ Технологии проектирования ИСиТ\nАудитор
+ ии: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  1.2 Геоинформационные технологи
+ и ЭИОС
+DTSTART;TZID=Europe/Moscow:20261001T123000
+DTEND;TZID=Europe/Moscow:20261001T140000
+DTSTAMP:20260826T120638Z
+UID:20261001T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  1.2\nПредмет: 
+ Геоинформационные технологии\nАудитори
+ и: ЭИОС\nПреподаватели: Заяц Е.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  1.2 Геоинформационные технологи
+ и ЭИОС
+DTSTART;TZID=Europe/Moscow:20261001T144000
+DTEND;TZID=Europe/Moscow:20261001T161000
+DTSTAMP:20260826T120638Z
+UID:20261001T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  1.2\nПредмет: 
+ Геоинформационные технологии\nАудитори
+ и: ЭИОС\nПреподаватели: Заяц Е.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Геоинформационные технологии
+  ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260826T120638Z
+UID:20261002T090000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Г
+ еоинформационные технологии\nАудитории:
+  ЭИОС\nПреподаватели: Заяц Е.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.2 Иностранный язык в проф.д-ти 
+ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T120638Z
+UID:20261002T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
+ Иностранный язык в проф.д-ти\nАудитории: 
+ ЭИОС\nПреподаватели: Жукова Е.М.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Разработка тех.документации и
+  маркетинговых материалов в сфере IT ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T123000
+DTEND;TZID=Europe/Moscow:20261002T140000
+DTSTAMP:20260826T120638Z
+UID:20261002T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Р
+ азработка тех.документации и маркетинго
+ вых материалов в сфере IT\nАудитории: ЭИОС
+ \nПреподаватели: Пестовский И.Н.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  6.1 Разработка тех.документации и
+  маркетинговых материалов в сфере IT ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T144000
+DTEND;TZID=Europe/Moscow:20261002T161000
+DTSTAMP:20260826T120638Z
+UID:20261002T144000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Р
+ азработка тех.документации и маркетинго
+ вых материалов в сфере IT\nАудитории: ЭИОС
+ \nПреподаватели: Пестовский И.Н.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.2 Программная инженерия ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T104500
+DTEND;TZID=Europe/Moscow:20261003T121500
+DTSTAMP:20260826T120638Z
+UID:20261003T104500@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: П
+ рограммная инженерия\nАудитории: ЭИОС\nП
+ реподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.1 Технологии проектирования ИС
+ иТ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T120638Z
+UID:20261003T123000@20260826T150638@5254
+CREATED:20260826T120638Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Т
+ ехнологии проектирования ИСиТ\nАудитори
+ и: ЭИОС\nПреподаватели: Макарьин И.В.
+LAST-MODIFIED:20260826T120638Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
