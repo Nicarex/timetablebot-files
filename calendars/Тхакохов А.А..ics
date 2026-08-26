@@ -19,1486 +19,1842 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(экз.)   Технологии аварийно-спасател
- ьных работ 3/206 3241 гр.
-DTSTART;TZID=Europe/Moscow:20260116T090000
-DTEND;TZID=Europe/Moscow:20260116T103000
-DTSTAMP:20260717T112555Z
-UID:20260116T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 3241
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.3 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260908T090000
+DTEND;TZID=Europe/Moscow:20260908T103000
+DTSTAMP:20260826T115728Z
+UID:20260908T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Технологии аварийно-спасател
- ьных работ 3/206 3241 гр.
-DTSTART;TZID=Europe/Moscow:20260116T104500
-DTEND;TZID=Europe/Moscow:20260116T121500
-DTSTAMP:20260717T112555Z
-UID:20260116T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 3241
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.3 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260908T104500
+DTEND;TZID=Europe/Moscow:20260908T121500
+DTSTAMP:20260826T115728Z
+UID:20260908T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Технологии аварийно-спасател
- ьных работ 3/206 3241 гр.
-DTSTART;TZID=Europe/Moscow:20260116T123000
-DTEND;TZID=Europe/Moscow:20260116T140000
-DTSTAMP:20260717T112555Z
-UID:20260116T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 3241
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.3 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260908T123000
+DTEND;TZID=Europe/Moscow:20260908T140000
+DTSTAMP:20260826T115728Z
+UID:20260908T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.3 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260909T090000
+DTEND;TZID=Europe/Moscow:20260909T103000
+DTSTAMP:20260826T115728Z
+UID:20260909T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.3 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260909T104500
+DTEND;TZID=Europe/Moscow:20260909T121500
+DTSTAMP:20260826T115728Z
+UID:20260909T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.3 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260909T123000
+DTEND;TZID=Europe/Moscow:20260909T140000
+DTSTAMP:20260826T115728Z
+UID:20260909T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260910T090000
+DTEND;TZID=Europe/Moscow:20260910T103000
+DTSTAMP:20260826T115728Z
+UID:20260910T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260910T104500
+DTEND;TZID=Europe/Moscow:20260910T121500
+DTSTAMP:20260826T115728Z
+UID:20260910T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T115728Z
+UID:20260910T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260914T090000
+DTEND;TZID=Europe/Moscow:20260914T103000
+DTSTAMP:20260826T115728Z
+UID:20260914T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260914T104500
+DTEND;TZID=Europe/Moscow:20260914T121500
+DTSTAMP:20260826T115728Z
+UID:20260914T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260914T123000
+DTEND;TZID=Europe/Moscow:20260914T140000
+DTSTAMP:20260826T115728Z
+UID:20260914T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260915T090000
+DTEND;TZID=Europe/Moscow:20260915T103000
+DTSTAMP:20260826T115728Z
+UID:20260915T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260915T104500
+DTEND;TZID=Europe/Moscow:20260915T121500
+DTSTAMP:20260826T115728Z
+UID:20260915T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260915T123000
+DTEND;TZID=Europe/Moscow:20260915T140000
+DTSTAMP:20260826T115728Z
+UID:20260915T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260916T090000
+DTEND;TZID=Europe/Moscow:20260916T103000
+DTSTAMP:20260826T115728Z
+UID:20260916T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260916T104500
+DTEND;TZID=Europe/Moscow:20260916T121500
+DTSTAMP:20260826T115728Z
+UID:20260916T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260916T123000
+DTEND;TZID=Europe/Moscow:20260916T140000
+DTSTAMP:20260826T115728Z
+UID:20260916T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260917T090000
+DTEND;TZID=Europe/Moscow:20260917T103000
+DTSTAMP:20260826T115728Z
+UID:20260917T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260917T104500
+DTEND;TZID=Europe/Moscow:20260917T121500
+DTSTAMP:20260826T115728Z
+UID:20260917T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260917T123000
+DTEND;TZID=Europe/Moscow:20260917T140000
+DTSTAMP:20260826T115728Z
+UID:20260917T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260918T090000
+DTEND;TZID=Europe/Moscow:20260918T103000
+DTSTAMP:20260826T115728Z
+UID:20260918T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260918T104500
+DTEND;TZID=Europe/Moscow:20260918T121500
+DTSTAMP:20260826T115728Z
+UID:20260918T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260918T123000
+DTEND;TZID=Europe/Moscow:20260918T140000
+DTSTAMP:20260826T115728Z
+UID:20260918T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260919T090000
+DTEND;TZID=Europe/Moscow:20260919T103000
+DTSTAMP:20260826T115728Z
+UID:20260919T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260919T104500
+DTEND;TZID=Europe/Moscow:20260919T121500
+DTSTAMP:20260826T115728Z
+UID:20260919T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ НСЦ 2244 гр.
+DTSTART;TZID=Europe/Moscow:20260919T123000
+DTEND;TZID=Europe/Moscow:20260919T140000
+DTSTAMP:20260826T115728Z
+UID:20260919T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: НСЦ\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  1.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260121T090000
-DTEND;TZID=Europe/Moscow:20260121T103000
-DTSTAMP:20260717T112555Z
-UID:20260121T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T115728Z
+UID:20260921T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  1.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260121T104500
-DTEND;TZID=Europe/Moscow:20260121T121500
-DTSTAMP:20260717T112555Z
-UID:20260121T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260921T144000
+DTEND;TZID=Europe/Moscow:20260921T161000
+DTSTAMP:20260826T115728Z
+UID:20260921T144000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260121T123000
-DTEND;TZID=Europe/Moscow:20260121T140000
-DTSTAMP:20260717T112555Z
-UID:20260121T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.5 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260923T090000
+DTEND;TZID=Europe/Moscow:20260923T103000
+DTSTAMP:20260826T115728Z
+UID:20260923T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260124T090000
-DTEND;TZID=Europe/Moscow:20260124T103000
-DTSTAMP:20260717T112555Z
-UID:20260124T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.5 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260923T104500
+DTEND;TZID=Europe/Moscow:20260923T121500
+DTSTAMP:20260826T115728Z
+UID:20260923T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260124T104500
-DTEND;TZID=Europe/Moscow:20260124T121500
-DTSTAMP:20260717T112555Z
-UID:20260124T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.5 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260923T123000
+DTEND;TZID=Europe/Moscow:20260923T140000
+DTSTAMP:20260826T115728Z
+UID:20260923T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260124T123000
-DTEND;TZID=Europe/Moscow:20260124T140000
-DTSTAMP:20260717T112555Z
-UID:20260124T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.5 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260924T090000
+DTEND;TZID=Europe/Moscow:20260924T103000
+DTSTAMP:20260826T115728Z
+UID:20260924T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.5 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T115728Z
+UID:20260924T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.5 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260924T123000
+DTEND;TZID=Europe/Moscow:20260924T140000
+DTSTAMP:20260826T115728Z
+UID:20260924T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  1.4 Аварийно-спасательный инстр
- умент и оборудование ЭИОС 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260131T090000
-DTEND;TZID=Europe/Moscow:20260131T103000
-DTSTAMP:20260717T112555Z
-UID:20260131T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260925T090000
+DTEND;TZID=Europe/Moscow:20260925T103000
+DTSTAMP:20260826T115728Z
+UID:20260925T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: ЭИОС\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  1.4 Аварийно-спасательный инстр
- умент и оборудование ЭИОС 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260131T104500
-DTEND;TZID=Europe/Moscow:20260131T121500
-DTSTAMP:20260717T112555Z
-UID:20260131T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260925T104500
+DTEND;TZID=Europe/Moscow:20260925T121500
+DTSTAMP:20260826T115728Z
+UID:20260925T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: ЭИОС\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Аварийно-спасательный инстр
- умент и оборудование ЭИОС 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260131T123000
-DTEND;TZID=Europe/Moscow:20260131T140000
-DTSTAMP:20260717T112555Z
-UID:20260131T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+SUMMARY:(ЗСТ)  2.1 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260928T123000
+DTEND;TZID=Europe/Moscow:20260928T140000
+DTSTAMP:20260826T115728Z
+UID:20260928T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: ЭИОС\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260204T090000
-DTEND;TZID=Europe/Moscow:20260204T103000
-DTSTAMP:20260717T112555Z
-UID:20260204T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.7 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260826T115728Z
+UID:20260930T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260204T104500
-DTEND;TZID=Europe/Moscow:20260204T121500
-DTSTAMP:20260717T112555Z
-UID:20260204T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.7 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260826T115728Z
+UID:20260930T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260204T123000
-DTEND;TZID=Europe/Moscow:20260204T140000
-DTSTAMP:20260717T112555Z
-UID:20260204T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  1.7 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T115728Z
+UID:20260930T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260207T090000
-DTEND;TZID=Europe/Moscow:20260207T103000
-DTSTAMP:20260717T112555Z
-UID:20260207T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  2.2 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260826T115728Z
+UID:20261001T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260207T104500
-DTEND;TZID=Europe/Moscow:20260207T121500
-DTSTAMP:20260717T112555Z
-UID:20260207T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  2.2 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T121500
+DTSTAMP:20260826T115728Z
+UID:20261001T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260207T123000
-DTEND;TZID=Europe/Moscow:20260207T140000
-DTSTAMP:20260717T112555Z
-UID:20260207T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  2.2 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261001T123000
+DTEND;TZID=Europe/Moscow:20261001T140000
+DTSTAMP:20260826T115728Z
+UID:20261001T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260214T090000
-DTEND;TZID=Europe/Moscow:20260214T103000
-DTSTAMP:20260717T112555Z
-UID:20260214T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260826T115728Z
+UID:20261002T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260214T104500
-DTEND;TZID=Europe/Moscow:20260214T121500
-DTSTAMP:20260717T112555Z
-UID:20260214T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T115728Z
+UID:20261002T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260214T123000
-DTEND;TZID=Europe/Moscow:20260214T140000
-DTSTAMP:20260717T112555Z
-UID:20260214T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261002T123000
+DTEND;TZID=Europe/Moscow:20261002T140000
+DTSTAMP:20260826T115728Z
+UID:20261002T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260217T162500
-DTEND;TZID=Europe/Moscow:20260217T175500
-DTSTAMP:20260717T112555Z
-UID:20260217T162500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261003T090000
+DTEND;TZID=Europe/Moscow:20261003T103000
+DTSTAMP:20260826T115728Z
+UID:20261003T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261003T104500
+DTEND;TZID=Europe/Moscow:20261003T121500
+DTSTAMP:20260826T115728Z
+UID:20261003T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.6 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T115728Z
+UID:20261003T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  2.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260302T090000
-DTEND;TZID=Europe/Moscow:20260302T103000
-DTSTAMP:20260717T112555Z
-UID:20260302T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261006T090000
+DTEND;TZID=Europe/Moscow:20261006T103000
+DTSTAMP:20260826T115728Z
+UID:20261006T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  2.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260302T104500
-DTEND;TZID=Europe/Moscow:20260302T121500
-DTSTAMP:20260717T112555Z
-UID:20260302T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260826T115728Z
+UID:20261006T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  2.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260302T123000
-DTEND;TZID=Europe/Moscow:20260302T140000
-DTSTAMP:20260717T112555Z
-UID:20260302T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261006T123000
+DTEND;TZID=Europe/Moscow:20261006T140000
+DTSTAMP:20260826T115728Z
+UID:20261006T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
   Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260305T162500
-DTEND;TZID=Europe/Moscow:20260305T175500
-DTSTAMP:20260717T112555Z
-UID:20260305T162500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261007T090000
+DTEND;TZID=Europe/Moscow:20261007T103000
+DTSTAMP:20260826T115728Z
+UID:20261007T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261007T104500
+DTEND;TZID=Europe/Moscow:20261007T121500
+DTSTAMP:20260826T115728Z
+UID:20261007T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261007T123000
+DTEND;TZID=Europe/Moscow:20261007T140000
+DTSTAMP:20260826T115728Z
+UID:20261007T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261008T090000
+DTEND;TZID=Europe/Moscow:20261008T103000
+DTSTAMP:20260826T115728Z
+UID:20261008T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261008T104500
+DTEND;TZID=Europe/Moscow:20261008T121500
+DTSTAMP:20260826T115728Z
+UID:20261008T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261008T123000
+DTEND;TZID=Europe/Moscow:20261008T140000
+DTSTAMP:20260826T115728Z
+UID:20261008T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261010T090000
+DTEND;TZID=Europe/Moscow:20261010T103000
+DTSTAMP:20260826T115728Z
+UID:20261010T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261010T104500
+DTEND;TZID=Europe/Moscow:20261010T121500
+DTSTAMP:20260826T115728Z
+UID:20261010T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.7 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261010T123000
+DTEND;TZID=Europe/Moscow:20261010T140000
+DTSTAMP:20260826T115728Z
+UID:20261010T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261014T090000
+DTEND;TZID=Europe/Moscow:20261014T103000
+DTSTAMP:20260826T115728Z
+UID:20261014T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261014T104500
+DTEND;TZID=Europe/Moscow:20261014T121500
+DTSTAMP:20260826T115728Z
+UID:20261014T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261014T123000
+DTEND;TZID=Europe/Moscow:20261014T140000
+DTSTAMP:20260826T115728Z
+UID:20261014T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261016T090000
+DTEND;TZID=Europe/Moscow:20261016T103000
+DTSTAMP:20260826T115728Z
+UID:20261016T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261016T104500
+DTEND;TZID=Europe/Moscow:20261016T121500
+DTSTAMP:20260826T115728Z
+UID:20261016T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261016T123000
+DTEND;TZID=Europe/Moscow:20261016T140000
+DTSTAMP:20260826T115728Z
+UID:20261016T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261017T090000
+DTEND;TZID=Europe/Moscow:20261017T103000
+DTSTAMP:20260826T115728Z
+UID:20261017T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261017T104500
+DTEND;TZID=Europe/Moscow:20261017T121500
+DTSTAMP:20260826T115728Z
+UID:20261017T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.8 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261017T123000
+DTEND;TZID=Europe/Moscow:20261017T140000
+DTSTAMP:20260826T115728Z
+UID:20261017T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T115728Z
+UID:20261021T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261021T104500
+DTEND;TZID=Europe/Moscow:20261021T121500
+DTSTAMP:20260826T115728Z
+UID:20261021T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261021T123000
+DTEND;TZID=Europe/Moscow:20261021T140000
+DTSTAMP:20260826T115728Z
+UID:20261021T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261024T090000
+DTEND;TZID=Europe/Moscow:20261024T103000
+DTSTAMP:20260826T115728Z
+UID:20261024T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261024T104500
+DTEND;TZID=Europe/Moscow:20261024T121500
+DTSTAMP:20260826T115728Z
+UID:20261024T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261024T123000
+DTEND;TZID=Europe/Moscow:20261024T140000
+DTSTAMP:20260826T115728Z
+UID:20261024T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261027T090000
+DTEND;TZID=Europe/Moscow:20261027T103000
+DTSTAMP:20260826T115728Z
+UID:20261027T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261027T104500
+DTEND;TZID=Europe/Moscow:20261027T121500
+DTSTAMP:20260826T115728Z
+UID:20261027T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261027T123000
+DTEND;TZID=Europe/Moscow:20261027T140000
+DTSTAMP:20260826T115728Z
+UID:20261027T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261031T090000
+DTEND;TZID=Europe/Moscow:20261031T103000
+DTSTAMP:20260826T115728Z
+UID:20261031T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261031T104500
+DTEND;TZID=Europe/Moscow:20261031T121500
+DTSTAMP:20260826T115728Z
+UID:20261031T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261103T090000
+DTEND;TZID=Europe/Moscow:20261103T103000
+DTSTAMP:20260826T115728Z
+UID:20261103T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261103T104500
+DTEND;TZID=Europe/Moscow:20261103T121500
+DTSTAMP:20260826T115728Z
+UID:20261103T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261103T123000
+DTEND;TZID=Europe/Moscow:20261103T140000
+DTSTAMP:20260826T115728Z
+UID:20261103T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261105T104500
+DTEND;TZID=Europe/Moscow:20261105T121500
+DTSTAMP:20260826T115728Z
+UID:20261105T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261105T123000
+DTEND;TZID=Europe/Moscow:20261105T140000
+DTSTAMP:20260826T115728Z
+UID:20261105T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261107T090000
+DTEND;TZID=Europe/Moscow:20261107T103000
+DTSTAMP:20260826T115728Z
+UID:20261107T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261107T104500
+DTEND;TZID=Europe/Moscow:20261107T121500
+DTSTAMP:20260826T115728Z
+UID:20261107T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.10 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261107T123000
+DTEND;TZID=Europe/Moscow:20261107T140000
+DTSTAMP:20260826T115728Z
+UID:20261107T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261112T090000
+DTEND;TZID=Europe/Moscow:20261112T103000
+DTSTAMP:20260826T115728Z
+UID:20261112T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261112T104500
+DTEND;TZID=Europe/Moscow:20261112T121500
+DTSTAMP:20260826T115728Z
+UID:20261112T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261112T123000
+DTEND;TZID=Europe/Moscow:20261112T140000
+DTSTAMP:20260826T115728Z
+UID:20261112T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261113T090000
+DTEND;TZID=Europe/Moscow:20261113T103000
+DTSTAMP:20260826T115728Z
+UID:20261113T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261113T104500
+DTEND;TZID=Europe/Moscow:20261113T121500
+DTSTAMP:20260826T115728Z
+UID:20261113T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261113T123000
+DTEND;TZID=Europe/Moscow:20261113T140000
+DTSTAMP:20260826T115728Z
+UID:20261113T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261114T090000
+DTEND;TZID=Europe/Moscow:20261114T103000
+DTSTAMP:20260826T115728Z
+UID:20261114T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261114T104500
+DTEND;TZID=Europe/Moscow:20261114T121500
+DTSTAMP:20260826T115728Z
+UID:20261114T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.11 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261114T123000
+DTEND;TZID=Europe/Moscow:20261114T140000
+DTSTAMP:20260826T115728Z
+UID:20261114T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261117T090000
+DTEND;TZID=Europe/Moscow:20261117T103000
+DTSTAMP:20260826T115728Z
+UID:20261117T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T115728Z
+UID:20261117T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Аварийно-спасательный инстр
+ умент и оборудование УМ №2 (ВТ)Ф 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261117T123000
+DTEND;TZID=Europe/Moscow:20261117T140000
+DTSTAMP:20260826T115728Z
+UID:20261117T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
+  Аварийно-спасательный инструмент и обо
+ рудование\nАудитория: УМ №2 (ВТ)Ф\nГруппы: 
+ 3243
+LAST-MODIFIED:20260826T115728Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.7 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261126T104500
+DTEND;TZID=Europe/Moscow:20261126T121500
+DTSTAMP:20260826T115728Z
+UID:20261126T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260306T090000
-DTEND;TZID=Europe/Moscow:20260306T103000
-DTSTAMP:20260717T112555Z
-UID:20260306T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260306T104500
-DTEND;TZID=Europe/Moscow:20260306T121500
-DTSTAMP:20260717T112555Z
-UID:20260306T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260306T123000
-DTEND;TZID=Europe/Moscow:20260306T140000
-DTSTAMP:20260717T112555Z
-UID:20260306T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Технология аварийно-спасате
- льных работ 3/206 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260312T104500
-DTEND;TZID=Europe/Moscow:20260312T121500
-DTSTAMP:20260717T112555Z
-UID:20260312T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
   Технология аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Технология аварийно-спасате
- льных работ 3/206 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260312T123000
-DTEND;TZID=Europe/Moscow:20260312T140000
-DTSTAMP:20260717T112555Z
-UID:20260312T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
+SUMMARY:(ЗСТ)  2.7 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261126T123000
+DTEND;TZID=Europe/Moscow:20261126T140000
+DTSTAMP:20260826T115728Z
+UID:20261126T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
   Технология аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
- йно-спасательных работ\, ч 3/206 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260313T090000
-DTEND;TZID=Europe/Moscow:20260313T103000
-DTSTAMP:20260717T112555Z
-UID:20260313T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\, ч\nАудитория: 3/206\nГруппы: 2241
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261128T090000
+DTEND;TZID=Europe/Moscow:20261128T103000
+DTSTAMP:20260826T115728Z
+UID:20261128T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
- йно-спасательных работ\, ч 3/206 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260313T104500
-DTEND;TZID=Europe/Moscow:20260313T121500
-DTSTAMP:20260717T112555Z
-UID:20260313T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\, ч\nАудитория: 3/206\nГруппы: 2241
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261128T104500
+DTEND;TZID=Europe/Moscow:20261128T121500
+DTSTAMP:20260826T115728Z
+UID:20261128T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
- йно-спасательных работ\, ч 3/206 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260313T123000
-DTEND;TZID=Europe/Moscow:20260313T140000
-DTSTAMP:20260717T112555Z
-UID:20260313T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\, ч\nАудитория: 3/206\nГруппы: 2241
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261128T123000
+DTEND;TZID=Europe/Moscow:20261128T140000
+DTSTAMP:20260826T115728Z
+UID:20261128T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260318T090000
-DTEND;TZID=Europe/Moscow:20260318T103000
-DTSTAMP:20260717T112555Z
-UID:20260318T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261203T090000
+DTEND;TZID=Europe/Moscow:20261203T103000
+DTSTAMP:20260826T115728Z
+UID:20261203T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260318T104500
-DTEND;TZID=Europe/Moscow:20260318T121500
-DTSTAMP:20260717T112555Z
-UID:20260318T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261203T104500
+DTEND;TZID=Europe/Moscow:20261203T121500
+DTSTAMP:20260826T115728Z
+UID:20261203T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
- йно-спасательных работ\, ч 3/206 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260321T090000
-DTEND;TZID=Europe/Moscow:20260321T103000
-DTSTAMP:20260717T112555Z
-UID:20260321T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\, ч\nАудитория: 3/206\nГруппы: 2248
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261203T123000
+DTEND;TZID=Europe/Moscow:20261203T140000
+DTSTAMP:20260826T115728Z
+UID:20261203T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
- йно-спасательных работ\, ч 3/206 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260321T104500
-DTEND;TZID=Europe/Moscow:20260321T121500
-DTSTAMP:20260717T112555Z
-UID:20260321T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\, ч\nАудитория: 3/206\nГруппы: 2248
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261205T090000
+DTEND;TZID=Europe/Moscow:20261205T103000
+DTSTAMP:20260826T115728Z
+UID:20261205T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
- йно-спасательных работ\, ч 3/206 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260321T123000
-DTEND;TZID=Europe/Moscow:20260321T140000
-DTSTAMP:20260717T112555Z
-UID:20260321T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\, ч\nАудитория: 3/206\nГруппы: 2248
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261205T104500
+DTEND;TZID=Europe/Moscow:20261205T121500
+DTSTAMP:20260826T115728Z
+UID:20261205T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Технология аварийно-спасате
- льных работ 3/202 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260325T090000
-DTEND;TZID=Europe/Moscow:20260325T103000
-DTSTAMP:20260717T112555Z
-UID:20260325T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.14 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261205T123000
+DTEND;TZID=Europe/Moscow:20261205T140000
+DTSTAMP:20260826T115728Z
+UID:20261205T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Технология аварийно-спасате
- льных работ 3/202 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260325T104500
-DTEND;TZID=Europe/Moscow:20260325T121500
-DTSTAMP:20260717T112555Z
-UID:20260325T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261210T090000
+DTEND;TZID=Europe/Moscow:20261210T103000
+DTSTAMP:20260826T115728Z
+UID:20261210T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260326T104500
-DTEND;TZID=Europe/Moscow:20260326T121500
-DTSTAMP:20260717T112555Z
-UID:20260326T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261210T104500
+DTEND;TZID=Europe/Moscow:20261210T121500
+DTSTAMP:20260826T115728Z
+UID:20261210T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260326T123000
-DTEND;TZID=Europe/Moscow:20260326T140000
-DTSTAMP:20260717T112555Z
-UID:20260326T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
+ ельных работ 3/208 2244 гр.
+DTSTART;TZID=Europe/Moscow:20261210T123000
+DTEND;TZID=Europe/Moscow:20261210T140000
+DTSTAMP:20260826T115728Z
+UID:20261210T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 2244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260328T090000
-DTEND;TZID=Europe/Moscow:20260328T103000
-DTSTAMP:20260717T112555Z
-UID:20260328T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261211T090000
+DTEND;TZID=Europe/Moscow:20261211T103000
+DTSTAMP:20260826T115728Z
+UID:20261211T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260328T104500
-DTEND;TZID=Europe/Moscow:20260328T121500
-DTSTAMP:20260717T112555Z
-UID:20260328T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261211T104500
+DTEND;TZID=Europe/Moscow:20261211T121500
+DTSTAMP:20260826T115728Z
+UID:20261211T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260328T123000
-DTEND;TZID=Europe/Moscow:20260328T140000
-DTSTAMP:20260717T112555Z
-UID:20260328T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261211T123000
+DTEND;TZID=Europe/Moscow:20261211T140000
+DTSTAMP:20260826T115728Z
+UID:20261211T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Безопасность аварийно-спаса
- тельных работ 3/206 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260402T090000
-DTEND;TZID=Europe/Moscow:20260402T103000
-DTSTAMP:20260717T112555Z
-UID:20260402T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/206\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261212T090000
+DTEND;TZID=Europe/Moscow:20261212T103000
+DTSTAMP:20260826T115728Z
+UID:20261212T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Безопасность аварийно-спаса
- тельных работ 3/206 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260402T104500
-DTEND;TZID=Europe/Moscow:20260402T121500
-DTSTAMP:20260717T112555Z
-UID:20260402T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/206\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261212T104500
+DTEND;TZID=Europe/Moscow:20261212T121500
+DTSTAMP:20260826T115728Z
+UID:20261212T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Безопасность аварийно-спаса
- тельных работ 3/208 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260402T162500
-DTEND;TZID=Europe/Moscow:20260402T175500
-DTSTAMP:20260717T112555Z
-UID:20260402T162500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/208\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.15 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261212T123000
+DTEND;TZID=Europe/Moscow:20261212T140000
+DTSTAMP:20260826T115728Z
+UID:20261212T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
- умент и оборудование УМ №5 (РТС)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260403T090000
-DTEND;TZID=Europe/Moscow:20260403T103000
-DTSTAMP:20260717T112555Z
-UID:20260403T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №5 (РТС)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
- умент и оборудование УМ №5 (РТС)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260403T104500
-DTEND;TZID=Europe/Moscow:20260403T121500
-DTSTAMP:20260717T112555Z
-UID:20260403T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №5 (РТС)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Аварийно-спасательный инстр
- умент и оборудование УМ №5 (РТС)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260403T123000
-DTEND;TZID=Europe/Moscow:20260403T140000
-DTSTAMP:20260717T112555Z
-UID:20260403T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №5 (РТС)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Безопасность аварийно-спасат
- ельных работ 3/207 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260406T090000
-DTEND;TZID=Europe/Moscow:20260406T103000
-DTSTAMP:20260717T112555Z
-UID:20260406T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+SUMMARY:(ЗчО.)   Технология аварийно-спасател
+ ьных работ 3/206 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261215T104500
+DTEND;TZID=Europe/Moscow:20261215T121500
+DTSTAMP:20260826T115728Z
+UID:20261215T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Безопасность аварийно-спасательных раб
- от\nАудитория: 3/207\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+ Технология аварийно-спасательных работ\
+ nАудитория: 3/206\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Безопасность аварийно-спасат
- ельных работ 3/207 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260406T104500
-DTEND;TZID=Europe/Moscow:20260406T121500
-DTSTAMP:20260717T112555Z
-UID:20260406T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
+SUMMARY:(ЗчО.)   Технология аварийно-спасател
+ ьных работ 3/206 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261215T123000
+DTEND;TZID=Europe/Moscow:20261215T140000
+DTSTAMP:20260826T115728Z
+UID:20261215T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
 DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Безопасность аварийно-спасательных раб
- от\nАудитория: 3/207\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
+ Технология аварийно-спасательных работ\
+ nАудитория: 3/206\nГруппы: 2258
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Безопасность аварийно-спасат
- ельных работ 3/207 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260406T123000
-DTEND;TZID=Europe/Moscow:20260406T140000
-DTSTAMP:20260717T112555Z
-UID:20260406T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Безопасность аварийно-спасательных раб
- от\nАудитория: 3/207\nГруппы: 6224
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260408T090000
-DTEND;TZID=Europe/Moscow:20260408T103000
-DTSTAMP:20260717T112555Z
-UID:20260408T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260408T104500
-DTEND;TZID=Europe/Moscow:20260408T121500
-DTSTAMP:20260717T112555Z
-UID:20260408T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Технология аварийно-спасате
- льных работ 3/206 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260410T104500
-DTEND;TZID=Europe/Moscow:20260410T121500
-DTSTAMP:20260717T112555Z
-UID:20260410T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Технология аварийно-спасате
- льных работ 3/206 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260410T123000
-DTEND;TZID=Europe/Moscow:20260410T140000
-DTSTAMP:20260717T112555Z
-UID:20260410T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Технология аварийно-спасате
- льных работ 3/206 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260411T090000
-DTEND;TZID=Europe/Moscow:20260411T103000
-DTSTAMP:20260717T112555Z
-UID:20260411T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Технология аварийно-спасате
- льных работ 3/206 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260411T104500
-DTEND;TZID=Europe/Moscow:20260411T121500
-DTSTAMP:20260717T112555Z
-UID:20260411T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/207 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260429T090000
-DTEND;TZID=Europe/Moscow:20260429T103000
-DTSTAMP:20260717T112555Z
-UID:20260429T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/207 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260429T104500
-DTEND;TZID=Europe/Moscow:20260429T121500
-DTSTAMP:20260717T112555Z
-UID:20260429T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/207 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260429T123000
-DTEND;TZID=Europe/Moscow:20260429T140000
-DTSTAMP:20260717T112555Z
-UID:20260429T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/207 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260430T090000
-DTEND;TZID=Europe/Moscow:20260430T103000
-DTSTAMP:20260717T112555Z
-UID:20260430T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/207 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260430T104500
-DTEND;TZID=Europe/Moscow:20260430T121500
-DTSTAMP:20260717T112555Z
-UID:20260430T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/207 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260430T123000
-DTEND;TZID=Europe/Moscow:20260430T140000
-DTSTAMP:20260717T112555Z
-UID:20260430T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260507T090000
-DTEND;TZID=Europe/Moscow:20260507T103000
-DTSTAMP:20260717T112555Z
-UID:20260507T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260507T104500
-DTEND;TZID=Europe/Moscow:20260507T121500
-DTSTAMP:20260717T112555Z
-UID:20260507T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Технология аварийно-спасате
- льных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260507T123000
-DTEND;TZID=Europe/Moscow:20260507T140000
-DTSTAMP:20260717T112555Z
-UID:20260507T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260522T090000
-DTEND;TZID=Europe/Moscow:20260522T103000
-DTSTAMP:20260717T112555Z
-UID:20260522T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260522T104500
-DTEND;TZID=Europe/Moscow:20260522T121500
-DTSTAMP:20260717T112555Z
-UID:20260522T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260522T123000
-DTEND;TZID=Europe/Moscow:20260522T140000
-DTSTAMP:20260717T112555Z
-UID:20260522T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260526T090000
-DTEND;TZID=Europe/Moscow:20260526T103000
-DTSTAMP:20260717T112555Z
-UID:20260526T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260526T104500
-DTEND;TZID=Europe/Moscow:20260526T121500
-DTSTAMP:20260717T112555Z
-UID:20260526T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР) 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260526T123000
-DTEND;TZID=Europe/Moscow:20260526T140000
-DTSTAMP:20260717T112555Z
-UID:20260526T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)\nГруппы: 
- 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
- ельных работ 3/206 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260527T090000
-DTEND;TZID=Europe/Moscow:20260527T103000
-DTSTAMP:20260717T112555Z
-UID:20260527T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
- : Технологии аварийно-спасательных рабо
- т\nАудитория: 3/206\nГруппы: 6244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
- ельных работ 3/206 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260527T104500
-DTEND;TZID=Europe/Moscow:20260527T121500
-DTSTAMP:20260717T112555Z
-UID:20260527T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
- : Технологии аварийно-спасательных рабо
- т\nАудитория: 3/206\nГруппы: 6244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
- ельных работ 3/206 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260527T123000
-DTEND;TZID=Europe/Moscow:20260527T140000
-DTSTAMP:20260717T112555Z
-UID:20260527T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
- : Технологии аварийно-спасательных рабо
- т\nАудитория: 3/206\nГруппы: 6244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
  ельных работ 3/208 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260529T090000
-DTEND;TZID=Europe/Moscow:20260529T103000
-DTSTAMP:20260717T112555Z
-UID:20260529T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
+DTSTART;TZID=Europe/Moscow:20261218T090000
+DTEND;TZID=Europe/Moscow:20261218T103000
+DTSTAMP:20260826T115728Z
+UID:20261218T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
  : Технологии аварийно-спасательных рабо
  т\nАудитория: 3/208\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
  ельных работ 3/208 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260529T104500
-DTEND;TZID=Europe/Moscow:20260529T121500
-DTSTAMP:20260717T112555Z
-UID:20260529T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
+DTSTART;TZID=Europe/Moscow:20261218T104500
+DTEND;TZID=Europe/Moscow:20261218T121500
+DTSTAMP:20260826T115728Z
+UID:20261218T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
  : Технологии аварийно-спасательных рабо
  т\nАудитория: 3/208\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
  ельных работ 3/208 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260529T123000
-DTEND;TZID=Europe/Moscow:20260529T140000
-DTSTAMP:20260717T112555Z
-UID:20260529T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
+DTSTART;TZID=Europe/Moscow:20261218T123000
+DTEND;TZID=Europe/Moscow:20261218T140000
+DTSTAMP:20260826T115728Z
+UID:20261218T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
  : Технологии аварийно-спасательных рабо
  т\nАудитория: 3/208\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технология аварийно-спасате
- льных работ 3/202 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260609T090000
-DTEND;TZID=Europe/Moscow:20260609T103000
-DTSTAMP:20260717T112555Z
-UID:20260609T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технология аварийно-спасате
- льных работ 3/202 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260609T104500
-DTEND;TZID=Europe/Moscow:20260609T121500
-DTSTAMP:20260717T112555Z
-UID:20260609T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технология аварийно-спасате
- льных работ 3/202 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260609T123000
-DTEND;TZID=Europe/Moscow:20260609T140000
-DTSTAMP:20260717T112555Z
-UID:20260609T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260615T090000
-DTEND;TZID=Europe/Moscow:20260615T103000
-DTSTAMP:20260717T112555Z
-UID:20260615T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260615T104500
-DTEND;TZID=Europe/Moscow:20260615T121500
-DTSTAMP:20260717T112555Z
-UID:20260615T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260615T123000
-DTEND;TZID=Europe/Moscow:20260615T140000
-DTSTAMP:20260717T112555Z
-UID:20260615T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)   Технологии аварийно-спасател
- ьных работ 3/209 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260618T090000
-DTEND;TZID=Europe/Moscow:20260618T103000
-DTSTAMP:20260717T112555Z
-UID:20260618T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: зач.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/209\nГруппы: 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)   Технологии аварийно-спасател
- ьных работ 4/218 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260618T104500
-DTEND;TZID=Europe/Moscow:20260618T121500
-DTSTAMP:20260717T112555Z
-UID:20260618T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: зач.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 4/218\nГруппы: 2244
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.15 Технологии аварийно-спасат
- ельных работ 3/208 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260619T104500
-DTEND;TZID=Europe/Moscow:20260619T121500
-DTSTAMP:20260717T112555Z
-UID:20260619T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.15\nПредмет
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261219T090000
+DTEND;TZID=Europe/Moscow:20261219T103000
+DTSTAMP:20260826T115728Z
+UID:20261219T090000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
  : Технологии аварийно-спасательных рабо
- т\nАудитория: 3/208\nГруппы: 6243
-LAST-MODIFIED:20260717T112555Z
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технология аварийно-спасате
- льных работ 3/202 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T090000
-DTEND;TZID=Europe/Moscow:20260620T103000
-DTSTAMP:20260717T112555Z
-UID:20260620T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261219T104500
+DTEND;TZID=Europe/Moscow:20261219T121500
+DTSTAMP:20260826T115728Z
+UID:20261219T104500@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технология аварийно-спасате
- льных работ 3/202 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T104500
-DTEND;TZID=Europe/Moscow:20260620T121500
-DTSTAMP:20260717T112555Z
-UID:20260620T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технология аварийно-спасате
- льных работ 3/202 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T123000
-DTEND;TZID=Europe/Moscow:20260620T140000
-DTSTAMP:20260717T112555Z
-UID:20260620T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/202\nГруппы: 2251
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260622T090000
-DTEND;TZID=Europe/Moscow:20260622T103000
-DTSTAMP:20260717T112555Z
-UID:20260622T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260622T104500
-DTEND;TZID=Europe/Moscow:20260622T121500
-DTSTAMP:20260717T112555Z
-UID:20260622T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Аварийно-спасательный инстр
- умент и оборудование УМ №3 (АСР)Ф 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260622T123000
-DTEND;TZID=Europe/Moscow:20260622T140000
-DTSTAMP:20260717T112555Z
-UID:20260622T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Аварийно-спасательный инструмент и обо
- рудование\nАудитория: УМ №3 (АСР)Ф\nГруппы
- : 6243
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.6 Технология аварийно-спасате
- льных работ 3/207 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260623T090000
-DTEND;TZID=Europe/Moscow:20260623T103000
-DTSTAMP:20260717T112555Z
-UID:20260623T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.6 Технология аварийно-спасате
- льных работ 3/207 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260623T104500
-DTEND;TZID=Europe/Moscow:20260623T121500
-DTSTAMP:20260717T112555Z
-UID:20260623T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.6 Технология аварийно-спасате
- льных работ 3/207 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260623T123000
-DTEND;TZID=Europe/Moscow:20260623T140000
-DTSTAMP:20260717T112555Z
-UID:20260623T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/207\nГруппы: 2258
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.6 Технология аварийно-спасате
- льных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260708T090000
-DTEND;TZID=Europe/Moscow:20260708T103000
-DTSTAMP:20260717T112555Z
-UID:20260708T090000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.6 Технология аварийно-спасате
- льных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260708T104500
-DTEND;TZID=Europe/Moscow:20260708T121500
-DTSTAMP:20260717T112555Z
-UID:20260708T104500@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260717T112555Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.6 Технология аварийно-спасате
- льных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260708T123000
-DTEND;TZID=Europe/Moscow:20260708T140000
-DTSTAMP:20260717T112555Z
-UID:20260708T123000@20260717T142555@Тхакохов А.А.
-CREATED:20260717T112555Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
-  Технология аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260717T112555Z
+SUMMARY:(ЗСТ)  4.16 Технологии аварийно-спасат
+ ельных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261219T123000
+DTEND;TZID=Europe/Moscow:20261219T140000
+DTSTAMP:20260826T115728Z
+UID:20261219T123000@20260826T145728@Тхакохов А.А.
+CREATED:20260826T115728Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.16\nПредмет
+ : Технологии аварийно-спасательных рабо
+ т\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115728Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
