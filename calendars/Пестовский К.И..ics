@@ -19,271 +19,255 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Диагностирование и техничес
- кое обслуживание РТС 3/502 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260228T104500
-DTEND;TZID=Europe/Moscow:20260228T121500
-DTSTAMP:20260717T112852Z
-UID:20260228T104500@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.2 Расчет и конструирование РТ
+ С 2/311 2238 гр.
+DTSTART;TZID=Europe/Moscow:20260905T090000
+DTEND;TZID=Europe/Moscow:20260905T103000
+DTSTAMP:20260826T115607Z
+UID:20260905T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/502\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+  Расчет и конструирование РТС\nАудитория
+ : 2/311\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Диагностирование и техничес
- кое обслуживание РТС 3/202 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260321T090000
-DTEND;TZID=Europe/Moscow:20260321T103000
-DTSTAMP:20260717T112852Z
-UID:20260321T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/202\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.2 Расчет и конструирование РТ
+ С 2/311 2238 гр.
+DTSTART;TZID=Europe/Moscow:20260905T104500
+DTEND;TZID=Europe/Moscow:20260905T121500
+DTSTAMP:20260826T115607Z
+UID:20260905T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/311\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Диагностирование и техничес
- кое обслуживание РТС 3/202 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260321T104500
-DTEND;TZID=Europe/Moscow:20260321T121500
-DTSTAMP:20260717T112852Z
-UID:20260321T104500@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/202\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.4 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20260919T090000
+DTEND;TZID=Europe/Moscow:20260919T103000
+DTSTAMP:20260826T115607Z
+UID:20260919T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Диагностирование и техничес
- кое обслуживание РТС 3/202 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260321T123000
-DTEND;TZID=Europe/Moscow:20260321T140000
-DTSTAMP:20260717T112852Z
-UID:20260321T123000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/202\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.4 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20260919T104500
+DTEND;TZID=Europe/Moscow:20260919T121500
+DTSTAMP:20260826T115607Z
+UID:20260919T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.8 Технология применения РТС и 
- их техническое обеспечение в ЧС 3/607 2238 гр
- .
-DTSTART;TZID=Europe/Moscow:20260404T123000
-DTEND;TZID=Europe/Moscow:20260404T140000
-DTSTAMP:20260717T112852Z
-UID:20260404T123000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.6 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261003T104500
+DTEND;TZID=Europe/Moscow:20261003T121500
+DTSTAMP:20260826T115607Z
+UID:20261003T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.6 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T115607Z
+UID:20261003T123000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261017T090000
+DTEND;TZID=Europe/Moscow:20261017T103000
+DTSTAMP:20260826T115607Z
+UID:20261017T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261017T104500
+DTEND;TZID=Europe/Moscow:20261017T121500
+DTSTAMP:20260826T115607Z
+UID:20261017T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261017T123000
+DTEND;TZID=Europe/Moscow:20261017T140000
+DTSTAMP:20260826T115607Z
+UID:20261017T123000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.8 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261024T090000
+DTEND;TZID=Europe/Moscow:20261024T103000
+DTSTAMP:20260826T115607Z
+UID:20261024T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
-  Технология применения РТС и их техничес
- кое обеспечение в ЧС\nАудитория: 3/607\nГруп
- пы: 2238
-LAST-MODIFIED:20260717T112852Z
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Диагностирование и техническ
- ое обслуживание РТС 3/202 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260411T090000
-DTEND;TZID=Europe/Moscow:20260411T103000
-DTSTAMP:20260717T112852Z
-UID:20260411T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Д
- иагностирование и техническое обслужив
- ание РТС\nАудитория: 3/202\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.8 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261024T104500
+DTEND;TZID=Europe/Moscow:20261024T121500
+DTSTAMP:20260826T115607Z
+UID:20261024T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
+  Расчет и конструирование РТС\nАудитория
+ : 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Диагностирование и техничес
- кое обслуживание РТС 3/202 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260411T123000
-DTEND;TZID=Europe/Moscow:20260411T140000
-DTSTAMP:20260717T112852Z
-UID:20260411T123000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/202\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.10 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261031T090000
+DTEND;TZID=Europe/Moscow:20261031T103000
+DTSTAMP:20260826T115607Z
+UID:20261031T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.10\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Диагностирование и техничес
- кое обслуживание РТС 3/209 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260516T090000
-DTEND;TZID=Europe/Moscow:20260516T103000
-DTSTAMP:20260717T112852Z
-UID:20260516T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/209\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.10 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261031T104500
+DTEND;TZID=Europe/Moscow:20261031T121500
+DTSTAMP:20260826T115607Z
+UID:20261031T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.10\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Диагностирование и техничес
- кое обслуживание РТС 3/209 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260516T104500
-DTEND;TZID=Europe/Moscow:20260516T121500
-DTSTAMP:20260717T112852Z
-UID:20260516T104500@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/209\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.11 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261114T090000
+DTEND;TZID=Europe/Moscow:20261114T103000
+DTSTAMP:20260826T115607Z
+UID:20261114T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.11\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Диагностирование и техничес
- кое обслуживание РТС 3/209 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260516T123000
-DTEND;TZID=Europe/Moscow:20260516T140000
-DTSTAMP:20260717T112852Z
-UID:20260516T123000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/209\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.11 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261114T104500
+DTEND;TZID=Europe/Moscow:20261114T121500
+DTSTAMP:20260826T115607Z
+UID:20261114T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.11\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Диагностирование и техничес
- кое обслуживание РТС 3/204 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260523T090000
-DTEND;TZID=Europe/Moscow:20260523T103000
-DTSTAMP:20260717T112852Z
-UID:20260523T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/204\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.11 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261114T123000
+DTEND;TZID=Europe/Moscow:20261114T140000
+DTSTAMP:20260826T115607Z
+UID:20261114T123000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.11\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Диагностирование и техничес
- кое обслуживание РТС 3/201 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260606T090000
-DTEND;TZID=Europe/Moscow:20260606T103000
-DTSTAMP:20260717T112852Z
-UID:20260606T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/201\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.12 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261121T090000
+DTEND;TZID=Europe/Moscow:20261121T103000
+DTSTAMP:20260826T115607Z
+UID:20261121T090000@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.12\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Диагностирование и техничес
- кое обслуживание РТС 3/201 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260606T104500
-DTEND;TZID=Europe/Moscow:20260606T121500
-DTSTAMP:20260717T112852Z
-UID:20260606T104500@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Диагностирование и техническое обслужи
- вание РТС\nАудитория: 3/201\nГруппы: 2238
-LAST-MODIFIED:20260717T112852Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.9 Спасательные робототехниче
- ские системы и технологии 2/307 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260704T090000
-DTEND;TZID=Europe/Moscow:20260704T103000
-DTSTAMP:20260717T112852Z
-UID:20260704T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
-  Спасательные робототехнические систем
- ы и технологии\nАудитория: 2/307\nГруппы: 2236
-LAST-MODIFIED:20260717T112852Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.9 Спасательные робототехниче
- ские системы и технологии 2/307 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260704T104500
-DTEND;TZID=Europe/Moscow:20260704T121500
-DTSTAMP:20260717T112852Z
-UID:20260704T104500@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
-  Спасательные робототехнические систем
- ы и технологии\nАудитория: 2/307\nГруппы: 2236
-LAST-MODIFIED:20260717T112852Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.9 Спасательные робототехниче
- ские системы и технологии 2/307 2234 гр.
-DTSTART;TZID=Europe/Moscow:20260704T123000
-DTEND;TZID=Europe/Moscow:20260704T140000
-DTSTAMP:20260717T112852Z
-UID:20260704T123000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
-  Спасательные робототехнические систем
- ы и технологии\nАудитория: 2/307\nГруппы: 2234
-LAST-MODIFIED:20260717T112852Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.10 Спасательные робототехниче
- ские системы и технологии 3/501 2234 гр.
-DTSTART;TZID=Europe/Moscow:20260725T090000
-DTEND;TZID=Europe/Moscow:20260725T103000
-DTSTAMP:20260717T112852Z
-UID:20260725T090000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.10\nПредмет
- : Спасательные робототехнические систем
- ы и технологии\nАудитория: 3/501\nГруппы: 2234
-LAST-MODIFIED:20260717T112852Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.10 Спасательные робототехниче
- ские системы и технологии 3/501 2234 гр.
-DTSTART;TZID=Europe/Moscow:20260725T104500
-DTEND;TZID=Europe/Moscow:20260725T121500
-DTSTAMP:20260717T112852Z
-UID:20260725T104500@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.10\nПредмет
- : Спасательные робототехнические систем
- ы и технологии\nАудитория: 3/501\nГруппы: 2234
-LAST-MODIFIED:20260717T112852Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.11 Спасательные робототехниче
- ские системы и технологии 3/501 2234 гр.
-DTSTART;TZID=Europe/Moscow:20260725T123000
-DTEND;TZID=Europe/Moscow:20260725T140000
-DTSTAMP:20260717T112852Z
-UID:20260725T123000@20260717T142852@Пестовский К.И.
-CREATED:20260717T112852Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.11\nПредмет
- : Спасательные робототехнические систем
- ы и технологии\nАудитория: 3/501\nГруппы: 2234
-LAST-MODIFIED:20260717T112852Z
+SUMMARY:(ЗСТ)  1.12 Расчет и конструирование РТ
+ С 2/307 2238 гр.
+DTSTART;TZID=Europe/Moscow:20261121T104500
+DTEND;TZID=Europe/Moscow:20261121T121500
+DTSTAMP:20260826T115607Z
+UID:20261121T104500@20260826T145607@Пестовский К.И.
+CREATED:20260826T115607Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.12\nПредмет
+ : Расчет и конструирование РТС\nАудитори
+ я: 2/307\nГруппы: 2238
+LAST-MODIFIED:20260826T115607Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
