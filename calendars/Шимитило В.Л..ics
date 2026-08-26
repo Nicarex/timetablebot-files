@@ -19,3024 +19,2462 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Теория вероятностей и математ
- ическая статистика 3/202 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260112T104500
-DTEND;TZID=Europe/Moscow:20260112T121500
-DTSTAMP:20260717T112457Z
-UID:20260112T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 3/202\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  1.1 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20260901T104500
+DTEND;TZID=Europe/Moscow:20260901T121500
+DTSTAMP:20260826T114836Z
+UID:20260901T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Теория вероятностей и математ
- ическая статистика 2/307 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260112T123000
-DTEND;TZID=Europe/Moscow:20260112T140000
-DTSTAMP:20260717T112457Z
-UID:20260112T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/307\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  1.1 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20260902T123000
+DTEND;TZID=Europe/Moscow:20260902T140000
+DTSTAMP:20260826T114836Z
+UID:20260902T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Высшая математика 2/114 3254 гр.
-DTSTART;TZID=Europe/Moscow:20260113T090000
-DTEND;TZID=Europe/Moscow:20260113T103000
-DTSTAMP:20260717T112457Z
-UID:20260113T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/114\nГруппы
- : 3254
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Высшая математика 2/114 3254 гр.
-DTSTART;TZID=Europe/Moscow:20260113T104500
-DTEND;TZID=Europe/Moscow:20260113T121500
-DTSTAMP:20260717T112457Z
-UID:20260113T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/114\nГруппы
- : 3254
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Высшая математика 2/114 3254 гр.
-DTSTART;TZID=Europe/Moscow:20260113T123000
-DTEND;TZID=Europe/Moscow:20260113T140000
-DTSTAMP:20260717T112457Z
-UID:20260113T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/114\nГруппы
- : 3254
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Теория вероятностей и матем
- атическая статистика 3/201 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260114T104500
-DTEND;TZID=Europe/Moscow:20260114T121500
-DTSTAMP:20260717T112457Z
-UID:20260114T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.2 Высшая математика 3/201 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260903T104500
+DTEND;TZID=Europe/Moscow:20260903T121500
+DTSTAMP:20260826T114836Z
+UID:20260903T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/201\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260114T123000
-DTEND;TZID=Europe/Moscow:20260114T140000
-DTSTAMP:20260717T112457Z
-UID:20260114T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
+SUMMARY:(л.)  1.3 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20260904T104500
+DTEND;TZID=Europe/Moscow:20260904T121500
+DTSTAMP:20260826T114836Z
+UID:20260904T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.2 Высшая математика 3/201 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260904T123000
+DTEND;TZID=Europe/Moscow:20260904T140000
+DTSTAMP:20260826T114836Z
+UID:20260904T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260114T162500
-DTEND;TZID=Europe/Moscow:20260114T175500
-DTSTAMP:20260717T112457Z
-UID:20260114T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  1.3 Высшая математика 3/602 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20260905T090000
+DTEND;TZID=Europe/Moscow:20260905T103000
+DTSTAMP:20260826T114836Z
+UID:20260905T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: В
+ ысшая математика\nАудитория: 3/602\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Теория вероятностей и матем
- атическая статистика 3/203 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260115T090000
-DTEND;TZID=Europe/Moscow:20260115T103000
-DTSTAMP:20260717T112457Z
-UID:20260115T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/203\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Теория вероятностей и матем
- атическая статистика 3/203 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260115T104500
-DTEND;TZID=Europe/Moscow:20260115T121500
-DTSTAMP:20260717T112457Z
-UID:20260115T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/203\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Теория вероятностей и матем
- атическая статистика 3/202 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260115T123000
-DTEND;TZID=Europe/Moscow:20260115T140000
-DTSTAMP:20260717T112457Z
-UID:20260115T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/202\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260115T162500
-DTEND;TZID=Europe/Moscow:20260115T175500
-DTSTAMP:20260717T112457Z
-UID:20260115T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Теория вероятностей и матем
- атическая статистика 3/203 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260116T090000
-DTEND;TZID=Europe/Moscow:20260116T103000
-DTSTAMP:20260717T112457Z
-UID:20260116T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/203\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Теория вероятностей и матем
- атическая статистика 3/209 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260116T104500
-DTEND;TZID=Europe/Moscow:20260116T121500
-DTSTAMP:20260717T112457Z
-UID:20260116T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/209\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Теория вероятностей и матем
- атическая статистика 3/209 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260116T123000
-DTEND;TZID=Europe/Moscow:20260116T140000
-DTSTAMP:20260717T112457Z
-UID:20260116T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/209\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Высшая математика 2/111 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260117T090000
-DTEND;TZID=Europe/Moscow:20260117T103000
-DTSTAMP:20260717T112457Z
-UID:20260117T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 3253
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Высшая математика 2/111 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260117T104500
-DTEND;TZID=Europe/Moscow:20260117T121500
-DTSTAMP:20260717T112457Z
-UID:20260117T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 3253
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Высшая математика 2/111 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260117T123000
-DTEND;TZID=Europe/Moscow:20260117T140000
-DTSTAMP:20260717T112457Z
-UID:20260117T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 3253
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260119T090000
-DTEND;TZID=Europe/Moscow:20260119T103000
-DTSTAMP:20260717T112457Z
-UID:20260119T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260119T104500
-DTEND;TZID=Europe/Moscow:20260119T121500
-DTSTAMP:20260717T112457Z
-UID:20260119T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Теория вероятностей и математ
- ическая статистика 2/307 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260119T123000
-DTEND;TZID=Europe/Moscow:20260119T140000
-DTSTAMP:20260717T112457Z
-UID:20260119T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/307\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260120T090000
-DTEND;TZID=Europe/Moscow:20260120T103000
-DTSTAMP:20260717T112457Z
-UID:20260120T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260120T162500
-DTEND;TZID=Europe/Moscow:20260120T175500
-DTSTAMP:20260717T112457Z
-UID:20260120T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260124T090000
-DTEND;TZID=Europe/Moscow:20260124T103000
-DTSTAMP:20260717T112457Z
-UID:20260124T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260124T104500
-DTEND;TZID=Europe/Moscow:20260124T121500
-DTSTAMP:20260717T112457Z
-UID:20260124T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Теория вероятностей и математ
- ическая статистика 2/307 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260126T090000
-DTEND;TZID=Europe/Moscow:20260126T103000
-DTSTAMP:20260717T112457Z
-UID:20260126T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/307\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260126T104500
-DTEND;TZID=Europe/Moscow:20260126T121500
-DTSTAMP:20260717T112457Z
-UID:20260126T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260126T123000
-DTEND;TZID=Europe/Moscow:20260126T140000
-DTSTAMP:20260717T112457Z
-UID:20260126T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260127T090000
-DTEND;TZID=Europe/Moscow:20260127T103000
-DTSTAMP:20260717T112457Z
-UID:20260127T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260127T104500
-DTEND;TZID=Europe/Moscow:20260127T121500
-DTSTAMP:20260717T112457Z
-UID:20260127T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260129T162500
-DTEND;TZID=Europe/Moscow:20260129T175500
-DTSTAMP:20260717T112457Z
-UID:20260129T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Теория вероятностей и матем
- атическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260130T090000
-DTEND;TZID=Europe/Moscow:20260130T103000
-DTSTAMP:20260717T112457Z
-UID:20260130T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260131T090000
-DTEND;TZID=Europe/Moscow:20260131T103000
-DTSTAMP:20260717T112457Z
-UID:20260131T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Теория вероятностей и матем
- атическая статистика 2/114 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260131T123000
-DTEND;TZID=Europe/Moscow:20260131T140000
-DTSTAMP:20260717T112457Z
-UID:20260131T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260202T104500
-DTEND;TZID=Europe/Moscow:20260202T121500
-DTSTAMP:20260717T112457Z
-UID:20260202T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Теория вероятностей и матем
- атическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260202T123000
-DTEND;TZID=Europe/Moscow:20260202T140000
-DTSTAMP:20260717T112457Z
-UID:20260202T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260204T090000
-DTEND;TZID=Europe/Moscow:20260204T103000
-DTSTAMP:20260717T112457Z
-UID:20260204T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260204T104500
-DTEND;TZID=Europe/Moscow:20260204T121500
-DTSTAMP:20260717T112457Z
-UID:20260204T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260205T162500
-DTEND;TZID=Europe/Moscow:20260205T175500
-DTSTAMP:20260717T112457Z
-UID:20260205T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Теория вероятностей и матем
- атическая статистика 2/114 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260206T123000
-DTEND;TZID=Europe/Moscow:20260206T140000
-DTSTAMP:20260717T112457Z
-UID:20260206T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260207T090000
-DTEND;TZID=Europe/Moscow:20260207T103000
-DTSTAMP:20260717T112457Z
-UID:20260207T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260207T104500
-DTEND;TZID=Europe/Moscow:20260207T121500
-DTSTAMP:20260717T112457Z
-UID:20260207T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Теория вероятностей и матем
- атическая статистика 2/114 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260207T123000
-DTEND;TZID=Europe/Moscow:20260207T140000
-DTSTAMP:20260717T112457Z
-UID:20260207T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.5 Математические методы модели
- рования и  системный анализ 2/111 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260209T090000
-DTEND;TZID=Europe/Moscow:20260209T103000
-DTSTAMP:20260717T112457Z
-UID:20260209T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: М
- атематические методы моделирования и  с
- истемный анализ\nАудитория: 2/111\nГруппы: 62
- 51
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация вооружения\, во
- енной и специальной техники 2/114 2222 гр.
-DTSTART;TZID=Europe/Moscow:20260210T090000
-DTEND;TZID=Europe/Moscow:20260210T103000
-DTSTAMP:20260717T112457Z
-UID:20260210T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/114\nГруппы: 
- 2222
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация вооружения\, во
- енной и специальной техники 2/114 2222 гр.
-DTSTART;TZID=Europe/Moscow:20260210T104500
-DTEND;TZID=Europe/Moscow:20260210T121500
-DTSTAMP:20260717T112457Z
-UID:20260210T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/114\nГруппы: 
- 2222
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация вооружения\, во
- енной и специальной техники 2/114 2222 гр.
-DTSTART;TZID=Europe/Moscow:20260210T123000
-DTEND;TZID=Europe/Moscow:20260210T140000
-DTSTAMP:20260717T112457Z
-UID:20260210T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/114\nГруппы: 
- 2222
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260210T162500
-DTEND;TZID=Europe/Moscow:20260210T175500
-DTSTAMP:20260717T112457Z
-UID:20260210T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Теория вероятностей и математ
- ическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260717T112457Z
-UID:20260211T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260211T104500
-DTEND;TZID=Europe/Moscow:20260211T121500
-DTSTAMP:20260717T112457Z
-UID:20260211T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260212T104500
-DTEND;TZID=Europe/Moscow:20260212T121500
-DTSTAMP:20260717T112457Z
-UID:20260212T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Теория вероятностей и математ
- ическая статистика 2/311 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260212T123000
-DTEND;TZID=Europe/Moscow:20260212T140000
-DTSTAMP:20260717T112457Z
-UID:20260212T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/311\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Теория вероятностей и матем
- атическая статистика 3/501 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260212T162500
-DTEND;TZID=Europe/Moscow:20260212T175500
-DTSTAMP:20260717T112457Z
-UID:20260212T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/501\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация вооружения\, во
- енной и специальной техники 2/114 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260213T090000
-DTEND;TZID=Europe/Moscow:20260213T103000
-DTSTAMP:20260717T112457Z
-UID:20260213T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/114\nГруппы: 
- 2224
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация вооружения\, во
- енной и специальной техники 2/114 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260213T104500
-DTEND;TZID=Europe/Moscow:20260213T121500
-DTSTAMP:20260717T112457Z
-UID:20260213T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/114\nГруппы: 
- 2224
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация вооружения\, во
- енной и специальной техники 2/114 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260213T123000
-DTEND;TZID=Europe/Moscow:20260213T140000
-DTSTAMP:20260717T112457Z
-UID:20260213T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/114\nГруппы: 
- 2224
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Эксплуатация вооружения\, во
- енной и специальной техники 2/111 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260216T090000
-DTEND;TZID=Europe/Moscow:20260216T103000
-DTSTAMP:20260717T112457Z
-UID:20260216T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.4 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260905T104500
+DTEND;TZID=Europe/Moscow:20260905T121500
+DTSTAMP:20260826T114836Z
+UID:20260905T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/111\nГруппы: 
- 6223
-LAST-MODIFIED:20260717T112457Z
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.5 Математические методы модели
- рования и  системный анализ 2/111 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260216T104500
-DTEND;TZID=Europe/Moscow:20260216T121500
-DTSTAMP:20260717T112457Z
-UID:20260216T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: М
- атематические методы моделирования и  с
- истемный анализ\nАудитория: 2/111\nГруппы: 12
- 51
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР\,К Теория вероятностей и мат
- ематическая статистика 3/501 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260216T123000
-DTEND;TZID=Europe/Moscow:20260216T140000
-DTSTAMP:20260717T112457Z
-UID:20260216T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР\,К\nПредм
- ет: Теория вероятностей и математическа
- я статистика\nАудитория: 3/501\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Теория вероятностей и матем
- атическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260216T162500
-DTEND;TZID=Europe/Moscow:20260216T175500
-DTSTAMP:20260717T112457Z
-UID:20260216T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Эксплуатация вооружения\, во
- енной и специальной техники 2/111 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260217T090000
-DTEND;TZID=Europe/Moscow:20260217T103000
-DTSTAMP:20260717T112457Z
-UID:20260217T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.4 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260905T123000
+DTEND;TZID=Europe/Moscow:20260905T140000
+DTSTAMP:20260826T114836Z
+UID:20260905T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/111\nГруппы: 
- 6224
-LAST-MODIFIED:20260717T112457Z
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Эксплуатация вооружения\, во
- енной и специальной техники 2/111 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260217T104500
-DTEND;TZID=Europe/Moscow:20260217T121500
-DTSTAMP:20260717T112457Z
-UID:20260217T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/111\nГруппы: 
- 6224
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  1.5 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20260907T123000
+DTEND;TZID=Europe/Moscow:20260907T140000
+DTSTAMP:20260826T114836Z
+UID:20260907T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Эксплуатация вооружения\, во
- енной и специальной техники 2/111 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260217T123000
-DTEND;TZID=Europe/Moscow:20260217T140000
-DTSTAMP:20260717T112457Z
-UID:20260217T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/111\nГруппы: 
- 6224
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  1.5 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20260908T104500
+DTEND;TZID=Europe/Moscow:20260908T121500
+DTSTAMP:20260826T114836Z
+UID:20260908T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР\,К Теория вероятностей и мат
- ематическая статистика 3/503 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260218T090000
-DTEND;TZID=Europe/Moscow:20260218T103000
-DTSTAMP:20260717T112457Z
-UID:20260218T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР\,К\nПредм
- ет: Теория вероятностей и математическа
- я статистика\nАудитория: 3/503\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.6 Высшая математика 3/203 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260909T090000
+DTEND;TZID=Europe/Moscow:20260909T103000
+DTSTAMP:20260826T114836Z
+UID:20260909T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
+  Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Теория вероятностей и матем
- атическая статистика 2/114 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260218T123000
-DTEND;TZID=Europe/Moscow:20260218T140000
-DTSTAMP:20260717T112457Z
-UID:20260218T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  13.2 Высшая математика 2/111 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260909T104500
+DTEND;TZID=Europe/Moscow:20260909T121500
+DTSTAMP:20260826T114836Z
+UID:20260909T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  13.2\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Эксплуатация вооружения\, во
- енной и специальной техники 2/111 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260219T090000
-DTEND;TZID=Europe/Moscow:20260219T103000
-DTSTAMP:20260717T112457Z
-UID:20260219T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/111\nГруппы: 
- 6223
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.6 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260909T123000
+DTEND;TZID=Europe/Moscow:20260909T140000
+DTSTAMP:20260826T114836Z
+UID:20260909T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Эксплуатация вооружения\, во
- енной и специальной техники 2/111 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260219T104500
-DTEND;TZID=Europe/Moscow:20260219T121500
-DTSTAMP:20260717T112457Z
-UID:20260219T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Эксплуатация вооружения\, военной и спе
- циальной техники\nАудитория: 2/111\nГруппы: 
- 6223
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.7 Высшая математика 3/202 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260910T104500
+DTEND;TZID=Europe/Moscow:20260910T121500
+DTSTAMP:20260826T114836Z
+UID:20260910T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260219T162500
-DTEND;TZID=Europe/Moscow:20260219T175500
-DTSTAMP:20260717T112457Z
-UID:20260219T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.7 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T114836Z
+UID:20260910T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Теория вероятностей и матем
- атическая статистика 3/501 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260220T090000
-DTEND;TZID=Europe/Moscow:20260220T103000
-DTSTAMP:20260717T112457Z
-UID:20260220T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/501\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  1.8 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260911T090000
+DTEND;TZID=Europe/Moscow:20260911T103000
+DTSTAMP:20260826T114836Z
+UID:20260911T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Математические методы модел
- ирования и  системный анализ 2/111 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260220T104500
-DTEND;TZID=Europe/Moscow:20260220T121500
-DTSTAMP:20260717T112457Z
-UID:20260220T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+SUMMARY:(ЗСТ)  13.3 Высшая математика 2/114 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260917T104500
+DTEND;TZID=Europe/Moscow:20260917T121500
+DTSTAMP:20260826T114836Z
+UID:20260917T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  13.3\nПредмет
+ : Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T114836Z
+UID:20260921T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.2 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20260923T123000
+DTEND;TZID=Europe/Moscow:20260923T140000
+DTSTAMP:20260826T114836Z
+UID:20260923T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T114836Z
+UID:20260924T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.8 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260924T123000
+DTEND;TZID=Europe/Moscow:20260924T140000
+DTSTAMP:20260826T114836Z
+UID:20260924T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260924T162500
+DTEND;TZID=Europe/Moscow:20260924T175500
+DTSTAMP:20260826T114836Z
+UID:20260924T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  13.5 Высшая математика 2/111 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260925T104500
+DTEND;TZID=Europe/Moscow:20260925T121500
+DTSTAMP:20260826T114836Z
+UID:20260925T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  13.5\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260925T123000
+DTEND;TZID=Europe/Moscow:20260925T140000
+DTSTAMP:20260826T114836Z
+UID:20260925T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260926T090000
+DTEND;TZID=Europe/Moscow:20260926T103000
+DTSTAMP:20260826T114836Z
+UID:20260926T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260926T123000
+DTEND;TZID=Europe/Moscow:20260926T140000
+DTSTAMP:20260826T114836Z
+UID:20260926T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.5 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20260928T090000
+DTEND;TZID=Europe/Moscow:20260928T103000
+DTSTAMP:20260826T114836Z
+UID:20260928T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.5 Математические методы модел
+ ирования и  системный анализ 3/406 1251 гр.
+DTSTART;TZID=Europe/Moscow:20260928T104500
+DTEND;TZID=Europe/Moscow:20260928T121500
+DTSTAMP:20260826T114836Z
+UID:20260928T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.5\nПредмет:
   Математические методы моделирования и  
- системный анализ\nАудитория: 2/111\nГруппы: 
- 6251
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260224T090000
-DTEND;TZID=Europe/Moscow:20260224T103000
-DTSTAMP:20260717T112457Z
-UID:20260224T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260224T104500
-DTEND;TZID=Europe/Moscow:20260224T121500
-DTSTAMP:20260717T112457Z
-UID:20260224T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Теория вероятностей и матем
- атическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260224T162500
-DTEND;TZID=Europe/Moscow:20260224T175500
-DTSTAMP:20260717T112457Z
-UID:20260224T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260225T090000
-DTEND;TZID=Europe/Moscow:20260225T103000
-DTSTAMP:20260717T112457Z
-UID:20260225T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Теория вероятностей и матем
- атическая статистика 2/111 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260225T104500
-DTEND;TZID=Europe/Moscow:20260225T121500
-DTSTAMP:20260717T112457Z
-UID:20260225T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260225T123000
-DTEND;TZID=Europe/Moscow:20260225T140000
-DTSTAMP:20260717T112457Z
-UID:20260225T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260225T162500
-DTEND;TZID=Europe/Moscow:20260225T175500
-DTSTAMP:20260717T112457Z
-UID:20260225T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация транспортно-те
- хнологических машин и комплексов 1/215 2238 
- гр.
-DTSTART;TZID=Europe/Moscow:20260226T090000
-DTEND;TZID=Europe/Moscow:20260226T103000
-DTSTAMP:20260717T112457Z
-UID:20260226T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация транспортно-технологичес
- ких машин и комплексов\nАудитория: 1/215\nГр
- уппы: 2238
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация транспортно-те
- хнологических машин и комплексов 1/215 2238 
- гр.
-DTSTART;TZID=Europe/Moscow:20260226T104500
-DTEND;TZID=Europe/Moscow:20260226T121500
-DTSTAMP:20260717T112457Z
-UID:20260226T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация транспортно-технологичес
- ких машин и комплексов\nАудитория: 1/215\nГр
- уппы: 2238
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Эксплуатация транспортно-те
- хнологических машин и комплексов 1/215 2238 
- гр.
-DTSTART;TZID=Europe/Moscow:20260226T123000
-DTEND;TZID=Europe/Moscow:20260226T140000
-DTSTAMP:20260717T112457Z
-UID:20260226T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Эксплуатация транспортно-технологичес
- ких машин и комплексов\nАудитория: 1/215\nГр
- уппы: 2238
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260226T162500
-DTEND;TZID=Europe/Moscow:20260226T175500
-DTSTAMP:20260717T112457Z
-UID:20260226T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.3 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260227T090000
-DTEND;TZID=Europe/Moscow:20260227T103000
-DTSTAMP:20260717T112457Z
-UID:20260227T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.3\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Теория вероятностей и матем
- атическая статистика 3/503 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260227T104500
-DTEND;TZID=Europe/Moscow:20260227T121500
-DTSTAMP:20260717T112457Z
-UID:20260227T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/503\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260227T123000
-DTEND;TZID=Europe/Moscow:20260227T140000
-DTSTAMP:20260717T112457Z
-UID:20260227T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260228T090000
-DTEND;TZID=Europe/Moscow:20260228T103000
-DTSTAMP:20260717T112457Z
-UID:20260228T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260228T123000
-DTEND;TZID=Europe/Moscow:20260228T140000
-DTSTAMP:20260717T112457Z
-UID:20260228T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Теория вероятностей и матем
- атическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260302T090000
-DTEND;TZID=Europe/Moscow:20260302T103000
-DTSTAMP:20260717T112457Z
-UID:20260302T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Теория вероятностей и математ
- ическая статистика 2/311 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260302T162500
-DTEND;TZID=Europe/Moscow:20260302T175500
-DTSTAMP:20260717T112457Z
-UID:20260302T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/311\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Математические методы модел
- ирования и  системный анализ 2/111 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260303T123000
-DTEND;TZID=Europe/Moscow:20260303T140000
-DTSTAMP:20260717T112457Z
-UID:20260303T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Математические методы моделирования и  
- системный анализ\nАудитория: 2/111\nГруппы: 
+ системный анализ\nАудитория: 3/406\nГруппы: 
  1251
-LAST-MODIFIED:20260717T112457Z
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.7 Математические методы модел
- ирования и  системный анализ 2/114 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260305T123000
-DTEND;TZID=Europe/Moscow:20260305T140000
-DTSTAMP:20260717T112457Z
-UID:20260305T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+SUMMARY:(ЗСТ)  13.6 Высшая математика 3/202 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260928T123000
+DTEND;TZID=Europe/Moscow:20260928T140000
+DTSTAMP:20260826T114836Z
+UID:20260928T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  13.6\nПредмет
+ : Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  6.1 Теория принятия решений ЭИОС 5
+ 253А гр. 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260929T090000
+DTEND;TZID=Europe/Moscow:20260929T103000
+DTSTAMP:20260826T114836Z
+UID:20260929T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Т
+ еория принятия решений\nАудитория: ЭИОС\n
+ Группы: 5253А 5253Б
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.6 Высшая математика 3/202 2264 гр.
+DTSTART;TZID=Europe/Moscow:20260929T104500
+DTEND;TZID=Europe/Moscow:20260929T121500
+DTSTAMP:20260826T114836Z
+UID:20260929T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.3 Высшая математика 4/211 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260826T114836Z
+UID:20260930T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: В
+ ысшая математика\nАудитория: 4/211\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Высшая математика УМ №1 (ИРМ)Ф 
+ 3263 гр. 3264 гр. 3266 гр. 3267 гр.
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260826T114836Z
+UID:20260930T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: В
+ ысшая математика\nАудитория: УМ №1 (ИРМ)Ф\
+ nГруппы: 3263 3264 3266 3267
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.6 Высшая математика 3/209 2262 гр.
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T114836Z
+UID:20260930T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.7 Высшая математика 3/201 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260826T114836Z
+UID:20261001T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.7 Высшая математика 3/203 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261003T090000
+DTEND;TZID=Europe/Moscow:20261003T103000
+DTSTAMP:20260826T114836Z
+UID:20261003T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
+  Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.8 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261005T090000
+DTEND;TZID=Europe/Moscow:20261005T103000
+DTSTAMP:20260826T114836Z
+UID:20261005T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.8\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.9 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261005T123000
+DTEND;TZID=Europe/Moscow:20261005T140000
+DTSTAMP:20260826T114836Z
+UID:20261005T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.9\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.6 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260826T114836Z
+UID:20261006T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.2 Высшая математика 2/114 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261007T104500
+DTEND;TZID=Europe/Moscow:20261007T121500
+DTSTAMP:20260826T114836Z
+UID:20261007T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.2\nПредмет
+ : Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.10 Высшая математика 3/203 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261007T123000
+DTEND;TZID=Europe/Moscow:20261007T140000
+DTSTAMP:20260826T114836Z
+UID:20261007T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.10\nПредмет
+ : Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.3 Высшая математика 3/203 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261008T090000
+DTEND;TZID=Europe/Moscow:20261008T103000
+DTSTAMP:20260826T114836Z
+UID:20261008T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.3\nПредмет
+ : Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.9 Высшая математика 3/201 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261008T104500
+DTEND;TZID=Europe/Moscow:20261008T121500
+DTSTAMP:20260826T114836Z
+UID:20261008T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.9\nПредмет:
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261008T123000
+DTEND;TZID=Europe/Moscow:20261008T140000
+DTSTAMP:20260826T114836Z
+UID:20261008T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.10 Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261009T090000
+DTEND;TZID=Europe/Moscow:20261009T103000
+DTSTAMP:20260826T114836Z
+UID:20261009T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.10\nПредмет
+ : Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261009T104500
+DTEND;TZID=Europe/Moscow:20261009T121500
+DTSTAMP:20260826T114836Z
+UID:20261009T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261010T090000
+DTEND;TZID=Europe/Moscow:20261010T103000
+DTSTAMP:20260826T114836Z
+UID:20261010T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261010T104500
+DTEND;TZID=Europe/Moscow:20261010T121500
+DTSTAMP:20260826T114836Z
+UID:20261010T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261010T123000
+DTEND;TZID=Europe/Moscow:20261010T140000
+DTSTAMP:20260826T114836Z
+UID:20261010T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.4 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261014T090000
+DTEND;TZID=Europe/Moscow:20261014T103000
+DTSTAMP:20260826T114836Z
+UID:20261014T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.4\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.5 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261015T090000
+DTEND;TZID=Europe/Moscow:20261015T103000
+DTSTAMP:20260826T114836Z
+UID:20261015T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Высшая математика 4/211 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261015T104500
+DTEND;TZID=Europe/Moscow:20261015T121500
+DTSTAMP:20260826T114836Z
+UID:20261015T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: В
+ ысшая математика\nАудитория: 4/211\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261016T123000
+DTEND;TZID=Europe/Moscow:20261016T140000
+DTSTAMP:20260826T114836Z
+UID:20261016T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.5 Высшая математика 3/202 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261017T090000
+DTEND;TZID=Europe/Moscow:20261017T103000
+DTSTAMP:20260826T114836Z
+UID:20261017T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Высшая математика 3/201 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261017T104500
+DTEND;TZID=Europe/Moscow:20261017T121500
+DTSTAMP:20260826T114836Z
+UID:20261017T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.5 Высшая математика 3/203 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261017T123000
+DTEND;TZID=Europe/Moscow:20261017T140000
+DTSTAMP:20260826T114836Z
+UID:20261017T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.5\nПредмет
+ : Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.7 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261019T123000
+DTEND;TZID=Europe/Moscow:20261019T140000
+DTSTAMP:20260826T114836Z
+UID:20261019T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.7\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261020T090000
+DTEND;TZID=Europe/Moscow:20261020T103000
+DTSTAMP:20260826T114836Z
+UID:20261020T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.4 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261020T104500
+DTEND;TZID=Europe/Moscow:20261020T121500
+DTSTAMP:20260826T114836Z
+UID:20261020T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.4\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.6 Высшая математика 3/209 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T114836Z
+UID:20261021T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.6\nПредмет
+ : Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.9 Высшая математика 3/209 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261021T104500
+DTEND;TZID=Europe/Moscow:20261021T121500
+DTSTAMP:20260826T114836Z
+UID:20261021T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Высшая математика 3/406 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261021T123000
+DTEND;TZID=Europe/Moscow:20261021T140000
+DTSTAMP:20260826T114836Z
+UID:20261021T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+  Высшая математика\nАудитория: 3/406\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.1 Математические методы модели
+ рования и  системный анализ 3/209 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261022T104500
+DTEND;TZID=Europe/Moscow:20261022T121500
+DTSTAMP:20260826T114836Z
+UID:20261022T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: М
+ атематические методы моделирования и  с
+ истемный анализ\nАудитория: 3/209\nГруппы: 12
+ 51
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.9 Высшая математика 3/209 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261022T123000
+DTEND;TZID=Europe/Moscow:20261022T140000
+DTSTAMP:20260826T114836Z
+UID:20261022T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.10 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261023T090000
+DTEND;TZID=Europe/Moscow:20261023T103000
+DTSTAMP:20260826T114836Z
+UID:20261023T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.10\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.10 Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261023T104500
+DTEND;TZID=Europe/Moscow:20261023T121500
+DTSTAMP:20260826T114836Z
+UID:20261023T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.10\nПредмет
+ : Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.11 Высшая математика 2/311 2262 гр. 226
+ 3 гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261026T123000
+DTEND;TZID=Europe/Moscow:20261026T140000
+DTSTAMP:20260826T114836Z
+UID:20261026T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.11\nПредмет: 
+ Высшая математика\nАудитория: 2/311\nГруппы
+ : 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.7 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261027T104500
+DTEND;TZID=Europe/Moscow:20261027T121500
+DTSTAMP:20260826T114836Z
+UID:20261027T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.7\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Математические методы модел
+ ирования и  системный анализ 3/502 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261028T104500
+DTEND;TZID=Europe/Moscow:20261028T121500
+DTSTAMP:20260826T114836Z
+UID:20261028T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 3/502\nГруппы: 
+ 1251
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261028T123000
+DTEND;TZID=Europe/Moscow:20261028T140000
+DTSTAMP:20260826T114836Z
+UID:20261028T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.12 Высшая математика 3/501 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261029T090000
+DTEND;TZID=Europe/Moscow:20261029T103000
+DTSTAMP:20260826T114836Z
+UID:20261029T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.12\nПредмет
+ : Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.8 Высшая математика 3/406 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261029T104500
+DTEND;TZID=Europe/Moscow:20261029T121500
+DTSTAMP:20260826T114836Z
+UID:20261029T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.8\nПредмет
+ : Высшая математика\nАудитория: 3/406\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.12 Высшая математика 3/408 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261030T104500
+DTEND;TZID=Europe/Moscow:20261030T121500
+DTSTAMP:20260826T114836Z
+UID:20261030T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.12\nПредмет
+ : Высшая математика\nАудитория: 3/408\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261030T123000
+DTEND;TZID=Europe/Moscow:20261030T140000
+DTSTAMP:20260826T114836Z
+UID:20261030T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Высшая математика 3/406 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261031T090000
+DTEND;TZID=Europe/Moscow:20261031T103000
+DTSTAMP:20260826T114836Z
+UID:20261031T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
+  Высшая математика\nАудитория: 3/406\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.9 Высшая математика 2/111 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261031T104500
+DTEND;TZID=Europe/Moscow:20261031T121500
+DTSTAMP:20260826T114836Z
+UID:20261031T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.9\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.3 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261102T123000
+DTEND;TZID=Europe/Moscow:20261102T140000
+DTSTAMP:20260826T114836Z
+UID:20261102T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.4 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261102T162500
+DTEND;TZID=Europe/Moscow:20261102T175500
+DTSTAMP:20260826T114836Z
+UID:20261102T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.5 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261103T090000
+DTEND;TZID=Europe/Moscow:20261103T103000
+DTSTAMP:20260826T114836Z
+UID:20261103T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.11 Высшая математика 2/114 2261 гр. 226
+ 5 гр.
+DTSTART;TZID=Europe/Moscow:20261103T104500
+DTEND;TZID=Europe/Moscow:20261103T121500
+DTSTAMP:20260826T114836Z
+UID:20261103T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.11\nПредмет: 
+ Высшая математика\nАудитория: 2/114\nГруппы
+ : 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Математические методы модел
+ ирования и  системный анализ 2/114 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261103T123000
+DTEND;TZID=Europe/Moscow:20261103T140000
+DTSTAMP:20260826T114836Z
+UID:20261103T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
   Математические методы моделирования и  
  системный анализ\nАудитория: 2/114\nГруппы: 
- 6251
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260305T162500
-DTEND;TZID=Europe/Moscow:20260305T175500
-DTSTAMP:20260717T112457Z
-UID:20260305T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260310T104500
-DTEND;TZID=Europe/Moscow:20260310T121500
-DTSTAMP:20260717T112457Z
-UID:20260310T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.3 Теория вероятностей и математ
- ическая статистика 2/311 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260310T162500
-DTEND;TZID=Europe/Moscow:20260310T175500
-DTSTAMP:20260717T112457Z
-UID:20260310T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.3\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/311\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Теория вероятностей и матем
- атическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260312T090000
-DTEND;TZID=Europe/Moscow:20260312T103000
-DTSTAMP:20260717T112457Z
-UID:20260312T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.3 Теория вероятностей и матем
- атическая статистика 3/203 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260312T104500
-DTEND;TZID=Europe/Moscow:20260312T121500
-DTSTAMP:20260717T112457Z
-UID:20260312T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/203\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Теория вероятностей и матем
- атическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260312T123000
-DTEND;TZID=Europe/Moscow:20260312T140000
-DTSTAMP:20260717T112457Z
-UID:20260312T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Теория вероятностей и матем
- атическая статистика 3/501 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260313T104500
-DTEND;TZID=Europe/Moscow:20260313T121500
-DTSTAMP:20260717T112457Z
-UID:20260313T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/501\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260314T090000
-DTEND;TZID=Europe/Moscow:20260314T103000
-DTSTAMP:20260717T112457Z
-UID:20260314T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260314T104500
-DTEND;TZID=Europe/Moscow:20260314T121500
-DTSTAMP:20260717T112457Z
-UID:20260314T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260314T123000
-DTEND;TZID=Europe/Moscow:20260314T140000
-DTSTAMP:20260717T112457Z
-UID:20260314T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Теория вероятностей и математ
- ическая статистика 2/311 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260316T090000
-DTEND;TZID=Europe/Moscow:20260316T103000
-DTSTAMP:20260717T112457Z
-UID:20260316T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/311\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.2 Теория вероятностей и матем
- атическая статистика 3/201 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260316T104500
-DTEND;TZID=Europe/Moscow:20260316T121500
-DTSTAMP:20260717T112457Z
-UID:20260316T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/201\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.2 Теория вероятностей и матем
- атическая статистика 3/502 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260317T090000
-DTEND;TZID=Europe/Moscow:20260317T103000
-DTSTAMP:20260717T112457Z
-UID:20260317T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/502\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.2 Теория вероятностей и матем
- атическая статистика 2/111 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260318T090000
-DTEND;TZID=Europe/Moscow:20260318T103000
-DTSTAMP:20260717T112457Z
-UID:20260318T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.4 Теория вероятностей и математ
- ическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260318T104500
-DTEND;TZID=Europe/Moscow:20260318T121500
-DTSTAMP:20260717T112457Z
-UID:20260318T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.4\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.3 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260318T123000
-DTEND;TZID=Europe/Moscow:20260318T140000
-DTSTAMP:20260717T112457Z
-UID:20260318T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.2 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260319T090000
-DTEND;TZID=Europe/Moscow:20260319T103000
-DTSTAMP:20260717T112457Z
-UID:20260319T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  к.р.9.11 Высшая математика 3/201 3254 
- гр.
-DTSTART;TZID=Europe/Moscow:20260320T104500
-DTEND;TZID=Europe/Moscow:20260320T121500
-DTSTAMP:20260717T112457Z
-UID:20260320T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  к.р.9.11\nПред
- мет: Высшая математика\nАудитория: 3/201\nГр
- уппы: 3254
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.7 Математические методы модел
- ирования и  системный анализ 2/111 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260320T123000
-DTEND;TZID=Europe/Moscow:20260320T140000
-DTSTAMP:20260717T112457Z
-UID:20260320T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
-  Математические методы моделирования и  
- системный анализ\nАудитория: 2/111\nГруппы: 
  1251
-LAST-MODIFIED:20260717T112457Z
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.3 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260323T090000
-DTEND;TZID=Europe/Moscow:20260323T103000
-DTSTAMP:20260717T112457Z
-UID:20260323T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  4.5 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261103T162500
+DTEND;TZID=Europe/Moscow:20261103T175500
+DTSTAMP:20260826T114836Z
+UID:20261103T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.3 Теория вероятностей и матем
- атическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260323T104500
-DTEND;TZID=Europe/Moscow:20260323T121500
-DTSTAMP:20260717T112457Z
-UID:20260323T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  4.1 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261105T104500
+DTEND;TZID=Europe/Moscow:20261105T121500
+DTSTAMP:20260826T114836Z
+UID:20261105T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.3 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260323T123000
-DTEND;TZID=Europe/Moscow:20260323T140000
-DTSTAMP:20260717T112457Z
-UID:20260323T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  4.6 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261106T123000
+DTEND;TZID=Europe/Moscow:20261106T140000
+DTSTAMP:20260826T114836Z
+UID:20261106T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.4 Теория вероятностей и матем
- атическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260324T090000
-DTEND;TZID=Europe/Moscow:20260324T103000
-DTSTAMP:20260717T112457Z
-UID:20260324T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  4.6 Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261107T090000
+DTEND;TZID=Europe/Moscow:20261107T103000
+DTSTAMP:20260826T114836Z
+UID:20261107T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.4 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260325T162500
-DTEND;TZID=Europe/Moscow:20260325T175500
-DTSTAMP:20260717T112457Z
-UID:20260325T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  4.7 Высшая математика 3/407 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261107T104500
+DTEND;TZID=Europe/Moscow:20261107T121500
+DTSTAMP:20260826T114836Z
+UID:20261107T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Высшая математика\nАудитория: 3/407\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  К Теория вероятностей и матема
- тическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260327T162500
-DTEND;TZID=Europe/Moscow:20260327T175500
-DTSTAMP:20260717T112457Z
-UID:20260327T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  К\nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(ЗСТ)  4.7 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261107T123000
+DTEND;TZID=Europe/Moscow:20261107T140000
+DTSTAMP:20260826T114836Z
+UID:20261107T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  6.5 Теория вероятностей и математ
- ическая статистика 2/307 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260330T162500
-DTEND;TZID=Europe/Moscow:20260330T175500
-DTSTAMP:20260717T112457Z
-UID:20260330T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.5\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/307\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  4.8 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261109T090000
+DTEND;TZID=Europe/Moscow:20261109T103000
+DTSTAMP:20260826T114836Z
+UID:20261109T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.8\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260331T090000
-DTEND;TZID=Europe/Moscow:20260331T103000
-DTSTAMP:20260717T112457Z
-UID:20260331T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.6 Теория вероятностей и матем
- атическая статистика 2/114 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260402T090000
-DTEND;TZID=Europe/Moscow:20260402T103000
-DTSTAMP:20260717T112457Z
-UID:20260402T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.6\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.6 Теория вероятностей и матем
- атическая статистика 3/209 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260402T123000
-DTEND;TZID=Europe/Moscow:20260402T140000
-DTSTAMP:20260717T112457Z
-UID:20260402T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.6\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/209\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.6 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260404T090000
-DTEND;TZID=Europe/Moscow:20260404T103000
-DTSTAMP:20260717T112457Z
-UID:20260404T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.6\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.6 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260404T104500
-DTEND;TZID=Europe/Moscow:20260404T121500
-DTSTAMP:20260717T112457Z
-UID:20260404T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.6\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  10.10 Высшая математика 2/111 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260404T123000
-DTEND;TZID=Europe/Moscow:20260404T140000
-DTSTAMP:20260717T112457Z
-UID:20260404T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  10.10\nПредме
- т: Высшая математика\nАудитория: 2/111\nГруп
- пы: 6253
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.7 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260406T090000
-DTEND;TZID=Europe/Moscow:20260406T103000
-DTSTAMP:20260717T112457Z
-UID:20260406T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.7\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР4.4 Теория вероятностей и мат
- ематическая статистика 2/111 3247 гр.
-DTSTART;TZID=Europe/Moscow:20260406T104500
-DTEND;TZID=Europe/Moscow:20260406T121500
-DTSTAMP:20260717T112457Z
-UID:20260406T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР4.4\nПредм
- ет: Теория вероятностей и математическа
- я статистика\nАудитория: 2/111\nГруппы: 3247
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.7 Теория вероятностей и матем
- атическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260407T090000
-DTEND;TZID=Europe/Moscow:20260407T103000
-DTSTAMP:20260717T112457Z
-UID:20260407T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.7\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.7 Теория вероятностей и матем
- атическая статистика 3/501 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260407T104500
-DTEND;TZID=Europe/Moscow:20260407T121500
-DTSTAMP:20260717T112457Z
-UID:20260407T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.7\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 3/501\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260408T090000
-DTEND;TZID=Europe/Moscow:20260408T103000
-DTSTAMP:20260717T112457Z
-UID:20260408T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 3/101\nГруппы
- : 5249Б
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260408T104500
-DTEND;TZID=Europe/Moscow:20260408T121500
-DTSTAMP:20260717T112457Z
-UID:20260408T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 3/101\nГруппы
- : 5249Б
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260408T123000
-DTEND;TZID=Europe/Moscow:20260408T140000
-DTSTAMP:20260717T112457Z
-UID:20260408T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 3/101\nГруппы
- : 5249Б
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.8 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260409T104500
-DTEND;TZID=Europe/Moscow:20260409T121500
-DTSTAMP:20260717T112457Z
-UID:20260409T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.8\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.8 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260409T123000
-DTEND;TZID=Europe/Moscow:20260409T140000
-DTSTAMP:20260717T112457Z
-UID:20260409T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.8\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260411T090000
-DTEND;TZID=Europe/Moscow:20260411T103000
-DTSTAMP:20260717T112457Z
-UID:20260411T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.8 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260411T104500
-DTEND;TZID=Europe/Moscow:20260411T121500
-DTSTAMP:20260717T112457Z
-UID:20260411T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.8\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.8 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260411T123000
-DTEND;TZID=Europe/Moscow:20260411T140000
-DTSTAMP:20260717T112457Z
-UID:20260411T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.8\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  11.3 Высшая математика 3/202 6253 гр. 625
- 4 гр.
-DTSTART;TZID=Europe/Moscow:20260413T090000
-DTEND;TZID=Europe/Moscow:20260413T103000
-DTSTAMP:20260717T112457Z
-UID:20260413T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  11.3\nПредмет: 
- Высшая математика\nАудитория: 3/202\nГруппы
- : 6253 6254
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/115 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260413T104500
-DTEND;TZID=Europe/Moscow:20260413T121500
-DTSTAMP:20260717T112457Z
-UID:20260413T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/115\nГруппы
- : 5249А
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/111 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260413T123000
-DTEND;TZID=Europe/Moscow:20260413T140000
-DTSTAMP:20260717T112457Z
-UID:20260413T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 5249А
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/111 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260413T144000
-DTEND;TZID=Europe/Moscow:20260413T161000
-DTSTAMP:20260717T112457Z
-UID:20260413T144000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 5249А
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260414T104500
-DTEND;TZID=Europe/Moscow:20260414T121500
-DTSTAMP:20260717T112457Z
-UID:20260414T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория вероятностей и мат.ста
- тистика 1/317 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260415T090000
-DTEND;TZID=Europe/Moscow:20260415T103000
-DTSTAMP:20260717T112457Z
-UID:20260415T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория вероятностей и мат.статистика\nАу
- дитория: 1/317\nГруппы: 5249А
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория вероятностей и мат.ста
- тистика 1/317 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260415T104500
-DTEND;TZID=Europe/Moscow:20260415T121500
-DTSTAMP:20260717T112457Z
-UID:20260415T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория вероятностей и мат.статистика\nАу
- дитория: 1/317\nГруппы: 5249А
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория вероятностей и мат.ста
- тистика 1/321 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260415T123000
-DTEND;TZID=Europe/Moscow:20260415T140000
-DTSTAMP:20260717T112457Z
-UID:20260415T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория вероятностей и мат.статистика\nАу
- дитория: 1/321\nГруппы: 5249А
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория вероятностей и мат.ста
- тистика 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260416T090000
-DTEND;TZID=Europe/Moscow:20260416T103000
-DTSTAMP:20260717T112457Z
-UID:20260416T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория вероятностей и мат.статистика\nАу
- дитория: 3/101\nГруппы: 5249Б
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория вероятностей и мат.ста
- тистика 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260416T104500
-DTEND;TZID=Europe/Moscow:20260416T121500
-DTSTAMP:20260717T112457Z
-UID:20260416T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория вероятностей и мат.статистика\nАу
- дитория: 3/101\nГруппы: 5249Б
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория вероятностей и мат.ста
- тистика 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260416T123000
-DTEND;TZID=Europe/Moscow:20260416T140000
-DTSTAMP:20260717T112457Z
-UID:20260416T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория вероятностей и мат.статистика\nАу
- дитория: 3/101\nГруппы: 5249Б
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/111 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260417T090000
-DTEND;TZID=Europe/Moscow:20260417T103000
-DTSTAMP:20260717T112457Z
-UID:20260417T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 5240
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/111 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260417T104500
-DTEND;TZID=Europe/Moscow:20260417T121500
-DTSTAMP:20260717T112457Z
-UID:20260417T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 5240
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/111 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260417T123000
-DTEND;TZID=Europe/Moscow:20260417T140000
-DTSTAMP:20260717T112457Z
-UID:20260417T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/111\nГруппы
- : 5240
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Теория вероятностей и математ
- ическая статистика 2/307 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260418T090000
-DTEND;TZID=Europe/Moscow:20260418T103000
-DTSTAMP:20260717T112457Z
-UID:20260418T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/307\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Теория вероятностей и математ
- ическая статистика 2/307 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260418T104500
-DTEND;TZID=Europe/Moscow:20260418T121500
-DTSTAMP:20260717T112457Z
-UID:20260418T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/307\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.2 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260420T090000
-DTEND;TZID=Europe/Moscow:20260420T103000
-DTSTAMP:20260717T112457Z
-UID:20260420T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Теория вероятностей и матем
- атическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260421T090000
-DTEND;TZID=Europe/Moscow:20260421T103000
-DTSTAMP:20260717T112457Z
-UID:20260421T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/114 5259 гр.
-DTSTART;TZID=Europe/Moscow:20260421T104500
-DTEND;TZID=Europe/Moscow:20260421T121500
-DTSTAMP:20260717T112457Z
-UID:20260421T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/114\nГруппы
- : 5259
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/114 5259 гр.
-DTSTART;TZID=Europe/Moscow:20260421T123000
-DTEND;TZID=Europe/Moscow:20260421T140000
-DTSTAMP:20260717T112457Z
-UID:20260421T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/114\nГруппы
- : 5259
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Высшая математика 2/114 5259 гр.
-DTSTART;TZID=Europe/Moscow:20260421T144000
-DTEND;TZID=Europe/Moscow:20260421T161000
-DTSTAMP:20260717T112457Z
-UID:20260421T144000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Высшая математика\nАудитория: 2/114\nГруппы
- : 5259
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория принятия решений 2/114 524
- 3 гр.
-DTSTART;TZID=Europe/Moscow:20260422T090000
-DTEND;TZID=Europe/Moscow:20260422T103000
-DTSTAMP:20260717T112457Z
-UID:20260422T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория принятия решений\nАудитория: 2/114\n
- Группы: 5243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория принятия решений 2/114 524
- 3 гр.
-DTSTART;TZID=Europe/Moscow:20260422T104500
-DTEND;TZID=Europe/Moscow:20260422T121500
-DTSTAMP:20260717T112457Z
-UID:20260422T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория принятия решений\nАудитория: 2/114\n
- Группы: 5243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория принятия решений 2/114 524
- 3 гр.
-DTSTART;TZID=Europe/Moscow:20260422T123000
-DTEND;TZID=Europe/Moscow:20260422T140000
-DTSTAMP:20260717T112457Z
-UID:20260422T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория принятия решений\nАудитория: 2/114\n
- Группы: 5243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.4 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260422T162500
-DTEND;TZID=Europe/Moscow:20260422T175500
-DTSTAMP:20260717T112457Z
-UID:20260422T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
+SUMMARY:(ЗСТ)  7.4 Математические методы модел
+ ирования и  системный анализ 3/202 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261109T104500
+DTEND;TZID=Europe/Moscow:20261109T121500
+DTSTAMP:20260826T114836Z
+UID:20261109T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 3/202\nГруппы: 
+ 1251
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.2 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260423T123000
-DTEND;TZID=Europe/Moscow:20260423T140000
-DTSTAMP:20260717T112457Z
-UID:20260423T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  4.3 Высшая математика 4/218 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261109T123000
+DTEND;TZID=Europe/Moscow:20261109T140000
+DTSTAMP:20260826T114836Z
+UID:20261109T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: В
+ ысшая математика\nАудитория: 4/218\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.2 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260424T090000
-DTEND;TZID=Europe/Moscow:20260424T103000
-DTSTAMP:20260717T112457Z
-UID:20260424T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  4.4 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261110T104500
+DTEND;TZID=Europe/Moscow:20261110T121500
+DTSTAMP:20260826T114836Z
+UID:20261110T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260425T090000
-DTEND;TZID=Europe/Moscow:20260425T103000
-DTSTAMP:20260717T112457Z
-UID:20260425T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260425T123000
-DTEND;TZID=Europe/Moscow:20260425T140000
-DTSTAMP:20260717T112457Z
-UID:20260425T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260427T123000
-DTEND;TZID=Europe/Moscow:20260427T140000
-DTSTAMP:20260717T112457Z
-UID:20260427T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  8.1 Теория вероятностей и математ
- ическая статистика 2/311 2242 гр. 2243 гр. 2244 гр.
-  2248 гр.
-DTSTART;TZID=Europe/Moscow:20260427T162500
-DTEND;TZID=Europe/Moscow:20260427T175500
-DTSTAMP:20260717T112457Z
-UID:20260427T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  8.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/311\nГруппы: 2242 2243 2244 22
- 48
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.2 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260428T123000
-DTEND;TZID=Europe/Moscow:20260428T140000
-DTSTAMP:20260717T112457Z
-UID:20260428T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  11.7 Высшая математика 2/111 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260430T123000
-DTEND;TZID=Europe/Moscow:20260430T140000
-DTSTAMP:20260717T112457Z
-UID:20260430T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  11.7\nПредмет
- : Высшая математика\nАудитория: 2/111\nГрупп
- ы: 6253
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.3 Теория вероятностей и матем
- атическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260525T090000
-DTEND;TZID=Europe/Moscow:20260525T103000
-DTSTAMP:20260717T112457Z
-UID:20260525T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.2 Теория вероятностей и матем
- атическая статистика 2/114 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260525T104500
-DTEND;TZID=Europe/Moscow:20260525T121500
-DTSTAMP:20260717T112457Z
-UID:20260525T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.2 Теория вероятностей и матем
- атическая статистика 2/114 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260526T123000
-DTEND;TZID=Europe/Moscow:20260526T140000
-DTSTAMP:20260717T112457Z
-UID:20260526T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.4 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260527T104500
-DTEND;TZID=Europe/Moscow:20260527T121500
-DTSTAMP:20260717T112457Z
-UID:20260527T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.4\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  12.1 Высшая математика 2/307 2252 гр. 225
- 3 гр. 2254 гр. 2256 гр. 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260527T123000
-DTEND;TZID=Europe/Moscow:20260527T140000
-DTSTAMP:20260717T112457Z
-UID:20260527T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  12.1\nПредмет: 
- Высшая математика\nАудитория: 2/307\nГруппы
- : 2252 2253 2254 2256 2258
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.2 Теория вероятностей и матем
- атическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260528T090000
-DTEND;TZID=Europe/Moscow:20260528T103000
-DTSTAMP:20260717T112457Z
-UID:20260528T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.3 Теория вероятностей и матем
- атическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260528T162500
-DTEND;TZID=Europe/Moscow:20260528T175500
-DTSTAMP:20260717T112457Z
-UID:20260528T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  9.1 Теория вероятностей и математ
- ическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260602T090000
-DTEND;TZID=Europe/Moscow:20260602T103000
-DTSTAMP:20260717T112457Z
-UID:20260602T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  9.1\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.2 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260602T104500
-DTEND;TZID=Europe/Moscow:20260602T121500
-DTSTAMP:20260717T112457Z
-UID:20260602T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.3 Теория вероятностей и матем
- атическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260603T090000
-DTEND;TZID=Europe/Moscow:20260603T103000
-DTSTAMP:20260717T112457Z
-UID:20260603T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  9.2 Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260603T123000
-DTEND;TZID=Europe/Moscow:20260603T140000
-DTSTAMP:20260717T112457Z
-UID:20260603T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  9.2\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.9 Математические методы модели
- рования и  системный анализ 2/111 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260606T090000
-DTEND;TZID=Europe/Moscow:20260606T103000
-DTSTAMP:20260717T112457Z
-UID:20260606T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.9\nПредмет: М
- атематические методы моделирования и  с
- истемный анализ\nАудитория: 2/111\nГруппы: 62
- 51
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  12.2 Высшая математика 2/111 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260606T123000
-DTEND;TZID=Europe/Moscow:20260606T140000
-DTSTAMP:20260717T112457Z
-UID:20260606T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  12.2\nПредмет
- : Высшая математика\nАудитория: 2/111\nГрупп
- ы: 6253
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  9.3 Теория вероятностей и математ
- ическая статистика 3/201 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260608T090000
-DTEND;TZID=Europe/Moscow:20260608T103000
-DTSTAMP:20260717T112457Z
-UID:20260608T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  9.3\nПредмет: Т
- еория вероятностей и математическая ста
- тистика\nАудитория: 3/201\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.10 Математические методы моде
- лирования и  системный анализ 2/111 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260608T123000
-DTEND;TZID=Europe/Moscow:20260608T140000
-DTSTAMP:20260717T112457Z
-UID:20260608T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.10\nПредмет
- : Математические методы моделирования и 
-  системный анализ\nАудитория: 2/111\nГруппы:
-  6251
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  12.3 Высшая математика 2/111 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260609T123000
-DTEND;TZID=Europe/Moscow:20260609T140000
-DTSTAMP:20260717T112457Z
-UID:20260609T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  12.3\nПредмет
- : Высшая математика\nАудитория: 2/111\nГрупп
- ы: 2252
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 2/11
- 4 2232 гр.
-DTSTART;TZID=Europe/Moscow:20260609T162500
-DTEND;TZID=Europe/Moscow:20260609T175500
-DTSTAMP:20260717T112457Z
-UID:20260609T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 2/11
- 4\nГруппы: 2232
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  12.4 Высшая математика 2/114 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260615T123000
-DTEND;TZID=Europe/Moscow:20260615T140000
-DTSTAMP:20260717T112457Z
-UID:20260615T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  12.4\nПредмет
- : Высшая математика\nАудитория: 2/114\nГрупп
- ы: 2254
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 2/11
- 4 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260617T104500
-DTEND;TZID=Europe/Moscow:20260617T121500
-DTSTAMP:20260717T112457Z
-UID:20260617T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 2/11
- 4\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 2/11
- 4 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260617T162500
-DTEND;TZID=Europe/Moscow:20260617T175500
-DTSTAMP:20260717T112457Z
-UID:20260617T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 2/11
- 4\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  11.7 Высшая математика 2/114 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260618T123000
-DTEND;TZID=Europe/Moscow:20260618T140000
-DTSTAMP:20260717T112457Z
-UID:20260618T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  11.7\nПредмет
- : Высшая математика\nАудитория: 2/114\nГрупп
- ы: 2251
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 2/11
- 4 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260618T162500
-DTEND;TZID=Europe/Moscow:20260618T175500
-DTSTAMP:20260717T112457Z
-UID:20260618T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 2/11
- 4\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР Теория вероятностей и матем
- атическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260619T090000
-DTEND;TZID=Europe/Moscow:20260619T103000
-DTSTAMP:20260717T112457Z
-UID:20260619T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР\nПредмет
- : Теория вероятностей и математическая с
- татистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Теория вероятностей и ма
- тематическая статистика 2/114 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260619T104500
-DTEND;TZID=Europe/Moscow:20260619T121500
-DTSTAMP:20260717T112457Z
-UID:20260619T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Теория вероятностей и математическ
- ая статистика\nАудитория: 2/114\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  11.8 Высшая математика 2/114 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260619T123000
-DTEND;TZID=Europe/Moscow:20260619T140000
-DTSTAMP:20260717T112457Z
-UID:20260619T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  11.8\nПредмет
- : Высшая математика\nАудитория: 2/114\nГрупп
- ы: 2251
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Теория вероятностей и ма
- тематическая статистика 2/114 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260619T162500
-DTEND;TZID=Europe/Moscow:20260619T175500
-DTSTAMP:20260717T112457Z
-UID:20260619T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Теория вероятностей и математическ
- ая статистика\nАудитория: 2/114\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260622T090000
-DTEND;TZID=Europe/Moscow:20260622T103000
-DTSTAMP:20260717T112457Z
-UID:20260622T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260622T104500
-DTEND;TZID=Europe/Moscow:20260622T121500
-DTSTAMP:20260717T112457Z
-UID:20260622T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260622T123000
-DTEND;TZID=Europe/Moscow:20260622T140000
-DTSTAMP:20260717T112457Z
-UID:20260622T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2241
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Теория вероятностей и ма
- тематическая статистика 2/114 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260622T162500
-DTEND;TZID=Europe/Moscow:20260622T175500
-DTSTAMP:20260717T112457Z
-UID:20260622T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Теория вероятностей и математическ
- ая статистика\nАудитория: 2/114\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260623T090000
-DTEND;TZID=Europe/Moscow:20260623T103000
-DTSTAMP:20260717T112457Z
-UID:20260623T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260623T104500
-DTEND;TZID=Europe/Moscow:20260623T121500
-DTSTAMP:20260717T112457Z
-UID:20260623T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260623T123000
-DTEND;TZID=Europe/Moscow:20260623T140000
-DTSTAMP:20260717T112457Z
-UID:20260623T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2248
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.3 Теория вероятностей и матем
- атическая статистика 2/111 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260623T162500
-DTEND;TZID=Europe/Moscow:20260623T175500
-DTSTAMP:20260717T112457Z
-UID:20260623T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.3\nПредмет:
-  Теория вероятностей и математическая с
- татистика\nАудитория: 2/111\nГруппы: 6244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260624T090000
-DTEND;TZID=Europe/Moscow:20260624T103000
-DTSTAMP:20260717T112457Z
-UID:20260624T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260624T104500
-DTEND;TZID=Europe/Moscow:20260624T121500
-DTSTAMP:20260717T112457Z
-UID:20260624T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260624T123000
-DTEND;TZID=Europe/Moscow:20260624T140000
-DTSTAMP:20260717T112457Z
-UID:20260624T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2242
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Теория вероятностей и ма
- тематическая статистика 2/114 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260624T162500
-DTEND;TZID=Europe/Moscow:20260624T175500
-DTSTAMP:20260717T112457Z
-UID:20260624T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Теория вероятностей и математическ
- ая статистика\nАудитория: 2/114\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260625T090000
-DTEND;TZID=Europe/Moscow:20260625T103000
-DTSTAMP:20260717T112457Z
-UID:20260625T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260625T104500
-DTEND;TZID=Europe/Moscow:20260625T121500
-DTSTAMP:20260717T112457Z
-UID:20260625T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260625T123000
-DTEND;TZID=Europe/Moscow:20260625T140000
-DTSTAMP:20260717T112457Z
-UID:20260625T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2243
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  конс. Теория вероятностей и ма
- тематическая статистика 2/114 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260625T162500
-DTEND;TZID=Europe/Moscow:20260625T175500
-DTSTAMP:20260717T112457Z
-UID:20260625T162500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  конс.\nПред
- мет: Теория вероятностей и математическ
- ая статистика\nАудитория: 2/114\nГруппы: 2244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260627T090000
-DTEND;TZID=Europe/Moscow:20260627T103000
-DTSTAMP:20260717T112457Z
-UID:20260627T090000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260627T104500
-DTEND;TZID=Europe/Moscow:20260627T121500
-DTSTAMP:20260717T112457Z
-UID:20260627T104500@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Теория вероятностей и матема
- тическая статистика 2/111 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260627T123000
-DTEND;TZID=Europe/Moscow:20260627T140000
-DTSTAMP:20260717T112457Z
-UID:20260627T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Теория вероятностей и математическая ст
- атистика\nАудитория: 2/111\nГруппы: 2244
-LAST-MODIFIED:20260717T112457Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.9 Математические методы модели
- рования и  системный анализ 2/114 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260708T123000
-DTEND;TZID=Europe/Moscow:20260708T140000
-DTSTAMP:20260717T112457Z
-UID:20260708T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.9\nПредмет: М
+SUMMARY:(л.)  3.1 Математические методы модели
+ рования и  системный анализ 2/114 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261111T104500
+DTEND;TZID=Europe/Moscow:20261111T121500
+DTSTAMP:20260826T114836Z
+UID:20261111T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: М
  атематические методы моделирования и  с
  истемный анализ\nАудитория: 2/114\nГруппы: 12
- 51
-LAST-MODIFIED:20260717T112457Z
+ 61
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.10 Математические методы моде
- лирования и  системный анализ 2/111 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260709T123000
-DTEND;TZID=Europe/Moscow:20260709T140000
-DTSTAMP:20260717T112457Z
-UID:20260709T123000@20260717T142457@Шимитило В.Л.
-CREATED:20260717T112457Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.10\nПредмет
- : Математические методы моделирования и 
-  системный анализ\nАудитория: 2/111\nГруппы:
-  1251
-LAST-MODIFIED:20260717T112457Z
+SUMMARY:(л.)  5.1 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261111T123000
+DTEND;TZID=Europe/Moscow:20261111T140000
+DTSTAMP:20260826T114836Z
+UID:20261111T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.2 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261113T090000
+DTEND;TZID=Europe/Moscow:20261113T103000
+DTSTAMP:20260826T114836Z
+UID:20261113T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Высшая математика 3/201 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261113T123000
+DTEND;TZID=Europe/Moscow:20261113T140000
+DTSTAMP:20260826T114836Z
+UID:20261113T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.9 Высшая математика 3/209 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261114T090000
+DTEND;TZID=Europe/Moscow:20261114T103000
+DTSTAMP:20260826T114836Z
+UID:20261114T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.3 Высшая математика 3/209 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261114T104500
+DTEND;TZID=Europe/Moscow:20261114T121500
+DTSTAMP:20260826T114836Z
+UID:20261114T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.3 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261114T123000
+DTEND;TZID=Europe/Moscow:20261114T140000
+DTSTAMP:20260826T114836Z
+UID:20261114T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.2 Математические методы модели
+ рования и  системный анализ 3/409 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261116T104500
+DTEND;TZID=Europe/Moscow:20261116T121500
+DTSTAMP:20260826T114836Z
+UID:20261116T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: М
+ атематические методы моделирования и  с
+ истемный анализ\nАудитория: 3/409\nГруппы: 12
+ 61
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Математические методы модели
+ рования и системный анализ 3/503 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261117T090000
+DTEND;TZID=Europe/Moscow:20261117T103000
+DTSTAMP:20260826T114836Z
+UID:20261117T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: М
+ атематические методы моделирования и си
+ стемный анализ\nАудитория: 3/503\nГруппы: 6261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.8 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T114836Z
+UID:20261117T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.8\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  15.2 Высшая математика 2/111 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261117T123000
+DTEND;TZID=Europe/Moscow:20261117T140000
+DTSTAMP:20260826T114836Z
+UID:20261117T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  15.2\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  15.3 Высшая математика 3/408 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261118T104500
+DTEND;TZID=Europe/Moscow:20261118T121500
+DTSTAMP:20260826T114836Z
+UID:20261118T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  15.3\nПредмет
+ : Высшая математика\nАудитория: 3/408\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.4 Высшая математика 3/202 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261119T104500
+DTEND;TZID=Europe/Moscow:20261119T121500
+DTSTAMP:20260826T114836Z
+UID:20261119T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.5 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261119T123000
+DTEND;TZID=Europe/Moscow:20261119T140000
+DTSTAMP:20260826T114836Z
+UID:20261119T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.5\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.4 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261120T104500
+DTEND;TZID=Europe/Moscow:20261120T121500
+DTSTAMP:20260826T114836Z
+UID:20261120T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.6 Высшая математика 3/202 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261120T123000
+DTEND;TZID=Europe/Moscow:20261120T140000
+DTSTAMP:20260826T114836Z
+UID:20261120T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.6\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.6 Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261121T090000
+DTEND;TZID=Europe/Moscow:20261121T103000
+DTSTAMP:20260826T114836Z
+UID:20261121T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.6\nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.2 Математические методы модели
+ рования и системный анализ 3/407 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261121T104500
+DTEND;TZID=Europe/Moscow:20261121T121500
+DTSTAMP:20260826T114836Z
+UID:20261121T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: М
+ атематические методы моделирования и си
+ стемный анализ\nАудитория: 3/407\nГруппы: 6261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Математические методы модел
+ ирования и  системный анализ 2/111 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261123T104500
+DTEND;TZID=Europe/Moscow:20261123T121500
+DTSTAMP:20260826T114836Z
+UID:20261123T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 2/111\nГруппы: 
+ 1261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.1 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261123T123000
+DTEND;TZID=Europe/Moscow:20261123T140000
+DTSTAMP:20260826T114836Z
+UID:20261123T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.7 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261124T090000
+DTEND;TZID=Europe/Moscow:20261124T103000
+DTSTAMP:20260826T114836Z
+UID:20261124T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.7\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.2 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261124T104500
+DTEND;TZID=Europe/Moscow:20261124T121500
+DTSTAMP:20260826T114836Z
+UID:20261124T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.8 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261125T090000
+DTEND;TZID=Europe/Moscow:20261125T103000
+DTSTAMP:20260826T114836Z
+UID:20261125T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.8\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.7 Высшая математика 3/409 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261125T104500
+DTEND;TZID=Europe/Moscow:20261125T121500
+DTSTAMP:20260826T114836Z
+UID:20261125T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.7\nПредмет:
+  Высшая математика\nАудитория: 3/409\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.8 Высшая математика 3/209 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261126T104500
+DTEND;TZID=Europe/Moscow:20261126T121500
+DTSTAMP:20260826T114836Z
+UID:20261126T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.8\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.9 Высшая математика 3/209 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261126T123000
+DTEND;TZID=Europe/Moscow:20261126T140000
+DTSTAMP:20260826T114836Z
+UID:20261126T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.9\nПредмет:
+  Высшая математика\nАудитория: 3/209\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  15.5 Высшая математика 2/111 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261126T162500
+DTEND;TZID=Europe/Moscow:20261126T175500
+DTSTAMP:20260826T114836Z
+UID:20261126T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  15.5\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  15.6 Высшая математика 2/114 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261127T104500
+DTEND;TZID=Europe/Moscow:20261127T121500
+DTSTAMP:20260826T114836Z
+UID:20261127T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  15.6\nПредмет
+ : Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Математические методы модел
+ ирования и системный анализ 2/111 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261127T123000
+DTEND;TZID=Europe/Moscow:20261127T140000
+DTSTAMP:20260826T114836Z
+UID:20261127T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Математические методы моделирования и 
+ системный анализ\nАудитория: 2/111\nГруппы: 
+ 6261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.4 Математические методы модел
+ ирования и системный анализ 3/201 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261128T090000
+DTEND;TZID=Europe/Moscow:20261128T103000
+DTSTAMP:20260826T114836Z
+UID:20261128T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
+  Математические методы моделирования и 
+ системный анализ\nАудитория: 3/201\nГруппы: 
+ 6261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.4 Математические методы модел
+ ирования и системный анализ 2/114 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261128T104500
+DTEND;TZID=Europe/Moscow:20261128T121500
+DTSTAMP:20260826T114836Z
+UID:20261128T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
+  Математические методы моделирования и 
+ системный анализ\nАудитория: 2/114\nГруппы: 
+ 6261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.9 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261128T123000
+DTEND;TZID=Europe/Moscow:20261128T140000
+DTSTAMP:20260826T114836Z
+UID:20261128T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.9\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  6.1 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261130T090000
+DTEND;TZID=Europe/Moscow:20261130T103000
+DTSTAMP:20260826T114836Z
+UID:20261130T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.2 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261130T123000
+DTEND;TZID=Europe/Moscow:20261130T140000
+DTSTAMP:20260826T114836Z
+UID:20261130T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  8.3 Математические методы модели
+ рования и  системный анализ 3/501 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261201T090000
+DTEND;TZID=Europe/Moscow:20261201T103000
+DTSTAMP:20260826T114836Z
+UID:20261201T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  8.3\nПредмет: М
+ атематические методы моделирования и  с
+ истемный анализ\nАудитория: 3/501\nГруппы: 12
+ 51
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.2 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261201T104500
+DTEND;TZID=Europe/Moscow:20261201T121500
+DTSTAMP:20260826T114836Z
+UID:20261201T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  6.3 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261202T090000
+DTEND;TZID=Europe/Moscow:20261202T103000
+DTSTAMP:20260826T114836Z
+UID:20261202T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.3\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.4 Математические методы модел
+ ирования и  системный анализ 3/406 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261202T104500
+DTEND;TZID=Europe/Moscow:20261202T121500
+DTSTAMP:20260826T114836Z
+UID:20261202T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.4\nПредмет:
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 3/406\nГруппы: 
+ 1251
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.4 Математические методы модел
+ ирования и  системный анализ 2/114 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261202T123000
+DTEND;TZID=Europe/Moscow:20261202T140000
+DTSTAMP:20260826T114836Z
+UID:20261202T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.4\nПредмет:
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 2/114\nГруппы: 
+ 1251
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.4 Математические методы модел
+ ирования и  системный анализ 3/201 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261203T090000
+DTEND;TZID=Europe/Moscow:20261203T103000
+DTSTAMP:20260826T114836Z
+UID:20261203T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 3/201\nГруппы: 
+ 1261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.4 Математические методы модел
+ ирования и  системный анализ 3/201 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261203T104500
+DTEND;TZID=Europe/Moscow:20261203T121500
+DTSTAMP:20260826T114836Z
+UID:20261203T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
+  Математические методы моделирования и  
+ системный анализ\nАудитория: 3/201\nГруппы: 
+ 1261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  6.1 Высшая математика 4/211 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261204T090000
+DTEND;TZID=Europe/Moscow:20261204T103000
+DTSTAMP:20260826T114836Z
+UID:20261204T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: В
+ ысшая математика\nАудитория: 4/211\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.4 Высшая математика 3/202 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261204T104500
+DTEND;TZID=Europe/Moscow:20261204T121500
+DTSTAMP:20260826T114836Z
+UID:20261204T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.4\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.4 Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261204T123000
+DTEND;TZID=Europe/Moscow:20261204T140000
+DTSTAMP:20260826T114836Z
+UID:20261204T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.4\nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.5 Высшая математика 3/201 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261205T090000
+DTEND;TZID=Europe/Moscow:20261205T103000
+DTSTAMP:20260826T114836Z
+UID:20261205T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.5\nПредмет:
+  Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.5 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261205T104500
+DTEND;TZID=Europe/Moscow:20261205T121500
+DTSTAMP:20260826T114836Z
+UID:20261205T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.5\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.1 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261207T123000
+DTEND;TZID=Europe/Moscow:20261207T140000
+DTSTAMP:20260826T114836Z
+UID:20261207T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Высшая математика 2/114 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261208T104500
+DTEND;TZID=Europe/Moscow:20261208T121500
+DTSTAMP:20260826T114836Z
+UID:20261208T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.3 Высшая математика 2/307 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261208T123000
+DTEND;TZID=Europe/Moscow:20261208T140000
+DTSTAMP:20260826T114836Z
+UID:20261208T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.3\nПредмет: В
+ ысшая математика\nАудитория: 2/307\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261209T090000
+DTEND;TZID=Europe/Moscow:20261209T103000
+DTSTAMP:20260826T114836Z
+UID:20261209T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  6.3 Высшая математика 4/211 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261209T104500
+DTEND;TZID=Europe/Moscow:20261209T121500
+DTSTAMP:20260826T114836Z
+UID:20261209T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.3\nПредмет: В
+ ысшая математика\nАудитория: 4/211\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.1 Высшая математика 4/211 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261209T123000
+DTEND;TZID=Europe/Moscow:20261209T140000
+DTSTAMP:20260826T114836Z
+UID:20261209T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: В
+ ысшая математика\nАудитория: 4/211\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  16.2 Высшая математика 2/114 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261210T104500
+DTEND;TZID=Europe/Moscow:20261210T121500
+DTSTAMP:20260826T114836Z
+UID:20261210T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  16.2\nПредмет
+ : Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  16.3 Высшая математика 2/114 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261210T123000
+DTEND;TZID=Europe/Moscow:20261210T140000
+DTSTAMP:20260826T114836Z
+UID:20261210T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  16.3\nПредмет
+ : Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261211T123000
+DTEND;TZID=Europe/Moscow:20261211T140000
+DTSTAMP:20260826T114836Z
+UID:20261211T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Высшая математика\nАудитория: 2/114\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.3 Высшая математика 2/114 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261212T090000
+DTEND;TZID=Europe/Moscow:20261212T103000
+DTSTAMP:20260826T114836Z
+UID:20261212T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.3\nПредмет: В
+ ысшая математика\nАудитория: 2/114\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Высшая математика 3/203 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261212T104500
+DTEND;TZID=Europe/Moscow:20261212T121500
+DTSTAMP:20260826T114836Z
+UID:20261212T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.5 Высшая математика 2/111 2261 гр. 2265
+  гр.
+DTSTART;TZID=Europe/Moscow:20261215T090000
+DTEND;TZID=Europe/Moscow:20261215T103000
+DTSTAMP:20260826T114836Z
+UID:20261215T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.5\nПредмет: В
+ ысшая математика\nАудитория: 2/111\nГруппы: 
+ 2261 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  7.5 Высшая математика 2/311 2262 гр. 2263
+  гр. 2264 гр. 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261216T090000
+DTEND;TZID=Europe/Moscow:20261216T103000
+DTSTAMP:20260826T114836Z
+UID:20261216T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.5\nПредмет: В
+ ысшая математика\nАудитория: 2/311\nГруппы: 
+ 2262 2263 2264 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  16.5 Высшая математика 2/111 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261217T123000
+DTEND;TZID=Europe/Moscow:20261217T140000
+DTSTAMP:20260826T114836Z
+UID:20261217T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  16.5\nПредмет
+ : Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.6 Высшая математика 3/203 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261218T090000
+DTEND;TZID=Europe/Moscow:20261218T103000
+DTSTAMP:20260826T114836Z
+UID:20261218T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.6\nПредмет:
+  Высшая математика\nАудитория: 3/203\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.6 Высшая математика 3/202 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261218T104500
+DTEND;TZID=Europe/Moscow:20261218T121500
+DTSTAMP:20260826T114836Z
+UID:20261218T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.6\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.7 Высшая математика 3/202 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261218T123000
+DTEND;TZID=Europe/Moscow:20261218T140000
+DTSTAMP:20260826T114836Z
+UID:20261218T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.7\nПредмет:
+  Высшая математика\nАудитория: 3/202\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Высшая математика 3/501 2265 гр.
+DTSTART;TZID=Europe/Moscow:20261219T090000
+DTEND;TZID=Europe/Moscow:20261219T103000
+DTSTAMP:20260826T114836Z
+UID:20261219T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.7 Высшая математика 3/407 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261219T104500
+DTEND;TZID=Europe/Moscow:20261219T121500
+DTSTAMP:20260826T114836Z
+UID:20261219T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.7\nПредмет:
+  Высшая математика\nАудитория: 3/407\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  16.6 Высшая математика 3/201 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261219T123000
+DTEND;TZID=Europe/Moscow:20261219T140000
+DTSTAMP:20260826T114836Z
+UID:20261219T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  16.6\nПредмет
+ : Высшая математика\nАудитория: 3/201\nГрупп
+ ы: 6254
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2265 гр.
+DTSTART;TZID=Europe/Moscow:20261221T090000
+DTEND;TZID=Europe/Moscow:20261221T103000
+DTSTAMP:20260826T114836Z
+UID:20261221T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2265 гр.
+DTSTART;TZID=Europe/Moscow:20261221T104500
+DTEND;TZID=Europe/Moscow:20261221T121500
+DTSTAMP:20260826T114836Z
+UID:20261221T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2265 гр.
+DTSTART;TZID=Europe/Moscow:20261221T123000
+DTEND;TZID=Europe/Moscow:20261221T140000
+DTSTAMP:20260826T114836Z
+UID:20261221T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2265
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261221T162500
+DTEND;TZID=Europe/Moscow:20261221T175500
+DTSTAMP:20260826T114836Z
+UID:20261221T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261222T090000
+DTEND;TZID=Europe/Moscow:20261222T103000
+DTSTAMP:20260826T114836Z
+UID:20261222T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261222T104500
+DTEND;TZID=Europe/Moscow:20261222T121500
+DTSTAMP:20260826T114836Z
+UID:20261222T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/202 2264 гр.
+DTSTART;TZID=Europe/Moscow:20261222T123000
+DTEND;TZID=Europe/Moscow:20261222T140000
+DTSTAMP:20260826T114836Z
+UID:20261222T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/202\nГруппы
+ : 2264
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Высшая математика 3/501 2261 гр.
+DTSTART;TZID=Europe/Moscow:20261222T162500
+DTEND;TZID=Europe/Moscow:20261222T175500
+DTSTAMP:20260826T114836Z
+UID:20261222T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2261 гр.
+DTSTART;TZID=Europe/Moscow:20261223T090000
+DTEND;TZID=Europe/Moscow:20261223T103000
+DTSTAMP:20260826T114836Z
+UID:20261223T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2261 гр.
+DTSTART;TZID=Europe/Moscow:20261223T104500
+DTEND;TZID=Europe/Moscow:20261223T121500
+DTSTAMP:20260826T114836Z
+UID:20261223T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2261 гр.
+DTSTART;TZID=Europe/Moscow:20261223T123000
+DTEND;TZID=Europe/Moscow:20261223T140000
+DTSTAMP:20260826T114836Z
+UID:20261223T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2261
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Высшая математика 2/111 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261223T162500
+DTEND;TZID=Europe/Moscow:20261223T175500
+DTSTAMP:20260826T114836Z
+UID:20261223T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 2/111 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261224T090000
+DTEND;TZID=Europe/Moscow:20261224T103000
+DTSTAMP:20260826T114836Z
+UID:20261224T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 2/111\nГруппы
+ : 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261224T104500
+DTEND;TZID=Europe/Moscow:20261224T121500
+DTSTAMP:20260826T114836Z
+UID:20261224T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2268 гр.
+DTSTART;TZID=Europe/Moscow:20261224T123000
+DTEND;TZID=Europe/Moscow:20261224T140000
+DTSTAMP:20260826T114836Z
+UID:20261224T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2268
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Высшая математика 3/501 2263 гр.
+DTSTART;TZID=Europe/Moscow:20261224T162500
+DTEND;TZID=Europe/Moscow:20261224T175500
+DTSTAMP:20260826T114836Z
+UID:20261224T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Высшая математика\nАудитория: 3/501\nГрупп
+ ы: 2263
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2263 гр.
+DTSTART;TZID=Europe/Moscow:20261225T090000
+DTEND;TZID=Europe/Moscow:20261225T103000
+DTSTAMP:20260826T114836Z
+UID:20261225T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2263
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2263 гр.
+DTSTART;TZID=Europe/Moscow:20261225T104500
+DTEND;TZID=Europe/Moscow:20261225T121500
+DTSTAMP:20260826T114836Z
+UID:20261225T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2263
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/501 2263 гр.
+DTSTART;TZID=Europe/Moscow:20261225T123000
+DTEND;TZID=Europe/Moscow:20261225T140000
+DTSTAMP:20260826T114836Z
+UID:20261225T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/501\nГруппы
+ : 2263
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Высшая математика 2/111 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261225T162500
+DTEND;TZID=Europe/Moscow:20261225T175500
+DTSTAMP:20260826T114836Z
+UID:20261225T162500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Высшая математика\nАудитория: 2/111\nГрупп
+ ы: 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261226T090000
+DTEND;TZID=Europe/Moscow:20261226T103000
+DTSTAMP:20260826T114836Z
+UID:20261226T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 2/114\nГруппы
+ : 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261226T104500
+DTEND;TZID=Europe/Moscow:20261226T121500
+DTSTAMP:20260826T114836Z
+UID:20261226T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 2/114\nГруппы
+ : 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 2/114 2262 гр.
+DTSTART;TZID=Europe/Moscow:20261226T123000
+DTEND;TZID=Europe/Moscow:20261226T140000
+DTSTAMP:20260826T114836Z
+UID:20261226T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 2/114\nГруппы
+ : 2262
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/201 3267 гр.
+DTSTART;TZID=Europe/Moscow:20270111T090000
+DTEND;TZID=Europe/Moscow:20270111T103000
+DTSTAMP:20260826T114836Z
+UID:20270111T090000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/201\nГруппы
+ : 3267
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/407 3267 гр.
+DTSTART;TZID=Europe/Moscow:20270111T104500
+DTEND;TZID=Europe/Moscow:20270111T121500
+DTSTAMP:20260826T114836Z
+UID:20270111T104500@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/407\nГруппы
+ : 3267
+LAST-MODIFIED:20260826T114836Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Высшая математика 3/202 3267 гр.
+DTSTART;TZID=Europe/Moscow:20270111T123000
+DTEND;TZID=Europe/Moscow:20270111T140000
+DTSTAMP:20260826T114836Z
+UID:20270111T123000@20260826T144836@Шимитило В.Л.
+CREATED:20260826T114836Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Высшая математика\nАудитория: 3/202\nГруппы
+ : 3267
+LAST-MODIFIED:20260826T114836Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
