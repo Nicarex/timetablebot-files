@@ -19,453 +19,591 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Инженерное обеспечение ликви
- дации ЧС 1/311 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260204T162500
-DTEND;TZID=Europe/Moscow:20260204T175500
-DTSTAMP:20260717T112525Z
-UID:20260204T162500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/311\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  1.1 Основы мобилизационной подго
+ товки 4/416 4231А гр.
+DTSTART;TZID=Europe/Moscow:20260903T144000
+DTEND;TZID=Europe/Moscow:20260903T161000
+DTSTAMP:20260826T115746Z
+UID:20260903T144000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: 4/416\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Основы инженерного обеспечен
- ия ликвидации ЧС 4/218 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260210T104500
-DTEND;TZID=Europe/Moscow:20260210T121500
-DTSTAMP:20260717T112525Z
-UID:20260210T104500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/218\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  1.1 Организация страхового фонда 
+ документации 3/406 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20260904T123000
+DTEND;TZID=Europe/Moscow:20260904T140000
+DTSTAMP:20260826T115746Z
+UID:20260904T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ рганизация страхового фонда документац
+ ии\nАудитория: 3/406\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Инженерное обеспечение ликви
- дации ЧС 1/311 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260210T123000
-DTEND;TZID=Europe/Moscow:20260210T140000
-DTSTAMP:20260717T112525Z
-UID:20260210T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/311\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(ЗСТ)  1.2 Основы мобилизационной подг
+ отовки 4/416 2234 гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T115746Z
+UID:20260910T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: 4/416\nГруппы: 2234
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Основы инженерного обеспечен
- ия ликвидации ЧС 3/602 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260717T112525Z
-UID:20260211T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
+SUMMARY:(л.)  1.5 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20260914T144000
+DTEND;TZID=Europe/Moscow:20260914T161000
+DTSTAMP:20260826T115746Z
+UID:20260914T144000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.5 Организация страхового фонда 
+ документации АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20260915T090000
+DTEND;TZID=Europe/Moscow:20260915T103000
+DTSTAMP:20260826T115746Z
+UID:20260915T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: О
+ рганизация страхового фонда документац
+ ии\nАудитория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.6 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20260918T104500
+DTEND;TZID=Europe/Moscow:20260918T121500
+DTSTAMP:20260826T115746Z
+UID:20260918T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.6\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.7 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T115746Z
+UID:20261002T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.7\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261005T104500
+DTEND;TZID=Europe/Moscow:20261005T121500
+DTSTAMP:20260826T115746Z
+UID:20261005T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 3/602\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Воинский учет и бронировани
- е граждан\, пребывающих в запасе\, часть_к
-  1 1/306 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260213T090000
-DTEND;TZID=Europe/Moscow:20260213T103000
-DTSTAMP:20260717T112525Z
-UID:20260213T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Воинский учет и бронирование граждан\, п
- ребывающих в запасе\, часть_к 1\nАудитория
- : 1/306\nГруппы: 2226
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  2.1 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260826T115746Z
+UID:20261006T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Воинский учет и бронировани
- е граждан\, пребывающих в запасе\, часть_к
-  1 1/306 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260213T104500
-DTEND;TZID=Europe/Moscow:20260213T121500
-DTSTAMP:20260717T112525Z
-UID:20260213T104500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Воинский учет и бронирование граждан\, п
- ребывающих в запасе\, часть_к 1\nАудитория
- : 1/306\nГруппы: 2226
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.2 Воинский учет и бронирование 
- граждан\, пребывающих в запасе АК/607 2226 гр
- .
-DTSTART;TZID=Europe/Moscow:20260219T090000
-DTEND;TZID=Europe/Moscow:20260219T103000
-DTSTAMP:20260717T112525Z
-UID:20260219T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: В
- оинский учет и бронирование граждан\, пр
- ебывающих в запасе\nАудитория: АК/607\nГруп
- пы: 2226
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Организация мобилизационно
- й подготовки территориальных органов МЧ
- С России АК/607 1241 гр.
-DTSTART;TZID=Europe/Moscow:20260220T090000
-DTEND;TZID=Europe/Moscow:20260220T103000
-DTSTAMP:20260717T112525Z
-UID:20260220T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Организация мобилизационной подготовк
- и территориальных органов МЧС России\nАу
- дитория: АК/607\nГруппы: 1241
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Основы инженерного обеспечен
- ия ликвидации ЧС 4/218 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260225T123000
-DTEND;TZID=Europe/Moscow:20260225T140000
-DTSTAMP:20260717T112525Z
-UID:20260225T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/218\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Инженерное обеспечение ликви
- дации ЧС 1/306 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260226T104500
-DTEND;TZID=Europe/Moscow:20260226T121500
-DTSTAMP:20260717T112525Z
-UID:20260226T104500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/306\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Инженерное обеспечение ликви
- дации ЧС 3/602 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260302T090000
-DTEND;TZID=Europe/Moscow:20260302T103000
-DTSTAMP:20260717T112525Z
-UID:20260302T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 3/602\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Основы инженерного обеспечен
- ия ликвидации ЧС 4/211 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260303T123000
-DTEND;TZID=Europe/Moscow:20260303T140000
-DTSTAMP:20260717T112525Z
-UID:20260303T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/211\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Инженерное обеспечение ликви
- дации ЧС 4/218 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260311T090000
-DTEND;TZID=Europe/Moscow:20260311T103000
-DTSTAMP:20260717T112525Z
-UID:20260311T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/218\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Инженерное обеспечение ликви
- дации ЧС 1/306 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260311T123000
-DTEND;TZID=Europe/Moscow:20260311T140000
-DTSTAMP:20260717T112525Z
-UID:20260311T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/306\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Основы инженерного обеспечен
- ия ликвидации ЧС 4/211 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260314T090000
-DTEND;TZID=Europe/Moscow:20260314T103000
-DTSTAMP:20260717T112525Z
-UID:20260314T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/211\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Инженерное обеспечение ликви
- дации ЧС 4/211 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260314T123000
-DTEND;TZID=Europe/Moscow:20260314T140000
-DTSTAMP:20260717T112525Z
-UID:20260314T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/211\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Инженерное обеспечение ликви
- дации ЧС 1/306 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260717T112525Z
-UID:20260317T104500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/306\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Инженерное обеспечение ликви
- дации ЧС 4/211 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260321T090000
-DTEND;TZID=Europe/Moscow:20260321T103000
-DTSTAMP:20260717T112525Z
-UID:20260321T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/211\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.8 Организация нормированного 
- снабжения населения в период мобилизаци
- и\, в период действия военного положения 
- и в военное время АК/601 3223 гр.
-DTSTART;TZID=Europe/Moscow:20260325T123000
-DTEND;TZID=Europe/Moscow:20260325T140000
-DTSTAMP:20260717T112525Z
-UID:20260325T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
+SUMMARY:(ЗСТ)  1.8 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261014T104500
+DTEND;TZID=Europe/Moscow:20261014T121500
+DTSTAMP:20260826T115746Z
+UID:20261014T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.8\nПредмет:
-  Организация нормированного снабжения н
- аселения в период мобилизации\, в период 
- действия военного положения и в военное 
- время\nАудитория: АК/601\nГруппы: 3223
-LAST-MODIFIED:20260717T112525Z
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Инженерное обеспечение ликви
- дации ЧС 4/211 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260326T090000
-DTEND;TZID=Europe/Moscow:20260326T103000
-DTSTAMP:20260717T112525Z
-UID:20260326T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/211\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(ЗСТ)  1.9 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261015T162500
+DTEND;TZID=Europe/Moscow:20261015T175500
+DTSTAMP:20260826T115746Z
+UID:20261015T162500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.9\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Обеспечение функционирован
- ия запасных пунктов управления\, часть 3\,
-  часть_к 1 1/306 3223 гр.
-DTSTART;TZID=Europe/Moscow:20260406T090000
-DTEND;TZID=Europe/Moscow:20260406T103000
-DTSTAMP:20260717T112525Z
-UID:20260406T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Обеспечение функционирования запасных 
- пунктов управления\, часть 3\, часть_к 1\nАу
- дитория: 1/306\nГруппы: 3223
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  2.5 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T115746Z
+UID:20261021T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Обеспечение функционирован
- ия запасных пунктов управления\, часть 3\,
-  часть_к 1 1/306 3223 гр.
-DTSTART;TZID=Europe/Moscow:20260409T144000
-DTEND;TZID=Europe/Moscow:20260409T161000
-DTSTAMP:20260717T112525Z
-UID:20260409T144000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
+SUMMARY:(ЗСТ)  2.2 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261023T104500
+DTEND;TZID=Europe/Moscow:20261023T121500
+DTSTAMP:20260826T115746Z
+UID:20261023T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261030T104500
+DTEND;TZID=Europe/Moscow:20261030T121500
+DTSTAMP:20260826T115746Z
+UID:20261030T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.4 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261106T090000
+DTEND;TZID=Europe/Moscow:20261106T103000
+DTSTAMP:20260826T115746Z
+UID:20261106T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.4\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.4 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261106T123000
+DTEND;TZID=Europe/Moscow:20261106T140000
+DTSTAMP:20260826T115746Z
+UID:20261106T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.4\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.6 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261110T123000
+DTEND;TZID=Europe/Moscow:20261110T140000
+DTSTAMP:20260826T115746Z
+UID:20261110T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.7 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261116T090000
+DTEND;TZID=Europe/Moscow:20261116T103000
+DTSTAMP:20260826T115746Z
+UID:20261116T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.7\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.7 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261118T104500
+DTEND;TZID=Europe/Moscow:20261118T121500
+DTSTAMP:20260826T115746Z
+UID:20261118T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.7\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.9 Основы мобилизационной подг
+ отовки АК/608 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261120T104500
+DTEND;TZID=Europe/Moscow:20261120T121500
+DTSTAMP:20260826T115746Z
+UID:20261120T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.9\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/608\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.9 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261124T144000
+DTEND;TZID=Europe/Moscow:20261124T161000
+DTSTAMP:20260826T115746Z
+UID:20261124T144000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.9\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.9 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261125T090000
+DTEND;TZID=Europe/Moscow:20261125T103000
+DTSTAMP:20260826T115746Z
+UID:20261125T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.9\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261125T123000
+DTEND;TZID=Europe/Moscow:20261125T140000
+DTSTAMP:20260826T115746Z
+UID:20261125T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.11 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261130T090000
+DTEND;TZID=Europe/Moscow:20261130T103000
+DTSTAMP:20260826T115746Z
+UID:20261130T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.11\nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.11 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261202T144000
+DTEND;TZID=Europe/Moscow:20261202T161000
+DTSTAMP:20260826T115746Z
+UID:20261202T144000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.11\nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.4 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261203T123000
+DTEND;TZID=Europe/Moscow:20261203T140000
+DTSTAMP:20260826T115746Z
+UID:20261203T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.5 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261207T162500
+DTEND;TZID=Europe/Moscow:20261207T175500
+DTSTAMP:20260826T115746Z
+UID:20261207T162500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Обеспечение функционирования запасных 
- пунктов управления\, часть 3\, часть_к 1\nАу
- дитория: 1/306\nГруппы: 3223
-LAST-MODIFIED:20260717T112525Z
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Основы инженерного обеспечен
- ия ликвидации ЧС 4/218 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260420T123000
-DTEND;TZID=Europe/Moscow:20260420T140000
-DTSTAMP:20260717T112525Z
-UID:20260420T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/218\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(ЗСТ)  3.6 Основы мобилизационной подг
+ отовки АК/608 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261208T123000
+DTEND;TZID=Europe/Moscow:20261208T140000
+DTSTAMP:20260826T115746Z
+UID:20261208T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/608\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Инженерное обеспечение ликви
- дации ЧС 4/218 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260423T104500
-DTEND;TZID=Europe/Moscow:20260423T121500
-DTSTAMP:20260717T112525Z
-UID:20260423T104500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/218\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  3.17 Основы мобилизационной подго
+ товки АК/608 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261214T144000
+DTEND;TZID=Europe/Moscow:20261214T161000
+DTSTAMP:20260826T115746Z
+UID:20261214T144000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.17\nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/608\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Инженерное обеспечение ликви
- дации ЧС 1/307 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260425T090000
-DTEND;TZID=Europe/Moscow:20260425T103000
-DTSTAMP:20260717T112525Z
-UID:20260425T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/307\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(ЗСТ)  3.7 Основы мобилизационной подг
+ отовки АК/607 2236 гр.
+DTSTART;TZID=Europe/Moscow:20261215T123000
+DTEND;TZID=Europe/Moscow:20261215T140000
+DTSTAMP:20260826T115746Z
+UID:20261215T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Основы мобилизационной подготовки\nАуд
+ итория: АК/607\nГруппы: 2236
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Основы инженерного обеспечен
- ия ликвидации ЧС 4/211 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260427T123000
-DTEND;TZID=Europe/Moscow:20260427T140000
-DTSTAMP:20260717T112525Z
-UID:20260427T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/211\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  3.17 Основы мобилизационной подго
+ товки АК/601 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261217T104500
+DTEND;TZID=Europe/Moscow:20261217T121500
+DTSTAMP:20260826T115746Z
+UID:20261217T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.17\nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/601\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Инженерное обеспечение ликви
- дации ЧС 4/211 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260428T104500
-DTEND;TZID=Europe/Moscow:20260428T121500
-DTSTAMP:20260717T112525Z
-UID:20260428T104500@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/211\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  3.18 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261218T123000
+DTEND;TZID=Europe/Moscow:20261218T140000
+DTSTAMP:20260826T115746Z
+UID:20261218T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.18\nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Инженерное обеспечение ликви
- дации ЧС 1/306 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260504T090000
-DTEND;TZID=Europe/Moscow:20260504T103000
-DTSTAMP:20260717T112525Z
-UID:20260504T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/306\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  4.1 Основы мобилизационной подго
+ товки АК/601 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261221T104500
+DTEND;TZID=Europe/Moscow:20261221T121500
+DTSTAMP:20260826T115746Z
+UID:20261221T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/601\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Основы инженерного обеспечен
- ия ликвидации ЧС 4/211 2232 гр. 2233 гр. 2238 гр.
-DTSTART;TZID=Europe/Moscow:20260506T090000
-DTEND;TZID=Europe/Moscow:20260506T103000
-DTSTAMP:20260717T112525Z
-UID:20260506T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: О
- сновы инженерного обеспечения ликвидац
- ии ЧС\nАудитория: 4/211\nГруппы: 2232 2233 2238
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(л.)  4.1 Основы мобилизационной подго
+ товки АК/608 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261221T144000
+DTEND;TZID=Europe/Moscow:20261221T161000
+DTSTAMP:20260826T115746Z
+UID:20261221T144000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
+ сновы мобилизационной подготовки\nАудит
+ ория: АК/608\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Инженерное обеспечение ликви
- дации ЧС 1/306 6233 гр. 6234 гр.
-DTSTART;TZID=Europe/Moscow:20260506T123000
-DTEND;TZID=Europe/Moscow:20260506T140000
-DTSTAMP:20260717T112525Z
-UID:20260506T123000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 1/306\nГруппы: 6233 6234
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(Консультация)   Основы мобилизацион
+ ной подготовки АК/607 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261223T123000
+DTEND;TZID=Europe/Moscow:20261223T140000
+DTSTAMP:20260826T115746Z
+UID:20261223T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: Консультация\nТема:  \n
+ Предмет: Основы мобилизационной подгото
+ вки\nАудитория: АК/607\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Инженерное обеспечение ликви
- дации ЧС 4/211 2234 гр. 2236 гр.
-DTSTART;TZID=Europe/Moscow:20260508T090000
-DTEND;TZID=Europe/Moscow:20260508T103000
-DTSTAMP:20260717T112525Z
-UID:20260508T090000@20260717T142525@Кочелаев А.А.
-CREATED:20260717T112525Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: И
- нженерное обеспечение ликвидации ЧС\nАу
- дитория: 4/211\nГруппы: 2234 2236
-LAST-MODIFIED:20260717T112525Z
+SUMMARY:(Консультация)   Основы мобилизацион
+ ной подготовки АК/607 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261225T104500
+DTEND;TZID=Europe/Moscow:20261225T121500
+DTSTAMP:20260826T115746Z
+UID:20261225T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: Консультация\nТема:  \n
+ Предмет: Основы мобилизационной подгото
+ вки\nАудитория: АК/607\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Основы мобилизационной подго
+ товки АК/607 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261229T090000
+DTEND;TZID=Europe/Moscow:20261229T103000
+DTSTAMP:20260826T115746Z
+UID:20261229T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/607\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Основы мобилизационной подго
+ товки АК/607 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261229T104500
+DTEND;TZID=Europe/Moscow:20261229T121500
+DTSTAMP:20260826T115746Z
+UID:20261229T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/607\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Основы мобилизационной подго
+ товки АК/607 4231А гр.
+DTSTART;TZID=Europe/Moscow:20261229T123000
+DTEND;TZID=Europe/Moscow:20261229T140000
+DTSTAMP:20260826T115746Z
+UID:20261229T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/607\nГруппы: 4231А
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Основы мобилизационной подго
+ товки АК/607 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261230T090000
+DTEND;TZID=Europe/Moscow:20261230T103000
+DTSTAMP:20260826T115746Z
+UID:20261230T090000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/607\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Основы мобилизационной подго
+ товки АК/607 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261230T104500
+DTEND;TZID=Europe/Moscow:20261230T121500
+DTSTAMP:20260826T115746Z
+UID:20261230T104500@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/607\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Основы мобилизационной подго
+ товки АК/607 4231Б гр.
+DTSTART;TZID=Europe/Moscow:20261230T123000
+DTEND;TZID=Europe/Moscow:20261230T140000
+DTSTAMP:20260826T115746Z
+UID:20261230T123000@20260826T145746@Кочелаев А.А.
+CREATED:20260826T115746Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Основы мобилизационной подготовки\nАуди
+ тория: АК/607\nГруппы: 4231Б
+LAST-MODIFIED:20260826T115746Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
