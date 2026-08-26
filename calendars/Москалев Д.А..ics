@@ -19,3289 +19,1767 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Специальная первоначальная п
- ожарная подготовка спасателя 4/217 6253 гр. 62
- 54 гр.
-DTSTART;TZID=Europe/Moscow:20260114T162500
-DTEND;TZID=Europe/Moscow:20260114T175500
-DTSTAMP:20260710T125854Z
-UID:20260114T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 4/217\nГруппы
- : 6253 6254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.1 ГДЗС 4/211 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260115T090000
-DTEND;TZID=Europe/Moscow:20260115T103000
-DTSTAMP:20260710T125854Z
-UID:20260115T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.1\nПредмет: 
- ГДЗС\nАудитория: 4/211\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Специальная первоначальная п
- ожарная подготовка спасателя 4/217 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260115T104500
-DTEND;TZID=Europe/Moscow:20260115T121500
-DTSTAMP:20260710T125854Z
-UID:20260115T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 4/217\nГруппы
- : 2251
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Специальная первоначальная п
- ожарная подготовка спасателя 2/307 2252 гр. 22
- 53 гр. 2254 гр. 2256 гр. 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260115T162500
-DTEND;TZID=Europe/Moscow:20260115T175500
-DTSTAMP:20260710T125854Z
-UID:20260115T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 2/307\nГруппы
- : 2252 2253 2254 2256 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Специальная первоначальная п
- ожарная подготовка спасателя 4/217 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260121T104500
-DTEND;TZID=Europe/Moscow:20260121T121500
-DTSTAMP:20260710T125854Z
-UID:20260121T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 4/217\nГруппы
- : 2251
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Специальная первоначальная 
- пожарная подготовка спасателя 3/501 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260121T123000
-DTEND;TZID=Europe/Moscow:20260121T140000
-DTSTAMP:20260710T125854Z
-UID:20260121T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/501\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.3 ГДЗС АК/407 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260122T144000
-DTEND;TZID=Europe/Moscow:20260122T161000
-DTSTAMP:20260710T125854Z
-UID:20260122T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.3\nПредмет: 
- ГДЗС\nАудитория: АК/407\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Пожарно-строевая подготовка 
- 4/211 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260123T123000
-DTEND;TZID=Europe/Moscow:20260123T140000
-DTSTAMP:20260710T125854Z
-UID:20260123T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Пожарно-строевая подготовка\nАудитория: 
- 4/211\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Пожарно-строевая подготовка 
- 4/211 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260123T144000
-DTEND;TZID=Europe/Moscow:20260123T161000
-DTSTAMP:20260710T125854Z
-UID:20260123T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Пожарно-строевая подготовка\nАудитория: 
- 4/211\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Специальная первоначальная п
- ожарная подготовка спасателя 4/217 6253 гр. 62
- 54 гр.
-DTSTART;TZID=Europe/Moscow:20260127T104500
-DTEND;TZID=Europe/Moscow:20260127T121500
-DTSTAMP:20260710T125854Z
-UID:20260127T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 4/217\nГруппы
- : 6253 6254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Специальная первоначальная п
- ожарная подготовка спасателя 2/307 2252 гр. 22
- 53 гр. 2254 гр. 2256 гр. 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260127T123000
-DTEND;TZID=Europe/Moscow:20260127T140000
-DTSTAMP:20260710T125854Z
-UID:20260127T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 2/307\nГруппы
- : 2252 2253 2254 2256 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.2 Специальная первоначальная п
- ожарная подготовка спасателя 2/311 2252 гр. 22
- 53 гр. 2254 гр. 2256 гр. 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260128T123000
-DTEND;TZID=Europe/Moscow:20260128T140000
-DTSTAMP:20260710T125854Z
-UID:20260128T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 2/311\nГруппы
- : 2252 2253 2254 2256 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  1.4 Пожарная тактика 4/211 5220 гр.
-DTSTART;TZID=Europe/Moscow:20260130T123000
-DTEND;TZID=Europe/Moscow:20260130T140000
-DTSTAMP:20260710T125854Z
-UID:20260130T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  1.4\nПредмет: 
- Пожарная тактика\nАудитория: 4/211\nГруппы: 
- 5220
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Специальная первоначальная 
- пожарная подготовка спасателя 3/201 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260202T123000
-DTEND;TZID=Europe/Moscow:20260202T140000
-DTSTAMP:20260710T125854Z
-UID:20260202T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/201\nГрупп
- ы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260204T090000
-DTEND;TZID=Europe/Moscow:20260204T103000
-DTSTAMP:20260710T125854Z
-UID:20260204T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Специальная первоначальная п
- ожарная подготовка спасателя 3/209 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260204T123000
-DTEND;TZID=Europe/Moscow:20260204T140000
-DTSTAMP:20260710T125854Z
-UID:20260204T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 3/209\nГруппы
- : 2251
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260205T090000
-DTEND;TZID=Europe/Moscow:20260205T103000
-DTSTAMP:20260710T125854Z
-UID:20260205T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260205T123000
-DTEND;TZID=Europe/Moscow:20260205T140000
-DTSTAMP:20260710T125854Z
-UID:20260205T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.1 Пожарная тактика 4/211 5220 гр.
-DTSTART;TZID=Europe/Moscow:20260205T144000
-DTEND;TZID=Europe/Moscow:20260205T161000
-DTSTAMP:20260710T125854Z
-UID:20260205T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
- Пожарная тактика\nАудитория: 4/211\nГруппы: 
- 5220
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.3 ГДЗС 4/218 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260206T090000
-DTEND;TZID=Europe/Moscow:20260206T103000
-DTSTAMP:20260710T125854Z
-UID:20260206T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.3\nПредмет: 
- ГДЗС\nАудитория: 4/218\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.3 ГДЗС 4/218 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260206T104500
-DTEND;TZID=Europe/Moscow:20260206T121500
-DTSTAMP:20260710T125854Z
-UID:20260206T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.3\nПредмет: 
- ГДЗС\nАудитория: 4/218\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260207T090000
-DTEND;TZID=Europe/Moscow:20260207T103000
-DTSTAMP:20260710T125854Z
-UID:20260207T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260207T104500
-DTEND;TZID=Europe/Moscow:20260207T121500
-DTSTAMP:20260710T125854Z
-UID:20260207T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260209T123000
-DTEND;TZID=Europe/Moscow:20260209T140000
-DTSTAMP:20260710T125854Z
-UID:20260209T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260209T162500
-DTEND;TZID=Europe/Moscow:20260209T175500
-DTSTAMP:20260710T125854Z
-UID:20260209T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.5 Специальная первоначальная п
- ожарная подготовка спасателя 4/217 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260210T090000
-DTEND;TZID=Europe/Moscow:20260210T103000
-DTSTAMP:20260710T125854Z
-UID:20260210T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.5\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 4/217\nГруппы
- : 2251
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260210T123000
-DTEND;TZID=Europe/Moscow:20260210T140000
-DTSTAMP:20260710T125854Z
-UID:20260210T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Конс.)   ГДЗС 4/221 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260710T125854Z
-UID:20260211T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  ГДЗС\nАудитория: 4/221\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260211T123000
-DTEND;TZID=Europe/Moscow:20260211T140000
-DTSTAMP:20260710T125854Z
-UID:20260211T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Конс.)   Пожарно-строевая подготовка
-  4/217 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260212T090000
-DTEND;TZID=Europe/Moscow:20260212T103000
-DTSTAMP:20260710T125854Z
-UID:20260212T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Пожарно-строевая подготовка\nАудитория:
-  4/217\nГруппы: 5230
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.2 Пожарная тактика 4/211 5220 гр.
-DTSTART;TZID=Europe/Moscow:20260213T090000
-DTEND;TZID=Europe/Moscow:20260213T103000
-DTSTAMP:20260710T125854Z
-UID:20260213T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
- Пожарная тактика\nАудитория: 4/211\nГруппы: 
- 5220
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Специальная первоначальная 
- пожарная подготовка спасателя 4/219 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260213T123000
-DTEND;TZID=Europe/Moscow:20260213T140000
-DTSTAMP:20260710T125854Z
-UID:20260213T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/219\nГрупп
- ы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260214T104500
-DTEND;TZID=Europe/Moscow:20260214T121500
-DTSTAMP:20260710T125854Z
-UID:20260214T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.8 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260214T123000
-DTEND;TZID=Europe/Moscow:20260214T140000
-DTSTAMP:20260710T125854Z
-UID:20260214T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260216T090000
-DTEND;TZID=Europe/Moscow:20260216T103000
-DTSTAMP:20260710T125854Z
-UID:20260216T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Специальная первоначальная п
- ожарная подготовка спасателя 2/307 2252 гр. 22
- 53 гр. 2254 гр. 2256 гр. 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260218T123000
-DTEND;TZID=Europe/Moscow:20260218T140000
-DTSTAMP:20260710T125854Z
-UID:20260218T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 2/307\nГруппы
- : 2252 2253 2254 2256 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 3/209 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260313T090000
-DTEND;TZID=Europe/Moscow:20260313T103000
-DTSTAMP:20260710T125854Z
-UID:20260313T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/209\nГрупп
- ы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 3/209 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260313T104500
-DTEND;TZID=Europe/Moscow:20260313T121500
-DTSTAMP:20260710T125854Z
-UID:20260313T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/209\nГрупп
- ы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.1 Основы военной подготовки 4/2
- 18 4251Б гр.
-DTSTART;TZID=Europe/Moscow:20260316T090000
-DTEND;TZID=Europe/Moscow:20260316T103000
-DTSTAMP:20260710T125854Z
-UID:20260316T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.1\nПредмет:
-  Основы военной подготовки\nАудитория: 4/2
- 18\nГруппы: 4251Б
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.3 Специальная первоначальная п
- ожарная подготовка спасателя 4/218 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260316T123000
-DTEND;TZID=Europe/Moscow:20260316T140000
-DTSTAMP:20260710T125854Z
-UID:20260316T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: С
- пециальная первоначальная пожарная под
- готовка спасателя\nАудитория: 4/218\nГруппы
- : 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 7 2241 гр.
-DTSTART;TZID=Europe/Moscow:20260316T162500
-DTEND;TZID=Europe/Moscow:20260316T175500
-DTSTAMP:20260710T125854Z
-UID:20260316T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 7\nГруппы: 2241
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260710T125854Z
-UID:20260317T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260317T123000
-DTEND;TZID=Europe/Moscow:20260317T140000
-DTSTAMP:20260710T125854Z
-UID:20260317T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 7 2242 гр.
-DTSTART;TZID=Europe/Moscow:20260317T162500
-DTEND;TZID=Europe/Moscow:20260317T175500
-DTSTAMP:20260710T125854Z
-UID:20260317T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 7\nГруппы: 2242
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260318T104500
-DTEND;TZID=Europe/Moscow:20260318T121500
-DTSTAMP:20260710T125854Z
-UID:20260318T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260318T123000
-DTEND;TZID=Europe/Moscow:20260318T140000
-DTSTAMP:20260710T125854Z
-UID:20260318T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 7 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260318T162500
-DTEND;TZID=Europe/Moscow:20260318T175500
-DTSTAMP:20260710T125854Z
-UID:20260318T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 7\nГруппы: 2244
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260319T104500
-DTEND;TZID=Europe/Moscow:20260319T121500
-DTSTAMP:20260710T125854Z
-UID:20260319T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260319T123000
-DTEND;TZID=Europe/Moscow:20260319T140000
-DTSTAMP:20260710T125854Z
-UID:20260319T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 7 2243 гр.
-DTSTART;TZID=Europe/Moscow:20260319T162500
-DTEND;TZID=Europe/Moscow:20260319T175500
-DTSTAMP:20260710T125854Z
-UID:20260319T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 7\nГруппы: 2243
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.7 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260320T090000
-DTEND;TZID=Europe/Moscow:20260320T103000
-DTSTAMP:20260710T125854Z
-UID:20260320T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.7 Специальная первоначальная 
- пожарная подготовка спасателя 4/217 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260320T104500
-DTEND;TZID=Europe/Moscow:20260320T121500
-DTSTAMP:20260710T125854Z
-UID:20260320T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/217\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 6253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260323T090000
-DTEND;TZID=Europe/Moscow:20260323T103000
-DTSTAMP:20260710T125854Z
-UID:20260323T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 6253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260323T104500
-DTEND;TZID=Europe/Moscow:20260323T121500
-DTSTAMP:20260710T125854Z
-UID:20260323T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 6253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260323T123000
-DTEND;TZID=Europe/Moscow:20260323T140000
-DTSTAMP:20260710T125854Z
-UID:20260323T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний ЭИ
- ОС 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260323T162500
-DTEND;TZID=Europe/Moscow:20260323T175500
-DTSTAMP:20260710T125854Z
-UID:20260323T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: ЭИ
- ОС\nГруппы: 6243
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 6254 
- гр.
-DTSTART;TZID=Europe/Moscow:20260324T090000
-DTEND;TZID=Europe/Moscow:20260324T103000
-DTSTAMP:20260710T125854Z
-UID:20260324T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 6254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 6254 
- гр.
-DTSTART;TZID=Europe/Moscow:20260324T104500
-DTEND;TZID=Europe/Moscow:20260324T121500
-DTSTAMP:20260710T125854Z
-UID:20260324T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 6254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 6254 
- гр.
-DTSTART;TZID=Europe/Moscow:20260324T123000
-DTEND;TZID=Europe/Moscow:20260324T140000
-DTSTAMP:20260710T125854Z
-UID:20260324T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 6254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 1 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260324T144000
-DTEND;TZID=Europe/Moscow:20260324T161000
-DTSTAMP:20260710T125854Z
-UID:20260324T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 1\nГруппы: 3243
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 7 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260324T162500
-DTEND;TZID=Europe/Moscow:20260324T175500
-DTSTAMP:20260710T125854Z
-UID:20260324T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 7\nГруппы: 6244
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Огневая подготовка УСК тир 22
- 38 гр.
-DTSTART;TZID=Europe/Moscow:20260325T123000
-DTEND;TZID=Europe/Moscow:20260325T140000
-DTSTAMP:20260710T125854Z
-UID:20260325T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Огневая подготовка\nАудитория: УСК тир\n
- Группы: 2238
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний 4/21
- 7 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260326T162500
-DTEND;TZID=Europe/Moscow:20260326T175500
-DTSTAMP:20260710T125854Z
-UID:20260326T162500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: 4/21
- 7\nГруппы: 2248
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260328T090000
-DTEND;TZID=Europe/Moscow:20260328T103000
-DTSTAMP:20260710T125854Z
-UID:20260328T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260328T104500
-DTEND;TZID=Europe/Moscow:20260328T121500
-DTSTAMP:20260710T125854Z
-UID:20260328T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.8 Специальная первоначальная 
- пожарная подготовка спасателя 2/111 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260331T104500
-DTEND;TZID=Europe/Moscow:20260331T121500
-DTSTAMP:20260710T125854Z
-UID:20260331T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 2/111\nГрупп
- ы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260401T090000
-DTEND;TZID=Europe/Moscow:20260401T103000
-DTSTAMP:20260710T125854Z
-UID:20260401T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260401T104500
-DTEND;TZID=Europe/Moscow:20260401T121500
-DTSTAMP:20260710T125854Z
-UID:20260401T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260401T123000
-DTEND;TZID=Europe/Moscow:20260401T140000
-DTSTAMP:20260710T125854Z
-UID:20260401T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260403T090000
-DTEND;TZID=Europe/Moscow:20260403T103000
-DTSTAMP:20260710T125854Z
-UID:20260403T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260403T104500
-DTEND;TZID=Europe/Moscow:20260403T121500
-DTSTAMP:20260710T125854Z
-UID:20260403T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260403T123000
-DTEND;TZID=Europe/Moscow:20260403T140000
-DTSTAMP:20260710T125854Z
-UID:20260403T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260404T090000
-DTEND;TZID=Europe/Moscow:20260404T103000
-DTSTAMP:20260710T125854Z
-UID:20260404T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260404T104500
-DTEND;TZID=Europe/Moscow:20260404T121500
-DTSTAMP:20260710T125854Z
-UID:20260404T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260404T123000
-DTEND;TZID=Europe/Moscow:20260404T140000
-DTSTAMP:20260710T125854Z
-UID:20260404T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Зач.)   Пожарно-строевая подготовка 4
- /УПК 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260406T090000
-DTEND;TZID=Europe/Moscow:20260406T103000
-DTSTAMP:20260710T125854Z
-UID:20260406T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Пожарно-строевая подготовка\nАудитория: 
- 4/УПК\nГруппы: 5240
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Зач.)   Пожарно-строевая подготовка 4
- /УПК 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260406T104500
-DTEND;TZID=Europe/Moscow:20260406T121500
-DTSTAMP:20260710T125854Z
-UID:20260406T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Пожарно-строевая подготовка\nАудитория: 
- 4/УПК\nГруппы: 5240
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   ГДЗС 4/УПКФ 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260407T123000
-DTEND;TZID=Europe/Moscow:20260407T140000
-DTSTAMP:20260710T125854Z
-UID:20260407T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
- ДЗС\nАудитория: 4/УПКФ\nГруппы: 5249А
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   ГДЗС 4/УПКФ 5249А гр.
-DTSTART;TZID=Europe/Moscow:20260407T144000
-DTEND;TZID=Europe/Moscow:20260407T161000
-DTSTAMP:20260710T125854Z
-UID:20260407T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
- ДЗС\nАудитория: 4/УПКФ\nГруппы: 5249А
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Зач.)   ГДЗС 4/УПК 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260408T090000
-DTEND;TZID=Europe/Moscow:20260408T103000
-DTSTAMP:20260710T125854Z
-UID:20260408T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- ГДЗС\nАудитория: 4/УПК\nГруппы: 5240
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Зач.)   ГДЗС 4/УПК 5240 гр.
-DTSTART;TZID=Europe/Moscow:20260408T104500
-DTEND;TZID=Europe/Moscow:20260408T121500
-DTSTAMP:20260710T125854Z
-UID:20260408T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- ГДЗС\nАудитория: 4/УПК\nГруппы: 5240
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   ГДЗС 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260409T090000
-DTEND;TZID=Europe/Moscow:20260409T103000
-DTSTAMP:20260710T125854Z
-UID:20260409T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
- ДЗС\nАудитория: 3/101\nГруппы: 5249Б
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   ГДЗС 3/101 5249Б гр.
-DTSTART;TZID=Europe/Moscow:20260409T104500
-DTEND;TZID=Europe/Moscow:20260409T121500
-DTSTAMP:20260710T125854Z
-UID:20260409T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
- ДЗС\nАудитория: 3/101\nГруппы: 5249Б
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260410T090000
-DTEND;TZID=Europe/Moscow:20260410T103000
-DTSTAMP:20260710T125854Z
-UID:20260410T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260410T104500
-DTEND;TZID=Europe/Moscow:20260410T121500
-DTSTAMP:20260710T125854Z
-UID:20260410T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260410T123000
-DTEND;TZID=Europe/Moscow:20260410T140000
-DTSTAMP:20260710T125854Z
-UID:20260410T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260411T090000
-DTEND;TZID=Europe/Moscow:20260411T103000
-DTSTAMP:20260710T125854Z
-UID:20260411T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260411T104500
-DTEND;TZID=Europe/Moscow:20260411T121500
-DTSTAMP:20260710T125854Z
-UID:20260411T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260411T123000
-DTEND;TZID=Europe/Moscow:20260411T140000
-DTSTAMP:20260710T125854Z
-UID:20260411T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260413T090000
-DTEND;TZID=Europe/Moscow:20260413T103000
-DTSTAMP:20260710T125854Z
-UID:20260413T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260413T104500
-DTEND;TZID=Europe/Moscow:20260413T121500
-DTSTAMP:20260710T125854Z
-UID:20260413T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 3/201 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260414T104500
-DTEND;TZID=Europe/Moscow:20260414T121500
-DTSTAMP:20260710T125854Z
-UID:20260414T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/201\nГрупп
- ы: 2251
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 3/201 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260414T123000
-DTEND;TZID=Europe/Moscow:20260414T140000
-DTSTAMP:20260710T125854Z
-UID:20260414T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/201\nГрупп
- ы: 2251
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260415T090000
-DTEND;TZID=Europe/Moscow:20260415T103000
-DTSTAMP:20260710T125854Z
-UID:20260415T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260415T104500
-DTEND;TZID=Europe/Moscow:20260415T121500
-DTSTAMP:20260710T125854Z
-UID:20260415T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260416T104500
-DTEND;TZID=Europe/Moscow:20260416T121500
-DTSTAMP:20260710T125854Z
-UID:20260416T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260416T123000
-DTEND;TZID=Europe/Moscow:20260416T140000
-DTSTAMP:20260710T125854Z
-UID:20260416T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   СПППС 4/УПК 5259 гр.
-DTSTART;TZID=Europe/Moscow:20260417T123000
-DTEND;TZID=Europe/Moscow:20260417T140000
-DTSTAMP:20260710T125854Z
-UID:20260417T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: С
- ПППС\nАудитория: 4/УПК\nГруппы: 5259
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   СПППС 4/УПК 5259 гр.
-DTSTART;TZID=Europe/Moscow:20260417T144000
-DTEND;TZID=Europe/Moscow:20260417T161000
-DTSTAMP:20260710T125854Z
-UID:20260417T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: С
- ПППС\nАудитория: 4/УПК\nГруппы: 5259
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260418T104500
-DTEND;TZID=Europe/Moscow:20260418T121500
-DTSTAMP:20260710T125854Z
-UID:20260418T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260418T123000
-DTEND;TZID=Europe/Moscow:20260418T140000
-DTSTAMP:20260710T125854Z
-UID:20260418T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260421T104500
-DTEND;TZID=Europe/Moscow:20260421T121500
-DTSTAMP:20260710T125854Z
-UID:20260421T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260421T123000
-DTEND;TZID=Europe/Moscow:20260421T140000
-DTSTAMP:20260710T125854Z
-UID:20260421T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260422T104500
-DTEND;TZID=Europe/Moscow:20260422T121500
-DTSTAMP:20260710T125854Z
-UID:20260422T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260422T123000
-DTEND;TZID=Europe/Moscow:20260422T140000
-DTSTAMP:20260710T125854Z
-UID:20260422T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260425T104500
-DTEND;TZID=Europe/Moscow:20260425T121500
-DTSTAMP:20260710T125854Z
-UID:20260425T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260425T123000
-DTEND;TZID=Europe/Moscow:20260425T140000
-DTSTAMP:20260710T125854Z
-UID:20260425T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260427T104500
-DTEND;TZID=Europe/Moscow:20260427T121500
-DTSTAMP:20260710T125854Z
-UID:20260427T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2258 г
- р.
-DTSTART;TZID=Europe/Moscow:20260427T123000
-DTEND;TZID=Europe/Moscow:20260427T140000
-DTSTAMP:20260710T125854Z
-UID:20260427T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260429T104500
-DTEND;TZID=Europe/Moscow:20260429T121500
-DTSTAMP:20260710T125854Z
-UID:20260429T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260429T123000
-DTEND;TZID=Europe/Moscow:20260429T140000
-DTSTAMP:20260710T125854Z
-UID:20260429T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260430T090000
-DTEND;TZID=Europe/Moscow:20260430T103000
-DTSTAMP:20260710T125854Z
-UID:20260430T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260430T104500
-DTEND;TZID=Europe/Moscow:20260430T121500
-DTSTAMP:20260710T125854Z
-UID:20260430T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260504T104500
-DTEND;TZID=Europe/Moscow:20260504T121500
-DTSTAMP:20260710T125854Z
-UID:20260504T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260504T123000
-DTEND;TZID=Europe/Moscow:20260504T140000
-DTSTAMP:20260710T125854Z
-UID:20260504T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 3/501 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260505T104500
-DTEND;TZID=Europe/Moscow:20260505T121500
-DTSTAMP:20260710T125854Z
-UID:20260505T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/501\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 3/501 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260505T123000
-DTEND;TZID=Europe/Moscow:20260505T140000
-DTSTAMP:20260710T125854Z
-UID:20260505T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/501\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 3/202 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260506T090000
-DTEND;TZID=Europe/Moscow:20260506T103000
-DTSTAMP:20260710T125854Z
-UID:20260506T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/202\nГрупп
- ы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 3/203 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260506T104500
-DTEND;TZID=Europe/Moscow:20260506T121500
-DTSTAMP:20260710T125854Z
-UID:20260506T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/203\nГрупп
- ы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 3/201 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260507T104500
-DTEND;TZID=Europe/Moscow:20260507T121500
-DTSTAMP:20260710T125854Z
-UID:20260507T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/201\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 3/201 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260507T123000
-DTEND;TZID=Europe/Moscow:20260507T140000
-DTSTAMP:20260710T125854Z
-UID:20260507T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 3/201\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260710T125854Z
-UID:20260512T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260512T123000
-DTEND;TZID=Europe/Moscow:20260512T140000
-DTSTAMP:20260710T125854Z
-UID:20260512T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260516T104500
-DTEND;TZID=Europe/Moscow:20260516T121500
-DTSTAMP:20260710T125854Z
-UID:20260516T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260516T123000
-DTEND;TZID=Europe/Moscow:20260516T140000
-DTSTAMP:20260710T125854Z
-UID:20260516T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260518T104500
-DTEND;TZID=Europe/Moscow:20260518T121500
-DTSTAMP:20260710T125854Z
-UID:20260518T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2256 г
- р.
-DTSTART;TZID=Europe/Moscow:20260518T123000
-DTEND;TZID=Europe/Moscow:20260518T140000
-DTSTAMP:20260710T125854Z
-UID:20260518T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2256
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 6253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260519T090000
-DTEND;TZID=Europe/Moscow:20260519T103000
-DTSTAMP:20260710T125854Z
-UID:20260519T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 6253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260519T104500
-DTEND;TZID=Europe/Moscow:20260519T121500
-DTSTAMP:20260710T125854Z
-UID:20260519T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 6253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260521T090000
-DTEND;TZID=Europe/Moscow:20260521T103000
-DTSTAMP:20260710T125854Z
-UID:20260521T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 6253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260521T104500
-DTEND;TZID=Europe/Moscow:20260521T121500
-DTSTAMP:20260710T125854Z
-UID:20260521T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260525T090000
-DTEND;TZID=Europe/Moscow:20260525T103000
-DTSTAMP:20260710T125854Z
-UID:20260525T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260525T104500
-DTEND;TZID=Europe/Moscow:20260525T121500
-DTSTAMP:20260710T125854Z
-UID:20260525T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2253 г
- р.
-DTSTART;TZID=Europe/Moscow:20260525T123000
-DTEND;TZID=Europe/Moscow:20260525T140000
-DTSTAMP:20260710T125854Z
-UID:20260525T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260601T090000
-DTEND;TZID=Europe/Moscow:20260601T103000
-DTSTAMP:20260710T125854Z
-UID:20260601T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260601T104500
-DTEND;TZID=Europe/Moscow:20260601T121500
-DTSTAMP:20260710T125854Z
-UID:20260601T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2252 г
- р.
-DTSTART;TZID=Europe/Moscow:20260601T123000
-DTEND;TZID=Europe/Moscow:20260601T140000
-DTSTAMP:20260710T125854Z
-UID:20260601T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Специальная первоначальная 
- пожарная подготовка спасателя 4/221 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260602T123000
-DTEND;TZID=Europe/Moscow:20260602T140000
-DTSTAMP:20260710T125854Z
-UID:20260602T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/221\nГрупп
- ы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   4.4 Специальная первоначальная
-  пожарная подготовка спасателя 4/221 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260602T144000
-DTEND;TZID=Europe/Moscow:20260602T161000
-DTSTAMP:20260710T125854Z
-UID:20260602T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:   4.4\nПредмет
- : Специальная первоначальная пожарная п
- одготовка спасателя\nАудитория: 4/221\nГруп
- пы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/211 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260603T104500
-DTEND;TZID=Europe/Moscow:20260603T121500
-DTSTAMP:20260710T125854Z
-UID:20260603T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/211\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/211 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260603T123000
-DTEND;TZID=Europe/Moscow:20260603T140000
-DTSTAMP:20260710T125854Z
-UID:20260603T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/211\nГрупп
- ы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260604T090000
-DTEND;TZID=Europe/Moscow:20260604T103000
-DTSTAMP:20260710T125854Z
-UID:20260604T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260604T104500
-DTEND;TZID=Europe/Moscow:20260604T121500
-DTSTAMP:20260710T125854Z
-UID:20260604T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/218 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260604T123000
-DTEND;TZID=Europe/Moscow:20260604T140000
-DTSTAMP:20260710T125854Z
-UID:20260604T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260605T104500
-DTEND;TZID=Europe/Moscow:20260605T121500
-DTSTAMP:20260710T125854Z
-UID:20260605T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.5 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260605T123000
-DTEND;TZID=Europe/Moscow:20260605T140000
-DTSTAMP:20260710T125854Z
-UID:20260605T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.5\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260606T090000
-DTEND;TZID=Europe/Moscow:20260606T103000
-DTSTAMP:20260710T125854Z
-UID:20260606T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260606T104500
-DTEND;TZID=Europe/Moscow:20260606T121500
-DTSTAMP:20260710T125854Z
-UID:20260606T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПК 2254 г
- р.
-DTSTART;TZID=Europe/Moscow:20260606T123000
-DTEND;TZID=Europe/Moscow:20260606T140000
-DTSTAMP:20260710T125854Z
-UID:20260606T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260608T090000
-DTEND;TZID=Europe/Moscow:20260608T103000
-DTSTAMP:20260710T125854Z
-UID:20260608T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260608T104500
-DTEND;TZID=Europe/Moscow:20260608T121500
-DTSTAMP:20260710T125854Z
-UID:20260608T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.6 Специальная первоначальная 
- пожарная подготовка спасателя 4/УПКФ 3253 
- гр.
-DTSTART;TZID=Europe/Moscow:20260608T123000
-DTEND;TZID=Europe/Moscow:20260608T140000
-DTSTAMP:20260710T125854Z
-UID:20260608T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.6\nПредмет:
-  Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПКФ\nГр
- уппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/УПК 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260609T090000
-DTEND;TZID=Europe/Moscow:20260609T103000
-DTSTAMP:20260710T125854Z
-UID:20260609T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/УПК 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260609T104500
-DTEND;TZID=Europe/Moscow:20260609T121500
-DTSTAMP:20260710T125854Z
-UID:20260609T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/УПК\nГру
- ппы: 2253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/211 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260610T104500
-DTEND;TZID=Europe/Moscow:20260610T121500
-DTSTAMP:20260710T125854Z
-UID:20260610T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/211\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/211 2254 гр.
-DTSTART;TZID=Europe/Moscow:20260610T123000
-DTEND;TZID=Europe/Moscow:20260610T140000
-DTSTAMP:20260710T125854Z
-UID:20260610T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/211\nГрупп
- ы: 2254
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/218 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260611T090000
-DTEND;TZID=Europe/Moscow:20260611T103000
-DTSTAMP:20260710T125854Z
-UID:20260611T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Специальная первоначальная п
- ожарная подготовка спасателя 4/218 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260611T104500
-DTEND;TZID=Europe/Moscow:20260611T121500
-DTSTAMP:20260710T125854Z
-UID:20260611T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Специальная первоначальная пожарная по
- дготовка спасателя\nАудитория: 4/218\nГрупп
- ы: 2258
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)  с оценкой Специальная первона
- чальная пожарная подготовка спасателя 4/
- 217 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260611T123000
-DTEND;TZID=Europe/Moscow:20260611T140000
-DTSTAMP:20260710T125854Z
-UID:20260611T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
- Предмет: Специальная первоначальная пож
- арная подготовка спасателя\nАудитория: 4/
- 217\nГруппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)  с оценкой Специальная первона
- чальная пожарная подготовка спасателя 4/
- 217 3253 гр.
-DTSTART;TZID=Europe/Moscow:20260611T144000
-DTEND;TZID=Europe/Moscow:20260611T161000
-DTSTAMP:20260710T125854Z
-UID:20260611T144000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
- Предмет: Специальная первоначальная пож
- арная подготовка спасателя\nАудитория: 4/
- 217\nГруппы: 3253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260615T090000
-DTEND;TZID=Europe/Moscow:20260615T103000
-DTSTAMP:20260710T125854Z
-UID:20260615T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260615T104500
-DTEND;TZID=Europe/Moscow:20260615T121500
-DTSTAMP:20260710T125854Z
-UID:20260615T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260615T123000
-DTEND;TZID=Europe/Moscow:20260615T140000
-DTSTAMP:20260710T125854Z
-UID:20260615T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260616T090000
-DTEND;TZID=Europe/Moscow:20260616T103000
-DTSTAMP:20260710T125854Z
-UID:20260616T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260616T104500
-DTEND;TZID=Europe/Moscow:20260616T121500
-DTSTAMP:20260710T125854Z
-UID:20260616T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260616T123000
-DTEND;TZID=Europe/Moscow:20260616T140000
-DTSTAMP:20260710T125854Z
-UID:20260616T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260617T090000
-DTEND;TZID=Europe/Moscow:20260617T103000
-DTSTAMP:20260710T125854Z
-UID:20260617T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260617T104500
-DTEND;TZID=Europe/Moscow:20260617T121500
-DTSTAMP:20260710T125854Z
-UID:20260617T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260617T123000
-DTEND;TZID=Europe/Moscow:20260617T140000
-DTSTAMP:20260710T125854Z
-UID:20260617T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260618T090000
-DTEND;TZID=Europe/Moscow:20260618T103000
-DTSTAMP:20260710T125854Z
-UID:20260618T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260618T104500
-DTEND;TZID=Europe/Moscow:20260618T121500
-DTSTAMP:20260710T125854Z
-UID:20260618T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260618T123000
-DTEND;TZID=Europe/Moscow:20260618T140000
-DTSTAMP:20260710T125854Z
-UID:20260618T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260619T090000
-DTEND;TZID=Europe/Moscow:20260619T103000
-DTSTAMP:20260710T125854Z
-UID:20260619T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260619T104500
-DTEND;TZID=Europe/Moscow:20260619T121500
-DTSTAMP:20260710T125854Z
-UID:20260619T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260619T123000
-DTEND;TZID=Europe/Moscow:20260619T140000
-DTSTAMP:20260710T125854Z
-UID:20260619T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260620T090000
-DTEND;TZID=Europe/Moscow:20260620T103000
-DTSTAMP:20260710T125854Z
-UID:20260620T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
+SUMMARY:(л.)  1.2 Газодымозащитная служба 4/217 625
+ 3 гр. 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260901T123000
+DTEND;TZID=Europe/Moscow:20260901T140000
+DTSTAMP:20260826T115156Z
+UID:20260901T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Г
+ азодымозащитная служба\nАудитория: 4/217\nГ
+ руппы: 6253 6254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.2 Газодымозащитная служба 2/311 225
+ 1 гр. 2252 гр. 2253 гр. 2254 гр. 2256 гр. 2258 гр.
+DTSTART;TZID=Europe/Moscow:20260902T123000
+DTEND;TZID=Europe/Moscow:20260902T140000
+DTSTAMP:20260826T115156Z
+UID:20260902T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Г
+ азодымозащитная служба\nАудитория: 2/311\nГ
+ руппы: 2251 2252 2253 2254 2256 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.3 Газодымозащитная служба 4/211 
+ 2253 гр.
+DTSTART;TZID=Europe/Moscow:20260903T090000
+DTEND;TZID=Europe/Moscow:20260903T103000
+DTSTAMP:20260826T115156Z
+UID:20260903T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/211\
+ nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Газодымозащитная служба 2/311 225
+ 1 гр. 2252 гр. 2253 гр. 2254 гр. 2256 гр. 2258 гр.
+DTSTART;TZID=Europe/Moscow:20260907T090000
+DTEND;TZID=Europe/Moscow:20260907T103000
+DTSTAMP:20260826T115156Z
+UID:20260907T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Г
+ азодымозащитная служба\nАудитория: 2/311\nГ
+ руппы: 2251 2252 2253 2254 2256 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Газодымозащитная служба 3/201 625
+ 3 гр. 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260907T123000
+DTEND;TZID=Europe/Moscow:20260907T140000
+DTSTAMP:20260826T115156Z
+UID:20260907T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Г
+ азодымозащитная служба\nАудитория: 3/201\nГ
+ руппы: 6253 6254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Газодымозащитная служба 4/217 
+ 2252 гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T115156Z
+UID:20260910T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/217\
+ nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Газодымозащитная служба 4/217 
+ 2258 гр.
+DTSTART;TZID=Europe/Moscow:20260911T123000
+DTEND;TZID=Europe/Moscow:20260911T140000
+DTSTAMP:20260826T115156Z
+UID:20260911T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/217\
+ nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20260915T104500
+DTEND;TZID=Europe/Moscow:20260915T121500
+DTSTAMP:20260826T115156Z
+UID:20260915T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260620T104500
-DTEND;TZID=Europe/Moscow:20260620T121500
-DTSTAMP:20260710T125854Z
-UID:20260620T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20260915T123000
+DTEND;TZID=Europe/Moscow:20260915T140000
+DTSTAMP:20260826T115156Z
+UID:20260915T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260620T123000
-DTEND;TZID=Europe/Moscow:20260620T140000
-DTSTAMP:20260710T125854Z
-UID:20260620T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20260917T104500
+DTEND;TZID=Europe/Moscow:20260917T121500
+DTSTAMP:20260826T115156Z
+UID:20260917T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260622T090000
-DTEND;TZID=Europe/Moscow:20260622T103000
-DTSTAMP:20260710T125854Z
-UID:20260622T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260622T104500
-DTEND;TZID=Europe/Moscow:20260622T121500
-DTSTAMP:20260710T125854Z
-UID:20260622T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260622T123000
-DTEND;TZID=Europe/Moscow:20260622T140000
-DTSTAMP:20260710T125854Z
-UID:20260622T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260623T090000
-DTEND;TZID=Europe/Moscow:20260623T103000
-DTSTAMP:20260710T125854Z
-UID:20260623T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260623T104500
-DTEND;TZID=Europe/Moscow:20260623T121500
-DTSTAMP:20260710T125854Z
-UID:20260623T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 6253 гр.
-DTSTART;TZID=Europe/Moscow:20260623T123000
-DTEND;TZID=Europe/Moscow:20260623T140000
-DTSTAMP:20260710T125854Z
-UID:20260623T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 6253
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260629T090000
-DTEND;TZID=Europe/Moscow:20260629T103000
-DTSTAMP:20260710T125854Z
-UID:20260629T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260629T104500
-DTEND;TZID=Europe/Moscow:20260629T121500
-DTSTAMP:20260710T125854Z
-UID:20260629T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260629T123000
-DTEND;TZID=Europe/Moscow:20260629T140000
-DTSTAMP:20260710T125854Z
-UID:20260629T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260630T090000
-DTEND;TZID=Europe/Moscow:20260630T103000
-DTSTAMP:20260710T125854Z
-UID:20260630T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260630T104500
-DTEND;TZID=Europe/Moscow:20260630T121500
-DTSTAMP:20260710T125854Z
-UID:20260630T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260630T123000
-DTEND;TZID=Europe/Moscow:20260630T140000
-DTSTAMP:20260710T125854Z
-UID:20260630T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260701T090000
-DTEND;TZID=Europe/Moscow:20260701T103000
-DTSTAMP:20260710T125854Z
-UID:20260701T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260701T104500
-DTEND;TZID=Europe/Moscow:20260701T121500
-DTSTAMP:20260710T125854Z
-UID:20260701T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260701T123000
-DTEND;TZID=Europe/Moscow:20260701T140000
-DTSTAMP:20260710T125854Z
-UID:20260701T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260702T090000
-DTEND;TZID=Europe/Moscow:20260702T103000
-DTSTAMP:20260710T125854Z
-UID:20260702T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260702T104500
-DTEND;TZID=Europe/Moscow:20260702T121500
-DTSTAMP:20260710T125854Z
-UID:20260702T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260702T123000
-DTEND;TZID=Europe/Moscow:20260702T140000
-DTSTAMP:20260710T125854Z
-UID:20260702T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260703T090000
-DTEND;TZID=Europe/Moscow:20260703T103000
-DTSTAMP:20260710T125854Z
-UID:20260703T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260703T104500
-DTEND;TZID=Europe/Moscow:20260703T121500
-DTSTAMP:20260710T125854Z
-UID:20260703T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260703T123000
-DTEND;TZID=Europe/Moscow:20260703T140000
-DTSTAMP:20260710T125854Z
-UID:20260703T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260704T090000
-DTEND;TZID=Europe/Moscow:20260704T103000
-DTSTAMP:20260710T125854Z
-UID:20260704T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20260917T123000
+DTEND;TZID=Europe/Moscow:20260917T140000
+DTSTAMP:20260826T115156Z
+UID:20260917T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260704T104500
-DTEND;TZID=Europe/Moscow:20260704T121500
-DTSTAMP:20260710T125854Z
-UID:20260704T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20260921T090000
+DTEND;TZID=Europe/Moscow:20260921T103000
+DTSTAMP:20260826T115156Z
+UID:20260921T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260704T123000
-DTEND;TZID=Europe/Moscow:20260704T140000
-DTSTAMP:20260710T125854Z
-UID:20260704T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20260921T104500
+DTEND;TZID=Europe/Moscow:20260921T121500
+DTSTAMP:20260826T115156Z
+UID:20260921T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260706T090000
-DTEND;TZID=Europe/Moscow:20260706T103000
-DTSTAMP:20260710T125854Z
-UID:20260706T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+SUMMARY:(л.)  4.2 Газодымозащитная служба 4/УПК 
+ 6253 гр. 6254 гр.
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T115156Z
+UID:20260921T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: Г
+ азодымозащитная служба\nАудитория: 4/УПК\
+ nГруппы: 6253 6254
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260706T104500
-DTEND;TZID=Europe/Moscow:20260706T121500
-DTSTAMP:20260710T125854Z
-UID:20260706T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20260923T090000
+DTEND;TZID=Europe/Moscow:20260923T103000
+DTSTAMP:20260826T115156Z
+UID:20260923T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260706T123000
-DTEND;TZID=Europe/Moscow:20260706T140000
-DTSTAMP:20260710T125854Z
-UID:20260706T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/319 
+ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20260923T104500
+DTEND;TZID=Europe/Moscow:20260923T121500
+DTSTAMP:20260826T115156Z
+UID:20260923T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/319\
+ nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260707T090000
-DTEND;TZID=Europe/Moscow:20260707T103000
-DTSTAMP:20260710T125854Z
-UID:20260707T090000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20260924T090000
+DTEND;TZID=Europe/Moscow:20260924T103000
+DTSTAMP:20260826T115156Z
+UID:20260924T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
- 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260707T104500
-DTEND;TZID=Europe/Moscow:20260707T121500
-DTSTAMP:20260710T125854Z
-UID:20260707T104500@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
- nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T115156Z
+UID:20260924T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Учебная практика/Учебная пр
- актика\, по получению первичных професси
- ональных умений и навыков пожарного НСЦ 
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20260925T104500
+DTEND;TZID=Europe/Moscow:20260925T121500
+DTSTAMP:20260826T115156Z
+UID:20260925T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20260925T123000
+DTEND;TZID=Europe/Moscow:20260925T140000
+DTSTAMP:20260826T115156Z
+UID:20260925T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20260926T104500
+DTEND;TZID=Europe/Moscow:20260926T121500
+DTSTAMP:20260826T115156Z
+UID:20260926T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20260926T123000
+DTEND;TZID=Europe/Moscow:20260926T140000
+DTSTAMP:20260826T115156Z
+UID:20260926T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.2 Газодымозащитная служба 4/217 625
+ 3 гр. 6254 гр.
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260826T115156Z
+UID:20261001T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: Г
+ азодымозащитная служба\nАудитория: 4/217\nГ
+ руппы: 6253 6254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260826T115156Z
+UID:20261002T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T115156Z
+UID:20261002T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261003T090000
+DTEND;TZID=Europe/Moscow:20261003T103000
+DTSTAMP:20260826T115156Z
+UID:20261003T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261003T104500
+DTEND;TZID=Europe/Moscow:20261003T121500
+DTSTAMP:20260826T115156Z
+UID:20261003T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261005T104500
+DTEND;TZID=Europe/Moscow:20261005T121500
+DTSTAMP:20260826T115156Z
+UID:20261005T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261005T123000
+DTEND;TZID=Europe/Moscow:20261005T140000
+DTSTAMP:20260826T115156Z
+UID:20261005T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261008T090000
+DTEND;TZID=Europe/Moscow:20261008T103000
+DTSTAMP:20260826T115156Z
+UID:20261008T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261008T104500
+DTEND;TZID=Europe/Moscow:20261008T121500
+DTSTAMP:20260826T115156Z
+UID:20261008T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261009T104500
+DTEND;TZID=Europe/Moscow:20261009T121500
+DTSTAMP:20260826T115156Z
+UID:20261009T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261009T123000
+DTEND;TZID=Europe/Moscow:20261009T140000
+DTSTAMP:20260826T115156Z
+UID:20261009T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261010T090000
+DTEND;TZID=Europe/Moscow:20261010T103000
+DTSTAMP:20260826T115156Z
+UID:20261010T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261010T104500
+DTEND;TZID=Europe/Moscow:20261010T121500
+DTSTAMP:20260826T115156Z
+UID:20261010T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261013T104500
+DTEND;TZID=Europe/Moscow:20261013T121500
+DTSTAMP:20260826T115156Z
+UID:20261013T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261013T123000
+DTEND;TZID=Europe/Moscow:20261013T140000
+DTSTAMP:20260826T115156Z
+UID:20261013T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.2 Газодымозащитная служба 2/307 225
+ 1 гр. 2252 гр. 2253 гр. 2254 гр. 2256 гр. 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261014T123000
+DTEND;TZID=Europe/Moscow:20261014T140000
+DTSTAMP:20260826T115156Z
+UID:20261014T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: Г
+ азодымозащитная служба\nАудитория: 2/307\nГ
+ руппы: 2251 2252 2253 2254 2256 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261015T104500
+DTEND;TZID=Europe/Moscow:20261015T121500
+DTSTAMP:20260826T115156Z
+UID:20261015T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261015T123000
+DTEND;TZID=Europe/Moscow:20261015T140000
+DTSTAMP:20260826T115156Z
+UID:20261015T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.3 Газодымозащитная служба 3/501 
+ 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261016T123000
+DTEND;TZID=Europe/Moscow:20261016T140000
+DTSTAMP:20260826T115156Z
+UID:20261016T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/501\
+ nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.3 Газодымозащитная служба 3/203 
  2252 гр.
-DTSTART;TZID=Europe/Moscow:20260707T123000
-DTEND;TZID=Europe/Moscow:20260707T140000
-DTSTAMP:20260710T125854Z
-UID:20260707T123000@20260710T155854@Москалев Д.А.
-CREATED:20260710T125854Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Учебная практика/Учебная практика\, по п
- олучению первичных профессиональных ум
- ений и навыков пожарного\nАудитория: НСЦ\
+DTSTART;TZID=Europe/Moscow:20261017T090000
+DTEND;TZID=Europe/Moscow:20261017T103000
+DTSTAMP:20260826T115156Z
+UID:20261017T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/203\
  nГруппы: 2252
-LAST-MODIFIED:20260710T125854Z
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.3 Газодымозащитная служба 3/203 
+ 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T115156Z
+UID:20261021T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/203\
+ nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261022T090000
+DTEND;TZID=Europe/Moscow:20261022T103000
+DTSTAMP:20260826T115156Z
+UID:20261022T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261022T104500
+DTEND;TZID=Europe/Moscow:20261022T121500
+DTSTAMP:20260826T115156Z
+UID:20261022T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261022T123000
+DTEND;TZID=Europe/Moscow:20261022T140000
+DTSTAMP:20260826T115156Z
+UID:20261022T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261029T090000
+DTEND;TZID=Europe/Moscow:20261029T103000
+DTSTAMP:20260826T115156Z
+UID:20261029T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261029T104500
+DTEND;TZID=Europe/Moscow:20261029T121500
+DTSTAMP:20260826T115156Z
+UID:20261029T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261029T123000
+DTEND;TZID=Europe/Moscow:20261029T140000
+DTSTAMP:20260826T115156Z
+UID:20261029T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261031T090000
+DTEND;TZID=Europe/Moscow:20261031T103000
+DTSTAMP:20260826T115156Z
+UID:20261031T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261031T104500
+DTEND;TZID=Europe/Moscow:20261031T121500
+DTSTAMP:20260826T115156Z
+UID:20261031T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 6253 гр.
+DTSTART;TZID=Europe/Moscow:20261031T123000
+DTEND;TZID=Europe/Moscow:20261031T140000
+DTSTAMP:20260826T115156Z
+UID:20261031T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 6253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 3/202 
+ 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261102T104500
+DTEND;TZID=Europe/Moscow:20261102T121500
+DTSTAMP:20260826T115156Z
+UID:20261102T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/202\
+ nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 3/202 
+ 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261102T123000
+DTEND;TZID=Europe/Moscow:20261102T140000
+DTSTAMP:20260826T115156Z
+UID:20261102T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/202\
+ nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261105T090000
+DTEND;TZID=Europe/Moscow:20261105T103000
+DTSTAMP:20260826T115156Z
+UID:20261105T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261105T104500
+DTEND;TZID=Europe/Moscow:20261105T121500
+DTSTAMP:20260826T115156Z
+UID:20261105T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261107T104500
+DTEND;TZID=Europe/Moscow:20261107T121500
+DTSTAMP:20260826T115156Z
+UID:20261107T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261107T123000
+DTEND;TZID=Europe/Moscow:20261107T140000
+DTSTAMP:20260826T115156Z
+UID:20261107T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261109T090000
+DTEND;TZID=Europe/Moscow:20261109T103000
+DTSTAMP:20260826T115156Z
+UID:20261109T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261109T104500
+DTEND;TZID=Europe/Moscow:20261109T121500
+DTSTAMP:20260826T115156Z
+UID:20261109T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261110T090000
+DTEND;TZID=Europe/Moscow:20261110T103000
+DTSTAMP:20260826T115156Z
+UID:20261110T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.2 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261110T104500
+DTEND;TZID=Europe/Moscow:20261110T121500
+DTSTAMP:20260826T115156Z
+UID:20261110T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261112T090000
+DTEND;TZID=Europe/Moscow:20261112T103000
+DTSTAMP:20260826T115156Z
+UID:20261112T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261112T104500
+DTEND;TZID=Europe/Moscow:20261112T121500
+DTSTAMP:20260826T115156Z
+UID:20261112T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261112T123000
+DTEND;TZID=Europe/Moscow:20261112T140000
+DTSTAMP:20260826T115156Z
+UID:20261112T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261114T090000
+DTEND;TZID=Europe/Moscow:20261114T103000
+DTSTAMP:20260826T115156Z
+UID:20261114T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261114T104500
+DTEND;TZID=Europe/Moscow:20261114T121500
+DTSTAMP:20260826T115156Z
+UID:20261114T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261114T123000
+DTEND;TZID=Europe/Moscow:20261114T140000
+DTSTAMP:20260826T115156Z
+UID:20261114T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261116T090000
+DTEND;TZID=Europe/Moscow:20261116T103000
+DTSTAMP:20260826T115156Z
+UID:20261116T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261116T104500
+DTEND;TZID=Europe/Moscow:20261116T121500
+DTSTAMP:20260826T115156Z
+UID:20261116T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261116T123000
+DTEND;TZID=Europe/Moscow:20261116T140000
+DTSTAMP:20260826T115156Z
+UID:20261116T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261119T090000
+DTEND;TZID=Europe/Moscow:20261119T103000
+DTSTAMP:20260826T115156Z
+UID:20261119T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261119T104500
+DTEND;TZID=Europe/Moscow:20261119T121500
+DTSTAMP:20260826T115156Z
+UID:20261119T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261119T123000
+DTEND;TZID=Europe/Moscow:20261119T140000
+DTSTAMP:20260826T115156Z
+UID:20261119T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261121T090000
+DTEND;TZID=Europe/Moscow:20261121T103000
+DTSTAMP:20260826T115156Z
+UID:20261121T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261121T104500
+DTEND;TZID=Europe/Moscow:20261121T121500
+DTSTAMP:20260826T115156Z
+UID:20261121T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261121T123000
+DTEND;TZID=Europe/Moscow:20261121T140000
+DTSTAMP:20260826T115156Z
+UID:20261121T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261123T090000
+DTEND;TZID=Europe/Moscow:20261123T103000
+DTSTAMP:20260826T115156Z
+UID:20261123T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261123T104500
+DTEND;TZID=Europe/Moscow:20261123T121500
+DTSTAMP:20260826T115156Z
+UID:20261123T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261123T123000
+DTEND;TZID=Europe/Moscow:20261123T140000
+DTSTAMP:20260826T115156Z
+UID:20261123T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261125T104500
+DTEND;TZID=Europe/Moscow:20261125T121500
+DTSTAMP:20260826T115156Z
+UID:20261125T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261125T123000
+DTEND;TZID=Europe/Moscow:20261125T140000
+DTSTAMP:20260826T115156Z
+UID:20261125T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.3 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261125T144000
+DTEND;TZID=Europe/Moscow:20261125T161000
+DTSTAMP:20260826T115156Z
+UID:20261125T144000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261126T090000
+DTEND;TZID=Europe/Moscow:20261126T103000
+DTSTAMP:20260826T115156Z
+UID:20261126T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261126T104500
+DTEND;TZID=Europe/Moscow:20261126T121500
+DTSTAMP:20260826T115156Z
+UID:20261126T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261126T123000
+DTEND;TZID=Europe/Moscow:20261126T140000
+DTSTAMP:20260826T115156Z
+UID:20261126T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261128T090000
+DTEND;TZID=Europe/Moscow:20261128T103000
+DTSTAMP:20260826T115156Z
+UID:20261128T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261128T104500
+DTEND;TZID=Europe/Moscow:20261128T121500
+DTSTAMP:20260826T115156Z
+UID:20261128T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261128T123000
+DTEND;TZID=Europe/Moscow:20261128T140000
+DTSTAMP:20260826T115156Z
+UID:20261128T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/211 
+ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261130T090000
+DTEND;TZID=Europe/Moscow:20261130T103000
+DTSTAMP:20260826T115156Z
+UID:20261130T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/211\
+ nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/211 
+ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261130T104500
+DTEND;TZID=Europe/Moscow:20261130T121500
+DTSTAMP:20260826T115156Z
+UID:20261130T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/211\
+ nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 3/308 
+ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261130T123000
+DTEND;TZID=Europe/Moscow:20261130T140000
+DTSTAMP:20260826T115156Z
+UID:20261130T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/308\
+ nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261203T090000
+DTEND;TZID=Europe/Moscow:20261203T103000
+DTSTAMP:20260826T115156Z
+UID:20261203T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261203T104500
+DTEND;TZID=Europe/Moscow:20261203T121500
+DTSTAMP:20260826T115156Z
+UID:20261203T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261203T123000
+DTEND;TZID=Europe/Moscow:20261203T140000
+DTSTAMP:20260826T115156Z
+UID:20261203T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261204T090000
+DTEND;TZID=Europe/Moscow:20261204T103000
+DTSTAMP:20260826T115156Z
+UID:20261204T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261204T104500
+DTEND;TZID=Europe/Moscow:20261204T121500
+DTSTAMP:20260826T115156Z
+UID:20261204T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ КФ 3253 гр.
+DTSTART;TZID=Europe/Moscow:20261204T123000
+DTEND;TZID=Europe/Moscow:20261204T140000
+DTSTAMP:20260826T115156Z
+UID:20261204T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ КФ\nГруппы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261205T090000
+DTEND;TZID=Europe/Moscow:20261205T103000
+DTSTAMP:20260826T115156Z
+UID:20261205T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261205T104500
+DTEND;TZID=Europe/Moscow:20261205T121500
+DTSTAMP:20260826T115156Z
+UID:20261205T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.4 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261205T123000
+DTEND;TZID=Europe/Moscow:20261205T140000
+DTSTAMP:20260826T115156Z
+UID:20261205T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.4\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261208T090000
+DTEND;TZID=Europe/Moscow:20261208T103000
+DTSTAMP:20260826T115156Z
+UID:20261208T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261208T104500
+DTEND;TZID=Europe/Moscow:20261208T121500
+DTSTAMP:20260826T115156Z
+UID:20261208T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261208T123000
+DTEND;TZID=Europe/Moscow:20261208T140000
+DTSTAMP:20260826T115156Z
+UID:20261208T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261209T090000
+DTEND;TZID=Europe/Moscow:20261209T103000
+DTSTAMP:20260826T115156Z
+UID:20261209T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261209T104500
+DTEND;TZID=Europe/Moscow:20261209T121500
+DTSTAMP:20260826T115156Z
+UID:20261209T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2252 гр.
+DTSTART;TZID=Europe/Moscow:20261209T123000
+DTEND;TZID=Europe/Moscow:20261209T140000
+DTSTAMP:20260826T115156Z
+UID:20261209T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261210T090000
+DTEND;TZID=Europe/Moscow:20261210T103000
+DTSTAMP:20260826T115156Z
+UID:20261210T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261210T104500
+DTEND;TZID=Europe/Moscow:20261210T121500
+DTSTAMP:20260826T115156Z
+UID:20261210T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261210T123000
+DTEND;TZID=Europe/Moscow:20261210T140000
+DTSTAMP:20260826T115156Z
+UID:20261210T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261211T090000
+DTEND;TZID=Europe/Moscow:20261211T103000
+DTSTAMP:20260826T115156Z
+UID:20261211T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261211T104500
+DTEND;TZID=Europe/Moscow:20261211T121500
+DTSTAMP:20260826T115156Z
+UID:20261211T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261211T123000
+DTEND;TZID=Europe/Moscow:20261211T140000
+DTSTAMP:20260826T115156Z
+UID:20261211T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261212T090000
+DTEND;TZID=Europe/Moscow:20261212T103000
+DTSTAMP:20260826T115156Z
+UID:20261212T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261212T104500
+DTEND;TZID=Europe/Moscow:20261212T121500
+DTSTAMP:20260826T115156Z
+UID:20261212T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  7.5 Газодымозащитная служба 4/УП
+ К 2254 гр.
+DTSTART;TZID=Europe/Moscow:20261212T123000
+DTEND;TZID=Europe/Moscow:20261212T140000
+DTSTAMP:20260826T115156Z
+UID:20261212T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.5\nПредмет:
+  Газодымозащитная служба\nАудитория: 4/УП
+ К\nГруппы: 2254
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.2 Газодымозащитная служба 3/408 
+ 2256 гр.
+DTSTART;TZID=Europe/Moscow:20261214T090000
+DTEND;TZID=Europe/Moscow:20261214T103000
+DTSTAMP:20260826T115156Z
+UID:20261214T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/408\
+ nГруппы: 2256
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Газодымозащитная служба 3/201 22
+ 52 гр.
+DTSTART;TZID=Europe/Moscow:20261215T104500
+DTEND;TZID=Europe/Moscow:20261215T121500
+DTSTAMP:20260826T115156Z
+UID:20261215T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 3/201\n
+ Группы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Газодымозащитная служба 3/201 22
+ 52 гр.
+DTSTART;TZID=Europe/Moscow:20261215T123000
+DTEND;TZID=Europe/Moscow:20261215T140000
+DTSTAMP:20260826T115156Z
+UID:20261215T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 3/201\n
+ Группы: 2252
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Газодымозащитная служба 4/218 32
+ 53 гр.
+DTSTART;TZID=Europe/Moscow:20261216T090000
+DTEND;TZID=Europe/Moscow:20261216T103000
+DTSTAMP:20260826T115156Z
+UID:20261216T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 4/218\n
+ Группы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Газодымозащитная служба 4/218 32
+ 53 гр.
+DTSTART;TZID=Europe/Moscow:20261216T104500
+DTEND;TZID=Europe/Moscow:20261216T121500
+DTSTAMP:20260826T115156Z
+UID:20261216T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 4/218\n
+ Группы: 3253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.2 Газодымозащитная служба 3/201 
+ 2253 гр.
+DTSTART;TZID=Europe/Moscow:20261217T123000
+DTEND;TZID=Europe/Moscow:20261217T140000
+DTSTAMP:20260826T115156Z
+UID:20261217T123000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
+  Газодымозащитная служба\nАудитория: 3/201\
+ nГруппы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Газодымозащитная служба 3/406 22
+ 53 гр.
+DTSTART;TZID=Europe/Moscow:20261218T090000
+DTEND;TZID=Europe/Moscow:20261218T103000
+DTSTAMP:20260826T115156Z
+UID:20261218T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 3/406\n
+ Группы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Газодымозащитная служба 3/406 22
+ 53 гр.
+DTSTART;TZID=Europe/Moscow:20261218T104500
+DTEND;TZID=Europe/Moscow:20261218T121500
+DTSTAMP:20260826T115156Z
+UID:20261218T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 3/406\n
+ Группы: 2253
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Газодымозащитная служба 4/217 22
+ 58 гр.
+DTSTART;TZID=Europe/Moscow:20261219T090000
+DTEND;TZID=Europe/Moscow:20261219T103000
+DTSTAMP:20260826T115156Z
+UID:20261219T090000@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 4/217\n
+ Группы: 2258
+LAST-MODIFIED:20260826T115156Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Газодымозащитная служба 3/501 22
+ 58 гр.
+DTSTART;TZID=Europe/Moscow:20261219T104500
+DTEND;TZID=Europe/Moscow:20261219T121500
+DTSTAMP:20260826T115156Z
+UID:20261219T104500@20260826T145156@Москалев Д.А.
+CREATED:20260826T115156Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Газодымозащитная служба\nАудитория: 3/501\n
+ Группы: 2258
+LAST-MODIFIED:20260826T115156Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
