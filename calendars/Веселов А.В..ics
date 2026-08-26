@@ -19,703 +19,731 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260114T090000
-DTEND;TZID=Europe/Moscow:20260114T103000
-DTSTAMP:20260710T125218Z
-UID:20260114T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260114T104500
-DTEND;TZID=Europe/Moscow:20260114T121500
-DTSTAMP:20260710T125218Z
-UID:20260114T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.3 Технологии аварийно-спасател
- ьных работ 3/202 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260116T090000
-DTEND;TZID=Europe/Moscow:20260116T103000
-DTSTAMP:20260710T125218Z
-UID:20260116T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/202\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260117T104500
-DTEND;TZID=Europe/Moscow:20260117T121500
-DTSTAMP:20260710T125218Z
-UID:20260117T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.5 Технологии аварийно-спасате
- льных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260123T090000
-DTEND;TZID=Europe/Moscow:20260123T103000
-DTSTAMP:20260710T125218Z
-UID:20260123T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.6 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260209T090000
-DTEND;TZID=Europe/Moscow:20260209T103000
-DTSTAMP:20260710T125218Z
-UID:20260209T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Технологии аварийно-спасате
- льных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260209T104500
-DTEND;TZID=Europe/Moscow:20260209T121500
-DTSTAMP:20260710T125218Z
-UID:20260209T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.9 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260225T104500
-DTEND;TZID=Europe/Moscow:20260225T121500
-DTSTAMP:20260710T125218Z
-UID:20260225T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.9\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.3 Технологии аварийно-спасател
- ьных работ 1/411 6243 гр. 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260227T090000
-DTEND;TZID=Europe/Moscow:20260227T103000
-DTSTAMP:20260710T125218Z
-UID:20260227T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 1/411\nГруппы: 6243 6244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.4 Технологии аварийно-спасател
- ьных работ 3/206 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260310T123000
-DTEND;TZID=Europe/Moscow:20260310T140000
-DTSTAMP:20260710T125218Z
-UID:20260310T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.4\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/206\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.12 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260316T123000
-DTEND;TZID=Europe/Moscow:20260316T140000
-DTSTAMP:20260710T125218Z
-UID:20260316T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.12\nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.13 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260710T125218Z
-UID:20260317T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.13\nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
- ельных работ Выезд 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260318T090000
-DTEND;TZID=Europe/Moscow:20260318T103000
-DTSTAMP:20260710T125218Z
-UID:20260318T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
- : Технологии аварийно-спасательных рабо
- т\nАудитория: Выезд\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
- ельных работ Выезд 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260318T104500
-DTEND;TZID=Europe/Moscow:20260318T121500
-DTSTAMP:20260710T125218Z
-UID:20260318T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
- : Технологии аварийно-спасательных рабо
- т\nАудитория: Выезд\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.14 Технологии аварийно-спасат
- ельных работ Выезд 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260318T123000
-DTEND;TZID=Europe/Moscow:20260318T140000
-DTSTAMP:20260710T125218Z
-UID:20260318T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
- : Технологии аварийно-спасательных рабо
- т\nАудитория: Выезд\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.6 Технологии аварийно-спасател
- ьных работ 3/204 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260326T123000
-DTEND;TZID=Europe/Moscow:20260326T140000
-DTSTAMP:20260710T125218Z
-UID:20260326T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/204\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.7 Технологии аварийно-спасател
- ьных работ 3/204 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260331T104500
-DTEND;TZID=Europe/Moscow:20260331T121500
-DTSTAMP:20260710T125218Z
-UID:20260331T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.7\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/204\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260402T104500
-DTEND;TZID=Europe/Moscow:20260402T121500
-DTSTAMP:20260710T125218Z
-UID:20260402T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Технологии аварийно-спасате
- льных работ 3/206 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260408T162500
-DTEND;TZID=Europe/Moscow:20260408T175500
-DTSTAMP:20260710T125218Z
-UID:20260408T162500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/206\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.8 Технологии аварийно-спасател
- ьных работ 3/208 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260409T104500
-DTEND;TZID=Europe/Moscow:20260409T121500
-DTSTAMP:20260710T125218Z
-UID:20260409T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.8\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Технологии аварийно-спасате
- льных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260416T090000
-DTEND;TZID=Europe/Moscow:20260416T103000
-DTSTAMP:20260710T125218Z
-UID:20260416T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Технологии аварийно-спасате
- льных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260423T104500
-DTEND;TZID=Europe/Moscow:20260423T121500
-DTSTAMP:20260710T125218Z
-UID:20260423T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.5 Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260427T090000
-DTEND;TZID=Europe/Moscow:20260427T103000
-DTSTAMP:20260710T125218Z
-UID:20260427T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.5\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.11 Технологии аварийно-спасател
- ьных работ 3/203 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260429T090000
-DTEND;TZID=Europe/Moscow:20260429T103000
-DTSTAMP:20260710T125218Z
-UID:20260429T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.11\nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/203\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Безопасность аварийно-спаса
- тельных работ 3/209 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260430T104500
-DTEND;TZID=Europe/Moscow:20260430T121500
-DTSTAMP:20260710T125218Z
-UID:20260430T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/209\nГруппы: 3233
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Безопасность аварийно-спаса
- тельных работ 3/209 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260430T123000
-DTEND;TZID=Europe/Moscow:20260430T140000
-DTSTAMP:20260710T125218Z
-UID:20260430T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/209\nГруппы: 3233
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.6 Технологии аварийно-спасате
- льных работ 3/209 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260504T123000
-DTEND;TZID=Europe/Moscow:20260504T140000
-DTSTAMP:20260710T125218Z
-UID:20260504T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/209\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.12 Технологии аварийно-спасател
- ьных работ 3/206 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260508T090000
-DTEND;TZID=Europe/Moscow:20260508T103000
-DTSTAMP:20260710T125218Z
-UID:20260508T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.12\nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.7 Организация и ведение авари
- йно-спасательных работ 3/209 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260527T090000
-DTEND;TZID=Europe/Moscow:20260527T103000
-DTSTAMP:20260710T125218Z
-UID:20260527T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/209\nГруппы: 4241Б
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.8 Организация и ведение авари
- йно-спасательных работ 3/204 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260527T104500
-DTEND;TZID=Europe/Moscow:20260527T121500
-DTSTAMP:20260710T125218Z
-UID:20260527T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/204\nГруппы: 4241Б
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Безопасность аварийно-спаса
- тельных работ 3/206 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260528T090000
-DTEND;TZID=Europe/Moscow:20260528T103000
-DTSTAMP:20260710T125218Z
-UID:20260528T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/206\nГруппы: 3233
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Безопасность аварийно-спаса
- тельных работ 3/206 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260528T104500
-DTEND;TZID=Europe/Moscow:20260528T121500
-DTSTAMP:20260710T125218Z
-UID:20260528T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Безопасность аварийно-спасательных раб
- от\nАудитория: 3/206\nГруппы: 3233
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.5 Технологии аварийно-спасател
- ьных работ 3/206 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260601T090000
-DTEND;TZID=Europe/Moscow:20260601T103000
-DTSTAMP:20260710T125218Z
-UID:20260601T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.5\nПредмет: Т
- ехнологии аварийно-спасательных работ\n
- Аудитория: 3/206\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)  с оценкой Технологии аварийно
- -спасательных работ 1/311 3243 гр.
-DTSTART;TZID=Europe/Moscow:20260609T104500
-DTEND;TZID=Europe/Moscow:20260609T121500
-DTSTAMP:20260710T125218Z
-UID:20260609T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
- Предмет: Технологии аварийно-спасательн
- ых работ\nАудитория: 1/311\nГруппы: 3243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Технологии аварийно-спасател
+SUMMARY:(л.)  4.1 Технологии аварийно-спасател
  ьных работ 3/208 6243 гр. 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260615T162500
-DTEND;TZID=Europe/Moscow:20260615T175500
-DTSTAMP:20260710T125218Z
-UID:20260615T162500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
+DTSTART;TZID=Europe/Moscow:20260901T123000
+DTEND;TZID=Europe/Moscow:20260901T140000
+DTSTAMP:20260826T115518Z
+UID:20260901T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Т
  ехнологии аварийно-спасательных работ\n
  Аудитория: 3/208\nГруппы: 6243 6244
-LAST-MODIFIED:20260710T125218Z
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.8 Технологии аварийно-спасате
- льных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260617T104500
-DTEND;TZID=Europe/Moscow:20260617T121500
-DTSTAMP:20260710T125218Z
-UID:20260617T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
-  Технологии аварийно-спасательных работ
- \nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)   Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260618T090000
-DTEND;TZID=Europe/Moscow:20260618T103000
-DTSTAMP:20260710T125218Z
-UID:20260618T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зач.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)   Технологии аварийно-спасател
- ьных работ 3/208 2244 гр.
-DTSTART;TZID=Europe/Moscow:20260618T104500
-DTEND;TZID=Europe/Moscow:20260618T121500
-DTSTAMP:20260710T125218Z
-UID:20260618T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зач.\nТема:  \nПредмет: 
- Технологии аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2244
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.8 Технологии аварийно-спасате
+SUMMARY:(ЗСТ)  5.1 Технологии аварийно-спасате
  льных работ 3/208 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260702T090000
-DTEND;TZID=Europe/Moscow:20260702T103000
-DTSTAMP:20260710T125218Z
-UID:20260702T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+DTSTART;TZID=Europe/Moscow:20260902T104500
+DTEND;TZID=Europe/Moscow:20260902T121500
+DTSTAMP:20260826T115518Z
+UID:20260902T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
   Технологии аварийно-спасательных работ
  \nАудитория: 3/208\nГруппы: 6244
-LAST-MODIFIED:20260710T125218Z
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.8 Технологии аварийно-спасате
+SUMMARY:(л.)  1.1 Ведение спасательных работ в 
+ особых условиях 3/206 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260903T104500
+DTEND;TZID=Europe/Moscow:20260903T121500
+DTSTAMP:20260826T115518Z
+UID:20260903T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: В
+ едение спасательных работ в особых усло
+ виях\nАудитория: 3/206\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Технологии аварийно-спасате
+ льных работ 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20260903T123000
+DTEND;TZID=Europe/Moscow:20260903T140000
+DTSTAMP:20260826T115518Z
+UID:20260903T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.2 Технологии аварийно-спасател
+ ьных работ 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260907T090000
+DTEND;TZID=Europe/Moscow:20260907T103000
+DTSTAMP:20260826T115518Z
+UID:20260907T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.2 Ведение спасательных работ в 
+ особых условиях 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260907T104500
+DTEND;TZID=Europe/Moscow:20260907T121500
+DTSTAMP:20260826T115518Z
+UID:20260907T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: В
+ едение спасательных работ в особых усло
+ виях\nАудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.3 Технологии аварийно-спасател
+ ьных работ 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260910T104500
+DTEND;TZID=Europe/Moscow:20260910T121500
+DTSTAMP:20260826T115518Z
+UID:20260910T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.4 Технологии аварийно-спасател
+ ьных работ 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260915T090000
+DTEND;TZID=Europe/Moscow:20260915T103000
+DTSTAMP:20260826T115518Z
+UID:20260915T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.4 Ведение спасательных работ в 
+ особых условиях 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260917T104500
+DTEND;TZID=Europe/Moscow:20260917T121500
+DTSTAMP:20260826T115518Z
+UID:20260917T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: В
+ едение спасательных работ в особых усло
+ виях\nАудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.5 Технологии аварийно-спасател
+ ьных работ 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260919T090000
+DTEND;TZID=Europe/Moscow:20260919T103000
+DTSTAMP:20260826T115518Z
+UID:20260919T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.6 Ведение спасательных работ в 
+ особых условиях 3/206 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20260928T104500
+DTEND;TZID=Europe/Moscow:20260928T121500
+DTSTAMP:20260826T115518Z
+UID:20260928T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.6\nПредмет: В
+ едение спасательных работ в особых усло
+ виях\nАудитория: 3/206\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261028T090000
+DTEND;TZID=Europe/Moscow:20261028T103000
+DTSTAMP:20260826T115518Z
+UID:20261028T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261028T104500
+DTEND;TZID=Europe/Moscow:20261028T121500
+DTSTAMP:20260826T115518Z
+UID:20261028T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261028T123000
+DTEND;TZID=Europe/Moscow:20261028T140000
+DTSTAMP:20260826T115518Z
+UID:20261028T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261030T090000
+DTEND;TZID=Europe/Moscow:20261030T103000
+DTSTAMP:20260826T115518Z
+UID:20261030T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261030T104500
+DTEND;TZID=Europe/Moscow:20261030T121500
+DTSTAMP:20260826T115518Z
+UID:20261030T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261030T123000
+DTEND;TZID=Europe/Moscow:20261030T140000
+DTSTAMP:20260826T115518Z
+UID:20261030T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Ведение спасательных работ 
+ в особых условиях 3/501 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261112T090000
+DTEND;TZID=Europe/Moscow:20261112T103000
+DTSTAMP:20260826T115518Z
+UID:20261112T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/501\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Ведение спасательных работ 
+ в особых условиях 3/501 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261112T104500
+DTEND;TZID=Europe/Moscow:20261112T121500
+DTSTAMP:20260826T115518Z
+UID:20261112T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/501\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Ведение спасательных работ 
+ в особых условиях 3/204 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261112T123000
+DTEND;TZID=Europe/Moscow:20261112T140000
+DTSTAMP:20260826T115518Z
+UID:20261112T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/204\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Ведение спасательных работ 
+ в особых условиях 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261113T090000
+DTEND;TZID=Europe/Moscow:20261113T103000
+DTSTAMP:20260826T115518Z
+UID:20261113T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Ведение спасательных работ 
+ в особых условиях 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261113T104500
+DTEND;TZID=Europe/Moscow:20261113T121500
+DTSTAMP:20260826T115518Z
+UID:20261113T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Ведение спасательных работ 
+ в особых условиях 3/206 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261113T123000
+DTEND;TZID=Europe/Moscow:20261113T140000
+DTSTAMP:20260826T115518Z
+UID:20261113T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/206\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.2 Технологии аварийно-спасате
+ льных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T115518Z
+UID:20261117T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.2 Технологии аварийно-спасате
  льных работ 3/208 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260702T123000
-DTEND;TZID=Europe/Moscow:20260702T140000
-DTSTAMP:20260710T125218Z
-UID:20260702T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+DTSTART;TZID=Europe/Moscow:20261117T123000
+DTEND;TZID=Europe/Moscow:20261117T140000
+DTSTAMP:20260826T115518Z
+UID:20261117T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
   Технологии аварийно-спасательных работ
  \nАудитория: 3/208\nГруппы: 6243
-LAST-MODIFIED:20260710T125218Z
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(зчО.)   Технологии аварийно-спасател
- ьных работ 3/208 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260703T090000
-DTEND;TZID=Europe/Moscow:20260703T103000
-DTSTAMP:20260710T125218Z
-UID:20260703T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
+SUMMARY:(ЗСТ)  2.4 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261118T090000
+DTEND;TZID=Europe/Moscow:20261118T103000
+DTSTAMP:20260826T115518Z
+UID:20261118T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261118T104500
+DTEND;TZID=Europe/Moscow:20261118T121500
+DTSTAMP:20260826T115518Z
+UID:20261118T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261118T123000
+DTEND;TZID=Europe/Moscow:20261118T140000
+DTSTAMP:20260826T115518Z
+UID:20261118T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261119T090000
+DTEND;TZID=Europe/Moscow:20261119T103000
+DTSTAMP:20260826T115518Z
+UID:20261119T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261119T104500
+DTEND;TZID=Europe/Moscow:20261119T121500
+DTSTAMP:20260826T115518Z
+UID:20261119T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261119T123000
+DTEND;TZID=Europe/Moscow:20261119T140000
+DTSTAMP:20260826T115518Z
+UID:20261119T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.12 Технологии аварийно-спасател
+ ьных работ 3/208 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261124T104500
+DTEND;TZID=Europe/Moscow:20261124T121500
+DTSTAMP:20260826T115518Z
+UID:20261124T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.12\nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.13 Технологии аварийно-спасател
+ ьных работ 3/206 6243 гр. 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261125T090000
+DTEND;TZID=Europe/Moscow:20261125T103000
+DTSTAMP:20260826T115518Z
+UID:20261125T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.13\nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/206\nГруппы: 6243 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261126T090000
+DTEND;TZID=Europe/Moscow:20261126T103000
+DTSTAMP:20260826T115518Z
+UID:20261126T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261126T104500
+DTEND;TZID=Europe/Moscow:20261126T121500
+DTSTAMP:20260826T115518Z
+UID:20261126T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Ведение спасательных работ 
+ в особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261126T123000
+DTEND;TZID=Europe/Moscow:20261126T140000
+DTSTAMP:20260826T115518Z
+UID:20261126T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261127T090000
+DTEND;TZID=Europe/Moscow:20261127T103000
+DTSTAMP:20260826T115518Z
+UID:20261127T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261127T104500
+DTEND;TZID=Europe/Moscow:20261127T121500
+DTSTAMP:20260826T115518Z
+UID:20261127T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Ведение спасательных работ 
+ в особых условиях 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261127T123000
+DTEND;TZID=Europe/Moscow:20261127T140000
+DTSTAMP:20260826T115518Z
+UID:20261127T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Ведение спасательных работ в 
+ особых условиях 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261209T090000
+DTEND;TZID=Europe/Moscow:20261209T103000
+DTSTAMP:20260826T115518Z
+UID:20261209T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Ведение спасательных работ в 
+ особых условиях 3/206 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261210T123000
+DTEND;TZID=Europe/Moscow:20261210T140000
+DTSTAMP:20260826T115518Z
+UID:20261210T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Ведение спасательных работ в особых усл
+ овиях\nАудитория: 3/206\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Организация и ведение аварий
+ но-спасательных работ 3/209 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261221T104500
+DTEND;TZID=Europe/Moscow:20261221T121500
+DTSTAMP:20260826T115518Z
+UID:20261221T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Организация и ведение аварийно-спасател
+ ьных работ\nАудитория: 3/209\nГруппы: 4235
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Организация и ведение аварий
+ но-спасательных работ 3/209 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261221T123000
+DTEND;TZID=Europe/Moscow:20261221T140000
+DTSTAMP:20260826T115518Z
+UID:20261221T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Организация и ведение аварийно-спасател
+ ьных работ\nАудитория: 3/209\nГруппы: 4235
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Организация и ведение аварий
+ но-спасательных работ 3/206 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261221T144000
+DTEND;TZID=Europe/Moscow:20261221T161000
+DTSTAMP:20260826T115518Z
+UID:20261221T144000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Организация и ведение аварийно-спасател
+ ьных работ\nАудитория: 3/206\nГруппы: 4235
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(конс.)   Технологии аварийно-спасате
+ льных работ 3/202 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261222T090000
+DTEND;TZID=Europe/Moscow:20261222T103000
+DTSTAMP:20260826T115518Z
+UID:20261222T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/202\nГруппы: 6244
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/208 6244 гр.
+DTSTART;TZID=Europe/Moscow:20261223T090000
+DTEND;TZID=Europe/Moscow:20261223T103000
+DTSTAMP:20260826T115518Z
+UID:20261223T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Технологии аварийно-спасательных работ\
  nАудитория: 3/208\nГруппы: 6244
-LAST-MODIFIED:20260710T125218Z
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(зчО.)   Технологии аварийно-спасател
+SUMMARY:(экз.)   Технологии аварийно-спасател
  ьных работ 3/208 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260703T104500
-DTEND;TZID=Europe/Moscow:20260703T121500
-DTSTAMP:20260710T125218Z
-UID:20260703T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+DTSTART;TZID=Europe/Moscow:20261223T104500
+DTEND;TZID=Europe/Moscow:20261223T121500
+DTSTAMP:20260826T115518Z
+UID:20261223T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Технологии аварийно-спасательных работ\
  nАудитория: 3/208\nГруппы: 6244
-LAST-MODIFIED:20260710T125218Z
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(зчО.)   Технологии аварийно-спасател
+SUMMARY:(экз.)   Технологии аварийно-спасател
  ьных работ 3/208 6244 гр.
-DTSTART;TZID=Europe/Moscow:20260703T123000
-DTEND;TZID=Europe/Moscow:20260703T140000
-DTSTAMP:20260710T125218Z
-UID:20260703T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+DTSTART;TZID=Europe/Moscow:20261223T123000
+DTEND;TZID=Europe/Moscow:20261223T140000
+DTSTAMP:20260826T115518Z
+UID:20261223T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Технологии аварийно-спасательных работ\
  nАудитория: 3/208\nГруппы: 6244
-LAST-MODIFIED:20260710T125218Z
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(зчО.)   Технологии аварийно-спасател
- ьных работ 3/206 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260706T090000
-DTEND;TZID=Europe/Moscow:20260706T103000
-DTSTAMP:20260710T125218Z
-UID:20260706T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+SUMMARY:(конс.)   Технологии аварийно-спасате
+ льных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261224T090000
+DTEND;TZID=Europe/Moscow:20261224T103000
+DTSTAMP:20260826T115518Z
+UID:20261224T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/202 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261226T090000
+DTEND;TZID=Europe/Moscow:20261226T103000
+DTSTAMP:20260826T115518Z
+UID:20261226T090000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 6243
-LAST-MODIFIED:20260710T125218Z
+ nАудитория: 3/202\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(зчО.)   Технологии аварийно-спасател
- ьных работ 3/206 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260706T104500
-DTEND;TZID=Europe/Moscow:20260706T121500
-DTSTAMP:20260710T125218Z
-UID:20260706T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/203 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261226T104500
+DTEND;TZID=Europe/Moscow:20261226T121500
+DTSTAMP:20260826T115518Z
+UID:20261226T104500@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 6243
-LAST-MODIFIED:20260710T125218Z
+ nАудитория: 3/203\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(зчО.)   Технологии аварийно-спасател
- ьных работ 3/206 6243 гр.
-DTSTART;TZID=Europe/Moscow:20260706T123000
-DTEND;TZID=Europe/Moscow:20260706T140000
-DTSTAMP:20260710T125218Z
-UID:20260706T123000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/208 6243 гр.
+DTSTART;TZID=Europe/Moscow:20261226T123000
+DTEND;TZID=Europe/Moscow:20261226T140000
+DTSTAMP:20260826T115518Z
+UID:20261226T123000@20260826T145518@Веселов А.В.
+CREATED:20260826T115518Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Технологии аварийно-спасательных работ\
- nАудитория: 3/206\nГруппы: 6243
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Технология аварийно-спасател
- ьных работ 3/202 2253 гр.
-DTSTART;TZID=Europe/Moscow:20260708T090000
-DTEND;TZID=Europe/Moscow:20260708T103000
-DTSTAMP:20260710T125218Z
-UID:20260708T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Технология аварийно-спасательных работ\
- nАудитория: 3/202\nГруппы: 2253
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Технология аварийно-спасател
- ьных работ 3/208 2251 гр.
-DTSTART;TZID=Europe/Moscow:20260713T090000
-DTEND;TZID=Europe/Moscow:20260713T103000
-DTSTAMP:20260710T125218Z
-UID:20260713T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Технология аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2251
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Технология аварийно-спасател
- ьных работ 3/208 2258 гр.
-DTSTART;TZID=Europe/Moscow:20260713T104500
-DTEND;TZID=Europe/Moscow:20260713T121500
-DTSTAMP:20260710T125218Z
-UID:20260713T104500@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Технология аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2258
-LAST-MODIFIED:20260710T125218Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Технология аварийно-спасател
- ьных работ 3/208 2252 гр.
-DTSTART;TZID=Europe/Moscow:20260715T090000
-DTEND;TZID=Europe/Moscow:20260715T103000
-DTSTAMP:20260710T125218Z
-UID:20260715T090000@20260710T155218@Веселов А.В.
-CREATED:20260710T125218Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Технология аварийно-спасательных работ\
- nАудитория: 3/208\nГруппы: 2252
-LAST-MODIFIED:20260710T125218Z
+ nАудитория: 3/208\nГруппы: 6243
+LAST-MODIFIED:20260826T115518Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
