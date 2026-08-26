@@ -19,801 +19,745 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Организация и ведение аварийн
+ о-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20260902T123000
+DTEND;TZID=Europe/Moscow:20260902T140000
+DTSTAMP:20260826T115200Z
+UID:20260902T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ рганизация и ведение аварийно-спасатель
+ ных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
 SUMMARY:(ЗСТ)  1.2 Организация и ведение авари
- йно-спасательных работ 3/208 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260123T123000
-DTEND;TZID=Europe/Moscow:20260123T140000
-DTSTAMP:20260710T125419Z
-UID:20260123T123000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
+ йно-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20260903T104500
+DTEND;TZID=Europe/Moscow:20260903T121500
+DTSTAMP:20260826T115200Z
+UID:20260903T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/208\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Технологии аварийно-спасател
+ ьных работ 3/206 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260904T104500
+DTEND;TZID=Europe/Moscow:20260904T121500
+DTSTAMP:20260826T115200Z
+UID:20260904T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/206\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Технология аварийно-спасател
+ ьных работ 2/311 2251 гр. 2252 гр. 2253 гр. 2258 гр.
+DTSTART;TZID=Europe/Moscow:20260904T123000
+DTEND;TZID=Europe/Moscow:20260904T140000
+DTSTAMP:20260826T115200Z
+UID:20260904T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Т
+ ехнология аварийно-спасательных работ\n
+ Аудитория: 2/311\nГруппы: 2251 2252 2253 2258
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Технологии аварийно-спасате
+ льных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260908T144000
+DTEND;TZID=Europe/Moscow:20260908T161000
+DTSTAMP:20260826T115200Z
+UID:20260908T144000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  1.3 Организация и ведение авари
- йно-спасательных работ 3/208 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260130T104500
-DTEND;TZID=Europe/Moscow:20260130T121500
-DTSTAMP:20260710T125419Z
-UID:20260130T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
+ йно-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T115200Z
+UID:20260910T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/208\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Организация и ведение авари
- йно-спасательных работ 3/208 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260206T104500
-DTEND;TZID=Europe/Moscow:20260206T121500
-DTSTAMP:20260710T125419Z
-UID:20260206T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+SUMMARY:(л.)  4.2 Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260914T123000
+DTEND;TZID=Europe/Moscow:20260914T140000
+DTSTAMP:20260826T115200Z
+UID:20260914T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.4 Организация и ведение авари
+ йно-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20260917T123000
+DTEND;TZID=Europe/Moscow:20260917T140000
+DTSTAMP:20260826T115200Z
+UID:20260917T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/208\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20260924T090000
+DTEND;TZID=Europe/Moscow:20260924T103000
+DTSTAMP:20260826T115200Z
+UID:20260924T090000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T115200Z
+UID:20260924T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20260924T123000
+DTEND;TZID=Europe/Moscow:20260924T140000
+DTSTAMP:20260826T115200Z
+UID:20260924T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.5 Организация и ведение авари
+ йно-спасательных работ 3/206 4235 гр.
+DTSTART;TZID=Europe/Moscow:20260925T123000
+DTEND;TZID=Europe/Moscow:20260925T140000
+DTSTAMP:20260826T115200Z
+UID:20260925T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/206\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.3 Технологии аварийно-спасател
+ ьных работ 3/407 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T115200Z
+UID:20260930T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/407\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Организация и ведение аварийн
+ о-спасательных работ 3/501 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261002T123000
+DTEND;TZID=Europe/Moscow:20261002T140000
+DTSTAMP:20260826T115200Z
+UID:20261002T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
+ рганизация и ведение аварийно-спасатель
+ ных работ\nАудитория: 3/501\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.3 Технология аварийно-спасател
+ ьных работ 2/307 2251 гр. 2252 гр. 2253 гр. 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261005T162500
+DTEND;TZID=Europe/Moscow:20261005T175500
+DTSTAMP:20260826T115200Z
+UID:20261005T162500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Т
+ ехнология аварийно-спасательных работ\n
+ Аудитория: 2/307\nГруппы: 2251 2252 2253 2258
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  2.2 Организация и ведение авари
- йно-спасательных работ 3/208 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260710T125419Z
-UID:20260211T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
+ йно-спасательных работ 3/501 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261007T123000
+DTEND;TZID=Europe/Moscow:20261007T140000
+DTSTAMP:20260826T115200Z
+UID:20261007T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/208\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/501\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260216T090000
-DTEND;TZID=Europe/Moscow:20260216T103000
-DTSTAMP:20260710T125419Z
-UID:20260216T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(л.)  4.4 Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261008T123000
+DTEND;TZID=Europe/Moscow:20261008T140000
+DTSTAMP:20260826T115200Z
+UID:20261008T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260216T104500
-DTEND;TZID=Europe/Moscow:20260216T121500
-DTSTAMP:20260710T125419Z
-UID:20260216T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.4 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261012T090000
+DTEND;TZID=Europe/Moscow:20261012T103000
+DTSTAMP:20260826T115200Z
+UID:20261012T090000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.3 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260217T090000
-DTEND;TZID=Europe/Moscow:20260217T103000
-DTSTAMP:20260710T125419Z
-UID:20260217T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.4 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261012T104500
+DTEND;TZID=Europe/Moscow:20261012T121500
+DTSTAMP:20260826T115200Z
+UID:20261012T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260217T104500
-DTEND;TZID=Europe/Moscow:20260217T121500
-DTSTAMP:20260710T125419Z
-UID:20260217T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.4 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261012T123000
+DTEND;TZID=Europe/Moscow:20261012T140000
+DTSTAMP:20260826T115200Z
+UID:20261012T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Безопасность в чрезвычайных с
- итуациях 3/208 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260218T090000
-DTEND;TZID=Europe/Moscow:20260218T103000
-DTSTAMP:20260710T125419Z
-UID:20260218T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: 3/208\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(л.)  4.5 Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261013T144000
+DTEND;TZID=Europe/Moscow:20261013T161000
+DTSTAMP:20260826T115200Z
+UID:20261013T144000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: Т
+ ехнологии аварийно-спасательных работ\n
+ Аудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.2 Безопасность в чрезвычайных с
- итуациях 3/208 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260218T104500
-DTEND;TZID=Europe/Moscow:20260218T121500
-DTSTAMP:20260710T125419Z
-UID:20260218T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: 3/208\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.3 Организация и ведение авари
+ йно-спасательных работ 3/509 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261016T104500
+DTEND;TZID=Europe/Moscow:20261016T121500
+DTSTAMP:20260826T115200Z
+UID:20261016T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/509\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.3 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260224T090000
-DTEND;TZID=Europe/Moscow:20260224T103000
-DTSTAMP:20260710T125419Z
-UID:20260224T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.4 Организация и ведение авари
+ йно-спасательных работ 3/206 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261019T104500
+DTEND;TZID=Europe/Moscow:20261019T121500
+DTSTAMP:20260826T115200Z
+UID:20261019T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/206\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.4 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260224T104500
-DTEND;TZID=Europe/Moscow:20260224T121500
-DTSTAMP:20260710T125419Z
-UID:20260224T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.4\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.5 Организация и ведение авари
+ йно-спасательных работ 3/206 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261026T104500
+DTEND;TZID=Europe/Moscow:20261026T121500
+DTSTAMP:20260826T115200Z
+UID:20261026T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/206\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Безопасность в чрезвычайных с
- итуациях АК/403 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260225T090000
-DTEND;TZID=Europe/Moscow:20260225T103000
-DTSTAMP:20260710T125419Z
-UID:20260225T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/403\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.5 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261028T104500
+DTEND;TZID=Europe/Moscow:20261028T121500
+DTSTAMP:20260826T115200Z
+UID:20261028T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Безопасность в чрезвычайных с
- итуациях АК/403 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260225T104500
-DTEND;TZID=Europe/Moscow:20260225T121500
-DTSTAMP:20260710T125419Z
-UID:20260225T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/403\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.5 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261028T123000
+DTEND;TZID=Europe/Moscow:20261028T140000
+DTSTAMP:20260826T115200Z
+UID:20261028T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Безопасность в чрезвычайных
-  ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260226T090000
-DTEND;TZID=Europe/Moscow:20260226T103000
-DTSTAMP:20260710T125419Z
-UID:20260226T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
+SUMMARY:(ЗСТ)  2.6 Организация и ведение авари
+ йно-спасательных работ 3/206 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261102T104500
+DTEND;TZID=Europe/Moscow:20261102T121500
+DTSTAMP:20260826T115200Z
+UID:20261102T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/206\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.6 Технология аварийно-спасател
+ ьных работ 2/307 2251 гр. 2252 гр. 2253 гр. 2258 гр.
+DTSTART;TZID=Europe/Moscow:20261103T123000
+DTEND;TZID=Europe/Moscow:20261103T140000
+DTSTAMP:20260826T115200Z
+UID:20261103T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Т
+ ехнология аварийно-спасательных работ\n
+ Аудитория: 2/307\nГруппы: 2251 2252 2253 2258
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Организация и ведение аварийн
+ о-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261110T123000
+DTEND;TZID=Europe/Moscow:20261110T140000
+DTSTAMP:20260826T115200Z
+UID:20261110T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
+ рганизация и ведение аварийно-спасатель
+ ных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Организация и ведение авари
+ йно-спасательных работ 3/407 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261112T104500
+DTEND;TZID=Europe/Moscow:20261112T121500
+DTSTAMP:20260826T115200Z
+UID:20261112T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/407\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.7 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261116T104500
+DTEND;TZID=Europe/Moscow:20261116T121500
+DTSTAMP:20260826T115200Z
+UID:20261116T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.7 Технология аварийно-спасате
+ льных работ УМ №3 (АСР) 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261116T123000
+DTEND;TZID=Europe/Moscow:20261116T140000
+DTSTAMP:20260826T115200Z
+UID:20261116T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
+  Технология аварийно-спасательных работ
+ \nАудитория: УМ №3 (АСР)\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Организация и ведение авари
+ йно-спасательных работ 3/202 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261120T104500
+DTEND;TZID=Europe/Moscow:20261120T121500
+DTSTAMP:20260826T115200Z
+UID:20261120T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/202\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Безопасность в чрезвычайных
-  ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260227T090000
-DTEND;TZID=Europe/Moscow:20260227T103000
-DTSTAMP:20260710T125419Z
-UID:20260227T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
+SUMMARY:(ЗСТ)  3.4 Организация и ведение авари
+ йно-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261125T104500
+DTEND;TZID=Europe/Moscow:20261125T121500
+DTSTAMP:20260826T115200Z
+UID:20261125T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.5 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260303T090000
-DTEND;TZID=Europe/Moscow:20260303T103000
-DTSTAMP:20260710T125419Z
-UID:20260303T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.5\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.6 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260303T104500
-DTEND;TZID=Europe/Moscow:20260303T121500
-DTSTAMP:20260710T125419Z
-UID:20260303T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.6\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260305T090000
-DTEND;TZID=Europe/Moscow:20260305T103000
-DTSTAMP:20260710T125419Z
-UID:20260305T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.2 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260305T104500
-DTEND;TZID=Europe/Moscow:20260305T121500
-DTSTAMP:20260710T125419Z
-UID:20260305T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Организация и ведение авари
- йно-спасательных работ 3/206 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260306T090000
-DTEND;TZID=Europe/Moscow:20260306T103000
-DTSTAMP:20260710T125419Z
-UID:20260306T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/206\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.3 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260310T090000
-DTEND;TZID=Europe/Moscow:20260310T103000
-DTSTAMP:20260710T125419Z
-UID:20260310T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260310T104500
-DTEND;TZID=Europe/Moscow:20260310T121500
-DTSTAMP:20260710T125419Z
-UID:20260310T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.2 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260312T090000
-DTEND;TZID=Europe/Moscow:20260312T103000
-DTSTAMP:20260710T125419Z
-UID:20260312T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.3 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260312T104500
-DTEND;TZID=Europe/Moscow:20260312T121500
-DTSTAMP:20260710T125419Z
-UID:20260312T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.3\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.4 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260317T090000
-DTEND;TZID=Europe/Moscow:20260317T103000
-DTSTAMP:20260710T125419Z
-UID:20260317T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.4\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260710T125419Z
-UID:20260317T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.2 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260319T090000
-DTEND;TZID=Europe/Moscow:20260319T103000
-DTSTAMP:20260710T125419Z
-UID:20260319T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.3 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260319T104500
-DTEND;TZID=Europe/Moscow:20260319T121500
-DTSTAMP:20260710T125419Z
-UID:20260319T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.3\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260324T090000
-DTEND;TZID=Europe/Moscow:20260324T103000
-DTSTAMP:20260710T125419Z
-UID:20260324T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260324T104500
-DTEND;TZID=Europe/Moscow:20260324T121500
-DTSTAMP:20260710T125419Z
-UID:20260324T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260325T090000
-DTEND;TZID=Europe/Moscow:20260325T103000
-DTSTAMP:20260710T125419Z
-UID:20260325T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260325T104500
-DTEND;TZID=Europe/Moscow:20260325T121500
-DTSTAMP:20260710T125419Z
-UID:20260325T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Безопасность в чрезвычайных
-  ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260326T090000
-DTEND;TZID=Europe/Moscow:20260326T103000
-DTSTAMP:20260710T125419Z
-UID:20260326T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.2 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260327T090000
-DTEND;TZID=Europe/Moscow:20260327T103000
-DTSTAMP:20260710T125419Z
-UID:20260327T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  8.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260330T090000
-DTEND;TZID=Europe/Moscow:20260330T103000
-DTSTAMP:20260710T125419Z
-UID:20260330T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  8.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  8.2 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260330T104500
-DTEND;TZID=Europe/Moscow:20260330T121500
-DTSTAMP:20260710T125419Z
-UID:20260330T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  8.2\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  8.3 Безопасность в чрезвычайных
-  ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260331T090000
-DTEND;TZID=Europe/Moscow:20260331T103000
-DTSTAMP:20260710T125419Z
-UID:20260331T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.3\nПредмет:
-  Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  9.1 Безопасность в чрезвычайных с
- итуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260331T104500
-DTEND;TZID=Europe/Moscow:20260331T121500
-DTSTAMP:20260710T125419Z
-UID:20260331T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  9.1\nПредмет: Б
- езопасность в чрезвычайных ситуациях\nА
- удитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.3 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260401T090000
-DTEND;TZID=Europe/Moscow:20260401T103000
-DTSTAMP:20260710T125419Z
-UID:20260401T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.4 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260401T104500
-DTEND;TZID=Europe/Moscow:20260401T121500
-DTSTAMP:20260710T125419Z
-UID:20260401T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  9.2 Безопасность в чрезвычайных
-  ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260402T090000
-DTEND;TZID=Europe/Moscow:20260402T103000
-DTSTAMP:20260710T125419Z
-UID:20260402T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  9.2\nПредмет:
-  Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  10.1 Безопасность в чрезвычайных 
- ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260402T104500
-DTEND;TZID=Europe/Moscow:20260402T121500
-DTSTAMP:20260710T125419Z
-UID:20260402T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  10.1\nПредмет: 
- Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.5 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260403T090000
-DTEND;TZID=Europe/Moscow:20260403T103000
-DTSTAMP:20260710T125419Z
-UID:20260403T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.6 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/709 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260403T104500
-DTEND;TZID=Europe/Moscow:20260403T121500
-DTSTAMP:20260710T125419Z
-UID:20260403T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.6\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/709\nГруппы: А4616
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Организация и ведение авари
- йно-спасательных работ 3/203 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260415T090000
-DTEND;TZID=Europe/Moscow:20260415T103000
-DTSTAMP:20260710T125419Z
-UID:20260415T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
+SUMMARY:(ЗСТ)  3.5 Организация и ведение авари
+ йно-спасательных работ 3/509 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261127T104500
+DTEND;TZID=Europe/Moscow:20261127T121500
+DTSTAMP:20260826T115200Z
+UID:20261127T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/203\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  10.2 Безопасность в чрезвычайных 
- ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260423T090000
-DTEND;TZID=Europe/Moscow:20260423T103000
-DTSTAMP:20260710T125419Z
-UID:20260423T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  10.2\nПредмет: 
- Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  10.3 Безопасность в чрезвычайных 
- ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260423T104500
-DTEND;TZID=Europe/Moscow:20260423T121500
-DTSTAMP:20260710T125419Z
-UID:20260423T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: л.\nТема:  10.3\nПредмет: 
- Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  10.4 Безопасность в чрезвычайны
- х ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260423T123000
-DTEND;TZID=Europe/Moscow:20260423T140000
-DTSTAMP:20260710T125419Z
-UID:20260423T123000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  10.4\nПредмет
- : Безопасность в чрезвычайных ситуациях\
- nАудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Безопасность в чрезвычайных 
- ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260428T090000
-DTEND;TZID=Europe/Moscow:20260428T103000
-DTSTAMP:20260710T125419Z
-UID:20260428T090000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Безопасность в чрезвычайных 
- ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260428T104500
-DTEND;TZID=Europe/Moscow:20260428T121500
-DTSTAMP:20260710T125419Z
-UID:20260428T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Безопасность в чрезвычайных 
- ситуациях АК/709 А4326 гр.
-DTSTART;TZID=Europe/Moscow:20260428T123000
-DTEND;TZID=Europe/Moscow:20260428T140000
-DTSTAMP:20260710T125419Z
-UID:20260428T123000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Безопасность в чрезвычайных ситуациях\n
- Аудитория: АК/709\nГруппы: А4326
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Организация и ведение авари
- йно-спасательных работ 3/208 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260429T104500
-DTEND;TZID=Europe/Moscow:20260429T121500
-DTSTAMP:20260710T125419Z
-UID:20260429T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/208\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Организация и ведение авари
- йно-спасательных работ 3/206 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260504T104500
-DTEND;TZID=Europe/Moscow:20260504T121500
-DTSTAMP:20260710T125419Z
-UID:20260504T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/206\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Организация и ведение авари
- йно-спасательных работ 3/206 2248 гр.
-DTSTART;TZID=Europe/Moscow:20260504T123000
-DTEND;TZID=Europe/Moscow:20260504T140000
-DTSTAMP:20260710T125419Z
-UID:20260504T123000@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/206\nГруппы: 2248
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/509\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(ЗСТ)  3.6 Организация и ведение авари
- йно-спасательных работ 3/208 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260518T104500
-DTEND;TZID=Europe/Moscow:20260518T121500
-DTSTAMP:20260710T125419Z
-UID:20260518T104500@20260710T155419@Иванов Е.В.
-CREATED:20260710T125419Z
+ йно-спасательных работ 3/206 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261201T123000
+DTEND;TZID=Europe/Moscow:20261201T140000
+DTSTAMP:20260826T115200Z
+UID:20261201T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
   Организация и ведение аварийно-спасате
- льных работ\nАудитория: 3/208\nГруппы: 4241Б
-LAST-MODIFIED:20260710T125419Z
+ льных работ\nАудитория: 3/206\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.2 Технологии аварийно-спасате
+ льных работ 3/206 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261204T104500
+DTEND;TZID=Europe/Moscow:20261204T121500
+DTSTAMP:20260826T115200Z
+UID:20261204T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/206\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.2 Технологии аварийно-спасате
+ льных работ 3/206 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261204T123000
+DTEND;TZID=Europe/Moscow:20261204T140000
+DTSTAMP:20260826T115200Z
+UID:20261204T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
+  Технологии аварийно-спасательных работ
+ \nАудитория: 3/206\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.7 Организация и ведение авари
+ йно-спасательных работ 3/507 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261209T104500
+DTEND;TZID=Europe/Moscow:20261209T121500
+DTSTAMP:20260826T115200Z
+UID:20261209T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/507\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.12 Технологии аварийно-спасател
+ ьных работ 3/409 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261210T123000
+DTEND;TZID=Europe/Moscow:20261210T140000
+DTSTAMP:20260826T115200Z
+UID:20261210T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.12\nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/409\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.13 Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261210T144000
+DTEND;TZID=Europe/Moscow:20261210T161000
+DTSTAMP:20260826T115200Z
+UID:20261210T144000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.13\nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Организация и ведение авари
+ йно-спасательных работ 3/509 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261211T104500
+DTEND;TZID=Europe/Moscow:20261211T121500
+DTSTAMP:20260826T115200Z
+UID:20261211T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/509\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.9 Организация и ведение авари
+ йно-спасательных работ 3/507 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261218T104500
+DTEND;TZID=Europe/Moscow:20261218T121500
+DTSTAMP:20260826T115200Z
+UID:20261218T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/507\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.9 Организация и ведение авари
+ йно-спасательных работ 3/507 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261218T123000
+DTEND;TZID=Europe/Moscow:20261218T140000
+DTSTAMP:20260826T115200Z
+UID:20261218T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.9\nПредмет:
+  Организация и ведение аварийно-спасате
+ льных работ\nАудитория: 3/507\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Организация и ведение аварий
+ но-спасательных работ 3/203 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261221T104500
+DTEND;TZID=Europe/Moscow:20261221T121500
+DTSTAMP:20260826T115200Z
+UID:20261221T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Организация и ведение аварийно-спасател
+ ьных работ\nАудитория: 3/203\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Организация и ведение аварий
+ но-спасательных работ 3/203 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261221T123000
+DTEND;TZID=Europe/Moscow:20261221T140000
+DTSTAMP:20260826T115200Z
+UID:20261221T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Организация и ведение аварийно-спасател
+ ьных работ\nАудитория: 3/203\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зчО.)   Организация и ведение аварий
+ но-спасательных работ 3/208 4235 гр.
+DTSTART;TZID=Europe/Moscow:20261221T144000
+DTEND;TZID=Europe/Moscow:20261221T161000
+DTSTAMP:20260826T115200Z
+UID:20261221T144000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
+ Организация и ведение аварийно-спасател
+ ьных работ\nАудитория: 3/208\nГруппы: 4235
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Консультация)   Технологии аварийно
+ -спасательных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261225T144000
+DTEND;TZID=Europe/Moscow:20261225T161000
+DTSTAMP:20260826T115200Z
+UID:20261225T144000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: Консультация\nТема:  \n
+ Предмет: Технологии аварийно-спасательн
+ ых работ\nАудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Технология аварийно-спасател
+ ьных работ 3/208 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261226T090000
+DTEND;TZID=Europe/Moscow:20261226T103000
+DTSTAMP:20260826T115200Z
+UID:20261226T090000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Технология аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Технология аварийно-спасател
+ ьных работ 3/208 2251 гр.
+DTSTART;TZID=Europe/Moscow:20261226T104500
+DTEND;TZID=Europe/Moscow:20261226T121500
+DTSTAMP:20260826T115200Z
+UID:20261226T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Технология аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 2251
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20270112T104500
+DTEND;TZID=Europe/Moscow:20270112T121500
+DTSTAMP:20260826T115200Z
+UID:20270112T104500@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20270112T123000
+DTEND;TZID=Europe/Moscow:20270112T140000
+DTSTAMP:20260826T115200Z
+UID:20270112T123000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Технологии аварийно-спасател
+ ьных работ 3/208 3243 гр.
+DTSTART;TZID=Europe/Moscow:20270112T144000
+DTEND;TZID=Europe/Moscow:20270112T161000
+DTSTAMP:20260826T115200Z
+UID:20270112T144000@20260826T145200@Иванов Е.В.
+CREATED:20260826T115200Z
+DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
+ Технологии аварийно-спасательных работ\
+ nАудитория: 3/208\nГруппы: 3243
+LAST-MODIFIED:20260826T115200Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
