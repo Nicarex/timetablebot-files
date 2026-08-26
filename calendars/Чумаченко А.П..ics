@@ -19,1543 +19,1701 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(конс.)   Разработка управленческих р
- ешений 3/203 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260112T104500
-DTEND;TZID=Europe/Moscow:20260112T121500
-DTSTAMP:20260629T063615Z
-UID:20260112T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
-  Разработка управленческих решений\nАуд
- итория: 3/203\nГруппы: 4231А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(л.)  1.1 Теория управления и организац
+ ии 3/602 4261А гр. 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20260914T090000
+DTEND;TZID=Europe/Moscow:20260914T103000
+DTSTAMP:20260826T120553Z
+UID:20260914T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
+ еория управления и организации\nАудитор
+ ия: 3/602\nГруппы: 4261А 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(конс.)   Разработка управленческих р
- ешений 2/216 4231Б гр.
-DTSTART;TZID=Europe/Moscow:20260112T123000
-DTEND;TZID=Europe/Moscow:20260112T140000
-DTSTAMP:20260629T063615Z
-UID:20260112T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
-  Разработка управленческих решений\nАуд
- итория: 2/216\nГруппы: 4231Б
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20260915T104500
+DTEND;TZID=Europe/Moscow:20260915T121500
+DTSTAMP:20260826T120553Z
+UID:20260915T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.1 Теория управления и организ
+ ации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20260915T123000
+DTEND;TZID=Europe/Moscow:20260915T140000
+DTSTAMP:20260826T120553Z
+UID:20260915T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.1 Разработка управленческих ре
- шений 4/407 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260112T144000
-DTEND;TZID=Europe/Moscow:20260112T161000
-DTSTAMP:20260629T063615Z
-UID:20260112T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+ шений 2/214 4241А гр. 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20260915T144000
+DTEND;TZID=Europe/Moscow:20260915T161000
+DTSTAMP:20260826T120553Z
+UID:20260915T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Р
  азработка управленческих решений\nАудит
- ория: 4/407\nГруппы: 5230
-LAST-MODIFIED:20260629T063615Z
+ ория: 2/214\nГруппы: 4241А 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Разработка управленческих ре
- шений 2/214 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260113T090000
-DTEND;TZID=Europe/Moscow:20260113T103000
-DTSTAMP:20260629T063615Z
-UID:20260113T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 4231А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.2 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20260921T090000
+DTEND;TZID=Europe/Moscow:20260921T103000
+DTSTAMP:20260826T120553Z
+UID:20260921T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Разработка управленческих ре
- шений 2/214 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260113T104500
-DTEND;TZID=Europe/Moscow:20260113T121500
-DTSTAMP:20260629T063615Z
-UID:20260113T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 4231А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(л.)  3.1 Теория управления и организац
+ ии 3/602 4261А гр. 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20260921T104500
+DTEND;TZID=Europe/Moscow:20260921T121500
+DTSTAMP:20260826T120553Z
+UID:20260921T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
+ еория управления и организации\nАудитор
+ ия: 3/602\nГруппы: 4261А 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Разработка управленческих ре
- шений 2/214 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260113T123000
-DTEND;TZID=Europe/Moscow:20260113T140000
-DTSTAMP:20260629T063615Z
-UID:20260113T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 4231А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.2 Теория управления и организ
+ ации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T120553Z
+UID:20260921T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Стратегическое планирование 
+ и прогнозирование ЭИОС 5252А гр. 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20260921T144000
+DTEND;TZID=Europe/Moscow:20260921T161000
+DTSTAMP:20260826T120553Z
+UID:20260921T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: С
+ тратегическое планирование и прогнозир
+ ование\nАудитория: ЭИОС\nГруппы: 5252А 5252Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Стратегическое планирование 
+ и прогнозирование ЭИОС 5252А гр. 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20260922T090000
+DTEND;TZID=Europe/Moscow:20260922T103000
+DTSTAMP:20260826T120553Z
+UID:20260922T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: С
+ тратегическое планирование и прогнозир
+ ование\nАудитория: ЭИОС\nГруппы: 5252А 5252Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.1 Теория и практика принятия уп
- равленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260114T090000
-DTEND;TZID=Europe/Moscow:20260114T103000
-DTSTAMP:20260629T063615Z
-UID:20260114T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+ равленческих решений ЭИОС 5252А гр. 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20260922T123000
+DTEND;TZID=Europe/Moscow:20260922T140000
+DTSTAMP:20260826T120553Z
+UID:20260922T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
  еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+ х решений\nАудитория: ЭИОС\nГруппы: 5252А 5252
+ Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Теория и практика принятия уп
- равленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260114T104500
-DTEND;TZID=Europe/Moscow:20260114T121500
-DTSTAMP:20260629T063615Z
-UID:20260114T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(Пр.)  2.1 Теория и практика принятия у
+ правленческих решений ЭИОС 5252А гр.
+DTSTART;TZID=Europe/Moscow:20260922T144000
+DTEND;TZID=Europe/Moscow:20260922T161000
+DTSTAMP:20260826T120553Z
+UID:20260922T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитория: ЭИОС\nГруппы: 5252А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Разработка управленческих ре
- шений 2/214 4231Б гр.
-DTSTART;TZID=Europe/Moscow:20260117T090000
-DTEND;TZID=Europe/Moscow:20260117T103000
-DTSTAMP:20260629T063615Z
-UID:20260117T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 4231Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Разработка управленческих ре
- шений 2/214 4231Б гр.
-DTSTART;TZID=Europe/Moscow:20260117T104500
-DTEND;TZID=Europe/Moscow:20260117T121500
-DTSTAMP:20260629T063615Z
-UID:20260117T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 4231Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Разработка управленческих ре
- шений 2/214 4231Б гр.
-DTSTART;TZID=Europe/Moscow:20260117T123000
-DTEND;TZID=Europe/Moscow:20260117T140000
-DTSTAMP:20260629T063615Z
-UID:20260117T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 4231Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260119T104500
-DTEND;TZID=Europe/Moscow:20260119T121500
-DTSTAMP:20260629T063615Z
-UID:20260119T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20260923T090000
+DTEND;TZID=Europe/Moscow:20260923T103000
+DTSTAMP:20260826T120553Z
+UID:20260923T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20260923T104500
+DTEND;TZID=Europe/Moscow:20260923T121500
+DTSTAMP:20260826T120553Z
+UID:20260923T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Теория управления и организ
+ ации 3/209 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20260923T123000
+DTEND;TZID=Europe/Moscow:20260923T140000
+DTSTAMP:20260826T120553Z
+UID:20260923T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/209\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Теория управления и организ
+ ации 3/201 4261А гр.
+DTSTART;TZID=Europe/Moscow:20260923T144000
+DTEND;TZID=Europe/Moscow:20260923T161000
+DTSTAMP:20260826T120553Z
+UID:20260923T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/201\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.1 Теория и практика принятия у
+ правленческих решений ЭИОС 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20260925T104500
+DTEND;TZID=Europe/Moscow:20260925T121500
+DTSTAMP:20260826T120553Z
+UID:20260925T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитория: ЭИОС\nГруппы: 5252Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Теория и практика принятия уп
+ равленческих решений ЭИОС 5253А гр. 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260926T090000
+DTEND;TZID=Europe/Moscow:20260926T103000
+DTSTAMP:20260826T120553Z
+UID:20260926T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
+ еория и практика принятия управленчески
+ х решений\nАудитория: ЭИОС\nГруппы: 5253А 5253
+ Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Теория и практика принятия уп
+ равленческих решений ЭИОС 5253А гр. 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260928T090000
+DTEND;TZID=Europe/Moscow:20260928T103000
+DTSTAMP:20260826T120553Z
+UID:20260928T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Т
+ еория и практика принятия управленчески
+ х решений\nАудитория: ЭИОС\nГруппы: 5253А 5253
+ Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.1 Стратегическое планирование
+  и прогнозирование ЭИОС 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20260928T104500
+DTEND;TZID=Europe/Moscow:20260928T121500
+DTSTAMP:20260826T120553Z
+UID:20260928T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.1\nПредмет: 
+ Стратегическое планирование и прогнози
+ рование\nАудитория: ЭИОС\nГруппы: 5252Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Теория и практика принятия уп
+ равленческих решений ЭИОС 5252А гр. 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20260928T123000
+DTEND;TZID=Europe/Moscow:20260928T140000
+DTSTAMP:20260826T120553Z
+UID:20260928T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
+ еория и практика принятия управленчески
+ х решений\nАудитория: ЭИОС\nГруппы: 5252А 5252
+ Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20260928T144000
+DTEND;TZID=Europe/Moscow:20260928T161000
+DTSTAMP:20260826T120553Z
+UID:20260928T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(См.)  1.2 Теория и практика принятия у
+ правленческих решений ЭИОС 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260928T162500
+DTEND;TZID=Europe/Moscow:20260928T175500
+DTSTAMP:20260826T120553Z
+UID:20260928T162500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: См.\nТема:  1.2\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитория: ЭИОС\nГруппы: 5253Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20260929T090000
+DTEND;TZID=Europe/Moscow:20260929T103000
+DTSTAMP:20260826T120553Z
+UID:20260929T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20260929T104500
+DTEND;TZID=Europe/Moscow:20260929T121500
+DTSTAMP:20260826T120553Z
+UID:20260929T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20260929T123000
+DTEND;TZID=Europe/Moscow:20260929T140000
+DTSTAMP:20260826T120553Z
+UID:20260929T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.2 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20260929T144000
+DTEND;TZID=Europe/Moscow:20260929T161000
+DTSTAMP:20260826T120553Z
+UID:20260929T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.3 Теория и практика принятия у
+ правленческих решений ЭИОС 5252А гр.
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260826T120553Z
+UID:20260930T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.3\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитория: ЭИОС\nГруппы: 5252А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260826T120553Z
+UID:20260930T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T120553Z
+UID:20260930T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(См.)  1.2 Теория и практика принятия у
+ правленческих решений ЭИОС 5253А гр.
+DTSTART;TZID=Europe/Moscow:20260930T144000
+DTEND;TZID=Europe/Moscow:20260930T161000
+DTSTAMP:20260826T120553Z
+UID:20260930T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: См.\nТема:  1.2\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитория: ЭИОС\nГруппы: 5253А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.1 Стратегическое планирование
+  и прогнозирование ЭИОС 5252А гр.
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T120553Z
+UID:20261003T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.1\nПредмет: 
+ Стратегическое планирование и прогнози
+ рование\nАудитория: ЭИОС\nГруппы: 5252А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.3 Теория и практика принятия у
+ правленческих решений ЭИОС 5252Б гр.
+DTSTART;TZID=Europe/Moscow:20261003T144000
+DTEND;TZID=Europe/Moscow:20261003T161000
+DTSTAMP:20260826T120553Z
+UID:20261003T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.3\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитория: ЭИОС\nГруппы: 5252Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.4 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261005T123000
+DTEND;TZID=Europe/Moscow:20261005T140000
+DTSTAMP:20260826T120553Z
+UID:20261005T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.3 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261005T144000
+DTEND;TZID=Europe/Moscow:20261005T161000
+DTSTAMP:20260826T120553Z
+UID:20261005T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.1 Разработка управленческих ре
- шений 2/214 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260119T123000
-DTEND;TZID=Europe/Moscow:20260119T140000
-DTSTAMP:20260629T063615Z
-UID:20260119T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+ шений 2/214 4241А гр. 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261006T090000
+DTEND;TZID=Europe/Moscow:20261006T103000
+DTSTAMP:20260826T120553Z
+UID:20261006T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Р
  азработка управленческих решений\nАудит
- ория: 2/214\nГруппы: 5230
-LAST-MODIFIED:20260629T063615Z
+ ория: 2/214\nГруппы: 4241А 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260120T104500
-DTEND;TZID=Europe/Moscow:20260120T121500
-DTSTAMP:20260629T063615Z
-UID:20260120T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260826T120553Z
+UID:20261006T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260127T104500
-DTEND;TZID=Europe/Moscow:20260127T121500
-DTSTAMP:20260629T063615Z
-UID:20260127T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  1.1 Разработка управленческих р
+ ешений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261006T123000
+DTEND;TZID=Europe/Moscow:20261006T140000
+DTSTAMP:20260826T120553Z
+UID:20261006T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+  Разработка управленческих решений\nАуд
+ итория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Прогнозирование и планирован
- ие 2/214 4241А гр. 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260202T090000
-DTEND;TZID=Europe/Moscow:20260202T103000
-DTSTAMP:20260629T063615Z
-UID:20260202T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
- рогнозирование и планирование\nАудитори
- я: 2/214\nГруппы: 4241А 4241Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260202T104500
-DTEND;TZID=Europe/Moscow:20260202T121500
-DTSTAMP:20260629T063615Z
-UID:20260202T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.3 Разработка управленческих р
- ешений 2/216 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260202T123000
-DTEND;TZID=Europe/Moscow:20260202T140000
-DTSTAMP:20260629T063615Z
-UID:20260202T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/216\nГруппы: 5230
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.3 Разработка управленческих р
- ешений 2/216 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260202T144000
-DTEND;TZID=Europe/Moscow:20260202T161000
-DTSTAMP:20260629T063615Z
-UID:20260202T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.3\nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/216\nГруппы: 5230
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.3 Разработка управленческих р
- ешений 2/214 5230 гр.
-DTSTART;TZID=Europe/Moscow:20260209T090000
-DTEND;TZID=Europe/Moscow:20260209T103000
-DTSTAMP:20260629T063615Z
-UID:20260209T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.3\nПредмет: 
- Разработка управленческих решений\nАуди
- тория: 2/214\nГруппы: 5230
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Теория и практика принятия у
- правленческих решений 2/214 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260209T104500
-DTEND;TZID=Europe/Moscow:20260209T121500
-DTSTAMP:20260629T063615Z
-UID:20260209T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/214\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260210T104500
-DTEND;TZID=Europe/Moscow:20260210T121500
-DTSTAMP:20260629T063615Z
-UID:20260210T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260210T123000
-DTEND;TZID=Europe/Moscow:20260210T140000
-DTSTAMP:20260629T063615Z
-UID:20260210T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Прогнозирование и планирован
- ие 3/602 4241А гр. 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260217T104500
-DTEND;TZID=Europe/Moscow:20260217T121500
-DTSTAMP:20260629T063615Z
-UID:20260217T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
- рогнозирование и планирование\nАудитори
- я: 3/602\nГруппы: 4241А 4241Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260217T123000
-DTEND;TZID=Europe/Moscow:20260217T140000
-DTSTAMP:20260629T063615Z
-UID:20260217T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Теория и практика принятия у
- правленческих решений 1/407 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260225T090000
-DTEND;TZID=Europe/Moscow:20260225T103000
-DTSTAMP:20260629T063615Z
-UID:20260225T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 1/407\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Прогнозирование и планирова
- ние 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260225T104500
-DTEND;TZID=Europe/Moscow:20260225T121500
-DTSTAMP:20260629T063615Z
-UID:20260225T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.1 Теория и практика принятия у
- правленческих решений 2/214 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260302T123000
-DTEND;TZID=Europe/Moscow:20260302T140000
-DTSTAMP:20260629T063615Z
-UID:20260302T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/214\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Теория и практика принятия уп
- равленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260303T090000
-DTEND;TZID=Europe/Moscow:20260303T103000
-DTSTAMP:20260629T063615Z
-UID:20260303T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Прогнозирование и планирова
- ние 3/502 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260303T123000
-DTEND;TZID=Europe/Moscow:20260303T140000
-DTSTAMP:20260629T063615Z
-UID:20260303T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/502\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Прогнозирование и планирова
- ние 3/502 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260303T144000
-DTEND;TZID=Europe/Moscow:20260303T161000
-DTSTAMP:20260629T063615Z
-UID:20260303T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/502\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Прогнозирование и планирова
- ние 3/509 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260310T090000
-DTEND;TZID=Europe/Moscow:20260310T103000
-DTSTAMP:20260629T063615Z
-UID:20260310T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/509\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Прогнозирование и планирова
- ние 3/509 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260310T104500
-DTEND;TZID=Europe/Moscow:20260310T121500
-DTSTAMP:20260629T063615Z
-UID:20260310T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/509\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Прогнозирование и планирова
- ние 3/509 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260310T123000
-DTEND;TZID=Europe/Moscow:20260310T140000
-DTSTAMP:20260629T063615Z
-UID:20260310T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/509\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260311T090000
-DTEND;TZID=Europe/Moscow:20260311T103000
-DTSTAMP:20260629T063615Z
-UID:20260311T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний ЭИ
- ОС 4231Б гр.
-DTSTART;TZID=Europe/Moscow:20260311T123000
-DTEND;TZID=Europe/Moscow:20260311T140000
-DTSTAMP:20260629T063615Z
-UID:20260311T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: ЭИ
- ОС\nГруппы: 4231Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260316T090000
-DTEND;TZID=Europe/Moscow:20260316T103000
-DTSTAMP:20260629T063615Z
-UID:20260316T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)   Проверка остаточных знаний ЭИ
- ОС 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260316T144000
-DTEND;TZID=Europe/Moscow:20260316T161000
-DTSTAMP:20260629T063615Z
-UID:20260316T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  \nПредмет: П
- роверка остаточных знаний\nАудитория: ЭИ
- ОС\nГруппы: 4231А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.5 Прогнозирование и планирован
- ие 3/602 4241А гр. 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260629T063615Z
-UID:20260317T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: П
- рогнозирование и планирование\nАудитори
- я: 3/602\nГруппы: 4241А 4241Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.6 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260318T090000
-DTEND;TZID=Europe/Moscow:20260318T103000
-DTSTAMP:20260629T063615Z
-UID:20260318T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.6\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Теория и практика принятия уп
- равленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260323T104500
-DTEND;TZID=Europe/Moscow:20260323T121500
-DTSTAMP:20260629T063615Z
-UID:20260323T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Теория и практика принятия уп
- равленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260324T123000
-DTEND;TZID=Europe/Moscow:20260324T140000
-DTSTAMP:20260629T063615Z
-UID:20260324T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Прогнозирование и планирован
- ие 2/214 4241А гр. 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260330T144000
-DTEND;TZID=Europe/Moscow:20260330T161000
-DTSTAMP:20260629T063615Z
-UID:20260330T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: П
- рогнозирование и планирование\nАудитори
- я: 2/214\nГруппы: 4241А 4241Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260330T162500
-DTEND;TZID=Europe/Moscow:20260330T175500
-DTSTAMP:20260629T063615Z
-UID:20260330T162500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260331T090000
-DTEND;TZID=Europe/Moscow:20260331T103000
-DTSTAMP:20260629T063615Z
-UID:20260331T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.7 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260331T104500
-DTEND;TZID=Europe/Moscow:20260331T121500
-DTSTAMP:20260629T063615Z
-UID:20260331T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.7\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.8 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260331T123000
-DTEND;TZID=Europe/Moscow:20260331T140000
-DTSTAMP:20260629T063615Z
-UID:20260331T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260407T090000
-DTEND;TZID=Europe/Moscow:20260407T103000
-DTSTAMP:20260629T063615Z
-UID:20260407T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260407T104500
-DTEND;TZID=Europe/Moscow:20260407T121500
-DTSTAMP:20260629T063615Z
-UID:20260407T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Прогнозирование и планирова
- ние 3/407 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260407T123000
-DTEND;TZID=Europe/Moscow:20260407T140000
-DTSTAMP:20260629T063615Z
-UID:20260407T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/407\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Прогнозирование и планирова
- ние 3/407 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260407T144000
-DTEND;TZID=Europe/Moscow:20260407T161000
-DTSTAMP:20260629T063615Z
-UID:20260407T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/407\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и практика принятия уп
- равленческих решений 1/216 5242А гр.
-DTSTART;TZID=Europe/Moscow:20260413T090000
-DTEND;TZID=Europe/Moscow:20260413T103000
-DTSTAMP:20260629T063615Z
-UID:20260413T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 1/216\nГруппы: 5242А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и практика принятия уп
- равленческих решений 1/216 5242А гр.
-DTSTART;TZID=Europe/Moscow:20260413T104500
-DTEND;TZID=Europe/Moscow:20260413T121500
-DTSTAMP:20260629T063615Z
-UID:20260413T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 1/216\nГруппы: 5242А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и практика принятия уп
- равленческих решений 1/216 5242А гр.
-DTSTART;TZID=Europe/Moscow:20260413T123000
-DTEND;TZID=Europe/Moscow:20260413T140000
-DTSTAMP:20260629T063615Z
-UID:20260413T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 1/216\nГруппы: 5242А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Прогнозирование и планирова
- ние 3/406 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260413T144000
-DTEND;TZID=Europe/Moscow:20260413T161000
-DTSTAMP:20260629T063615Z
-UID:20260413T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.4 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261006T144000
+DTEND;TZID=Europe/Moscow:20261006T161000
+DTSTAMP:20260826T120553Z
+UID:20261006T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/406\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 2/216 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260414T090000
-DTEND;TZID=Europe/Moscow:20260414T103000
-DTSTAMP:20260629T063615Z
-UID:20260414T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 5243
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 2/216 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260414T104500
-DTEND;TZID=Europe/Moscow:20260414T121500
-DTSTAMP:20260629T063615Z
-UID:20260414T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 5243
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.5 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260414T144000
-DTEND;TZID=Europe/Moscow:20260414T161000
-DTSTAMP:20260629T063615Z
-UID:20260414T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.5 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261007T123000
+DTEND;TZID=Europe/Moscow:20261007T140000
+DTSTAMP:20260826T120553Z
+UID:20261007T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260415T104500
-DTEND;TZID=Europe/Moscow:20260415T121500
-DTSTAMP:20260629T063615Z
-UID:20260415T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.5 Теория управления и организ
+ ации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261007T144000
+DTEND;TZID=Europe/Moscow:20261007T161000
+DTSTAMP:20260826T120553Z
+UID:20261007T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.5\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и практика принятия уп
- равленческих решений 2/216 5242Б гр.
-DTSTART;TZID=Europe/Moscow:20260420T090000
-DTEND;TZID=Europe/Moscow:20260420T103000
-DTSTAMP:20260629T063615Z
-UID:20260420T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 5242Б
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 3/507 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261012T090000
+DTEND;TZID=Europe/Moscow:20261012T103000
+DTSTAMP:20260826T120553Z
+UID:20261012T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/507\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и практика принятия уп
- равленческих решений 2/216 5242Б гр.
-DTSTART;TZID=Europe/Moscow:20260420T104500
-DTEND;TZID=Europe/Moscow:20260420T121500
-DTSTAMP:20260629T063615Z
-UID:20260420T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 5242Б
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261012T104500
+DTEND;TZID=Europe/Moscow:20261012T121500
+DTSTAMP:20260826T120553Z
+UID:20261012T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и практика принятия уп
- равленческих решений 2/216 5242Б гр.
-DTSTART;TZID=Europe/Moscow:20260420T123000
-DTEND;TZID=Europe/Moscow:20260420T140000
-DTSTAMP:20260629T063615Z
-UID:20260420T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 5242Б
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261013T090000
+DTEND;TZID=Europe/Moscow:20261013T103000
+DTSTAMP:20260826T120553Z
+UID:20261013T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.6 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260421T090000
-DTEND;TZID=Europe/Moscow:20260421T103000
-DTSTAMP:20260629T063615Z
-UID:20260421T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261013T104500
+DTEND;TZID=Europe/Moscow:20261013T121500
+DTSTAMP:20260826T120553Z
+UID:20261013T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Теория управления и организ
+ ации 3/201 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261013T144000
+DTEND;TZID=Europe/Moscow:20261013T161000
+DTSTAMP:20260826T120553Z
+UID:20261013T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 3/201\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.6 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260421T104500
-DTEND;TZID=Europe/Moscow:20260421T121500
-DTSTAMP:20260629T063615Z
-UID:20260421T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.6 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261014T090000
+DTEND;TZID=Europe/Moscow:20261014T103000
+DTSTAMP:20260826T120553Z
+UID:20261014T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.6 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260421T123000
-DTEND;TZID=Europe/Moscow:20260421T140000
-DTSTAMP:20260629T063615Z
-UID:20260421T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.7 Теория управления и организ
+ ации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261019T104500
+DTEND;TZID=Europe/Moscow:20261019T121500
+DTSTAMP:20260826T120553Z
+UID:20261019T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260422T090000
-DTEND;TZID=Europe/Moscow:20260422T103000
-DTSTAMP:20260629T063615Z
-UID:20260422T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.7 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261019T144000
+DTEND;TZID=Europe/Moscow:20261019T161000
+DTSTAMP:20260826T120553Z
+UID:20261019T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Теория и практика принятия у
- правленческих решений 1/407 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260422T104500
-DTEND;TZID=Europe/Moscow:20260422T121500
-DTSTAMP:20260629T063615Z
-UID:20260422T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 1/407\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261020T090000
+DTEND;TZID=Europe/Moscow:20261020T103000
+DTSTAMP:20260826T120553Z
+UID:20261020T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Прогнозирование и планирован
- ие 2/214 4241А гр. 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260427T104500
-DTEND;TZID=Europe/Moscow:20260427T121500
-DTSTAMP:20260629T063615Z
-UID:20260427T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
- рогнозирование и планирование\nАудитори
- я: 2/214\nГруппы: 4241А 4241Б
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261020T104500
+DTEND;TZID=Europe/Moscow:20261020T121500
+DTSTAMP:20260826T120553Z
+UID:20261020T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260429T090000
-DTEND;TZID=Europe/Moscow:20260429T103000
-DTSTAMP:20260629T063615Z
-UID:20260429T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261020T123000
+DTEND;TZID=Europe/Moscow:20261020T140000
+DTSTAMP:20260826T120553Z
+UID:20261020T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Прогнозирование и планирова
- ние 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260505T123000
-DTEND;TZID=Europe/Moscow:20260505T140000
-DTSTAMP:20260629T063615Z
-UID:20260505T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261020T144000
+DTEND;TZID=Europe/Moscow:20261020T161000
+DTSTAMP:20260826T120553Z
+UID:20261020T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Теория управления и организ
+ ации 3/204 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T120553Z
+UID:20261021T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/204\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261021T104500
+DTEND;TZID=Europe/Moscow:20261021T121500
+DTSTAMP:20260826T120553Z
+UID:20261021T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261021T123000
+DTEND;TZID=Europe/Moscow:20261021T140000
+DTSTAMP:20260826T120553Z
+UID:20261021T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Разработка управленческих ре
+ шений 2/214 4241А гр. 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261026T090000
+DTEND;TZID=Europe/Moscow:20261026T103000
+DTSTAMP:20260826T120553Z
+UID:20261026T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Р
+ азработка управленческих решений\nАудит
+ ория: 2/214\nГруппы: 4241А 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Теория управления и организ
+ ации 3/409 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261027T104500
+DTEND;TZID=Europe/Moscow:20261027T121500
+DTSTAMP:20260826T120553Z
+UID:20261027T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 3/409\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Прогнозирование и планирова
- ние 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260505T144000
-DTEND;TZID=Europe/Moscow:20260505T161000
-DTSTAMP:20260629T063615Z
-UID:20260505T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  4.1 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261027T144000
+DTEND;TZID=Europe/Moscow:20261027T161000
+DTSTAMP:20260826T120553Z
+UID:20261027T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.2 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261028T123000
+DTEND;TZID=Europe/Moscow:20261028T140000
+DTSTAMP:20260826T120553Z
+UID:20261028T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.3 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261028T144000
+DTEND;TZID=Europe/Moscow:20261028T161000
+DTSTAMP:20260826T120553Z
+UID:20261028T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Теория и практика принятия уп
- равленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260506T090000
-DTEND;TZID=Europe/Moscow:20260506T103000
-DTSTAMP:20260629T063615Z
-UID:20260506T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 3/408 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261102T090000
+DTEND;TZID=Europe/Moscow:20261102T103000
+DTSTAMP:20260826T120553Z
+UID:20261102T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/408\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260512T090000
-DTEND;TZID=Europe/Moscow:20260512T103000
-DTSTAMP:20260629T063615Z
-UID:20260512T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 3/408 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261102T104500
+DTEND;TZID=Europe/Moscow:20261102T121500
+DTSTAMP:20260826T120553Z
+UID:20261102T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/408\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260629T063615Z
-UID:20260512T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261103T090000
+DTEND;TZID=Europe/Moscow:20261103T103000
+DTSTAMP:20260826T120553Z
+UID:20261103T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260512T123000
-DTEND;TZID=Europe/Moscow:20260512T140000
-DTSTAMP:20260629T063615Z
-UID:20260512T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261103T104500
+DTEND;TZID=Europe/Moscow:20261103T121500
+DTSTAMP:20260826T120553Z
+UID:20261103T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 1/216 5251В гр.
-DTSTART;TZID=Europe/Moscow:20260513T090000
-DTEND;TZID=Europe/Moscow:20260513T103000
-DTSTAMP:20260629T063615Z
-UID:20260513T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 1/216\nГруппы: 5251В
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  4.3 Теория управления и организ
+ ации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261103T144000
+DTEND;TZID=Europe/Moscow:20261103T161000
+DTSTAMP:20260826T120553Z
+UID:20261103T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 1/216 5251В гр.
-DTSTART;TZID=Europe/Moscow:20260513T104500
-DTEND;TZID=Europe/Moscow:20260513T121500
-DTSTAMP:20260629T063615Z
-UID:20260513T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 1/216\nГруппы: 5251В
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 1/216 5251Б гр.
-DTSTART;TZID=Europe/Moscow:20260513T123000
-DTEND;TZID=Europe/Moscow:20260513T140000
-DTSTAMP:20260629T063615Z
-UID:20260513T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 1/216\nГруппы: 5251Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 1/216 5251Б гр.
-DTSTART;TZID=Europe/Moscow:20260513T144000
-DTEND;TZID=Europe/Moscow:20260513T161000
-DTSTAMP:20260629T063615Z
-UID:20260513T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 1/216\nГруппы: 5251Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 1/216 5251Г гр.
-DTSTART;TZID=Europe/Moscow:20260516T090000
-DTEND;TZID=Europe/Moscow:20260516T103000
-DTSTAMP:20260629T063615Z
-UID:20260516T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 1/216\nГруппы: 5251Г
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Теория и практика принятия уп
- равленческих решений 1/216 5251Г гр.
-DTSTART;TZID=Europe/Moscow:20260516T104500
-DTEND;TZID=Europe/Moscow:20260516T121500
-DTSTAMP:20260629T063615Z
-UID:20260516T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 1/216\nГруппы: 5251Г
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Прогнозирование и планирован
- ие 2/214 4241А гр. 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260520T144000
-DTEND;TZID=Europe/Moscow:20260520T161000
-DTSTAMP:20260629T063615Z
-UID:20260520T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: П
- рогнозирование и планирование\nАудитори
- я: 2/214\nГруппы: 4241А 4241Б
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260526T090000
-DTEND;TZID=Europe/Moscow:20260526T103000
-DTSTAMP:20260629T063615Z
-UID:20260526T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260526T104500
-DTEND;TZID=Europe/Moscow:20260526T121500
-DTSTAMP:20260629T063615Z
-UID:20260526T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Прогнозирование и планирова
- ние 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260526T123000
-DTEND;TZID=Europe/Moscow:20260526T140000
-DTSTAMP:20260629T063615Z
-UID:20260526T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260616T123000
-DTEND;TZID=Europe/Moscow:20260616T140000
-DTSTAMP:20260629T063615Z
-UID:20260616T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Прогнозирование и планирова
- ние 2/214 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260616T144000
-DTEND;TZID=Europe/Moscow:20260616T161000
-DTSTAMP:20260629T063615Z
-UID:20260616T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/214\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Прогнозирование и планирова
- ние 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260620T090000
-DTEND;TZID=Europe/Moscow:20260620T103000
-DTSTAMP:20260629T063615Z
-UID:20260620T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T104500
-DTEND;TZID=Europe/Moscow:20260620T121500
-DTSTAMP:20260629T063615Z
-UID:20260620T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  5.1 Теория управления и организ
+ ации 3/503 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261109T090000
+DTEND;TZID=Europe/Moscow:20261109T103000
+DTSTAMP:20260826T120553Z
+UID:20261109T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 3/503\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T123000
-DTEND;TZID=Europe/Moscow:20260620T140000
-DTSTAMP:20260629T063615Z
-UID:20260620T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  5.1 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261110T104500
+DTEND;TZID=Europe/Moscow:20261110T121500
+DTSTAMP:20260826T120553Z
+UID:20261110T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Теория и практика принятия уп
- равленческих решений 2/214 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260622T123000
-DTEND;TZID=Europe/Moscow:20260622T140000
-DTSTAMP:20260629T063615Z
-UID:20260622T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/214\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261110T123000
+DTEND;TZID=Europe/Moscow:20261110T140000
+DTSTAMP:20260826T120553Z
+UID:20261110T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260622T162500
-DTEND;TZID=Europe/Moscow:20260622T175500
-DTSTAMP:20260629T063615Z
-UID:20260622T162500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261110T144000
+DTEND;TZID=Europe/Moscow:20261110T161000
+DTSTAMP:20260826T120553Z
+UID:20261110T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР5.6 Прогнозирование и планиро
- вание 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260623T090000
-DTEND;TZID=Europe/Moscow:20260623T103000
-DTSTAMP:20260629T063615Z
-UID:20260623T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР5.6\nПредм
- ет: Прогнозирование и планирование\nАуди
- тория: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261111T104500
+DTEND;TZID=Europe/Moscow:20261111T121500
+DTSTAMP:20260826T120553Z
+UID:20261111T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР5.6 Прогнозирование и планиро
- вание 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260623T104500
-DTEND;TZID=Europe/Moscow:20260623T121500
-DTSTAMP:20260629T063615Z
-UID:20260623T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР5.6\nПредм
- ет: Прогнозирование и планирование\nАуди
- тория: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  3.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261111T123000
+DTEND;TZID=Europe/Moscow:20261111T140000
+DTSTAMP:20260826T120553Z
+UID:20261111T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  КР5.6 Прогнозирование и планиро
- вание 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260623T123000
-DTEND;TZID=Europe/Moscow:20260623T140000
-DTSTAMP:20260629T063615Z
-UID:20260623T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  КР5.6\nПредм
- ет: Прогнозирование и планирование\nАуди
- тория: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Теория и практика принятия уп
- равленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260624T090000
-DTEND;TZID=Europe/Moscow:20260624T103000
-DTSTAMP:20260629T063615Z
-UID:20260624T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Т
- еория и практика принятия управленчески
- х решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.1 Теория и практика принятия у
- правленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260624T123000
-DTEND;TZID=Europe/Moscow:20260624T140000
-DTSTAMP:20260629T063615Z
-UID:20260624T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  6.1 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261111T144000
+DTEND;TZID=Europe/Moscow:20261111T161000
+DTSTAMP:20260826T120553Z
+UID:20261111T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(конс.)   Прогнозирование и планирова
- ние 3/502 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260629T123000
-DTEND;TZID=Europe/Moscow:20260629T140000
-DTSTAMP:20260629T063615Z
-UID:20260629T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 3/502\nГруппы: 4241Б
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(л.)  4.1 Разработка управленческих ре
+ шений 2/214 4241А гр. 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261117T090000
+DTEND;TZID=Europe/Moscow:20261117T103000
+DTSTAMP:20260826T120553Z
+UID:20261117T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Р
+ азработка управленческих решений\nАудит
+ ория: 2/214\nГруппы: 4241А 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.1 Теория и практика принятия у
- правленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260701T090000
-DTEND;TZID=Europe/Moscow:20260701T103000
-DTSTAMP:20260629T063615Z
-UID:20260701T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(л.)  7.1 Теория управления и организац
+ ии 3/602 4261А гр. 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T120553Z
+UID:20261117T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: Т
+ еория управления и организации\nАудитор
+ ия: 3/602\nГруппы: 4261А 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  6.1 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261117T144000
+DTEND;TZID=Europe/Moscow:20261117T161000
+DTSTAMP:20260826T120553Z
+UID:20261117T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.1\nПредмет:
-  Теория и практика принятия управленчес
- ких решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Теория и практика принятия уп
- равленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260701T104500
-DTEND;TZID=Europe/Moscow:20260701T121500
-DTSTAMP:20260629T063615Z
-UID:20260701T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  7.2 Теория управления и организ
+ ации 3/408 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261118T123000
+DTEND;TZID=Europe/Moscow:20261118T140000
+DTSTAMP:20260826T120553Z
+UID:20261118T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/408\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Теория и практика принятия уп
- равленческих решений 2/216 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260701T123000
-DTEND;TZID=Europe/Moscow:20260701T140000
-DTSTAMP:20260629T063615Z
-UID:20260701T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 6251
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(ЗСТ)  7.2 Теория управления и организ
+ ации 3/201 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261118T144000
+DTEND;TZID=Europe/Moscow:20261118T161000
+DTSTAMP:20260826T120553Z
+UID:20261118T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/201\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Прогнозирование и планирован
- ие 2/216 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260706T090000
-DTEND;TZID=Europe/Moscow:20260706T103000
-DTSTAMP:20260629T063615Z
-UID:20260706T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261123T090000
+DTEND;TZID=Europe/Moscow:20261123T103000
+DTSTAMP:20260826T120553Z
+UID:20261123T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261123T104500
+DTEND;TZID=Europe/Moscow:20261123T121500
+DTSTAMP:20260826T120553Z
+UID:20261123T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261124T104500
+DTEND;TZID=Europe/Moscow:20261124T121500
+DTSTAMP:20260826T120553Z
+UID:20261124T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261124T123000
+DTEND;TZID=Europe/Moscow:20261124T140000
+DTSTAMP:20260826T120553Z
+UID:20261124T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.1 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261125T104500
+DTEND;TZID=Europe/Moscow:20261125T121500
+DTSTAMP:20260826T120553Z
+UID:20261125T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.1\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.1 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261125T123000
+DTEND;TZID=Europe/Moscow:20261125T140000
+DTSTAMP:20260826T120553Z
+UID:20261125T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.1\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 3/510 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261130T090000
+DTEND;TZID=Europe/Moscow:20261130T103000
+DTSTAMP:20260826T120553Z
+UID:20261130T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/510\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 3/510 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261130T104500
+DTEND;TZID=Europe/Moscow:20261130T121500
+DTSTAMP:20260826T120553Z
+UID:20261130T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/510\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.2 Теория управления и организ
+ ации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261130T144000
+DTEND;TZID=Europe/Moscow:20261130T161000
+DTSTAMP:20260826T120553Z
+UID:20261130T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.2 Теория управления и организ
+ ации 3/408 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261201T104500
+DTEND;TZID=Europe/Moscow:20261201T121500
+DTSTAMP:20260826T120553Z
+UID:20261201T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/408\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261202T104500
+DTEND;TZID=Europe/Moscow:20261202T121500
+DTSTAMP:20260826T120553Z
+UID:20261202T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  4.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261202T123000
+DTEND;TZID=Europe/Moscow:20261202T140000
+DTSTAMP:20260826T120553Z
+UID:20261202T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  8.3 Теория управления и организац
+ ии 3/602 4261А гр. 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261207T104500
+DTEND;TZID=Europe/Moscow:20261207T121500
+DTSTAMP:20260826T120553Z
+UID:20261207T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  8.3\nПредмет: Т
+ еория управления и организации\nАудитор
+ ия: 3/602\nГруппы: 4261А 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/216 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261207T144000
+DTEND;TZID=Europe/Moscow:20261207T161000
+DTSTAMP:20260826T120553Z
+UID:20261207T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261208T090000
+DTEND;TZID=Europe/Moscow:20261208T103000
+DTSTAMP:20260826T120553Z
+UID:20261208T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261208T104500
+DTEND;TZID=Europe/Moscow:20261208T121500
+DTSTAMP:20260826T120553Z
+UID:20261208T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261208T123000
+DTEND;TZID=Europe/Moscow:20261208T140000
+DTSTAMP:20260826T120553Z
+UID:20261208T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.4 Теория управления и организ
+ ации 3/407 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261209T090000
+DTEND;TZID=Europe/Moscow:20261209T103000
+DTSTAMP:20260826T120553Z
+UID:20261209T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.4\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/407\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.5 Теория управления и организ
+ ации 3/503 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261214T090000
+DTEND;TZID=Europe/Moscow:20261214T103000
+DTSTAMP:20260826T120553Z
+UID:20261214T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.5\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 3/503\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  9.1 Теория управления и организац
+ ии 3/602 4261А гр. 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261214T104500
+DTEND;TZID=Europe/Moscow:20261214T121500
+DTSTAMP:20260826T120553Z
+UID:20261214T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: л.\nТема:  9.1\nПредмет: Т
+ еория управления и организации\nАудитор
+ ия: 3/602\nГруппы: 4261А 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.4 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261214T123000
+DTEND;TZID=Europe/Moscow:20261214T140000
+DTSTAMP:20260826T120553Z
+UID:20261214T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.4\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  8.5 Теория управления и организ
+ ации 2/214 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261214T144000
+DTEND;TZID=Europe/Moscow:20261214T161000
+DTSTAMP:20260826T120553Z
+UID:20261214T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  8.5\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261215T090000
+DTEND;TZID=Europe/Moscow:20261215T103000
+DTSTAMP:20260826T120553Z
+UID:20261215T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261215T104500
+DTEND;TZID=Europe/Moscow:20261215T121500
+DTSTAMP:20260826T120553Z
+UID:20261215T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  9.2 Теория управления и организ
+ ации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261215T123000
+DTEND;TZID=Europe/Moscow:20261215T140000
+DTSTAMP:20260826T120553Z
+UID:20261215T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  9.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261216T104500
+DTEND;TZID=Europe/Moscow:20261216T121500
+DTSTAMP:20260826T120553Z
+UID:20261216T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261216T123000
+DTEND;TZID=Europe/Moscow:20261216T140000
+DTSTAMP:20260826T120553Z
+UID:20261216T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  9.2 Теория управления и организ
+ ации 2/214 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261221T090000
+DTEND;TZID=Europe/Moscow:20261221T103000
+DTSTAMP:20260826T120553Z
+UID:20261221T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  9.2\nПредмет:
+  Теория управления и организации\nАудито
+ рия: 2/214\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зач.)  с оценкой Теория управления и 
+ организации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261221T123000
+DTEND;TZID=Europe/Moscow:20261221T140000
+DTSTAMP:20260826T120553Z
+UID:20261221T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Теория управления и организаци
+ и\nАудитория: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зач.)  с оценкой Теория управления и 
+ организации 2/216 4261Б гр.
+DTSTART;TZID=Europe/Moscow:20261221T144000
+DTEND;TZID=Europe/Moscow:20261221T161000
+DTSTAMP:20260826T120553Z
+UID:20261221T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Теория управления и организаци
+ и\nАудитория: 2/216\nГруппы: 4261Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20261222T090000
+DTEND;TZID=Europe/Moscow:20261222T103000
+DTSTAMP:20260826T120553Z
+UID:20261222T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зач.)  с оценкой Теория управления и 
+ организации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261222T104500
+DTEND;TZID=Europe/Moscow:20261222T121500
+DTSTAMP:20260826T120553Z
+UID:20261222T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Теория управления и организаци
+ и\nАудитория: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(зач.)  с оценкой Теория управления и 
+ организации 2/216 4261А гр.
+DTSTART;TZID=Europe/Moscow:20261222T123000
+DTEND;TZID=Europe/Moscow:20261222T140000
+DTSTAMP:20260826T120553Z
+UID:20261222T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: зач.\nТема:  с оценкой\n
+ Предмет: Теория управления и организаци
+ и\nАудитория: 2/216\nГруппы: 4261А
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261223T090000
+DTEND;TZID=Europe/Moscow:20261223T103000
+DTSTAMP:20260826T120553Z
+UID:20261223T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261223T104500
+DTEND;TZID=Europe/Moscow:20261223T121500
+DTSTAMP:20260826T120553Z
+UID:20261223T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.1 Разработка управленческих р
+ ешений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261223T123000
+DTEND;TZID=Europe/Moscow:20261223T140000
+DTSTAMP:20260826T120553Z
+UID:20261223T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+  Разработка управленческих решений\nАуд
+ итория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Консультация)   Разработка управлен
+ ческих решений 3/201 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20261223T144000
+DTEND;TZID=Europe/Moscow:20261223T161000
+DTSTAMP:20260826T120553Z
+UID:20261223T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Консультация\nТема:  \n
+ Предмет: Разработка управленческих реше
+ ний\nАудитория: 3/201\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(экз.)   Разработка управленческих ре
+ шений 2/214 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20270111T090000
+DTEND;TZID=Europe/Moscow:20270111T103000
+DTSTAMP:20260826T120553Z
+UID:20270111T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Прогнозирование и планирование\nАудитор
- ия: 2/216\nГруппы: 4241Б
-LAST-MODIFIED:20260629T063615Z
+ Разработка управленческих решений\nАуди
+ тория: 2/214\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Прогнозирование и планирован
- ие 2/216 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260706T104500
-DTEND;TZID=Europe/Moscow:20260706T121500
-DTSTAMP:20260629T063615Z
-UID:20260706T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(экз.)   Разработка управленческих ре
+ шений 3/502 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20270111T104500
+DTEND;TZID=Europe/Moscow:20270111T121500
+DTSTAMP:20260826T120553Z
+UID:20270111T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Прогнозирование и планирование\nАудитор
- ия: 2/216\nГруппы: 4241Б
-LAST-MODIFIED:20260629T063615Z
+ Разработка управленческих решений\nАуди
+ тория: 3/502\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Прогнозирование и планирован
- ие 2/216 4241Б гр.
-DTSTART;TZID=Europe/Moscow:20260706T123000
-DTEND;TZID=Europe/Moscow:20260706T140000
-DTSTAMP:20260629T063615Z
-UID:20260706T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(экз.)   Разработка управленческих ре
+ шений 3/502 4241Б гр.
+DTSTART;TZID=Europe/Moscow:20270111T123000
+DTEND;TZID=Europe/Moscow:20270111T140000
+DTSTAMP:20260826T120553Z
+UID:20270111T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Прогнозирование и планирование\nАудитор
- ия: 2/216\nГруппы: 4241Б
-LAST-MODIFIED:20260629T063615Z
+ Разработка управленческих решений\nАуди
+ тория: 3/502\nГруппы: 4241Б
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(конс.)   Прогнозирование и планирова
- ние 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260706T144000
-DTEND;TZID=Europe/Moscow:20260706T161000
-DTSTAMP:20260629T063615Z
-UID:20260706T144000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: конс.\nТема:  \nПредмет:
-  Прогнозирование и планирование\nАудито
- рия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+SUMMARY:(Консультация)   Разработка управлен
+ ческих решений 2/216 4241А гр.
+DTSTART;TZID=Europe/Moscow:20270111T144000
+DTEND;TZID=Europe/Moscow:20270111T161000
+DTSTAMP:20260826T120553Z
+UID:20270111T144000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
+DESCRIPTION:Тип занятия: Консультация\nТема:  \n
+ Предмет: Разработка управленческих реше
+ ний\nАудитория: 2/216\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Прогнозирование и планирован
- ие 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260707T090000
-DTEND;TZID=Europe/Moscow:20260707T103000
-DTSTAMP:20260629T063615Z
-UID:20260707T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(экз.)   Разработка управленческих ре
+ шений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20270112T090000
+DTEND;TZID=Europe/Moscow:20270112T103000
+DTSTAMP:20260826T120553Z
+UID:20270112T090000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Прогнозирование и планирование\nАудитор
- ия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+ Разработка управленческих решений\nАуди
+ тория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Прогнозирование и планирован
- ие 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260707T104500
-DTEND;TZID=Europe/Moscow:20260707T121500
-DTSTAMP:20260629T063615Z
-UID:20260707T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(экз.)   Разработка управленческих ре
+ шений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20270112T104500
+DTEND;TZID=Europe/Moscow:20270112T121500
+DTSTAMP:20260826T120553Z
+UID:20270112T104500@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Прогнозирование и планирование\nАудитор
- ия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
+ Разработка управленческих решений\nАуди
+ тория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(экз.)   Прогнозирование и планирован
- ие 2/216 4241А гр.
-DTSTART;TZID=Europe/Moscow:20260707T123000
-DTEND;TZID=Europe/Moscow:20260707T140000
-DTSTAMP:20260629T063615Z
-UID:20260707T123000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
+SUMMARY:(экз.)   Разработка управленческих ре
+ шений 3/407 4241А гр.
+DTSTART;TZID=Europe/Moscow:20270112T123000
+DTEND;TZID=Europe/Moscow:20270112T140000
+DTSTAMP:20260826T120553Z
+UID:20270112T123000@20260826T150553@Чумаченко А.П.
+CREATED:20260826T120553Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Прогнозирование и планирование\nАудитор
- ия: 2/216\nГруппы: 4241А
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Теория и практика принятия уп
- равленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260708T090000
-DTEND;TZID=Europe/Moscow:20260708T103000
-DTSTAMP:20260629T063615Z
-UID:20260708T090000@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Теория и практика принятия уп
- равленческих решений 2/216 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260708T104500
-DTEND;TZID=Europe/Moscow:20260708T121500
-DTSTAMP:20260629T063615Z
-UID:20260708T104500@20260629T093615@Чумаченко А.П.
-CREATED:20260629T063615Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Теория и практика принятия управленческ
- их решений\nАудитория: 2/216\nГруппы: 1251
-LAST-MODIFIED:20260629T063615Z
+ Разработка управленческих решений\nАуди
+ тория: 3/407\nГруппы: 4241А
+LAST-MODIFIED:20260826T120553Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
