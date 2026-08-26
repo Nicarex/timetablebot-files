@@ -19,1391 +19,1305 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Профессионально-прикладная 
- физическая культура УСК3 3256 гр. 4256 гр.
-DTSTART;TZID=Europe/Moscow:20260204T090000
-DTEND;TZID=Europe/Moscow:20260204T103000
-DTSTAMP:20260516T075349Z
-UID:20260204T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
+SUMMARY:(ЗСТ)  1.3 Физическая культура и спорт 
+ УСБ4 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260903T090000
+DTEND;TZID=Europe/Moscow:20260903T103000
+DTSTAMP:20260826T120152Z
+UID:20260903T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ4\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.3 Физическая культура и спорт 
+ УСБ4 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260903T104500
+DTEND;TZID=Europe/Moscow:20260903T121500
+DTSTAMP:20260826T120152Z
+UID:20260903T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ4\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.3 Физическая культура и спорт 
+ УСБ4 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260903T123000
+DTEND;TZID=Europe/Moscow:20260903T140000
+DTSTAMP:20260826T120152Z
+UID:20260903T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ4\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.4 Физическая культура и спорт 
+ УСБ4 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260908T090000
+DTEND;TZID=Europe/Moscow:20260908T103000
+DTSTAMP:20260826T120152Z
+UID:20260908T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ4\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.4 Физическая культура и спорт 
+ УСБ4 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260908T104500
+DTEND;TZID=Europe/Moscow:20260908T121500
+DTSTAMP:20260826T120152Z
+UID:20260908T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ4\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.4 Физическая культура и спорт 
+ УСБ4 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260908T123000
+DTEND;TZID=Europe/Moscow:20260908T140000
+DTSTAMP:20260826T120152Z
+UID:20260908T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ4\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.5 Физическая культура и спорт 
+ УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260910T090000
+DTEND;TZID=Europe/Moscow:20260910T103000
+DTSTAMP:20260826T120152Z
+UID:20260910T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.5 Физическая культура и спорт 
+ УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260910T104500
+DTEND;TZID=Europe/Moscow:20260910T121500
+DTSTAMP:20260826T120152Z
+UID:20260910T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.5 Физическая культура и спорт 
+ УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T120152Z
+UID:20260910T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.5\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.13 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260915T090000
+DTEND;TZID=Europe/Moscow:20260915T103000
+DTSTAMP:20260826T120152Z
+UID:20260915T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.13\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.13 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260915T104500
+DTEND;TZID=Europe/Moscow:20260915T121500
+DTSTAMP:20260826T120152Z
+UID:20260915T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.13\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.13 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260915T123000
+DTEND;TZID=Europe/Moscow:20260915T140000
+DTSTAMP:20260826T120152Z
+UID:20260915T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.13\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.14 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260917T090000
+DTEND;TZID=Europe/Moscow:20260917T103000
+DTSTAMP:20260826T120152Z
+UID:20260917T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.14\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.14 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260917T104500
+DTEND;TZID=Europe/Moscow:20260917T121500
+DTSTAMP:20260826T120152Z
+UID:20260917T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.14\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.14 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260917T123000
+DTEND;TZID=Europe/Moscow:20260917T140000
+DTSTAMP:20260826T120152Z
+UID:20260917T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.14\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.15 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260924T090000
+DTEND;TZID=Europe/Moscow:20260924T103000
+DTSTAMP:20260826T120152Z
+UID:20260924T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.15\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.15 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T120152Z
+UID:20260924T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.15\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.15 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260924T123000
+DTEND;TZID=Europe/Moscow:20260924T140000
+DTSTAMP:20260826T120152Z
+UID:20260924T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.15\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.16 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20260929T090000
+DTEND;TZID=Europe/Moscow:20260929T103000
+DTSTAMP:20260826T120152Z
+UID:20260929T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.16\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.16 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20260929T104500
+DTEND;TZID=Europe/Moscow:20260929T121500
+DTSTAMP:20260826T120152Z
+UID:20260929T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.16\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.16 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20260929T123000
+DTEND;TZID=Europe/Moscow:20260929T140000
+DTSTAMP:20260826T120152Z
+UID:20260929T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.16\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.17 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260826T120152Z
+UID:20261001T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.17\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.17 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T121500
+DTSTAMP:20260826T120152Z
+UID:20261001T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.17\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.17 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261001T123000
+DTEND;TZID=Europe/Moscow:20261001T140000
+DTSTAMP:20260826T120152Z
+UID:20261001T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.17\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.18 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261006T090000
+DTEND;TZID=Europe/Moscow:20261006T103000
+DTSTAMP:20260826T120152Z
+UID:20261006T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.18\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.18 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260826T120152Z
+UID:20261006T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.18\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.18 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261006T123000
+DTEND;TZID=Europe/Moscow:20261006T140000
+DTSTAMP:20260826T120152Z
+UID:20261006T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.18\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.19 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261008T090000
+DTEND;TZID=Europe/Moscow:20261008T103000
+DTSTAMP:20260826T120152Z
+UID:20261008T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.19\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.19 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261008T104500
+DTEND;TZID=Europe/Moscow:20261008T121500
+DTSTAMP:20260826T120152Z
+UID:20261008T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.19\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.19 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261008T123000
+DTEND;TZID=Europe/Moscow:20261008T140000
+DTSTAMP:20260826T120152Z
+UID:20261008T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.19\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Физическая культура и спорт 
+ УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261013T090000
+DTEND;TZID=Europe/Moscow:20261013T103000
+DTSTAMP:20260826T120152Z
+UID:20261013T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Физическая культура и спорт 
+ УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261013T104500
+DTEND;TZID=Europe/Moscow:20261013T121500
+DTSTAMP:20260826T120152Z
+UID:20261013T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.6 Физическая культура и спорт 
+ УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261013T123000
+DTEND;TZID=Europe/Moscow:20261013T140000
+DTSTAMP:20260826T120152Z
+UID:20261013T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.6\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.7 Физическая культура и спорт 
+ УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261015T090000
+DTEND;TZID=Europe/Moscow:20261015T103000
+DTSTAMP:20260826T120152Z
+UID:20261015T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.7 Физическая культура и спорт 
+ УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261015T104500
+DTEND;TZID=Europe/Moscow:20261015T121500
+DTSTAMP:20260826T120152Z
+UID:20261015T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.7 Физическая культура и спорт 
+ УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261015T123000
+DTEND;TZID=Europe/Moscow:20261015T140000
+DTSTAMP:20260826T120152Z
+UID:20261015T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.7\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Физическая культура и спорт 
+ УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261020T090000
+DTEND;TZID=Europe/Moscow:20261020T103000
+DTSTAMP:20260826T120152Z
+UID:20261020T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Физическая культура и спорт 
+ УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261020T104500
+DTEND;TZID=Europe/Moscow:20261020T121500
+DTSTAMP:20260826T120152Z
+UID:20261020T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.8 Физическая культура и спорт 
+ УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261020T123000
+DTEND;TZID=Europe/Moscow:20261020T140000
+DTSTAMP:20260826T120152Z
+UID:20261020T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.8\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.15 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261022T090000
+DTEND;TZID=Europe/Moscow:20261022T103000
+DTSTAMP:20260826T120152Z
+UID:20261022T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.15\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.15 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261022T104500
+DTEND;TZID=Europe/Moscow:20261022T121500
+DTSTAMP:20260826T120152Z
+UID:20261022T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.15\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.15 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261022T123000
+DTEND;TZID=Europe/Moscow:20261022T140000
+DTSTAMP:20260826T120152Z
+UID:20261022T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.15\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.16 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261027T090000
+DTEND;TZID=Europe/Moscow:20261027T103000
+DTSTAMP:20260826T120152Z
+UID:20261027T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.16\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.16 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261027T104500
+DTEND;TZID=Europe/Moscow:20261027T121500
+DTSTAMP:20260826T120152Z
+UID:20261027T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.16\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.16 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261027T123000
+DTEND;TZID=Europe/Moscow:20261027T140000
+DTSTAMP:20260826T120152Z
+UID:20261027T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.16\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.17 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261029T090000
+DTEND;TZID=Europe/Moscow:20261029T103000
+DTSTAMP:20260826T120152Z
+UID:20261029T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.17\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.17 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261029T104500
+DTEND;TZID=Europe/Moscow:20261029T121500
+DTSTAMP:20260826T120152Z
+UID:20261029T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.17\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.17 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261029T123000
+DTEND;TZID=Europe/Moscow:20261029T140000
+DTSTAMP:20260826T120152Z
+UID:20261029T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.17\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.18 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261103T090000
+DTEND;TZID=Europe/Moscow:20261103T103000
+DTSTAMP:20260826T120152Z
+UID:20261103T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.18 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261103T104500
+DTEND;TZID=Europe/Moscow:20261103T121500
+DTSTAMP:20260826T120152Z
+UID:20261103T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.18 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261103T123000
+DTEND;TZID=Europe/Moscow:20261103T140000
+DTSTAMP:20260826T120152Z
+UID:20261103T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.18\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.19 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261110T090000
+DTEND;TZID=Europe/Moscow:20261110T103000
+DTSTAMP:20260826T120152Z
+UID:20261110T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.19\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.19 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261110T104500
+DTEND;TZID=Europe/Moscow:20261110T121500
+DTSTAMP:20260826T120152Z
+UID:20261110T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.19\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.19 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261110T123000
+DTEND;TZID=Europe/Moscow:20261110T140000
+DTSTAMP:20260826T120152Z
+UID:20261110T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.19\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.20 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261112T090000
+DTEND;TZID=Europe/Moscow:20261112T103000
+DTSTAMP:20260826T120152Z
+UID:20261112T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.20\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.20 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261112T104500
+DTEND;TZID=Europe/Moscow:20261112T121500
+DTSTAMP:20260826T120152Z
+UID:20261112T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.20\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.20 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261112T123000
+DTEND;TZID=Europe/Moscow:20261112T140000
+DTSTAMP:20260826T120152Z
+UID:20261112T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.20\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.21 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261117T090000
+DTEND;TZID=Europe/Moscow:20261117T103000
+DTSTAMP:20260826T120152Z
+UID:20261117T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.21\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.21 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T120152Z
+UID:20261117T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.21\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  3.21 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261117T123000
+DTEND;TZID=Europe/Moscow:20261117T140000
+DTSTAMP:20260826T120152Z
+UID:20261117T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.21\nПредмет
+ : Профессионально-прикладная физическая
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Физическая культура и спорт 
+ УСБ2 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261124T090000
+DTEND;TZID=Europe/Moscow:20261124T103000
+DTSTAMP:20260826T120152Z
+UID:20261124T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ2\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Физическая культура и спорт 
+ УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261124T104500
+DTEND;TZID=Europe/Moscow:20261124T121500
+DTSTAMP:20260826T120152Z
+UID:20261124T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Физическая культура и спорт 
+ УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261124T123000
+DTEND;TZID=Europe/Moscow:20261124T140000
+DTSTAMP:20260826T120152Z
+UID:20261124T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Физическая культура и спорт 
+ УСБ2 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261126T090000
+DTEND;TZID=Europe/Moscow:20261126T103000
+DTSTAMP:20260826T120152Z
+UID:20261126T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ2\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Физическая культура и спорт 
+ УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261126T104500
+DTEND;TZID=Europe/Moscow:20261126T121500
+DTSTAMP:20260826T120152Z
+UID:20261126T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Физическая культура и спорт 
+ УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261126T123000
+DTEND;TZID=Europe/Moscow:20261126T140000
+DTSTAMP:20260826T120152Z
+UID:20261126T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Физическая культура и спорт\nАудитория: 
+ УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.8 Профессионально-прикладная 
+ физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261201T090000
+DTEND;TZID=Europe/Moscow:20261201T103000
+DTSTAMP:20260826T120152Z
+UID:20261201T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
   Профессионально-прикладная физическая 
- культура\nАудитория: УСК3\nГруппы: 3256 4256
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Профессионально-прикладная 
- физическая культура УСК3 3256 гр. 4256 гр.
-DTSTART;TZID=Europe/Moscow:20260204T104500
-DTEND;TZID=Europe/Moscow:20260204T121500
-DTSTAMP:20260516T075349Z
-UID:20260204T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
+SUMMARY:(ЗСТ)  2.8 Профессионально-прикладная 
+ физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261201T104500
+DTEND;TZID=Europe/Moscow:20261201T121500
+DTSTAMP:20260826T120152Z
+UID:20261201T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
   Профессионально-прикладная физическая 
- культура\nАудитория: УСК3\nГруппы: 3256 4256
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.12 Профессионально-прикладная
-  физическая культура УСБ1 3234 гр. 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260204T144000
-DTEND;TZID=Europe/Moscow:20260204T161000
-DTSTAMP:20260516T075349Z
-UID:20260204T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.12\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ1\nГруппы: 3234 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.13 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260210T090000
-DTEND;TZID=Europe/Moscow:20260210T103000
-DTSTAMP:20260516T075349Z
-UID:20260210T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.13\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.14 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260210T104500
-DTEND;TZID=Europe/Moscow:20260210T121500
-DTSTAMP:20260516T075349Z
-UID:20260210T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.14\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.15 Профессионально-прикладная
-  физическая культура УСБ4 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260210T123000
-DTEND;TZID=Europe/Moscow:20260210T140000
-DTSTAMP:20260516T075349Z
-UID:20260210T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.15\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.16 Профессионально-прикладная
-  физическая культура УСБ1 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260210T144000
-DTEND;TZID=Europe/Moscow:20260210T161000
-DTSTAMP:20260516T075349Z
-UID:20260210T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.16\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ1\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Профессионально-прикладная 
- физическая культура УСК3 4256 гр.
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260516T075349Z
-UID:20260211T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
+SUMMARY:(ЗСТ)  2.8 Профессионально-прикладная 
+ физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261201T123000
+DTEND;TZID=Europe/Moscow:20261201T140000
+DTSTAMP:20260826T120152Z
+UID:20261201T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.8\nПредмет:
   Профессионально-прикладная физическая 
- культура\nАудитория: УСК3\nГруппы: 4256
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Профессионально-прикладная 
- физическая культура УСК3 4256 гр.
-DTSTART;TZID=Europe/Moscow:20260211T104500
-DTEND;TZID=Europe/Moscow:20260211T121500
-DTSTAMP:20260516T075349Z
-UID:20260211T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
+SUMMARY:(ЗСТ)  2.9 Профессионально-прикладная 
+ физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261203T090000
+DTEND;TZID=Europe/Moscow:20261203T103000
+DTSTAMP:20260826T120152Z
+UID:20261203T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.9\nПредмет:
   Профессионально-прикладная физическая 
- культура\nАудитория: УСК3\nГруппы: 4256
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Профессионально-прикладная 
- физическая культура УСК4 4256 гр.
-DTSTART;TZID=Europe/Moscow:20260211T123000
-DTEND;TZID=Europe/Moscow:20260211T140000
-DTSTAMP:20260516T075349Z
-UID:20260211T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
+SUMMARY:(ЗСТ)  2.9 Профессионально-прикладная 
+ физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261203T104500
+DTEND;TZID=Europe/Moscow:20261203T121500
+DTSTAMP:20260826T120152Z
+UID:20261203T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.9\nПредмет:
   Профессионально-прикладная физическая 
- культура\nАудитория: УСК4\nГруппы: 4256
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.6 Профессионально-прикладная 
- физическая культура УСК4 4256 гр.
-DTSTART;TZID=Europe/Moscow:20260211T144000
-DTEND;TZID=Europe/Moscow:20260211T161000
-DTSTAMP:20260516T075349Z
-UID:20260211T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.6\nПредмет:
+SUMMARY:(ЗСТ)  2.9 Профессионально-прикладная 
+ физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261203T123000
+DTEND;TZID=Europe/Moscow:20261203T140000
+DTSTAMP:20260826T120152Z
+UID:20261203T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.9\nПредмет:
   Профессионально-прикладная физическая 
- культура\nАудитория: УСК4\nГруппы: 4256
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.13 Профессионально-прикладная
-  физическая культура УСБ6 3234 гр.
-DTSTART;TZID=Europe/Moscow:20260212T090000
-DTEND;TZID=Europe/Moscow:20260212T103000
-DTSTAMP:20260516T075349Z
-UID:20260212T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.13\nПредмет
+SUMMARY:(ЗСТ)  2.10 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261208T090000
+DTEND;TZID=Europe/Moscow:20261208T103000
+DTSTAMP:20260826T120152Z
+UID:20261208T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.10\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 3234
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.14 Профессионально-прикладная
-  физическая культура УСБ6 3234 гр.
-DTSTART;TZID=Europe/Moscow:20260212T104500
-DTEND;TZID=Europe/Moscow:20260212T121500
-DTSTAMP:20260516T075349Z
-UID:20260212T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.14\nПредмет
+SUMMARY:(ЗСТ)  2.10 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261208T104500
+DTEND;TZID=Europe/Moscow:20261208T121500
+DTSTAMP:20260826T120152Z
+UID:20261208T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.10\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 3234
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.15 Профессионально-прикладная
-  физическая культура УСБ6 3234 гр.
-DTSTART;TZID=Europe/Moscow:20260212T123000
-DTEND;TZID=Europe/Moscow:20260212T140000
-DTSTAMP:20260516T075349Z
-UID:20260212T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.15\nПредмет
+SUMMARY:(ЗСТ)  2.10 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261208T123000
+DTEND;TZID=Europe/Moscow:20261208T140000
+DTSTAMP:20260826T120152Z
+UID:20261208T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.10\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 3234
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.16 Профессионально-прикладная
-  физическая культура УСБ2 3234 гр.
-DTSTART;TZID=Europe/Moscow:20260212T144000
-DTEND;TZID=Europe/Moscow:20260212T161000
-DTSTAMP:20260516T075349Z
-UID:20260212T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.16\nПредмет
+SUMMARY:(ЗСТ)  2.11 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261210T090000
+DTEND;TZID=Europe/Moscow:20261210T103000
+DTSTAMP:20260826T120152Z
+UID:20261210T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.11\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ2\nГруппы: 3234
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Профессионально-прикладная 
- физическая культура УСК1 3256 гр.
-DTSTART;TZID=Europe/Moscow:20260213T090000
-DTEND;TZID=Europe/Moscow:20260213T103000
-DTSTAMP:20260516T075349Z
-UID:20260213T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСК1\nГруппы: 3256
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Профессионально-прикладная 
- физическая культура УСК1 3256 гр.
-DTSTART;TZID=Europe/Moscow:20260213T104500
-DTEND;TZID=Europe/Moscow:20260213T121500
-DTSTAMP:20260516T075349Z
-UID:20260213T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСК1\nГруппы: 3256
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.5 Профессионально-прикладная 
- физическая культура УСК1 3256 гр.
-DTSTART;TZID=Europe/Moscow:20260213T123000
-DTEND;TZID=Europe/Moscow:20260213T140000
-DTSTAMP:20260516T075349Z
-UID:20260213T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.5\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСК1\nГруппы: 3256
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.6 Профессионально-прикладная 
- физическая культура УСК1 3256 гр.
-DTSTART;TZID=Europe/Moscow:20260213T144000
-DTEND;TZID=Europe/Moscow:20260213T161000
-DTSTAMP:20260516T075349Z
-UID:20260213T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.6\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСК1\nГруппы: 3256
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Профессионально-прикладная ф
- изическая культура 2/307 4231А гр. 4231Б гр. 4233 
- гр. 4234 гр. 4236 гр.
-DTSTART;TZID=Europe/Moscow:20260217T090000
-DTEND;TZID=Europe/Moscow:20260217T103000
-DTSTAMP:20260516T075349Z
-UID:20260217T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
- рофессионально-прикладная физическая к
- ультура\nАудитория: 2/307\nГруппы: 4231А 4231Б 423
- 3 4234 4236
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Физическая подготовка УСБ3 3233 
- гр.
-DTSTART;TZID=Europe/Moscow:20260217T104500
-DTEND;TZID=Europe/Moscow:20260217T121500
-DTSTAMP:20260516T075349Z
-UID:20260217T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Ф
- изическая подготовка\nАудитория: УСБ3\nГр
- уппы: 3233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.11 Профессионально-прикладная
-  физическая культура УСБ5 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260224T123000
-DTEND;TZID=Europe/Moscow:20260224T140000
-DTSTAMP:20260516T075349Z
-UID:20260224T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.11\nПредмет
+SUMMARY:(ЗСТ)  2.11 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261210T104500
+DTEND;TZID=Europe/Moscow:20261210T121500
+DTSTAMP:20260826T120152Z
+UID:20261210T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.11\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ5\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.11 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260224T144000
-DTEND;TZID=Europe/Moscow:20260224T161000
-DTSTAMP:20260516T075349Z
-UID:20260224T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.11\nПредмет
+SUMMARY:(ЗСТ)  2.11 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261210T123000
+DTEND;TZID=Europe/Moscow:20261210T140000
+DTSTAMP:20260826T120152Z
+UID:20261210T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.11\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.12 Профессионально-прикладная
-  физическая культура УСБ6 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260303T123000
-DTEND;TZID=Europe/Moscow:20260303T140000
-DTSTAMP:20260516T075349Z
-UID:20260303T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.12\nПредмет
+SUMMARY:(ЗСТ)  2.12 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261215T090000
+DTEND;TZID=Europe/Moscow:20261215T103000
+DTSTAMP:20260826T120152Z
+UID:20261215T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.12\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.12 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260303T144000
-DTEND;TZID=Europe/Moscow:20260303T161000
-DTSTAMP:20260516T075349Z
-UID:20260303T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.12\nПредмет
+SUMMARY:(ЗСТ)  2.12 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261215T104500
+DTEND;TZID=Europe/Moscow:20261215T121500
+DTSTAMP:20260826T120152Z
+UID:20261215T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.12\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.13 Профессионально-прикладная
-  физическая культура УСБ6 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260310T123000
-DTEND;TZID=Europe/Moscow:20260310T140000
-DTSTAMP:20260516T075349Z
-UID:20260310T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.13\nПредмет
+SUMMARY:(ЗСТ)  2.12 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261215T123000
+DTEND;TZID=Europe/Moscow:20261215T140000
+DTSTAMP:20260826T120152Z
+UID:20261215T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.12\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.13 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260310T144000
-DTEND;TZID=Europe/Moscow:20260310T161000
-DTSTAMP:20260516T075349Z
-UID:20260310T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.13\nПредмет
+SUMMARY:(ЗСТ)  2.13 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261217T090000
+DTEND;TZID=Europe/Moscow:20261217T103000
+DTSTAMP:20260826T120152Z
+UID:20261217T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.13\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Профессионально-прикладная ф
- изическая культура УСК1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260516T075349Z
-UID:20260317T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
- рофессионально-прикладная физическая к
- ультура\nАудитория: УСК1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.14 Профессионально-прикладная
-  физическая культура УСБ6 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260317T123000
-DTEND;TZID=Europe/Moscow:20260317T140000
-DTSTAMP:20260516T075349Z
-UID:20260317T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.14\nПредмет
+SUMMARY:(ЗСТ)  2.13 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261217T104500
+DTEND;TZID=Europe/Moscow:20261217T121500
+DTSTAMP:20260826T120152Z
+UID:20261217T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.13\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.14 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260317T144000
-DTEND;TZID=Europe/Moscow:20260317T161000
-DTSTAMP:20260516T075349Z
-UID:20260317T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.14\nПредмет
+SUMMARY:(ЗСТ)  2.13 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261217T123000
+DTEND;TZID=Europe/Moscow:20261217T140000
+DTSTAMP:20260826T120152Z
+UID:20261217T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.13\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.1 Профессионально-прикладная 
- физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260319T090000
-DTEND;TZID=Europe/Moscow:20260319T103000
-DTSTAMP:20260516T075349Z
-UID:20260319T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.1\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Профессионально-прикладная
-  физическая культура УСК1 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260319T104500
-DTEND;TZID=Europe/Moscow:20260319T121500
-DTSTAMP:20260516T075349Z
-UID:20260319T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+SUMMARY:(ЗСТ)  2.14 Профессионально-прикладная
+  физическая культура УСБ1 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261222T090000
+DTEND;TZID=Europe/Moscow:20261222T103000
+DTSTAMP:20260826T120152Z
+UID:20261222T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСК1\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Профессионально-прикладная
-  физическая культура УСК1 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260319T123000
-DTEND;TZID=Europe/Moscow:20260319T140000
-DTSTAMP:20260516T075349Z
-UID:20260319T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
+SUMMARY:(ЗСТ)  2.14 Профессионально-прикладная
+  физическая культура УСБ1 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261222T104500
+DTEND;TZID=Europe/Moscow:20261222T121500
+DTSTAMP:20260826T120152Z
+UID:20261222T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСК1\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.2 Профессионально-прикладная 
- физическая культура УСК1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260324T104500
-DTEND;TZID=Europe/Moscow:20260324T121500
-DTSTAMP:20260516T075349Z
-UID:20260324T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСК1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.11 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260324T123000
-DTEND;TZID=Europe/Moscow:20260324T140000
-DTSTAMP:20260516T075349Z
-UID:20260324T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
+SUMMARY:(ЗСТ)  2.14 Профессионально-прикладная
+  физическая культура УСБ1 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261222T123000
+DTEND;TZID=Europe/Moscow:20261222T140000
+DTSTAMP:20260826T120152Z
+UID:20261222T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.14\nПредмет
  : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.11 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260324T144000
-DTEND;TZID=Europe/Moscow:20260324T161000
-DTSTAMP:20260516T075349Z
-UID:20260324T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.3 Профессионально-прикладная 
- физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260326T090000
-DTEND;TZID=Europe/Moscow:20260326T103000
-DTSTAMP:20260516T075349Z
-UID:20260326T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.3\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.12 Профессионально-прикладная
-  физическая культура УСК1 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260326T104500
-DTEND;TZID=Europe/Moscow:20260326T121500
-DTSTAMP:20260516T075349Z
-UID:20260326T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.12\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСК1\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.12 Профессионально-прикладная
-  физическая культура УСБ6 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260326T123000
-DTEND;TZID=Europe/Moscow:20260326T140000
-DTSTAMP:20260516T075349Z
-UID:20260326T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.12\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.4 Профессионально-прикладная 
- физическая культура УСБ4 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260331T104500
-DTEND;TZID=Europe/Moscow:20260331T121500
-DTSTAMP:20260516T075349Z
-UID:20260331T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.4\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ4\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.13 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260331T123000
-DTEND;TZID=Europe/Moscow:20260331T140000
-DTSTAMP:20260516T075349Z
-UID:20260331T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.13\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.13 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260331T144000
-DTEND;TZID=Europe/Moscow:20260331T161000
-DTSTAMP:20260516T075349Z
-UID:20260331T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.13\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.5 Профессионально-прикладная 
- физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260402T090000
-DTEND;TZID=Europe/Moscow:20260402T103000
-DTSTAMP:20260516T075349Z
-UID:20260402T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.5\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.14 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260402T104500
-DTEND;TZID=Europe/Moscow:20260402T121500
-DTSTAMP:20260516T075349Z
-UID:20260402T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.14 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260402T123000
-DTEND;TZID=Europe/Moscow:20260402T140000
-DTSTAMP:20260516T075349Z
-UID:20260402T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.8 Профессионально-прикладная 
- физическая культура УСК1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260407T104500
-DTEND;TZID=Europe/Moscow:20260407T121500
-DTSTAMP:20260516T075349Z
-UID:20260407T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.8\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСК1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.15 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260407T123000
-DTEND;TZID=Europe/Moscow:20260407T140000
-DTSTAMP:20260516T075349Z
-UID:20260407T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.15 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260407T144000
-DTEND;TZID=Europe/Moscow:20260407T161000
-DTSTAMP:20260516T075349Z
-UID:20260407T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.9 Профессионально-прикладная 
- физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260409T090000
-DTEND;TZID=Europe/Moscow:20260409T103000
-DTSTAMP:20260516T075349Z
-UID:20260409T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
-  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.36 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260409T104500
-DTEND;TZID=Europe/Moscow:20260409T121500
-DTSTAMP:20260516T075349Z
-UID:20260409T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.36\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.36 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260409T123000
-DTEND;TZID=Europe/Moscow:20260409T140000
-DTSTAMP:20260516T075349Z
-UID:20260409T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.36\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Профессионально-прикладная
-  физическая культура УСК1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260414T104500
-DTEND;TZID=Europe/Moscow:20260414T121500
-DTSTAMP:20260516T075349Z
-UID:20260414T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСК1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.37 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260414T123000
-DTEND;TZID=Europe/Moscow:20260414T140000
-DTSTAMP:20260516T075349Z
-UID:20260414T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.37\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.37 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260414T144000
-DTEND;TZID=Europe/Moscow:20260414T161000
-DTSTAMP:20260516T075349Z
-UID:20260414T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.37\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.11 Профессионально-прикладная
-  физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260416T090000
-DTEND;TZID=Europe/Moscow:20260416T103000
-DTSTAMP:20260516T075349Z
-UID:20260416T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.11\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.38 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260416T104500
-DTEND;TZID=Europe/Moscow:20260416T121500
-DTSTAMP:20260516T075349Z
-UID:20260416T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.38\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.38 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260416T123000
-DTEND;TZID=Europe/Moscow:20260416T140000
-DTSTAMP:20260516T075349Z
-UID:20260416T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.38\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.12 Профессионально-прикладная
-  физическая культура УСБ4 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260421T104500
-DTEND;TZID=Europe/Moscow:20260421T121500
-DTSTAMP:20260516T075349Z
-UID:20260421T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.12\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.39 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260421T123000
-DTEND;TZID=Europe/Moscow:20260421T140000
-DTSTAMP:20260516T075349Z
-UID:20260421T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.39\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.39 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260421T144000
-DTEND;TZID=Europe/Moscow:20260421T161000
-DTSTAMP:20260516T075349Z
-UID:20260421T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.39\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.13 Профессионально-прикладная
-  физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260423T090000
-DTEND;TZID=Europe/Moscow:20260423T103000
-DTSTAMP:20260516T075349Z
-UID:20260423T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.13\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.40 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260423T104500
-DTEND;TZID=Europe/Moscow:20260423T121500
-DTSTAMP:20260516T075349Z
-UID:20260423T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.40\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.40 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260423T123000
-DTEND;TZID=Europe/Moscow:20260423T140000
-DTSTAMP:20260516T075349Z
-UID:20260423T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.40\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.14 Профессионально-прикладная
-  физическая культура УСК1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260428T104500
-DTEND;TZID=Europe/Moscow:20260428T121500
-DTSTAMP:20260516T075349Z
-UID:20260428T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.14\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСК1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.41 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260428T123000
-DTEND;TZID=Europe/Moscow:20260428T140000
-DTSTAMP:20260516T075349Z
-UID:20260428T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.41\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.41 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260428T144000
-DTEND;TZID=Europe/Moscow:20260428T161000
-DTSTAMP:20260516T075349Z
-UID:20260428T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.41\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.15 Профессионально-прикладная
-  физическая культура УСК1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260505T104500
-DTEND;TZID=Europe/Moscow:20260505T121500
-DTSTAMP:20260516T075349Z
-UID:20260505T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.15\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСК1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.34 Профессионально-прикладная
-  физическая культура УСБ6 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260505T123000
-DTEND;TZID=Europe/Moscow:20260505T140000
-DTSTAMP:20260516T075349Z
-UID:20260505T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.34\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ6\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.34 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260505T144000
-DTEND;TZID=Europe/Moscow:20260505T161000
-DTSTAMP:20260516T075349Z
-UID:20260505T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.34\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.36 Профессионально-прикладная
-  физическая культура УСБ4 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260516T075349Z
-UID:20260512T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.36\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.35 Профессионально-прикладная
-  физическая культура УСБ4 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260512T123000
-DTEND;TZID=Europe/Moscow:20260512T140000
-DTSTAMP:20260516T075349Z
-UID:20260512T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.35\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.35 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260512T144000
-DTEND;TZID=Europe/Moscow:20260512T161000
-DTSTAMP:20260516T075349Z
-UID:20260512T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.35\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.37 Профессионально-прикладная
-  физическая культура УСБ5 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260514T090000
-DTEND;TZID=Europe/Moscow:20260514T103000
-DTSTAMP:20260516T075349Z
-UID:20260514T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.37\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ5\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.36 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260514T104500
-DTEND;TZID=Europe/Moscow:20260514T121500
-DTSTAMP:20260516T075349Z
-UID:20260514T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.36\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.36 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260514T123000
-DTEND;TZID=Europe/Moscow:20260514T140000
-DTSTAMP:20260516T075349Z
-UID:20260514T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.36\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.38 Профессионально-прикладная
-  физическая культура УСБ4 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260519T104500
-DTEND;TZID=Europe/Moscow:20260519T121500
-DTSTAMP:20260516T075349Z
-UID:20260519T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.38\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.37 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260519T123000
-DTEND;TZID=Europe/Moscow:20260519T140000
-DTSTAMP:20260516T075349Z
-UID:20260519T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.37\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.37 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260519T144000
-DTEND;TZID=Europe/Moscow:20260519T161000
-DTSTAMP:20260516T075349Z
-UID:20260519T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.37\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.39 Профессионально-прикладная
-  физическая культура УСБ3 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260521T090000
-DTEND;TZID=Europe/Moscow:20260521T103000
-DTSTAMP:20260516T075349Z
-UID:20260521T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.39\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.38 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260521T104500
-DTEND;TZID=Europe/Moscow:20260521T121500
-DTSTAMP:20260516T075349Z
-UID:20260521T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.38\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.38 Профессионально-прикладная
-  физическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260521T123000
-DTEND;TZID=Europe/Moscow:20260521T140000
-DTSTAMP:20260516T075349Z
-UID:20260521T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.38\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.40 Профессионально-прикладная
-  физическая культура УСБ4 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260526T104500
-DTEND;TZID=Europe/Moscow:20260526T121500
-DTSTAMP:20260516T075349Z
-UID:20260526T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.40\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.39 Профессионально-прикладная
-  физическая культура УСБ4 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260526T123000
-DTEND;TZID=Europe/Moscow:20260526T140000
-DTSTAMP:20260516T075349Z
-UID:20260526T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.39\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.39 Профессионально-прикладная
-  физическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260526T144000
-DTEND;TZID=Europe/Moscow:20260526T161000
-DTSTAMP:20260516T075349Z
-UID:20260526T144000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.39\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.41 Профессионально-прикладная
-  физическая культура УСБ4 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260528T090000
-DTEND;TZID=Europe/Moscow:20260528T103000
-DTSTAMP:20260516T075349Z
-UID:20260528T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.41\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ4\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
+  культура\nАудитория: УСБ1\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(зчО.)   Профессионально-прикладная ф
- изическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260601T090000
-DTEND;TZID=Europe/Moscow:20260601T103000
-DTSTAMP:20260516T075349Z
-UID:20260601T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
+ изическая культура УСБ2 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261224T090000
+DTEND;TZID=Europe/Moscow:20261224T103000
+DTSTAMP:20260826T120152Z
+UID:20261224T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ2\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(зчО.)   Профессионально-прикладная ф
- изическая культура УСБ3 4231А гр.
-DTSTART;TZID=Europe/Moscow:20260601T104500
-DTEND;TZID=Europe/Moscow:20260601T121500
-DTSTAMP:20260516T075349Z
-UID:20260601T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
+ изическая культура УСБ2 4251Б гр.
+DTSTART;TZID=Europe/Moscow:20261224T104500
+DTEND;TZID=Europe/Moscow:20261224T121500
+DTSTAMP:20260826T120152Z
+UID:20261224T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ3\nГруппы: 4231А
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ2\nГруппы: 4251Б
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(зчО.)   Профессионально-прикладная ф
- изическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260602T090000
-DTEND;TZID=Europe/Moscow:20260602T103000
-DTSTAMP:20260516T075349Z
-UID:20260602T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
+ изическая культура УСБ2 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261224T123000
+DTEND;TZID=Europe/Moscow:20261224T140000
+DTSTAMP:20260826T120152Z
+UID:20261224T123000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ2\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(зчО.)   Профессионально-прикладная ф
- изическая культура УСБ3 4233 гр.
-DTSTART;TZID=Europe/Moscow:20260602T104500
-DTEND;TZID=Europe/Moscow:20260602T121500
-DTSTAMP:20260516T075349Z
-UID:20260602T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
+ изическая культура УСБ2 4254 гр.
+DTSTART;TZID=Europe/Moscow:20261224T144000
+DTEND;TZID=Europe/Moscow:20261224T161000
+DTSTAMP:20260826T120152Z
+UID:20261224T144000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ3\nГруппы: 4233
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.32 Профессионально-прикладная
-  физическая культура УСБ3 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260602T123000
-DTEND;TZID=Europe/Moscow:20260602T140000
-DTSTAMP:20260516T075349Z
-UID:20260602T123000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.32\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.33 Профессионально-прикладная
-  физическая культура УСБ2 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260604T090000
-DTEND;TZID=Europe/Moscow:20260604T103000
-DTSTAMP:20260516T075349Z
-UID:20260604T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.33\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ2\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.34 Профессионально-прикладная
-  физическая культура УСБ3 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260609T104500
-DTEND;TZID=Europe/Moscow:20260609T121500
-DTSTAMP:20260516T075349Z
-UID:20260609T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.34\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.35 Профессионально-прикладная
-  физическая культура УСБ3 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260616T104500
-DTEND;TZID=Europe/Moscow:20260616T121500
-DTSTAMP:20260516T075349Z
-UID:20260616T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.35\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.36 Профессионально-прикладная
-  физическая культура УСБ3 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260618T090000
-DTEND;TZID=Europe/Moscow:20260618T103000
-DTSTAMP:20260516T075349Z
-UID:20260618T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.36\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ3\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.37 Профессионально-прикладная
-  физическая культура УСБ1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260623T104500
-DTEND;TZID=Europe/Moscow:20260623T121500
-DTSTAMP:20260516T075349Z
-UID:20260623T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.37\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.38 Профессионально-прикладная
-  физическая культура УСБ1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260625T090000
-DTEND;TZID=Europe/Moscow:20260625T103000
-DTSTAMP:20260516T075349Z
-UID:20260625T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.38\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.39 Профессионально-прикладная
-  физическая культура УСБ1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260630T104500
-DTEND;TZID=Europe/Moscow:20260630T121500
-DTSTAMP:20260516T075349Z
-UID:20260630T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.39\nПредмет
- : Профессионально-прикладная физическая
-  культура\nАудитория: УСБ1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ2\nГруппы: 4254
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(зчО.)   Профессионально-прикладная ф
- изическая культура УСБ1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260702T090000
-DTEND;TZID=Europe/Moscow:20260702T103000
-DTSTAMP:20260516T075349Z
-UID:20260702T090000@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
+ изическая культура УСБ2 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261225T090000
+DTEND;TZID=Europe/Moscow:20261225T103000
+DTSTAMP:20260826T120152Z
+UID:20261225T090000@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ2\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(зчО.)   Профессионально-прикладная ф
- изическая культура УСБ1 4235 гр.
-DTSTART;TZID=Europe/Moscow:20260702T104500
-DTEND;TZID=Europe/Moscow:20260702T121500
-DTSTAMP:20260516T075349Z
-UID:20260702T104500@20260516T105349@Чижов В.А.
-CREATED:20260516T075349Z
+ изическая культура УСБ2 4256 гр.
+DTSTART;TZID=Europe/Moscow:20261225T104500
+DTEND;TZID=Europe/Moscow:20261225T121500
+DTSTAMP:20260826T120152Z
+UID:20261225T104500@20260826T150152@Чижов В.А.
+CREATED:20260826T120152Z
 DESCRIPTION:Тип занятия: зчО.\nТема:  \nПредмет: 
  Профессионально-прикладная физическая 
- культура\nАудитория: УСБ1\nГруппы: 4235
-LAST-MODIFIED:20260516T075349Z
+ культура\nАудитория: УСБ2\nГруппы: 4256
+LAST-MODIFIED:20260826T120152Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
