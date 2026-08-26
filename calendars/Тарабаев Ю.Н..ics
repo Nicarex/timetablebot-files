@@ -19,1141 +19,686 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Организация инженерной защит
+SUMMARY:(л.)  1.0 Организация инженерного обес
+ печения ликвидации чрезвычайных ситуац
+ ий 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20260901T104500
+DTEND;TZID=Europe/Moscow:20260901T121500
+DTSTAMP:20260826T115057Z
+UID:20260901T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.0\nПредмет: О
+ рганизация инженерного обеспечения лик
+ видации чрезвычайных ситуаций\nАудитори
+ я: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Организация инженерной защит
  ы населения и территорий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260112T090000
-DTEND;TZID=Europe/Moscow:20260112T103000
-DTSTAMP:20260629T063729Z
-UID:20260112T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+DTSTART;TZID=Europe/Moscow:20260905T090000
+DTEND;TZID=Europe/Moscow:20260905T103000
+DTSTAMP:20260826T115057Z
+UID:20260905T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
  рганизация инженерной защиты населения 
  и территорий\nАудитория: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Организация инженерного обес
+SUMMARY:(л.)  1.0 Организация инженерного обес
  печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260113T123000
-DTEND;TZID=Europe/Moscow:20260113T140000
-DTSTAMP:20260629T063729Z
-UID:20260113T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
+ ий 1/306 6261 гр.
+DTSTART;TZID=Europe/Moscow:20260905T104500
+DTEND;TZID=Europe/Moscow:20260905T121500
+DTSTAMP:20260826T115057Z
+UID:20260905T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.0\nПредмет: О
  рганизация инженерного обеспечения лик
  видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+ я: 1/306\nГруппы: 6261
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Организация инженерной защит
- ы населения и территорий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260114T104500
-DTEND;TZID=Europe/Moscow:20260114T121500
-DTSTAMP:20260629T063729Z
-UID:20260114T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
+SUMMARY:(л.)  1.1 Организация инженерного обес
+ печения ликвидации чрезвычайных ситуац
+ ий 1/306 1261 гр.
+DTSTART;TZID=Europe/Moscow:20260908T123000
+DTEND;TZID=Europe/Moscow:20260908T140000
+DTSTAMP:20260826T115057Z
+UID:20260908T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260116T090000
-DTEND;TZID=Europe/Moscow:20260116T103000
-DTSTAMP:20260629T063729Z
-UID:20260116T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
  рганизация инженерного обеспечения лик
  видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+ я: 1/306\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Организация инженерной защит
- ы населения и территорий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260127T090000
-DTEND;TZID=Europe/Moscow:20260127T103000
-DTSTAMP:20260629T063729Z
-UID:20260127T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.6  Учебная практика/Учебная пр
- актика (по дисциплине   Оперативное упра
- вление в РСЧС и ГО  )  1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260202T104500
-DTEND;TZID=Europe/Moscow:20260202T121500
-DTSTAMP:20260629T063729Z
-UID:20260202T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.6\nПредмет:
-   Учебная практика/Учебная практика (по д
- исциплине   Оперативное управление в РСЧ
- С и ГО  ) \nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/311 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260202T123000
-DTEND;TZID=Europe/Moscow:20260202T140000
-DTSTAMP:20260629T063729Z
-UID:20260202T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/311\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260207T104500
-DTEND;TZID=Europe/Moscow:20260207T121500
-DTSTAMP:20260629T063729Z
-UID:20260207T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
+SUMMARY:(л.)  1.1 Организация инженерного обес
+ печения ликвидации чрезвычайных ситуац
+ ий 1/307 6261 гр.
+DTSTART;TZID=Europe/Moscow:20260910T090000
+DTEND;TZID=Europe/Moscow:20260910T103000
+DTSTAMP:20260826T115057Z
+UID:20260910T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.6  Учебная практика/Учебная пр
- актика (по дисциплине   Оперативное упра
- вление в РСЧС и ГО  )  1/311 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260209T104500
-DTEND;TZID=Europe/Moscow:20260209T121500
-DTSTAMP:20260629T063729Z
-UID:20260209T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.6\nПредмет:
-   Учебная практика/Учебная практика (по д
- исциплине   Оперативное управление в РСЧ
- С и ГО  ) \nАудитория: 1/311\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260210T162500
-DTEND;TZID=Europe/Moscow:20260210T175500
-DTSTAMP:20260629T063729Z
-UID:20260210T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Организация инженерной защит
- ы населения и территорий 1/311 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260213T090000
-DTEND;TZID=Europe/Moscow:20260213T103000
-DTSTAMP:20260629T063729Z
-UID:20260213T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: 1/311\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/311 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260213T104500
-DTEND;TZID=Europe/Moscow:20260213T121500
-DTSTAMP:20260629T063729Z
-UID:20260213T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
  рганизация инженерного обеспечения лик
  видации чрезвычайных ситуаций\nАудитори
- я: 1/311\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+ я: 1/307\nГруппы: 6261
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/307 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260218T104500
-DTEND;TZID=Europe/Moscow:20260218T121500
-DTSTAMP:20260629T063729Z
-UID:20260218T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/307\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Организация инженерной защи
- ты населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260218T162500
-DTEND;TZID=Europe/Moscow:20260218T175500
-DTSTAMP:20260629T063729Z
-UID:20260218T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: ЭИОС\nГруппы: 62
- 52
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Организация инженерной защи
- ты населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260218T180500
-DTEND;TZID=Europe/Moscow:20260218T193500
-DTSTAMP:20260629T063729Z
-UID:20260218T180500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: ЭИОС\nГруппы: 62
- 52
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Организация инженерной защи
- ты населения и территорий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260219T104500
-DTEND;TZID=Europe/Moscow:20260219T121500
-DTSTAMP:20260629T063729Z
-UID:20260219T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260225T123000
-DTEND;TZID=Europe/Moscow:20260225T140000
-DTSTAMP:20260629T063729Z
-UID:20260225T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260226T162500
-DTEND;TZID=Europe/Moscow:20260226T175500
-DTSTAMP:20260629T063729Z
-UID:20260226T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Организация инженерной защи
- ты населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260305T162500
-DTEND;TZID=Europe/Moscow:20260305T175500
-DTSTAMP:20260629T063729Z
-UID:20260305T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: ЭИОС\nГруппы: 62
- 52
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Организация инженерной защи
- ты населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260305T180500
-DTEND;TZID=Europe/Moscow:20260305T193500
-DTSTAMP:20260629T063729Z
-UID:20260305T180500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: ЭИОС\nГруппы: 62
- 52
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260306T123000
-DTEND;TZID=Europe/Moscow:20260306T140000
-DTSTAMP:20260629T063729Z
-UID:20260306T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260310T104500
-DTEND;TZID=Europe/Moscow:20260310T121500
-DTSTAMP:20260629T063729Z
-UID:20260310T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.3 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260311T162500
-DTEND;TZID=Europe/Moscow:20260311T175500
-DTSTAMP:20260629T063729Z
-UID:20260311T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.3 Организация инженерной защи
- ты населения и территорий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260312T104500
-DTEND;TZID=Europe/Moscow:20260312T121500
-DTSTAMP:20260629T063729Z
-UID:20260312T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/226 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260317T090000
-DTEND;TZID=Europe/Moscow:20260317T103000
-DTSTAMP:20260629T063729Z
-UID:20260317T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/226\nГруппы: А4616
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время АК/226 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260629T063729Z
-UID:20260317T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: АК/226\nГруппы: А4616
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.3 Защита населения\, территорий 
- и акваторий от чрезвычайных ситуаций в м
- ирное и военное время 1/310 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260318T090000
-DTEND;TZID=Europe/Moscow:20260318T103000
-DTSTAMP:20260629T063729Z
-UID:20260318T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.3\nПредмет: З
- ащита населения\, территорий и акваторий
-  от чрезвычайных ситуаций в мирное и вое
- нное время\nАудитория: 1/310\nГруппы: А4616
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Защита населения\, территори
- й и акваторий от чрезвычайных ситуаций в
-  мирное и военное время 1/307 А4616 гр.
-DTSTART;TZID=Europe/Moscow:20260320T090000
-DTEND;TZID=Europe/Moscow:20260320T103000
-DTSTAMP:20260629T063729Z
-UID:20260320T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Защита населения\, территорий и акватор
- ий от чрезвычайных ситуаций в мирное и в
- оенное время\nАудитория: 1/307\nГруппы: А4616
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.3 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/307 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260320T123000
-DTEND;TZID=Europe/Moscow:20260320T140000
-DTSTAMP:20260629T063729Z
-UID:20260320T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/307\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.3 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260327T123000
-DTEND;TZID=Europe/Moscow:20260327T140000
-DTSTAMP:20260629T063729Z
-UID:20260327T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260327T162500
-DTEND;TZID=Europe/Moscow:20260327T175500
-DTSTAMP:20260629T063729Z
-UID:20260327T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Организация инженерной защит
+SUMMARY:(л.)  4.1 Организация инженерной защит
  ы населения и территорий 1/307 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260402T090000
-DTEND;TZID=Europe/Moscow:20260402T103000
-DTSTAMP:20260629T063729Z
-UID:20260402T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
+DTSTART;TZID=Europe/Moscow:20260910T104500
+DTEND;TZID=Europe/Moscow:20260910T121500
+DTSTAMP:20260826T115057Z
+UID:20260910T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
  рганизация инженерной защиты населения 
  и территорий\nАудитория: 1/307\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  3.3 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260406T180500
-DTEND;TZID=Europe/Moscow:20260406T193500
-DTSTAMP:20260629T063729Z
-UID:20260406T180500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.3\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Инженерная защита населения и
-  территорий 1/310 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260407T090000
-DTEND;TZID=Europe/Moscow:20260407T103000
-DTSTAMP:20260629T063729Z
-UID:20260407T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: И
- нженерная защита населения и территорий
- \nАудитория: 1/310\nГруппы: 3233
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.4 Организация инженерной защит
- ы населения и территорий ЭИОС 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260413T162500
-DTEND;TZID=Europe/Moscow:20260413T175500
-DTSTAMP:20260629T063729Z
-UID:20260413T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.4\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: ЭИОС\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация инженерно-технич
- еских мероприятий по предупреждению ЧС 1
- /311 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260420T090000
-DTEND;TZID=Europe/Moscow:20260420T103000
-DTSTAMP:20260629T063729Z
-UID:20260420T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация инженерно-технических меро
- приятий по предупреждению ЧС\nАудитория:
-  1/311\nГруппы: 5243
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация инженерно-технич
- еских мероприятий по предупреждению ЧС 1
- /311 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260420T104500
-DTEND;TZID=Europe/Moscow:20260420T121500
-DTSTAMP:20260629T063729Z
-UID:20260420T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация инженерно-технических меро
- приятий по предупреждению ЧС\nАудитория:
-  1/311\nГруппы: 5243
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация инженерно-технич
- еских мероприятий по предупреждению ЧС 1
- /310 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260420T123000
-DTEND;TZID=Europe/Moscow:20260420T140000
-DTSTAMP:20260629T063729Z
-UID:20260420T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация инженерно-технических меро
- приятий по предупреждению ЧС\nАудитория:
-  1/310\nГруппы: 5243
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация ИЗНТ 1/311 5241В гр.
-DTSTART;TZID=Europe/Moscow:20260423T090000
-DTEND;TZID=Europe/Moscow:20260423T103000
-DTSTAMP:20260629T063729Z
-UID:20260423T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5241В
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация ИЗНТ 1/311 5241В гр.
-DTSTART;TZID=Europe/Moscow:20260423T104500
-DTEND;TZID=Europe/Moscow:20260423T121500
-DTSTAMP:20260629T063729Z
-UID:20260423T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5241В
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация ИЗНТ 1/311 5241В гр.
-DTSTART;TZID=Europe/Moscow:20260423T123000
-DTEND;TZID=Europe/Moscow:20260423T140000
-DTSTAMP:20260629T063729Z
-UID:20260423T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5241В
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация ИЗНТ 1/310 5241Б гр.
-DTSTART;TZID=Europe/Moscow:20260424T090000
-DTEND;TZID=Europe/Moscow:20260424T103000
-DTSTAMP:20260629T063729Z
-UID:20260424T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/310\nГруппы: 
- 5241Б
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация ИЗНТ 1/311 5241Б гр.
-DTSTART;TZID=Europe/Moscow:20260424T104500
-DTEND;TZID=Europe/Moscow:20260424T121500
-DTSTAMP:20260629T063729Z
-UID:20260424T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5241Б
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Экз.)   Организация ИЗНТ 1/311 5241Б гр.
-DTSTART;TZID=Europe/Moscow:20260424T123000
-DTEND;TZID=Europe/Moscow:20260424T140000
-DTSTAMP:20260629T063729Z
-UID:20260424T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5241Б
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.5 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260427T123000
-DTEND;TZID=Europe/Moscow:20260427T140000
-DTSTAMP:20260629T063729Z
-UID:20260427T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Организация инженерной защи
- ты населения и территорий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260429T104500
-DTEND;TZID=Europe/Moscow:20260429T121500
-DTSTAMP:20260629T063729Z
-UID:20260429T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+SUMMARY:(ЗСТ)  4.2 Организация инженерной защи
+ ты населения и территорий 1/307 6251 гр.
+DTSTART;TZID=Europe/Moscow:20260910T123000
+DTEND;TZID=Europe/Moscow:20260910T140000
+DTSTAMP:20260826T115057Z
+UID:20260910T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
   Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+ я и территорий\nАудитория: 1/307\nГруппы: 6251
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  4.5 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260506T090000
-DTEND;TZID=Europe/Moscow:20260506T103000
-DTSTAMP:20260629T063729Z
-UID:20260506T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.5\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.6 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260506T104500
-DTEND;TZID=Europe/Moscow:20260506T121500
-DTSTAMP:20260629T063729Z
-UID:20260506T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.6\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация ИЗНТ 1/310 5251Г гр.
-DTSTART;TZID=Europe/Moscow:20260514T090000
-DTEND;TZID=Europe/Moscow:20260514T103000
-DTSTAMP:20260629T063729Z
-UID:20260514T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация ИЗНТ\nАудитория: 1/310\nГруппы: 52
- 51Г
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация ИЗНТ 1/310 5251Г гр.
-DTSTART;TZID=Europe/Moscow:20260514T104500
-DTEND;TZID=Europe/Moscow:20260514T121500
-DTSTAMP:20260629T063729Z
-UID:20260514T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация ИЗНТ\nАудитория: 1/310\nГруппы: 52
- 51Г
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация ИЗНТ 1/311 5251Б гр.
-DTSTART;TZID=Europe/Moscow:20260515T090000
-DTEND;TZID=Europe/Moscow:20260515T103000
-DTSTAMP:20260629T063729Z
-UID:20260515T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация ИЗНТ\nАудитория: 1/311\nГруппы: 52
- 51Б
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация ИЗНТ 1/311 5251Б гр.
-DTSTART;TZID=Europe/Moscow:20260515T104500
-DTEND;TZID=Europe/Moscow:20260515T121500
-DTSTAMP:20260629T063729Z
-UID:20260515T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация ИЗНТ\nАудитория: 1/311\nГруппы: 52
- 51Б
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация ИЗНТ 1/310 5251В гр.
-DTSTART;TZID=Europe/Moscow:20260516T090000
-DTEND;TZID=Europe/Moscow:20260516T103000
-DTSTAMP:20260629T063729Z
-UID:20260516T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация ИЗНТ\nАудитория: 1/310\nГруппы: 52
- 51В
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация ИЗНТ 1/310 5251В гр.
-DTSTART;TZID=Europe/Moscow:20260516T104500
-DTEND;TZID=Europe/Moscow:20260516T121500
-DTSTAMP:20260629T063729Z
-UID:20260516T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация ИЗНТ\nАудитория: 1/310\nГруппы: 52
- 51В
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Зач.)   Организация ИЗНТ 1/311 5252А гр.
-DTSTART;TZID=Europe/Moscow:20260522T123000
-DTEND;TZID=Europe/Moscow:20260522T140000
-DTSTAMP:20260629T063729Z
-UID:20260522T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5252А
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Зач.)   Организация ИЗНТ 1/311 5252А гр.
-DTSTART;TZID=Europe/Moscow:20260522T144000
-DTEND;TZID=Europe/Moscow:20260522T161000
-DTSTAMP:20260629T063729Z
-UID:20260522T144000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитория: 1/311\nГруппы: 
- 5252А
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.6 Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260525T090000
-DTEND;TZID=Europe/Moscow:20260525T103000
-DTSTAMP:20260629T063729Z
-UID:20260525T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.6\nПредмет: О
- рганизация инженерного обеспечения лик
- видации чрезвычайных ситуаций\nАудитори
- я: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Организация инженерной защи
- ты населения и территорий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260527T090000
-DTEND;TZID=Europe/Moscow:20260527T103000
-DTSTAMP:20260629T063729Z
-UID:20260527T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.7 Организация инженерного обе
+SUMMARY:(ЗСТ)  1.2 Организация инженерного обе
  спечения ликвидации чрезвычайных ситуа
- ций 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260527T104500
-DTEND;TZID=Europe/Moscow:20260527T121500
-DTSTAMP:20260629T063729Z
-UID:20260527T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
+ ций 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20260911T104500
+DTEND;TZID=Europe/Moscow:20260911T121500
+DTSTAMP:20260826T115057Z
+UID:20260911T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
   Организация инженерного обеспечения ли
  квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+ ия: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Организация инженерной защит
- ы населения и территорий 1/307 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260602T090000
-DTEND;TZID=Europe/Moscow:20260602T103000
-DTSTAMP:20260629T063729Z
-UID:20260602T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: 1/307\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.7 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/307 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260602T104500
-DTEND;TZID=Europe/Moscow:20260602T121500
-DTSTAMP:20260629T063729Z
-UID:20260602T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.7\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/307\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.9 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260606T090000
-DTEND;TZID=Europe/Moscow:20260606T103000
-DTSTAMP:20260629T063729Z
-UID:20260606T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.2 Организация инженерной защи
- ты населения и территорий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260606T104500
-DTEND;TZID=Europe/Moscow:20260606T121500
-DTSTAMP:20260629T063729Z
-UID:20260606T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+SUMMARY:(ЗСТ)  4.2 Организация инженерной защи
+ ты населения и территорий 1/310 1251 гр.
+DTSTART;TZID=Europe/Moscow:20260915T104500
+DTEND;TZID=Europe/Moscow:20260915T121500
+DTSTAMP:20260826T115057Z
+UID:20260915T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
   Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+ я и территорий\nАудитория: 1/310\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Организация инженерной защит
- ы населения и территорий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260606T123000
-DTEND;TZID=Europe/Moscow:20260606T140000
-DTSTAMP:20260629T063729Z
-UID:20260606T123000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
- рганизация инженерной защиты населения 
- и территорий\nАудитория: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.9 Организация инженерного обе
- спечения ликвидации чрезвычайных ситуа
- ций 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260608T104500
-DTEND;TZID=Europe/Moscow:20260608T121500
-DTSTAMP:20260629T063729Z
-UID:20260608T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.9\nПредмет:
-  Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)   Организация инженерной защит
- ы населения и территорий 1/306 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260609T162500
-DTEND;TZID=Europe/Moscow:20260609T175500
-DTSTAMP:20260629T063729Z
-UID:20260609T162500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: зач.\nТема:  \nПредмет: 
- Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(зач.)   Организация инженерной защит
- ы населения и территорий 1/306 6252 гр.
-DTSTART;TZID=Europe/Moscow:20260609T180500
-DTEND;TZID=Europe/Moscow:20260609T193500
-DTSTAMP:20260629T063729Z
-UID:20260609T180500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: зач.\nТема:  \nПредмет: 
- Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 6252
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Организация инженерного об
- еспечения ликвидации чрезвычайных ситу
- аций 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260616T104500
-DTEND;TZID=Europe/Moscow:20260616T121500
-DTSTAMP:20260629T063729Z
-UID:20260616T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
- : Организация инженерного обеспечения л
- иквидации чрезвычайных ситуаций\nАудито
- рия: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Организация инженерной защи
- ты населения и территорий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260618T090000
-DTEND;TZID=Europe/Moscow:20260618T103000
-DTSTAMP:20260629T063729Z
-UID:20260618T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Организация инженерной защиты населени
- я и территорий\nАудитория: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Организация инженерного об
- еспечения ликвидации чрезвычайных ситу
- аций 1/307 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T090000
-DTEND;TZID=Europe/Moscow:20260620T103000
-DTSTAMP:20260629T063729Z
-UID:20260620T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
- : Организация инженерного обеспечения л
- иквидации чрезвычайных ситуаций\nАудито
- рия: 1/307\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Организация инженерного об
- еспечения ликвидации чрезвычайных ситу
- аций 1/307 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260620T104500
-DTEND;TZID=Europe/Moscow:20260620T121500
-DTSTAMP:20260629T063729Z
-UID:20260620T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
- : Организация инженерного обеспечения л
- иквидации чрезвычайных ситуаций\nАудито
- рия: 1/307\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Организация инженерной защит
+SUMMARY:(л.)  5.1 Организация инженерной защит
  ы населения и территорий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260622T090000
-DTEND;TZID=Europe/Moscow:20260622T103000
-DTSTAMP:20260629T063729Z
-UID:20260622T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
+DTSTART;TZID=Europe/Moscow:20260915T123000
+DTEND;TZID=Europe/Moscow:20260915T140000
+DTSTAMP:20260826T115057Z
+UID:20260915T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: О
  рганизация инженерной защиты населения 
  и территорий\nАудитория: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.10 Организация инженерного об
- еспечения ликвидации чрезвычайных ситу
- аций 1/307 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260622T104500
-DTEND;TZID=Europe/Moscow:20260622T121500
-DTSTAMP:20260629T063729Z
-UID:20260622T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.10\nПредмет
- : Организация инженерного обеспечения л
- иквидации чрезвычайных ситуаций\nАудито
- рия: 1/307\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+SUMMARY:(л.)  6.1 Организация ИЗНТ 3/401 5251Б гр. 5251
+ В гр. 5251Г гр.
+DTSTART;TZID=Europe/Moscow:20260922T104500
+DTEND;TZID=Europe/Moscow:20260922T121500
+DTSTAMP:20260826T115057Z
+UID:20260922T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: О
+ рганизация ИЗНТ\nАудитория: 3/401\nГруппы: 52
+ 51Б 5251В 5251Г
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Организация инженерного обес
+SUMMARY:(Пр.)  6.2 Организация ИЗНТ 3/204 5251Г гр.
+DTSTART;TZID=Europe/Moscow:20260922T123000
+DTEND;TZID=Europe/Moscow:20260922T140000
+DTSTAMP:20260826T115057Z
+UID:20260922T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
+ Организация ИЗНТ\nАудитория: 3/204\nГруппы: 
+ 5251Г
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.3 Организация инженерно-технич
+ еских мероприятий по предупреждению ЧС 
+ ЭИОС 5253А гр. 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260923T090000
+DTEND;TZID=Europe/Moscow:20260923T103000
+DTSTAMP:20260826T115057Z
+UID:20260923T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: О
+ рганизация инженерно-технических мероп
+ риятий по предупреждению ЧС\nАудитория: 
+ ЭИОС\nГруппы: 5253А 5253Б
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.2 Организация ИЗНТ 3/608 5251Б гр.
+DTSTART;TZID=Europe/Moscow:20260923T104500
+DTEND;TZID=Europe/Moscow:20260923T121500
+DTSTAMP:20260826T115057Z
+UID:20260923T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
+ Организация ИЗНТ\nАудитория: 3/608\nГруппы: 
+ 5251Б
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.2 Организация ИЗНТ 3/509 5251В гр.
+DTSTART;TZID=Europe/Moscow:20260923T123000
+DTEND;TZID=Europe/Moscow:20260923T140000
+DTSTAMP:20260826T115057Z
+UID:20260923T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
+ Организация ИЗНТ\nАудитория: 3/509\nГруппы: 
+ 5251В
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.3 Организация ИЗНТ 1/215 5251В гр.
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260826T115057Z
+UID:20260930T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.3\nПредмет: 
+ Организация ИЗНТ\nАудитория: 1/215\nГруппы: 
+ 5251В
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Организация инженерно-технич
+ еских мероприятий по предупреждению ЧС 
+ ЭИОС 5253А гр. 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260826T115057Z
+UID:20260930T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: О
+ рганизация инженерно-технических мероп
+ риятий по предупреждению ЧС\nАудитория: 
+ ЭИОС\nГруппы: 5253А 5253Б
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.3 Организация ИЗНТ 1/113 5251Г гр.
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T115057Z
+UID:20260930T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.3\nПредмет: 
+ Организация ИЗНТ\nАудитория: 1/113\nГруппы: 
+ 5251Г
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(КР)  6.6 Организация ИЗНТ 1/113 5251Г гр.
+DTSTART;TZID=Europe/Moscow:20260930T144000
+DTEND;TZID=Europe/Moscow:20260930T161000
+DTSTAMP:20260826T115057Z
+UID:20260930T144000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: КР\nТема:  6.6\nПредмет: 
+ Организация ИЗНТ\nАудитория: 1/113\nГруппы: 
+ 5251Г
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.3 Организация ИЗНТ 3/608 5251Б гр.
+DTSTART;TZID=Europe/Moscow:20261001T123000
+DTEND;TZID=Europe/Moscow:20261001T140000
+DTSTAMP:20260826T115057Z
+UID:20261001T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.3\nПредмет: 
+ Организация ИЗНТ\nАудитория: 3/608\nГруппы: 
+ 5251Б
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(КР)  6.6 Организация ИЗНТ 3/608 5251Б гр.
+DTSTART;TZID=Europe/Moscow:20261001T144000
+DTEND;TZID=Europe/Moscow:20261001T161000
+DTSTAMP:20260826T115057Z
+UID:20261001T144000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: КР\nТема:  6.6\nПредмет: 
+ Организация ИЗНТ\nАудитория: 3/608\nГруппы: 
+ 5251Б
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.3 Организация инженерного обес
  печения ликвидации чрезвычайных ситуац
- ий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260704T090000
-DTEND;TZID=Europe/Moscow:20260704T103000
-DTSTAMP:20260629T063729Z
-UID:20260704T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+ ий 3/204 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260826T115057Z
+UID:20261002T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.3\nПредмет: О
+ рганизация инженерного обеспечения лик
+ видации чрезвычайных ситуаций\nАудитори
+ я: 3/204\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 6251 гр.
-DTSTART;TZID=Europe/Moscow:20260704T104500
-DTEND;TZID=Europe/Moscow:20260704T121500
-DTSTAMP:20260629T063729Z
-UID:20260704T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 6251
-LAST-MODIFIED:20260629T063729Z
+SUMMARY:(КР)  6.6 Организация ИЗНТ АК/601 5251В гр.
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T115057Z
+UID:20261002T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: КР\nТема:  6.6\nПредмет: 
+ Организация ИЗНТ\nАудитория: АК/601\nГрупп
+ ы: 5251В
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Организация инженерного обес
- печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260711T090000
-DTEND;TZID=Europe/Moscow:20260711T103000
-DTSTAMP:20260629T063729Z
-UID:20260711T090000@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Организация инженерного обеспечения ли
- квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+SUMMARY:(Пр.)  2.4 Организация инженерно-техни
+ ческих мероприятий по предупреждению ЧС
+  ЭИОС 5253А гр.
+DTSTART;TZID=Europe/Moscow:20261002T123000
+DTEND;TZID=Europe/Moscow:20261002T140000
+DTSTAMP:20260826T115057Z
+UID:20261002T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
+ Организация инженерно-технических меро
+ приятий по предупреждению ЧС\nАудитория:
+  ЭИОС\nГруппы: 5253А
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Организация инженерного обес
+SUMMARY:(Пр.)  2.4 Организация инженерно-техни
+ ческих мероприятий по предупреждению ЧС
+  ЭИОС 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20261002T144000
+DTEND;TZID=Europe/Moscow:20261002T161000
+DTSTAMP:20260826T115057Z
+UID:20261002T144000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
+ Организация инженерно-технических меро
+ приятий по предупреждению ЧС\nАудитория:
+  ЭИОС\nГруппы: 5253Б
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.6 Учебная практика (по дисцип
+ лине  Оперативное управление в РСЧС и ГО 
+ ) 1/306 6251 гр.
+DTSTART;TZID=Europe/Moscow:20261003T090000
+DTEND;TZID=Europe/Moscow:20261003T103000
+DTSTAMP:20260826T115057Z
+UID:20261003T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.6\nПредмет
+ : Учебная практика (по дисциплине  Операт
+ ивное управление в РСЧС и ГО )\nАудитория:
+  1/306\nГруппы: 6251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  14.6 Учебная практика (по дисцип
+ лине  Оперативное управление в РСЧС и ГО 
+ ) 1/306 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T115057Z
+UID:20261003T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  14.6\nПредмет
+ : Учебная практика (по дисциплине  Операт
+ ивное управление в РСЧС и ГО )\nАудитория:
+  1/306\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  5.1 Организация инженерной защит
+ ы населения и территорий 1/306 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261027T090000
+DTEND;TZID=Europe/Moscow:20261027T103000
+DTSTAMP:20260826T115057Z
+UID:20261027T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: О
+ рганизация инженерной защиты населения 
+ и территорий\nАудитория: 1/306\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Организация инженерного обес
  печения ликвидации чрезвычайных ситуац
- ий 1/306 1251 гр.
-DTSTART;TZID=Europe/Moscow:20260711T104500
-DTEND;TZID=Europe/Moscow:20260711T121500
-DTSTAMP:20260629T063729Z
-UID:20260711T104500@20260629T093729@Тарабаев Ю.Н.
-CREATED:20260629T063729Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Организация инженерного обеспечения ли
+ ий 1/311 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261028T090000
+DTEND;TZID=Europe/Moscow:20261028T103000
+DTSTAMP:20260826T115057Z
+UID:20261028T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
+ рганизация инженерного обеспечения лик
+ видации чрезвычайных ситуаций\nАудитори
+ я: 1/311\nГруппы: 6261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  1.4 Организация инженерного обе
+ спечения ликвидации чрезвычайных ситуа
+ ций 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261030T123000
+DTEND;TZID=Europe/Moscow:20261030T140000
+DTSTAMP:20260826T115057Z
+UID:20261030T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.4\nПредмет:
+  Организация инженерного обеспечения ли
  квидации чрезвычайных ситуаций\nАудитор
- ия: 1/306\nГруппы: 1251
-LAST-MODIFIED:20260629T063729Z
+ ия: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.7 Учебная практика (по дисципл
+ ине  Оперативное управление в РСЧС и ГО ) 
+ 1/306 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261105T123000
+DTEND;TZID=Europe/Moscow:20261105T140000
+DTSTAMP:20260826T115057Z
+UID:20261105T123000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.7\nПредмет:
+  Учебная практика (по дисциплине  Операт
+ ивное управление в РСЧС и ГО )\nАудитория:
+  1/306\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.2 Организация инженерной защи
+ ты населения и территорий 1/306 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261112T090000
+DTEND;TZID=Europe/Moscow:20261112T103000
+DTSTAMP:20260826T115057Z
+UID:20261112T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
+  Организация инженерной защиты населени
+ я и территорий\nАудитория: 1/306\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Организация инженерной защит
+ ы населения и территорий 1/307 6251 гр.
+DTSTART;TZID=Europe/Moscow:20261116T090000
+DTEND;TZID=Europe/Moscow:20261116T103000
+DTSTAMP:20260826T115057Z
+UID:20261116T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Организация инженерной защиты населени
+ я и территорий\nАудитория: 1/307\nГруппы: 6251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Организация инженерной защит
+ ы населения и территорий 1/307 6251 гр.
+DTSTART;TZID=Europe/Moscow:20261116T104500
+DTEND;TZID=Europe/Moscow:20261116T121500
+DTSTAMP:20260826T115057Z
+UID:20261116T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Организация инженерной защиты населени
+ я и территорий\nАудитория: 1/307\nГруппы: 6251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.7 Учебная практика (по дисципл
+ ине  Оперативное управление в РСЧС и ГО ) 
+ 1/306 6261 гр.
+DTSTART;TZID=Europe/Moscow:20261117T104500
+DTEND;TZID=Europe/Moscow:20261117T121500
+DTSTAMP:20260826T115057Z
+UID:20261117T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.7\nПредмет:
+  Учебная практика (по дисциплине  Операт
+ ивное управление в РСЧС и ГО )\nАудитория:
+  1/306\nГруппы: 6261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  15.7 Учебная практика (по дисцип
+ лине  Оперативное управление в РСЧС и ГО 
+ ) 1/306 6251 гр.
+DTSTART;TZID=Europe/Moscow:20261119T090000
+DTEND;TZID=Europe/Moscow:20261119T103000
+DTSTAMP:20260826T115057Z
+UID:20261119T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  15.7\nПредмет
+ : Учебная практика (по дисциплине  Операт
+ ивное управление в РСЧС и ГО )\nАудитория:
+  1/306\nГруппы: 6251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Организация инженерного обес
+ печения ликвидации чрезвычайных ситуац
+ ий 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261125T090000
+DTEND;TZID=Europe/Moscow:20261125T103000
+DTSTAMP:20260826T115057Z
+UID:20261125T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: О
+ рганизация инженерного обеспечения лик
+ видации чрезвычайных ситуаций\nАудитори
+ я: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  15.7 Учебная практика (по дисцип
+ лине  Оперативное управление в РСЧС и ГО 
+ ) 1/306 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261127T090000
+DTEND;TZID=Europe/Moscow:20261127T103000
+DTSTAMP:20260826T115057Z
+UID:20261127T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  15.7\nПредмет
+ : Учебная практика (по дисциплине  Операт
+ ивное управление в РСЧС и ГО )\nАудитория:
+  1/306\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.2 Организация инженерного обе
+ спечения ликвидации чрезвычайных ситуа
+ ций 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261130T090000
+DTEND;TZID=Europe/Moscow:20261130T103000
+DTSTAMP:20260826T115057Z
+UID:20261130T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Организация инженерного обеспечения ли
+ квидации чрезвычайных ситуаций\nАудитор
+ ия: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.4 Организация инженерной защи
+ ты населения и территорий Выезд 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261204T090000
+DTEND;TZID=Europe/Moscow:20261204T103000
+DTSTAMP:20260826T115057Z
+UID:20261204T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
+  Организация инженерной защиты населени
+ я и территорий\nАудитория: Выезд\nГруппы: 
+ 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  5.4 Организация инженерной защи
+ ты населения и территорий Выезд 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261204T104500
+DTEND;TZID=Europe/Moscow:20261204T121500
+DTSTAMP:20260826T115057Z
+UID:20261204T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
+  Организация инженерной защиты населени
+ я и территорий\nАудитория: Выезд\nГруппы: 
+ 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.3 Организация инженерного обе
+ спечения ликвидации чрезвычайных ситуа
+ ций 1/306 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261207T104500
+DTEND;TZID=Europe/Moscow:20261207T121500
+DTSTAMP:20260826T115057Z
+UID:20261207T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
+  Организация инженерного обеспечения ли
+ квидации чрезвычайных ситуаций\nАудитор
+ ия: 1/306\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.4 Организация инженерного обе
+ спечения ликвидации чрезвычайных ситуа
+ ций 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261215T090000
+DTEND;TZID=Europe/Moscow:20261215T103000
+DTSTAMP:20260826T115057Z
+UID:20261215T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
+  Организация инженерного обеспечения ли
+ квидации чрезвычайных ситуаций\nАудитор
+ ия: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Организация инженерной защит
+ ы населения и территорий 1/310 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261221T090000
+DTEND;TZID=Europe/Moscow:20261221T103000
+DTSTAMP:20260826T115057Z
+UID:20261221T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Организация инженерной защиты населени
+ я и территорий\nАудитория: 1/310\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗчО.)   Организация инженерной защит
+ ы населения и территорий 1/310 1251 гр.
+DTSTART;TZID=Europe/Moscow:20261221T104500
+DTEND;TZID=Europe/Moscow:20261221T121500
+DTSTAMP:20260826T115057Z
+UID:20261221T104500@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
+ Организация инженерной защиты населени
+ я и территорий\nАудитория: 1/310\nГруппы: 1251
+LAST-MODIFIED:20260826T115057Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(ЗСТ)  2.5 Организация инженерного обе
+ спечения ликвидации чрезвычайных ситуа
+ ций 1/307 1261 гр.
+DTSTART;TZID=Europe/Moscow:20261222T090000
+DTEND;TZID=Europe/Moscow:20261222T103000
+DTSTAMP:20260826T115057Z
+UID:20261222T090000@20260826T145057@Тарабаев Ю.Н.
+CREATED:20260826T115057Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.5\nПредмет:
+  Организация инженерного обеспечения ли
+ квидации чрезвычайных ситуаций\nАудитор
+ ия: 1/307\nГруппы: 1261
+LAST-MODIFIED:20260826T115057Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
