@@ -19,997 +19,353 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск 3/208 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260113T090000
-DTEND;TZID=Europe/Moscow:20260113T103000
-DTSTAMP:20260717T112331Z
-UID:20260113T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: 3/208\nГруппы: 3233
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск 3/208 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260113T104500
-DTEND;TZID=Europe/Moscow:20260113T121500
-DTSTAMP:20260717T112331Z
-UID:20260113T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: 3/208\nГруппы: 3233
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск 3/208 3233 гр.
-DTSTART;TZID=Europe/Moscow:20260113T123000
-DTEND;TZID=Europe/Moscow:20260113T140000
-DTSTAMP:20260717T112331Z
-UID:20260113T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: 3/208\nГруппы: 3233
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность тех.систем и техно
- генный риск АК/403 510В гр.
-DTSTART;TZID=Europe/Moscow:20260202T123000
-DTEND;TZID=Europe/Moscow:20260202T140000
-DTSTAMP:20260717T112331Z
-UID:20260202T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+SUMMARY:(л.)  1.1 Надежность технических систе
+ м и техногенный риск 3/510 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260907T123000
+DTEND;TZID=Europe/Moscow:20260907T140000
+DTSTAMP:20260826T120542Z
+UID:20260907T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/403\nГруппы: 510В
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность тех.систем и техно
- генный риск АК/403 510В гр.
-DTSTART;TZID=Europe/Moscow:20260202T144000
-DTEND;TZID=Europe/Moscow:20260202T161000
-DTSTAMP:20260717T112331Z
-UID:20260202T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/403\nГруппы: 510В
-LAST-MODIFIED:20260717T112331Z
+ адежность технических систем и техноген
+ ный риск\nАудитория: 3/510\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.1 Надежность технических систе
- м и техногенный риск 3/602 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260204T090000
-DTEND;TZID=Europe/Moscow:20260204T103000
-DTSTAMP:20260717T112331Z
-UID:20260204T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск 3/510 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260907T144000
+DTEND;TZID=Europe/Moscow:20260907T161000
+DTSTAMP:20260826T120542Z
+UID:20260907T144000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: 3/602\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность технических систе
- м и техногенный риск 3/602 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260204T104500
-DTEND;TZID=Europe/Moscow:20260204T121500
-DTSTAMP:20260717T112331Z
-UID:20260204T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 3/602\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность технических систе
- м и техногенный риск АК/403 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260206T090000
-DTEND;TZID=Europe/Moscow:20260206T103000
-DTSTAMP:20260717T112331Z
-UID:20260206T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: АК/403\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность технических систе
- м и техногенный риск АК/403 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260206T104500
-DTEND;TZID=Europe/Moscow:20260206T121500
-DTSTAMP:20260717T112331Z
-UID:20260206T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: АК/403\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: 3/510\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.2 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260207T090000
-DTEND;TZID=Europe/Moscow:20260207T103000
-DTSTAMP:20260717T112331Z
-UID:20260207T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск 3/407 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260908T090000
+DTEND;TZID=Europe/Moscow:20260908T103000
+DTSTAMP:20260826T120542Z
+UID:20260908T090000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: 3/407\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.2 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260207T104500
-DTEND;TZID=Europe/Moscow:20260207T121500
-DTSTAMP:20260717T112331Z
-UID:20260207T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск 3/407 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260908T104500
+DTEND;TZID=Europe/Moscow:20260908T121500
+DTSTAMP:20260826T120542Z
+UID:20260908T104500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность тех.систем и техно
- генный риск АК/416 5229А гр. 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260209T144000
-DTEND;TZID=Europe/Moscow:20260209T161000
-DTSTAMP:20260717T112331Z
-UID:20260209T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/416\nГруппы: 5229А 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260717T112331Z
-UID:20260211T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260211T104500
-DTEND;TZID=Europe/Moscow:20260211T121500
-DTSTAMP:20260717T112331Z
-UID:20260211T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  1.3 Надежность тех.систем и техн
- огенный риск АК/416 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260212T123000
-DTEND;TZID=Europe/Moscow:20260212T140000
-DTSTAMP:20260717T112331Z
-UID:20260212T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  1.3\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  1.3 Надежность тех.систем и техн
- огенный риск АК/416 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260213T104500
-DTEND;TZID=Europe/Moscow:20260213T121500
-DTSTAMP:20260717T112331Z
-UID:20260213T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  1.3\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Надежность тех.систем и техно
- генный риск АК/416 5229А гр. 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260213T123000
-DTEND;TZID=Europe/Moscow:20260213T140000
-DTSTAMP:20260717T112331Z
-UID:20260213T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/416\nГруппы: 5229А 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Надежность тех.систем и техно
- генный риск АК/416 510В гр.
-DTSTART;TZID=Europe/Moscow:20260217T123000
-DTEND;TZID=Europe/Moscow:20260217T140000
-DTSTAMP:20260717T112331Z
-UID:20260217T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/416\nГруппы: 510В
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: 3/407\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.4 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260218T090000
-DTEND;TZID=Europe/Moscow:20260218T103000
-DTSTAMP:20260717T112331Z
-UID:20260218T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260918T090000
+DTEND;TZID=Europe/Moscow:20260918T103000
+DTSTAMP:20260826T120542Z
+UID:20260918T090000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  1.4 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260218T104500
-DTEND;TZID=Europe/Moscow:20260218T121500
-DTSTAMP:20260717T112331Z
-UID:20260218T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20260918T104500
+DTEND;TZID=Europe/Moscow:20260918T121500
+DTSTAMP:20260826T120542Z
+UID:20260918T104500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  1.4 Надежность тех.систем и техн
- огенный риск АК/416 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260219T104500
-DTEND;TZID=Europe/Moscow:20260219T121500
-DTSTAMP:20260717T112331Z
-UID:20260219T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+SUMMARY:(л.)  1.1 Основы теории надежности и уп
+ равления качеством ЭИОС 5253А гр. 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T120542Z
+UID:20260921T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ сновы теории надежности и управления ка
+ чеством\nАудитория: ЭИОС\nГруппы: 5253А 5253Б
+LAST-MODIFIED:20260826T120542Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  1.4 Основы теории надежности и у
+ правления качеством ЭИОС 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260922T123000
+DTEND;TZID=Europe/Moscow:20260922T140000
+DTSTAMP:20260826T120542Z
+UID:20260922T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: Пр.\nТема:  1.4\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253Б
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  1.4 Надежность тех.систем и техн
- огенный риск АК/416 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260219T123000
-DTEND;TZID=Europe/Moscow:20260219T140000
-DTSTAMP:20260717T112331Z
-UID:20260219T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+SUMMARY:(Пр.)  1.4 Основы теории надежности и у
+ правления качеством ЭИОС 5253А гр.
+DTSTART;TZID=Europe/Moscow:20260924T144000
+DTEND;TZID=Europe/Moscow:20260924T161000
+DTSTAMP:20260826T120542Z
+UID:20260924T144000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: Пр.\nТема:  1.4\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253А
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260220T090000
-DTEND;TZID=Europe/Moscow:20260220T103000
-DTSTAMP:20260717T112331Z
-UID:20260220T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
+SUMMARY:(Пр.)  2.2 Основы теории надежности и у
+ правления качеством ЭИОС 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20260929T123000
+DTEND;TZID=Europe/Moscow:20260929T140000
+DTSTAMP:20260826T120542Z
+UID:20260929T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253Б
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.4 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260220T104500
-DTEND;TZID=Europe/Moscow:20260220T121500
-DTSTAMP:20260717T112331Z
-UID:20260220T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.4\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.3 Надежность тех.систем и техно
- генный риск АК/403 510В гр.
-DTSTART;TZID=Europe/Moscow:20260224T104500
-DTEND;TZID=Europe/Moscow:20260224T121500
-DTSTAMP:20260717T112331Z
-UID:20260224T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/403\nГруппы: 510В
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.3 Надежность тех.систем и техн
- огенный риск АК/416 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260224T123000
-DTEND;TZID=Europe/Moscow:20260224T140000
-DTSTAMP:20260717T112331Z
-UID:20260224T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
+SUMMARY:(Пр.)  2.2 Основы теории надежности и у
+ правления качеством ЭИОС 5253А гр.
+DTSTART;TZID=Europe/Moscow:20260929T162500
+DTEND;TZID=Europe/Moscow:20260929T175500
+DTSTAMP:20260826T120542Z
+UID:20260929T162500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253А
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.1 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260225T090000
-DTEND;TZID=Europe/Moscow:20260225T103000
-DTSTAMP:20260717T112331Z
-UID:20260225T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260826T120542Z
+UID:20261002T090000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.1 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260225T104500
-DTEND;TZID=Europe/Moscow:20260225T121500
-DTSTAMP:20260717T112331Z
-UID:20260225T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T120542Z
+UID:20261002T104500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.4 Надежность тех.систем и техно
- генный риск АК/416 5229А гр. 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260225T144000
-DTEND;TZID=Europe/Moscow:20260225T161000
-DTSTAMP:20260717T112331Z
-UID:20260225T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.4\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/416\nГруппы: 5229А 5229Б
-LAST-MODIFIED:20260717T112331Z
+SUMMARY:(Пр.)  2.4 Основы теории надежности и у
+ правления качеством ЭИОС 5253А гр.
+DTSTART;TZID=Europe/Moscow:20261003T104500
+DTEND;TZID=Europe/Moscow:20261003T121500
+DTSTAMP:20260826T120542Z
+UID:20261003T104500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253А
+LAST-MODIFIED:20260826T120542Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.4 Основы теории надежности и у
+ правления качеством ЭИОС 5253А гр.
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T120542Z
+UID:20261003T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253А
+LAST-MODIFIED:20260826T120542Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.4 Основы теории надежности и у
+ правления качеством ЭИОС 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20261003T144000
+DTEND;TZID=Europe/Moscow:20261003T161000
+DTSTAMP:20260826T120542Z
+UID:20261003T144000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253Б
+LAST-MODIFIED:20260826T120542Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.4 Основы теории надежности и у
+ правления качеством ЭИОС 5253Б гр.
+DTSTART;TZID=Europe/Moscow:20261003T162500
+DTEND;TZID=Europe/Moscow:20261003T175500
+DTSTAMP:20260826T120542Z
+UID:20261003T162500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
+ Основы теории надежности и управления к
+ ачеством\nАудитория: ЭИОС\nГруппы: 5253Б
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.2 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260226T123000
-DTEND;TZID=Europe/Moscow:20260226T140000
-DTSTAMP:20260717T112331Z
-UID:20260226T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261009T123000
+DTEND;TZID=Europe/Moscow:20261009T140000
+DTSTAMP:20260826T120542Z
+UID:20261009T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.3 Надежность тех.систем и техн
- огенный риск АК/403 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260226T144000
-DTEND;TZID=Europe/Moscow:20260226T161000
-DTSTAMP:20260717T112331Z
-UID:20260226T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/403\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260302T090000
-DTEND;TZID=Europe/Moscow:20260302T103000
-DTSTAMP:20260717T112331Z
-UID:20260302T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260302T104500
-DTEND;TZID=Europe/Moscow:20260302T121500
-DTSTAMP:20260717T112331Z
-UID:20260302T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Надежность тех.систем и техно
- генный риск АК/416 5229А гр. 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260302T144000
-DTEND;TZID=Europe/Moscow:20260302T161000
-DTSTAMP:20260717T112331Z
-UID:20260302T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитория: АК/416\nГруппы: 5229А 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.6 Надежность тех.систем и техн
- огенный риск АК/416 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260303T144000
-DTEND;TZID=Europe/Moscow:20260303T161000
-DTSTAMP:20260717T112331Z
-UID:20260303T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.6\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.2 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260305T090000
-DTEND;TZID=Europe/Moscow:20260305T103000
-DTSTAMP:20260717T112331Z
-UID:20260305T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.6 Надежность тех.систем и техн
- огенный риск АК/416 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260305T123000
-DTEND;TZID=Europe/Moscow:20260305T140000
-DTSTAMP:20260717T112331Z
-UID:20260305T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.6\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.5 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260310T123000
-DTEND;TZID=Europe/Moscow:20260310T140000
-DTSTAMP:20260717T112331Z
-UID:20260310T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261020T104500
+DTEND;TZID=Europe/Moscow:20261020T121500
+DTSTAMP:20260826T120542Z
+UID:20261020T104500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.6 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260311T090000
-DTEND;TZID=Europe/Moscow:20260311T103000
-DTSTAMP:20260717T112331Z
-UID:20260311T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск 3/507 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261021T090000
+DTEND;TZID=Europe/Moscow:20261021T103000
+DTSTAMP:20260826T120542Z
+UID:20261021T090000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Надежность тех.систем и техн
- огенный риск АК/416 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260312T104500
-DTEND;TZID=Europe/Moscow:20260312T121500
-DTSTAMP:20260717T112331Z
-UID:20260312T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Надежность тех.систем и техн
- огенный риск АК/416 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260312T123000
-DTEND;TZID=Europe/Moscow:20260312T140000
-DTSTAMP:20260717T112331Z
-UID:20260312T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Конс.)   Надежность тех.систем и техн
- огенный риск АК/416 5229А гр.
-DTSTART;TZID=Europe/Moscow:20260312T144000
-DTEND;TZID=Europe/Moscow:20260312T161000
-DTSTAMP:20260717T112331Z
-UID:20260312T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Надежность тех.систем и техногенный рис
- к\nАудитория: АК/416\nГруппы: 5229А
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Надежность тех.систем и техн
- огенный риск АК/403 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260313T104500
-DTEND;TZID=Europe/Moscow:20260313T121500
-DTSTAMP:20260717T112331Z
-UID:20260313T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/403\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Надежность тех.систем и техн
- огенный риск АК/403 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260313T123000
-DTEND;TZID=Europe/Moscow:20260313T140000
-DTSTAMP:20260717T112331Z
-UID:20260313T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитория: АК/403\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Конс.)   Надежность тех.систем и техн
- огенный риск АК/403 5229Б гр.
-DTSTART;TZID=Europe/Moscow:20260313T144000
-DTEND;TZID=Europe/Moscow:20260313T161000
-DTSTAMP:20260717T112331Z
-UID:20260313T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Надежность тех.систем и техногенный рис
- к\nАудитория: АК/403\nГруппы: 5229Б
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.5 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260316T090000
-DTEND;TZID=Europe/Moscow:20260316T103000
-DTSTAMP:20260717T112331Z
-UID:20260316T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.6 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260316T104500
-DTEND;TZID=Europe/Moscow:20260316T121500
-DTSTAMP:20260717T112331Z
-UID:20260316T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.6\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: 3/507\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.8 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260317T090000
-DTEND;TZID=Europe/Moscow:20260317T103000
-DTSTAMP:20260717T112331Z
-UID:20260317T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261102T123000
+DTEND;TZID=Europe/Moscow:20261102T140000
+DTSTAMP:20260826T120542Z
+UID:20261102T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.8\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(л.)  2.8 Надежность технических систе
- м и техногенный риск АК/416 6223 гр. 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260717T112331Z
-UID:20260317T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/416 3243 гр.
+DTSTART;TZID=Europe/Moscow:20261102T144000
+DTEND;TZID=Europe/Moscow:20261102T161000
+DTSTAMP:20260826T120542Z
+UID:20261102T144000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: л.\nТема:  2.8\nПредмет: Н
  адежность технических систем и техноген
- ный риск\nАудитория: АК/416\nГруппы: 6223 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.8 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260321T104500
-DTEND;TZID=Europe/Moscow:20260321T121500
-DTSTAMP:20260717T112331Z
-UID:20260321T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.8\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.8 Надежность технических систе
- м и техногенный риск 4/211 2224 гр. 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260321T123000
-DTEND;TZID=Europe/Moscow:20260321T140000
-DTSTAMP:20260717T112331Z
-UID:20260321T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.8\nПредмет: Н
- адежность технических систем и техноген
- ный риск\nАудитория: 4/211\nГруппы: 2224 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Надежность технических сист
- ем и техногенный риск АК/401 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260324T123000
-DTEND;TZID=Europe/Moscow:20260324T140000
-DTSTAMP:20260717T112331Z
-UID:20260324T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/401\nГруппы: 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Надежность технических сист
- ем и техногенный риск АК/403 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260325T123000
-DTEND;TZID=Europe/Moscow:20260325T140000
-DTSTAMP:20260717T112331Z
-UID:20260325T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/403\nГруппы: 6223
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Надежность технических сист
- ем и техногенный риск АК/416 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260331T162500
-DTEND;TZID=Europe/Moscow:20260331T175500
-DTSTAMP:20260717T112331Z
-UID:20260331T162500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/416\nГруппы: 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Надежность технических сист
- ем и техногенный риск АК/416 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260401T162500
-DTEND;TZID=Europe/Moscow:20260401T175500
-DTSTAMP:20260717T112331Z
-UID:20260401T162500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/416\nГруппы: 2224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Надежность технических сист
- ем и техногенный риск АК/401 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260406T123000
-DTEND;TZID=Europe/Moscow:20260406T140000
-DTSTAMP:20260717T112331Z
-UID:20260406T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/401\nГруппы: 2224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Надежность технических сист
- ем и техногенный риск АК/403 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260406T162500
-DTEND;TZID=Europe/Moscow:20260406T175500
-DTSTAMP:20260717T112331Z
-UID:20260406T162500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/403\nГруппы: 2224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Надежность технических систе
- м и техногенный риск АК/401Ф 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260408T123000
-DTEND;TZID=Europe/Moscow:20260408T140000
-DTSTAMP:20260717T112331Z
-UID:20260408T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: АК/401Ф\nГруппы: 2224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Надежность технических систе
- м и техногенный риск 3/501 2224 гр.
-DTSTART;TZID=Europe/Moscow:20260408T162500
-DTEND;TZID=Europe/Moscow:20260408T175500
-DTSTAMP:20260717T112331Z
-UID:20260408T162500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: 3/501\nГруппы: 2224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Надежность технических сист
- ем и техногенный риск АК/403 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260410T104500
-DTEND;TZID=Europe/Moscow:20260410T121500
-DTSTAMP:20260717T112331Z
-UID:20260410T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/403\nГруппы: 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.3 Надежность технических сист
- ем и техногенный риск АК/403 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260410T123000
-DTEND;TZID=Europe/Moscow:20260410T140000
-DTSTAMP:20260717T112331Z
-UID:20260410T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.3\nПредмет:
-  Надежность технических систем и техног
- енный риск\nАудитория: АК/403\nГруппы: 2226
-LAST-MODIFIED:20260717T112331Z
+ ный риск\nАудитория: АК/416\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск АК/401 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260411T090000
-DTEND;TZID=Europe/Moscow:20260411T103000
-DTSTAMP:20260717T112331Z
-UID:20260411T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/403 3243 гр.
+DTSTART;TZID=Europe/Moscow:20270115T090000
+DTEND;TZID=Europe/Moscow:20270115T103000
+DTSTAMP:20260826T120542Z
+UID:20270115T090000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Надежность технических систем и техноге
- нный риск\nАудитория: АК/401\nГруппы: 6224
-LAST-MODIFIED:20260717T112331Z
+ нный риск\nАудитория: АК/403\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск АК/401 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260411T104500
-DTEND;TZID=Europe/Moscow:20260411T121500
-DTSTAMP:20260717T112331Z
-UID:20260411T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/403 3243 гр.
+DTSTART;TZID=Europe/Moscow:20270115T104500
+DTEND;TZID=Europe/Moscow:20270115T121500
+DTSTAMP:20260826T120542Z
+UID:20270115T104500@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Надежность технических систем и техноге
- нный риск\nАудитория: АК/401\nГруппы: 6224
-LAST-MODIFIED:20260717T112331Z
+ нный риск\nАудитория: АК/403\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск АК/401 6224 гр.
-DTSTART;TZID=Europe/Moscow:20260411T123000
-DTEND;TZID=Europe/Moscow:20260411T140000
-DTSTAMP:20260717T112331Z
-UID:20260411T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
+ м и техногенный риск АК/403 3243 гр.
+DTSTART;TZID=Europe/Moscow:20270115T123000
+DTEND;TZID=Europe/Moscow:20270115T140000
+DTSTAMP:20260826T120542Z
+UID:20270115T123000@20260826T150542@Добров А.В.
+CREATED:20260826T120542Z
 DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
  Надежность технических систем и техноге
- нный риск\nАудитория: АК/401\nГруппы: 6224
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Надежность технических систе
- м и техногенный риск АК/403 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260413T090000
-DTEND;TZID=Europe/Moscow:20260413T103000
-DTSTAMP:20260717T112331Z
-UID:20260413T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: АК/403\nГруппы: 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Надежность технических систе
- м и техногенный риск АК/403 2226 гр.
-DTSTART;TZID=Europe/Moscow:20260413T104500
-DTEND;TZID=Europe/Moscow:20260413T121500
-DTSTAMP:20260717T112331Z
-UID:20260413T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: АК/403\nГруппы: 2226
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Основы теории надежности и уп
- равления качеством АК/403 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260415T123000
-DTEND;TZID=Europe/Moscow:20260415T140000
-DTSTAMP:20260717T112331Z
-UID:20260415T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- сновы теории надежности и управления ка
- чеством\nАудитория: АК/403\nГруппы: 5243
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗсО)   Основы теории надежности и уп
- равления качеством АК/403 5243 гр.
-DTSTART;TZID=Europe/Moscow:20260415T144000
-DTEND;TZID=Europe/Moscow:20260415T161000
-DTSTAMP:20260717T112331Z
-UID:20260415T144000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- сновы теории надежности и управления ка
- чеством\nАудитория: АК/403\nГруппы: 5243
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск АК/416 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260416T090000
-DTEND;TZID=Europe/Moscow:20260416T103000
-DTSTAMP:20260717T112331Z
-UID:20260416T090000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: АК/416\nГруппы: 6223
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск АК/416 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260416T104500
-DTEND;TZID=Europe/Moscow:20260416T121500
-DTSTAMP:20260717T112331Z
-UID:20260416T104500@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: АК/416\nГруппы: 6223
-LAST-MODIFIED:20260717T112331Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(экз.)   Надежность технических систе
- м и техногенный риск АК/416 6223 гр.
-DTSTART;TZID=Europe/Moscow:20260416T123000
-DTEND;TZID=Europe/Moscow:20260416T140000
-DTSTAMP:20260717T112331Z
-UID:20260416T123000@20260717T142331@Добров А.В.
-CREATED:20260717T112331Z
-DESCRIPTION:Тип занятия: экз.\nТема:  \nПредмет: 
- Надежность технических систем и техноге
- нный риск\nАудитория: АК/416\nГруппы: 6223
-LAST-MODIFIED:20260717T112331Z
+ нный риск\nАудитория: АК/403\nГруппы: 3243
+LAST-MODIFIED:20260826T120542Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
