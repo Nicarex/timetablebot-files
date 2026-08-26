@@ -19,515 +19,665 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Основы ГМУ 1/410
-DTSTART;TZID=Europe/Moscow:20260512T090000
-DTEND;TZID=Europe/Moscow:20260512T103000
-DTSTAMP:20260508T130434Z
-UID:20260512T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- сновы ГМУ\nАудитории: 1/410\nПреподаватели: 
- Завгородний А.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Планирование мероприятий РСЧ
+ С и ГО ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T090000
+DTEND;TZID=Europe/Moscow:20260921T103000
+DTSTAMP:20260826T120627Z
+UID:20260921T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
+ ланирование мероприятий РСЧС и ГО\nАудит
+ ории: ЭИОС\nПреподаватели: Поляков В.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Основы ГМУ 1/410
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260508T130434Z
-UID:20260512T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- сновы ГМУ\nАудитории: 1/410\nПреподаватели: 
- Завгородний А.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Современные механизмы против
+ одействия коррупции ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T104500
+DTEND;TZID=Europe/Moscow:20260921T121500
+DTSTAMP:20260826T120627Z
+UID:20260921T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: С
+ овременные механизмы противодействия к
+ оррупции\nАудитории: ЭИОС\nПреподаватели
+ : Малека Ю.Н.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/320
-DTSTART;TZID=Europe/Moscow:20260512T123000
-DTEND;TZID=Europe/Moscow:20260512T140000
-DTSTAMP:20260508T130434Z
-UID:20260512T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рии: 1/320\nПреподаватели: Ермаков С.И.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Технологии кадрового менеджм
+ ента ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T123000
+DTEND;TZID=Europe/Moscow:20260921T140000
+DTSTAMP:20260826T120627Z
+UID:20260921T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
+ ехнологии кадрового менеджмента\nАудито
+ рии: ЭИОС\nПреподаватели: Сушанский А.С.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Организация РХЗ населения и т
- ер-й 1/320
-DTSTART;TZID=Europe/Moscow:20260512T144000
-DTEND;TZID=Europe/Moscow:20260512T161000
-DTSTAMP:20260508T130434Z
-UID:20260512T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: О
- рганизация РХЗ населения и тер-й\nАудито
- рии: 1/320\nПреподаватели: Ермаков С.И.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Стратегическое планирование 
+ и прогнозирование ЭИОС
+DTSTART;TZID=Europe/Moscow:20260921T144000
+DTEND;TZID=Europe/Moscow:20260921T161000
+DTSTAMP:20260826T120627Z
+UID:20260921T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: С
+ тратегическое планирование и прогнозир
+ ование\nАудитории: ЭИОС\nПреподаватели: Ч
+ умаченко А.П.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   УП\, ознакомительная 3/101
-DTSTART;TZID=Europe/Moscow:20260513T090000
-DTEND;TZID=Europe/Moscow:20260513T103000
-DTSTAMP:20260508T130434Z
-UID:20260513T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
- П\, ознакомительная\nАудитории: 3/101\nПрепо
- даватели: Мошкин А.С.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  2.1 Стратегическое планирование 
+ и прогнозирование ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T090000
+DTEND;TZID=Europe/Moscow:20260922T103000
+DTSTAMP:20260826T120627Z
+UID:20260922T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: С
+ тратегическое планирование и прогнозир
+ ование\nАудитории: ЭИОС\nПреподаватели: Ч
+ умаченко А.П.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   УП\, ознакомительная 3/101
-DTSTART;TZID=Europe/Moscow:20260513T104500
-DTEND;TZID=Europe/Moscow:20260513T121500
-DTSTAMP:20260508T130434Z
-UID:20260513T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
- П\, ознакомительная\nАудитории: 3/101\nПрепо
- даватели: Мошкин А.С.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Устойчивость объектов эконом
+ ики и территорий ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T104500
+DTEND;TZID=Europe/Moscow:20260922T121500
+DTSTAMP:20260826T120627Z
+UID:20260922T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: У
+ стойчивость объектов экономики и террит
+ орий\nАудитории: ЭИОС\nПреподаватели: Рей
+ хов Ю.Н.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Психология проф.деятельности
-  2/214
-DTSTART;TZID=Europe/Moscow:20260513T123000
-DTEND;TZID=Europe/Moscow:20260513T140000
-DTSTAMP:20260508T130434Z
-UID:20260513T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Психология проф.деятельности\nАудитории
- : 2/214\nПреподаватели: Сушанский А.С.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Теория и практика принятия уп
+ равленческих решений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T123000
+DTEND;TZID=Europe/Moscow:20260922T140000
+DTSTAMP:20260826T120627Z
+UID:20260922T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
+ еория и практика принятия управленчески
+ х решений\nАудитории: ЭИОС\nПреподавател
+ и: Чумаченко А.П.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Психология проф.деятельности
-  2/214
-DTSTART;TZID=Europe/Moscow:20260513T144000
-DTEND;TZID=Europe/Moscow:20260513T161000
-DTSTAMP:20260508T130434Z
-UID:20260513T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Психология проф.деятельности\nАудитории
- : 2/214\nПреподаватели: Сушанский А.С.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  2.1 Современные механизмы проти
+ водействия коррупции ЭИОС
+DTSTART;TZID=Europe/Moscow:20260922T144000
+DTEND;TZID=Europe/Moscow:20260922T161000
+DTSTAMP:20260826T120627Z
+UID:20260922T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
+ Современные механизмы противодействия 
+ коррупции\nАудитории: ЭИОС\nПреподавател
+ и: Малека Ю.Н.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   История гос.органов и учрежде
- ний в России 2/216
-DTSTART;TZID=Europe/Moscow:20260514T090000
-DTEND;TZID=Europe/Moscow:20260514T103000
-DTSTAMP:20260508T130434Z
-UID:20260514T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- стория гос.органов и учреждений в России
- \nАудитории: 2/216\nПреподаватели: Малека Ю.
- Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Организация СФД ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T090000
+DTEND;TZID=Europe/Moscow:20260923T103000
+DTSTAMP:20260826T120627Z
+UID:20260923T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ рганизация СФД\nАудитории: ЭИОС\nПрепода
+ ватели: Никитенко А.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   История гос.органов и учрежде
- ний в России 2/216
-DTSTART;TZID=Europe/Moscow:20260514T104500
-DTEND;TZID=Europe/Moscow:20260514T121500
-DTSTAMP:20260508T130434Z
-UID:20260514T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- стория гос.органов и учреждений в России
- \nАудитории: 2/216\nПреподаватели: Малека Ю.
- Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Информационно-аналитические 
+ технологии ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T104500
+DTEND;TZID=Europe/Moscow:20260923T121500
+DTSTAMP:20260826T120627Z
+UID:20260923T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: И
+ нформационно-аналитические технологии 
+ ГМУ\nАудитории: ЭИОС\nПреподаватели: Харл
+ амова Е.В.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   ПП (НИР) 2/217
-DTSTART;TZID=Europe/Moscow:20260514T123000
-DTEND;TZID=Europe/Moscow:20260514T140000
-DTSTAMP:20260508T130434Z
-UID:20260514T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- ПП (НИР)\nАудитории: 2/217\nПреподаватели: Гу
- дков Б.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Модернизация системы ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T123000
+DTEND;TZID=Europe/Moscow:20260923T140000
+DTSTAMP:20260826T120627Z
+UID:20260923T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: М
+ одернизация системы ГМУ\nАудитории: ЭИОС
+ \nПреподаватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   ПП (НИР) 2/217
-DTSTART;TZID=Europe/Moscow:20260514T144000
-DTEND;TZID=Europe/Moscow:20260514T161000
-DTSTAMP:20260508T130434Z
-UID:20260514T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- ПП (НИР)\nАудитории: 2/217\nПреподаватели: Гу
- дков Б.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  2.1 Организация СФД ЭИОС
+DTSTART;TZID=Europe/Moscow:20260923T144000
+DTEND;TZID=Europe/Moscow:20260923T161000
+DTSTAMP:20260826T120627Z
+UID:20260923T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
+ Организация СФД\nАудитории: ЭИОС\nПрепод
+ аватели: Хайбуллин И.Ф.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Правовое обеспечение ГМУ 2/214
-DTSTART;TZID=Europe/Moscow:20260515T090000
-DTEND;TZID=Europe/Moscow:20260515T103000
-DTSTAMP:20260508T130434Z
-UID:20260515T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: П
- равовое обеспечение ГМУ\nАудитории: 2/214\n
- Преподаватели: Кебадзе О.Г.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Технологии профессионального
+  общения ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T090000
+DTEND;TZID=Europe/Moscow:20260924T103000
+DTSTAMP:20260826T120627Z
+UID:20260924T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Т
+ ехнологии профессионального общения\nАу
+ дитории: ЭИОС\nПреподаватели: Сушанский 
+ А.С.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Правовое обеспечение ГМУ 2/214
-DTSTART;TZID=Europe/Moscow:20260515T104500
-DTEND;TZID=Europe/Moscow:20260515T121500
-DTSTAMP:20260508T130434Z
-UID:20260515T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: П
- равовое обеспечение ГМУ\nАудитории: 2/214\n
- Преподаватели: Кебадзе О.Г.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Экспертно-аналитическая и пед
+ .д-ть в сфере ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T104500
+DTEND;TZID=Europe/Moscow:20260924T121500
+DTSTAMP:20260826T120627Z
+UID:20260924T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Э
+ кспертно-аналитическая и пед.д-ть в сфер
+ е ГМУ\nАудитории: ЭИОС\nПреподаватели: Су
+ шанский А.С.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Ин.язык в сфере ГМУ 4/315
-DTSTART;TZID=Europe/Moscow:20260515T123000
-DTEND;TZID=Europe/Moscow:20260515T140000
-DTSTAMP:20260508T130434Z
-UID:20260515T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- н.язык в сфере ГМУ\nАудитории: 4/315\nПрепод
- аватели: Казакова С.А.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  10.1 Научно-исследовательский пр
+ актикум ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T123000
+DTEND;TZID=Europe/Moscow:20260924T140000
+DTSTAMP:20260826T120627Z
+UID:20260924T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  10.1\nПредмет:
+  Научно-исследовательский практикум\nАу
+ дитории: ЭИОС\nПреподаватели: Гудков Б.Н.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Ин.язык в сфере ГМУ 4/315
-DTSTART;TZID=Europe/Moscow:20260515T144000
-DTEND;TZID=Europe/Moscow:20260515T161000
-DTSTAMP:20260508T130434Z
-UID:20260515T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
- н.язык в сфере ГМУ\nАудитории: 4/315\nПрепод
- аватели: Казакова С.А.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  10.1 Научно-исследовательский пр
+ актикум ЭИОС
+DTSTART;TZID=Europe/Moscow:20260924T144000
+DTEND;TZID=Europe/Moscow:20260924T161000
+DTSTAMP:20260826T120627Z
+UID:20260924T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  10.1\nПредмет:
+  Научно-исследовательский практикум\nАу
+ дитории: ЭИОС\nПреподаватели: Гудков Б.Н.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Медико-биологическая защита 1/
- 417
-DTSTART;TZID=Europe/Moscow:20260516T090000
-DTEND;TZID=Europe/Moscow:20260516T103000
-DTSTAMP:20260508T130434Z
-UID:20260516T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: М
- едико-биологическая защита\nАудитории: 1/
- 417\nПреподаватели: Гасанов Ш.М.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Антикризисное управление ЭИО
+ С
+DTSTART;TZID=Europe/Moscow:20260924T162500
+DTEND;TZID=Europe/Moscow:20260924T175500
+DTSTAMP:20260826T120627Z
+UID:20260924T162500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: А
+ нтикризисное управление\nАудитории: ЭИО
+ С\nПреподаватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Медико-биологическая защита 1/
- 417
-DTSTART;TZID=Europe/Moscow:20260516T104500
-DTEND;TZID=Europe/Moscow:20260516T121500
-DTSTAMP:20260508T130434Z
-UID:20260516T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: М
- едико-биологическая защита\nАудитории: 1/
- 417\nПреподаватели: Гасанов Ш.М.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  2.2 Информационно-аналитические
+  технологии ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T090000
+DTEND;TZID=Europe/Moscow:20260925T103000
+DTSTAMP:20260826T120627Z
+UID:20260925T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Информационно-аналитические технологии
+  ГМУ\nАудитории: ЭИОС\nПреподаватели: Хар
+ ламова Е.В.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   НИП 1/404
-DTSTART;TZID=Europe/Moscow:20260516T123000
-DTEND;TZID=Europe/Moscow:20260516T140000
-DTSTAMP:20260508T130434Z
-UID:20260516T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- НИП\nАудитории: 1/404\nПреподаватели: Илчев 
- К.С.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  2.1 Теория и практика принятия у
+ правленческих решений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T104500
+DTEND;TZID=Europe/Moscow:20260925T121500
+DTSTAMP:20260826T120627Z
+UID:20260925T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитории: ЭИОС\nПреподавате
+ ли: Чумаченко А.П.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   НИП 1/404
-DTSTART;TZID=Europe/Moscow:20260516T144000
-DTEND;TZID=Europe/Moscow:20260516T161000
-DTSTAMP:20260508T130434Z
-UID:20260516T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- НИП\nАудитории: 1/404\nПреподаватели: Илчев 
- К.С.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  5.1 Ин.язык в сфере ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T123000
+DTEND;TZID=Europe/Moscow:20260925T140000
+DTSTAMP:20260826T120627Z
+UID:20260925T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  5.1\nПредмет: 
+ Ин.язык в сфере ГМУ\nАудитории: ЭИОС\nПреп
+ одаватели: Казакова С.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Управление в ЧС 4/407
-DTSTART;TZID=Europe/Moscow:20260518T090000
-DTEND;TZID=Europe/Moscow:20260518T103000
-DTSTAMP:20260508T130434Z
-UID:20260518T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
- правление в ЧС\nАудитории: 4/407\nПреподава
- тели: Кузьмин А.И.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(КР)  1.2 Устойчивость объектов эконом
+ ики и территорий ЭИОС
+DTSTART;TZID=Europe/Moscow:20260925T144000
+DTEND;TZID=Europe/Moscow:20260925T161000
+DTSTAMP:20260826T120627Z
+UID:20260925T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: КР\nТема:  1.2\nПредмет: 
+ Устойчивость объектов экономики и терри
+ торий\nАудитории: ЭИОС\nПреподаватели: Ру
+ денко К.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗсО)   Управление в ЧС 4/407
-DTSTART;TZID=Europe/Moscow:20260518T104500
-DTEND;TZID=Europe/Moscow:20260518T121500
-DTSTAMP:20260508T130434Z
-UID:20260518T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
- правление в ЧС\nАудитории: 4/407\nПреподава
- тели: Кузьмин А.И.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  8.1 Организация научных исследов
+ аний в проф.д-ти ЭИОС
+DTSTART;TZID=Europe/Moscow:20260926T090000
+DTEND;TZID=Europe/Moscow:20260926T103000
+DTSTAMP:20260826T120627Z
+UID:20260926T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  8.1\nПредмет: О
+ рганизация научных исследований в проф.
+ д-ти\nАудитории: ЭИОС\nПреподаватели: Дан
+ кова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Организация научных исследов
- аний в проф.д-ти 2/214
-DTSTART;TZID=Europe/Moscow:20260518T123000
-DTEND;TZID=Europe/Moscow:20260518T140000
-DTSTAMP:20260508T130434Z
-UID:20260518T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Организация научных исследований в проф
- .д-ти\nАудитории: 2/214\nПреподаватели: Завг
- ородний А.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Аналитика в органах гос.власт
+ и и МСУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260926T104500
+DTEND;TZID=Europe/Moscow:20260926T121500
+DTSTAMP:20260826T120627Z
+UID:20260926T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: А
+ налитика в органах гос.власти и МСУ\nАуди
+ тории: ЭИОС\nПреподаватели: Павленко А.В.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Организация научных исследов
- аний в проф.д-ти 2/214
-DTSTART;TZID=Europe/Moscow:20260518T144000
-DTEND;TZID=Europe/Moscow:20260518T161000
-DTSTAMP:20260508T130434Z
-UID:20260518T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Организация научных исследований в проф
- .д-ти\nАудитории: 2/214\nПреподаватели: Завг
- ородний А.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  1.1 Управление гос.-муниципальным
+ и программами и проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260926T123000
+DTEND;TZID=Europe/Moscow:20260926T140000
+DTSTAMP:20260826T120627Z
+UID:20260926T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: У
+ правление гос.-муниципальными программа
+ ми и проектами\nАудитории: ЭИОС\nПреподав
+ атели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Организация ИЗНТ 1/311
-DTSTART;TZID=Europe/Moscow:20260519T090000
-DTEND;TZID=Europe/Moscow:20260519T103000
-DTSTAMP:20260508T130434Z
-UID:20260519T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитории: 1/311\nПрепода
- ватели: Литвин А.Л.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  3.1 Стратегическое планирование
+  и прогнозирование ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T104500
+DTEND;TZID=Europe/Moscow:20260928T121500
+DTSTAMP:20260826T120627Z
+UID:20260928T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.1\nПредмет: 
+ Стратегическое планирование и прогнози
+ рование\nАудитории: ЭИОС\nПреподаватели: 
+ Чумаченко А.П.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Организация ИЗНТ 1/311
-DTSTART;TZID=Europe/Moscow:20260519T104500
-DTEND;TZID=Europe/Moscow:20260519T121500
-DTSTAMP:20260508T130434Z
-UID:20260519T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Организация ИЗНТ\nАудитории: 1/311\nПрепода
- ватели: Литвин А.Л.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(л.)  3.1 Теория и практика принятия уп
+ равленческих решений ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T123000
+DTEND;TZID=Europe/Moscow:20260928T140000
+DTSTAMP:20260826T120627Z
+UID:20260928T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Т
+ еория и практика принятия управленчески
+ х решений\nАудитории: ЭИОС\nПреподавател
+ и: Чумаченко А.П.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Управление в социальной сфер
- е 2/216
-DTSTART;TZID=Europe/Moscow:20260519T123000
-DTEND;TZID=Europe/Moscow:20260519T140000
-DTSTAMP:20260508T130434Z
-UID:20260519T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Управление в социальной сфере\nАудитори
- и: 2/216\nПреподаватели: Малека Ю.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  5.2 Ин.язык в сфере ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260928T144000
+DTEND;TZID=Europe/Moscow:20260928T161000
+DTSTAMP:20260826T120627Z
+UID:20260928T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  5.2\nПредмет: 
+ Ин.язык в сфере ГМУ\nАудитории: ЭИОС\nПреп
+ одаватели: Казакова С.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Зач.)   Управление в социальной сфер
- е 2/216
-DTSTART;TZID=Europe/Moscow:20260519T144000
-DTEND;TZID=Europe/Moscow:20260519T161000
-DTSTAMP:20260508T130434Z
-UID:20260519T144000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
- Управление в социальной сфере\nАудитори
- и: 2/216\nПреподаватели: Малека Ю.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  2.2 Антикризисное управление ЭИ
+ ОС
+DTSTART;TZID=Europe/Moscow:20260929T090000
+DTEND;TZID=Europe/Moscow:20260929T103000
+DTSTAMP:20260826T120627Z
+UID:20260929T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Антикризисное управление\nАудитории: ЭИ
+ ОС\nПреподаватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и механизмы современн
- ого ГМУ 2/214
-DTSTART;TZID=Europe/Moscow:20260520T090000
-DTEND;TZID=Europe/Moscow:20260520T103000
-DTSTAMP:20260508T130434Z
-UID:20260520T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и механизмы современного ГМУ\nАуд
- итории: 2/214\nПреподаватели: Гончаров С.В.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(См.)  3.1 Модернизация системы ГМУ ЭИО
+ С
+DTSTART;TZID=Europe/Moscow:20260929T104500
+DTEND;TZID=Europe/Moscow:20260929T121500
+DTSTAMP:20260826T120627Z
+UID:20260929T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: См.\nТема:  3.1\nПредмет: 
+ Модернизация системы ГМУ\nАудитории: ЭИО
+ С\nПреподаватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и механизмы современн
- ого ГМУ 2/214
-DTSTART;TZID=Europe/Moscow:20260520T104500
-DTEND;TZID=Europe/Moscow:20260520T121500
-DTSTAMP:20260508T130434Z
-UID:20260520T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и механизмы современного ГМУ\nАуд
- итории: 2/214\nПреподаватели: Гончаров С.В.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  4.1 Управление гос.-муниципальны
+ ми программами и проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20260929T123000
+DTEND;TZID=Europe/Moscow:20260929T140000
+DTSTAMP:20260826T120627Z
+UID:20260929T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  4.1\nПредмет: 
+ Управление гос.-муниципальными программ
+ ами и проектами\nАудитории: ЭИОС\nПрепода
+ ватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Теория и механизмы современн
- ого ГМУ 2/214
-DTSTART;TZID=Europe/Moscow:20260520T123000
-DTEND;TZID=Europe/Moscow:20260520T140000
-DTSTAMP:20260508T130434Z
-UID:20260520T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Теория и механизмы современного ГМУ\nАуд
- итории: 2/214\nПреподаватели: Гончаров С.В.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  2.2 Организация СФД ЭИОС
+DTSTART;TZID=Europe/Moscow:20260929T144000
+DTEND;TZID=Europe/Moscow:20260929T161000
+DTSTAMP:20260826T120627Z
+UID:20260929T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Организация СФД\nАудитории: ЭИОС\nПрепод
+ аватели: Хайбуллин И.Ф.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Экономика и управление в гос-
- муниципальном секторе 2/216
-DTSTART;TZID=Europe/Moscow:20260521T090000
-DTEND;TZID=Europe/Moscow:20260521T103000
-DTSTAMP:20260508T130434Z
-UID:20260521T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Экономика и управление в гос-муниципаль
- ном секторе\nАудитории: 2/216\nПреподавател
- и: Гудков Б.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  10.1 Организация научных исследо
+ ваний в проф.д-ти ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260826T120627Z
+UID:20260930T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  10.1\nПредмет:
+  Организация научных исследований в про
+ ф.д-ти\nАудитории: ЭИОС\nПреподаватели: Да
+ нкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Экономика и управление в гос-
- муниципальном секторе 2/216
-DTSTART;TZID=Europe/Moscow:20260521T104500
-DTEND;TZID=Europe/Moscow:20260521T121500
-DTSTAMP:20260508T130434Z
-UID:20260521T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Экономика и управление в гос-муниципаль
- ном секторе\nАудитории: 2/216\nПреподавател
- и: Гудков Б.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  3.2 Информационно-аналитические
+  технологии ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260826T120627Z
+UID:20260930T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.2\nПредмет: 
+ Информационно-аналитические технологии
+  ГМУ\nАудитории: ЭИОС\nПреподаватели: Хар
+ ламова Е.В.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Экономика и управление в гос-
- муниципальном секторе 2/216
-DTSTART;TZID=Europe/Moscow:20260521T123000
-DTEND;TZID=Europe/Moscow:20260521T140000
-DTSTAMP:20260508T130434Z
-UID:20260521T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Экономика и управление в гос-муниципаль
- ном секторе\nАудитории: 2/216\nПреподавател
- и: Гудков Б.Н.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  3.2 Планирование мероприятий РС
+ ЧС и ГО ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260826T120627Z
+UID:20260930T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.2\nПредмет: 
+ Планирование мероприятий РСЧС и ГО\nАуди
+ тории: ЭИОС\nПреподаватели: Поляков В.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Полит.процесс\, управление и р
- егулирование 2/214
-DTSTART;TZID=Europe/Moscow:20260522T090000
-DTEND;TZID=Europe/Moscow:20260522T103000
-DTSTAMP:20260508T130434Z
-UID:20260522T090000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Полит.процесс\, управление и регулирован
- ие\nАудитории: 2/214\nПреподаватели: Эркин А
- .Ф.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  1.3 Устойчивость объектов эконо
+ мики и территорий ЭИОС
+DTSTART;TZID=Europe/Moscow:20260930T144000
+DTEND;TZID=Europe/Moscow:20260930T161000
+DTSTAMP:20260826T120627Z
+UID:20260930T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  1.3\nПредмет: 
+ Устойчивость объектов экономики и терри
+ торий\nАудитории: ЭИОС\nПреподаватели: Ру
+ денко К.А.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Полит.процесс\, управление и р
- егулирование 2/214
-DTSTART;TZID=Europe/Moscow:20260522T104500
-DTEND;TZID=Europe/Moscow:20260522T121500
-DTSTAMP:20260508T130434Z
-UID:20260522T104500@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Полит.процесс\, управление и регулирован
- ие\nАудитории: 2/214\nПреподаватели: Эркин А
- .Ф.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  3.2 Антикризисное управление ЭИ
+ ОС
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260826T120627Z
+UID:20261001T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.2\nПредмет: 
+ Антикризисное управление\nАудитории: ЭИ
+ ОС\nПреподаватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Экз.)   Полит.процесс\, управление и р
- егулирование 2/214
-DTSTART;TZID=Europe/Moscow:20260522T123000
-DTEND;TZID=Europe/Moscow:20260522T140000
-DTSTAMP:20260508T130434Z
-UID:20260522T123000@20260508T160434@5252Б
-CREATED:20260508T130434Z
-DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
- Полит.процесс\, управление и регулирован
- ие\nАудитории: 2/214\nПреподаватели: Эркин А
- .Ф.
-LAST-MODIFIED:20260508T130434Z
+SUMMARY:(Пр.)  4.2 Информационно-аналитические
+  технологии ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T121500
+DTSTAMP:20260826T120627Z
+UID:20261001T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
+ Информационно-аналитические технологии
+  ГМУ\nАудитории: ЭИОС\nПреподаватели: Хар
+ ламова Е.В.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.2 Технологии профессиональног
+ о общения ЭИОС
+DTSTART;TZID=Europe/Moscow:20261001T123000
+DTEND;TZID=Europe/Moscow:20261001T140000
+DTSTAMP:20260826T120627Z
+UID:20261001T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Технологии профессионального общения\nА
+ удитории: ЭИОС\nПреподаватели: Сушанский
+  А.С.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.3 Организация СФД ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260826T120627Z
+UID:20261002T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
+ Организация СФД\nАудитории: ЭИОС\nПрепод
+ аватели: Хайбуллин И.Ф.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(См.)  2.1 Управление гос.-муниципальны
+ ми программами и проектами ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260826T120627Z
+UID:20261002T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: См.\nТема:  2.1\nПредмет: 
+ Управление гос.-муниципальными программ
+ ами и проектами\nАудитории: ЭИОС\nПрепода
+ ватели: Данкова Ж.Ю.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.1 Ин.язык в сфере ГМУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261002T123000
+DTEND;TZID=Europe/Moscow:20261002T140000
+DTSTAMP:20260826T120627Z
+UID:20261002T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.1\nПредмет: 
+ Ин.язык в сфере ГМУ\nАудитории: ЭИОС\nПреп
+ одаватели: Казакова С.А.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(См.)  2.2 Технологии кадрового менедж
+ мента ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T090000
+DTEND;TZID=Europe/Moscow:20261003T103000
+DTSTAMP:20260826T120627Z
+UID:20261003T090000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: См.\nТема:  2.2\nПредмет: 
+ Технологии кадрового менеджмента\nАудит
+ ории: ЭИОС\nПреподаватели: Сушанский А.С.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.2 Технологии кадрового менедж
+ мента ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T104500
+DTEND;TZID=Europe/Moscow:20261003T121500
+DTSTAMP:20260826T120627Z
+UID:20261003T104500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.2\nПредмет: 
+ Технологии кадрового менеджмента\nАудит
+ ории: ЭИОС\nПреподаватели: Сушанский А.С.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  6.1 Аналитика в органах гос.влас
+ ти и МСУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T123000
+DTEND;TZID=Europe/Moscow:20261003T140000
+DTSTAMP:20260826T120627Z
+UID:20261003T123000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  6.1\nПредмет: 
+ Аналитика в органах гос.власти и МСУ\nАуд
+ итории: ЭИОС\nПреподаватели: Павленко А.В
+ .
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.3 Теория и практика принятия у
+ правленческих решений ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T144000
+DTEND;TZID=Europe/Moscow:20261003T161000
+DTSTAMP:20260826T120627Z
+UID:20261003T144000@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.3\nПредмет: 
+ Теория и практика принятия управленческ
+ их решений\nАудитории: ЭИОС\nПреподавате
+ ли: Чумаченко А.П.
+LAST-MODIFIED:20260826T120627Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(См.)  5.1 Аналитика в органах гос.влас
+ ти и МСУ ЭИОС
+DTSTART;TZID=Europe/Moscow:20261003T162500
+DTEND;TZID=Europe/Moscow:20261003T175500
+DTSTAMP:20260826T120627Z
+UID:20261003T162500@20260826T150627@5252Б
+CREATED:20260826T120627Z
+DESCRIPTION:Тип занятия: См.\nТема:  5.1\nПредмет: 
+ Аналитика в органах гос.власти и МСУ\nАуд
+ итории: ЭИОС\nПреподаватели: Павленко А.В
+ .
+LAST-MODIFIED:20260826T120627Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
