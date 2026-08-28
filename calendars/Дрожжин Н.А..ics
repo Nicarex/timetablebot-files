@@ -19,713 +19,99 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260206T090000
-DTEND;TZID=Europe/Moscow:20260206T103000
-DTSTAMP:20260516T080103Z
-UID:20260206T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
+SUMMARY:(л.)  1.1 Информационные технологии в н
+ ауке и образовании АК/709 А621101 гр. А6326 гр. А
+ 6616 гр.
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T121500
+DTSTAMP:20260828T071446Z
+UID:20261001T104500@20260828T101446@Дрожжин Н.А.
+CREATED:20260828T071446Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: И
+ нформационные технологии в науке и обра
+ зовании\nАудитория: АК/709\nГруппы: А621101 А632
+ 6 А6616
+LAST-MODIFIED:20260828T071446Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260206T104500
-DTEND;TZID=Europe/Moscow:20260206T121500
-DTSTAMP:20260516T080103Z
-UID:20260206T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260206T123000
-DTEND;TZID=Europe/Moscow:20260206T140000
-DTSTAMP:20260516T080103Z
-UID:20260206T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  1.2 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260209T123000
-DTEND;TZID=Europe/Moscow:20260209T140000
-DTSTAMP:20260516T080103Z
-UID:20260209T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
+SUMMARY:(ЗСТ)  1.2 Информационные технологии в
+  науке и образовании АК/709 А621101 гр. А6326 гр.
+  А6616 гр.
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260828T071446Z
+UID:20261006T104500@20260828T101446@Дрожжин Н.А.
+CREATED:20260828T071446Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.2\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Информационные технологии в
-  науке и образовании 3/603 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260217T104500
-DTEND;TZID=Europe/Moscow:20260217T121500
-DTSTAMP:20260516T080103Z
-UID:20260217T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
   Информационные технологии в науке и обр
- азовании\nАудитория: 3/603\nГруппы: А5326 А5616
-LAST-MODIFIED:20260516T080103Z
+ азовании\nАудитория: АК/709\nГруппы: А621101 А6
+ 326 А6616
+LAST-MODIFIED:20260828T071446Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.1 Информационные технологии в
-  науке и образовании АК/709 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260219T104500
-DTEND;TZID=Europe/Moscow:20260219T121500
-DTSTAMP:20260516T080103Z
-UID:20260219T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.1\nПредмет:
+SUMMARY:(ЗСТ)  1.3 Информационные технологии в
+  науке и образовании АК/709 А621101 гр. А6326 гр.
+  А6616 гр.
+DTSTART;TZID=Europe/Moscow:20261013T104500
+DTEND;TZID=Europe/Moscow:20261013T121500
+DTSTAMP:20260828T071446Z
+UID:20261013T104500@20260828T101446@Дрожжин Н.А.
+CREATED:20260828T071446Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  1.3\nПредмет:
   Информационные технологии в науке и обр
- азовании\nАудитория: АК/709\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
+ азовании\nАудитория: АК/709\nГруппы: А621101 А6
+ 326 А6616
+LAST-MODIFIED:20260828T071446Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260219T162500
-DTEND;TZID=Europe/Moscow:20260219T175500
-DTSTAMP:20260516T080103Z
-UID:20260219T162500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
+SUMMARY:(ЗСТ)  2.1 Информационные технологии в
+  науке и образовании АК/709 А621101 гр. А6326 гр.
+  А6616 гр.
+DTSTART;TZID=Europe/Moscow:20261020T104500
+DTEND;TZID=Europe/Moscow:20261020T121500
+DTSTAMP:20260828T071446Z
+UID:20261020T104500@20260828T101446@Дрожжин Н.А.
+CREATED:20260828T071446Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.1\nПредмет:
+  Информационные технологии в науке и обр
+ азовании\nАудитория: АК/709\nГруппы: А621101 А6
+ 326 А6616
+LAST-MODIFIED:20260828T071446Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.2 Методы искусственного интелл
- екта 3/606 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260220T090000
-DTEND;TZID=Europe/Moscow:20260220T103000
-DTSTAMP:20260516T080103Z
-UID:20260220T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/606\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
+SUMMARY:(ЗСТ)  2.2 Информационные технологии в
+  науке и образовании АК/709 А621101 гр. А6326 гр.
+  А6616 гр.
+DTSTART;TZID=Europe/Moscow:20261027T104500
+DTEND;TZID=Europe/Moscow:20261027T121500
+DTSTAMP:20260828T071446Z
+UID:20261027T104500@20260828T101446@Дрожжин Н.А.
+CREATED:20260828T071446Z
+DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.2\nПредмет:
+  Информационные технологии в науке и обр
+ азовании\nАудитория: АК/709\nГруппы: А621101 А6
+ 326 А6616
+LAST-MODIFIED:20260828T071446Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260224T162500
-DTEND;TZID=Europe/Moscow:20260224T175500
-DTSTAMP:20260516T080103Z
-UID:20260224T162500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
+SUMMARY:(ЗСТ)  2.3 Информационные технологии в
+  науке и образовании АК/709 А621101 гр. А6326 гр.
+  А6616 гр.
+DTSTART;TZID=Europe/Moscow:20261103T104500
+DTEND;TZID=Europe/Moscow:20261103T121500
+DTSTAMP:20260828T071446Z
+UID:20261103T104500@20260828T101446@Дрожжин Н.А.
+CREATED:20260828T071446Z
 DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Информационные технологии в
-  науке и образовании АК/226 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260226T090000
-DTEND;TZID=Europe/Moscow:20260226T103000
-DTSTAMP:20260516T080103Z
-UID:20260226T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
   Информационные технологии в науке и обр
- азовании\nАудитория: АК/226\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  2.4 Методы искусственного интел
- лекта 3/606 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260226T104500
-DTEND;TZID=Europe/Moscow:20260226T121500
-DTSTAMP:20260516T080103Z
-UID:20260226T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  2.4\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/606\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.2 Информационные технологии в
-  науке и образовании 3/603 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260303T104500
-DTEND;TZID=Europe/Moscow:20260303T121500
-DTSTAMP:20260516T080103Z
-UID:20260303T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.2\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: 3/603\nГруппы: А5326 А5616
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Информационные технологии в
-  науке и образовании 3/607 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260305T104500
-DTEND;TZID=Europe/Moscow:20260305T121500
-DTSTAMP:20260516T080103Z
-UID:20260305T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: 3/607\nГруппы: А5326 А5616
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Методы искусственного интелл
- екта 3/611 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260311T104500
-DTEND;TZID=Europe/Moscow:20260311T121500
-DTSTAMP:20260516T080103Z
-UID:20260311T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/611\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.1 Информационные технологии в
-  науке и образовании АК/711 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260312T104500
-DTEND;TZID=Europe/Moscow:20260312T121500
-DTSTAMP:20260516T080103Z
-UID:20260312T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.1\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/711\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.2 Методы искусственного интелл
- екта 3/702 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260313T123000
-DTEND;TZID=Europe/Moscow:20260313T140000
-DTSTAMP:20260516T080103Z
-UID:20260313T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/702\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Информационные технологии в
-  науке и образовании 3/606 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260317T104500
-DTEND;TZID=Europe/Moscow:20260317T121500
-DTSTAMP:20260516T080103Z
-UID:20260317T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: 3/606\nГруппы: А5326 А5616
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260319T090000
-DTEND;TZID=Europe/Moscow:20260319T103000
-DTSTAMP:20260516T080103Z
-UID:20260319T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260319T104500
-DTEND;TZID=Europe/Moscow:20260319T121500
-DTSTAMP:20260516T080103Z
-UID:20260319T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260319T123000
-DTEND;TZID=Europe/Moscow:20260319T140000
-DTSTAMP:20260516T080103Z
-UID:20260319T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.2 Информационные технологии в
-  науке и образовании АК/711 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260324T104500
-DTEND;TZID=Europe/Moscow:20260324T121500
-DTSTAMP:20260516T080103Z
-UID:20260324T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.2\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/711\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  3.4 Методы искусственного интел
- лекта 3/606 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260324T123000
-DTEND;TZID=Europe/Moscow:20260324T140000
-DTSTAMP:20260516T080103Z
-UID:20260324T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  3.4\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/606\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Информационные технологии в
-  науке и образовании АК/709 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260326T104500
-DTEND;TZID=Europe/Moscow:20260326T121500
-DTSTAMP:20260516T080103Z
-UID:20260326T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/709\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Информационные технологии в
-  науке и образовании АК/711 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260331T104500
-DTEND;TZID=Europe/Moscow:20260331T121500
-DTSTAMP:20260516T080103Z
-UID:20260331T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/711\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Методы искусственного интелл
- екта 3/606 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260407T104500
-DTEND;TZID=Europe/Moscow:20260407T121500
-DTSTAMP:20260516T080103Z
-UID:20260407T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/606\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.2 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260408T162500
-DTEND;TZID=Europe/Moscow:20260408T175500
-DTSTAMP:20260516T080103Z
-UID:20260408T162500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260414T123000
-DTEND;TZID=Europe/Moscow:20260414T140000
-DTSTAMP:20260516T080103Z
-UID:20260414T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260421T104500
-DTEND;TZID=Europe/Moscow:20260421T121500
-DTSTAMP:20260516T080103Z
-UID:20260421T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.2 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260421T123000
-DTEND;TZID=Europe/Moscow:20260421T140000
-DTSTAMP:20260516T080103Z
-UID:20260421T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260422T090000
-DTEND;TZID=Europe/Moscow:20260422T103000
-DTSTAMP:20260516T080103Z
-UID:20260422T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  4.4 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260422T104500
-DTEND;TZID=Europe/Moscow:20260422T121500
-DTSTAMP:20260516T080103Z
-UID:20260422T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  4.4\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Информационные технологии в
-  науке и образовании АК/711 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260428T104500
-DTEND;TZID=Europe/Moscow:20260428T121500
-DTSTAMP:20260516T080103Z
-UID:20260428T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/711\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.1 Информационные технологии в
-  науке и образовании АК/709 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260505T104500
-DTEND;TZID=Europe/Moscow:20260505T121500
-DTSTAMP:20260516T080103Z
-UID:20260505T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.1\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/709\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.2 Информационные технологии в
-  науке и образовании АК/709 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260512T104500
-DTEND;TZID=Europe/Moscow:20260512T121500
-DTSTAMP:20260516T080103Z
-UID:20260512T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.2\nПредмет:
-  Информационные технологии в науке и обр
- азовании\nАудитория: АК/709\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.3 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260513T090000
-DTEND;TZID=Europe/Moscow:20260513T103000
-DTSTAMP:20260516T080103Z
-UID:20260513T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.3\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Методы искусственного интелл
- екта 3/611 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260518T090000
-DTEND;TZID=Europe/Moscow:20260518T103000
-DTSTAMP:20260516T080103Z
-UID:20260518T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/611\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Информационные технологии в 
- науке и образовании АК/709 А5326 гр. А5616 гр.
-DTSTART;TZID=Europe/Moscow:20260519T104500
-DTEND;TZID=Europe/Moscow:20260519T121500
-DTSTAMP:20260516T080103Z
-UID:20260519T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Информационные технологии в науке и обр
- азовании\nАудитория: АК/709\nГруппы: А5326 А561
- 6
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Методы искусственного интелл
- екта 3/611 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260521T123000
-DTEND;TZID=Europe/Moscow:20260521T140000
-DTSTAMP:20260516T080103Z
-UID:20260521T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/611\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.1 Методы искусственного интелл
- екта 3/611 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260521T162500
-DTEND;TZID=Europe/Moscow:20260521T175500
-DTSTAMP:20260516T080103Z
-UID:20260521T162500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.1\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/611\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260526T090000
-DTEND;TZID=Europe/Moscow:20260526T103000
-DTSTAMP:20260516T080103Z
-UID:20260526T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  7.2 Методы искусственного интелл
- екта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260526T104500
-DTEND;TZID=Europe/Moscow:20260526T121500
-DTSTAMP:20260516T080103Z
-UID:20260526T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: л.\nТема:  7.2\nПредмет: М
- етоды искусственного интеллекта\nАудито
- рия: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260528T162500
-DTEND;TZID=Europe/Moscow:20260528T175500
-DTSTAMP:20260516T080103Z
-UID:20260528T162500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260601T123000
-DTEND;TZID=Europe/Moscow:20260601T140000
-DTSTAMP:20260516T080103Z
-UID:20260601T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  5.4 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260603T090000
-DTEND;TZID=Europe/Moscow:20260603T103000
-DTSTAMP:20260516T080103Z
-UID:20260603T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  5.4\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  6.2 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260603T104500
-DTEND;TZID=Europe/Moscow:20260603T121500
-DTSTAMP:20260516T080103Z
-UID:20260603T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  6.2\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260603T123000
-DTEND;TZID=Europe/Moscow:20260603T140000
-DTSTAMP:20260516T080103Z
-UID:20260603T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260606T104500
-DTEND;TZID=Europe/Moscow:20260606T121500
-DTSTAMP:20260516T080103Z
-UID:20260606T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗСТ)  7.3 Методы искусственного интел
- лекта 3/601 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260606T123000
-DTEND;TZID=Europe/Moscow:20260606T140000
-DTSTAMP:20260516T080103Z
-UID:20260606T123000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗСТ\nТема:  7.3\nПредмет:
-  Методы искусственного интеллекта\nАуди
- тория: 3/601\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Методы искусственного интелл
- екта 3/606 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260623T090000
-DTEND;TZID=Europe/Moscow:20260623T103000
-DTSTAMP:20260516T080103Z
-UID:20260623T090000@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Методы искусственного интеллекта\nАудит
- ория: 3/606\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(ЗчО.)   Методы искусственного интелл
- екта 3/606 2233 гр.
-DTSTART;TZID=Europe/Moscow:20260623T104500
-DTEND;TZID=Europe/Moscow:20260623T121500
-DTSTAMP:20260516T080103Z
-UID:20260623T104500@20260516T110103@Дрожжин Н.А.
-CREATED:20260516T080103Z
-DESCRIPTION:Тип занятия: ЗчО.\nТема:  \nПредмет: 
- Методы искусственного интеллекта\nАудит
- ория: 3/606\nГруппы: 2233
-LAST-MODIFIED:20260516T080103Z
+ азовании\nАудитория: АК/709\nГруппы: А621101 А6
+ 326 А6616
+LAST-MODIFIED:20260828T071446Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
