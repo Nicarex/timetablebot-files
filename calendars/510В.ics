@@ -18,1393 +18,1104 @@ TZOFFSETTO:+0300
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Управление персоналом 1/211
-DTSTART;TZID=Europe/Moscow:20260202T090000
-DTEND;TZID=Europe/Moscow:20260202T103000
-DTSTAMP:20260320T141041Z
-UID:20260202T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: У
- правление персоналом\nАудитории: 1/211\nПре
+SUMMARY:(ЗсО)   Управление персоналом 1/216
+DTSTART;TZID=Europe/Moscow:20260928T090000
+DTEND;TZID=Europe/Moscow:20260928T103000
+DTSTAMP:20260911T124223Z
+UID:20260928T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
+ правление персоналом\nАудитории: 1/216\nПре
  подаватели: Гуськова Т.В.
-LAST-MODIFIED:20260320T141041Z
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 РХБЗ 1/320
-DTSTART;TZID=Europe/Moscow:20260202T104500
-DTEND;TZID=Europe/Moscow:20260202T121500
-DTSTAMP:20260320T141041Z
-UID:20260202T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Р
- ХБЗ\nАудитории: 1/320\nПреподаватели: Кольц
- ов Г.И.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Управление персоналом 1/216
+DTSTART;TZID=Europe/Moscow:20260928T104500
+DTEND;TZID=Europe/Moscow:20260928T121500
+DTSTAMP:20260911T124223Z
+UID:20260928T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: У
+ правление персоналом\nАудитории: 1/216\nПре
+ подаватели: Гуськова Т.В.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность тех.систем и техно
- генный риск АК/403
-DTSTART;TZID=Europe/Moscow:20260202T123000
-DTEND;TZID=Europe/Moscow:20260202T140000
-DTSTAMP:20260320T141041Z
-UID:20260202T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитории: АК/403\nПреподаватели: Добров А
- .В.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Зач.)   Физическая подготовка 1/216
+DTSTART;TZID=Europe/Moscow:20260928T123000
+DTEND;TZID=Europe/Moscow:20260928T140000
+DTSTAMP:20260911T124223Z
+UID:20260928T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
+ Физическая подготовка\nАудитории: 1/216\nПр
+ еподаватели: None
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Надежность тех.систем и техно
- генный риск АК/403
-DTSTART;TZID=Europe/Moscow:20260202T144000
-DTEND;TZID=Europe/Moscow:20260202T161000
-DTSTAMP:20260320T141041Z
-UID:20260202T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитории: АК/403\nПреподаватели: Добров А
- .В.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Зач.)   Физическая подготовка 1/216
+DTSTART;TZID=Europe/Moscow:20260928T144000
+DTEND;TZID=Europe/Moscow:20260928T161000
+DTSTAMP:20260911T124223Z
+UID:20260928T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
+ Физическая подготовка\nАудитории: 1/216\nПр
+ еподаватели: None
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Пожарно-техническая эксперти
- за 4/319
-DTSTART;TZID=Europe/Moscow:20260202T162500
-DTEND;TZID=Europe/Moscow:20260202T175500
-DTSTAMP:20260320T141041Z
-UID:20260202T162500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
- ожарно-техническая экспертиза\nАудитори
- и: 4/319\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Инф.-методическое обеспечение
-  надзорной деятельности в МЧС России 4/319
-DTSTART;TZID=Europe/Moscow:20260204T090000
-DTEND;TZID=Europe/Moscow:20260204T103000
-DTSTAMP:20260320T141041Z
-UID:20260204T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: И
- нф.-методическое обеспечение надзорной 
- деятельности в МЧС России\nАудитории: 4/319
- \nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  1.2 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/31
- 9
-DTSTART;TZID=Europe/Moscow:20260204T104500
-DTEND;TZID=Europe/Moscow:20260204T121500
-DTSTAMP:20260320T141041Z
-UID:20260204T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  1.2\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/31
- 9\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  8.1 Здания\, сооружения и их устой
- чивость при пожаре 4/306Ф
-DTSTART;TZID=Europe/Moscow:20260204T123000
-DTEND;TZID=Europe/Moscow:20260204T140000
-DTSTAMP:20260320T141041Z
-UID:20260204T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  8.1\nПредмет: З
- дания\, сооружения и их устойчивость при 
- пожаре\nАудитории: 4/306Ф\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Базовое шасси пожарных автомо
- билей и спас.техники 1/210
-DTSTART;TZID=Europe/Moscow:20260204T144000
-DTEND;TZID=Europe/Moscow:20260204T161000
-DTSTAMP:20260320T141041Z
-UID:20260204T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Б
- азовое шасси пожарных автомобилей и спа
- с.техники\nАудитории: 1/210\nПреподаватели: 
- Борисов А.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.5 ИЗНТ 1/311
-DTSTART;TZID=Europe/Moscow:20260205T090000
-DTEND;TZID=Europe/Moscow:20260205T103000
-DTSTAMP:20260320T141041Z
-UID:20260205T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.5\nПредмет: И
- ЗНТ\nАудитории: 1/311\nПреподаватели: Литви
- н А.Л.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Физ.подготовка 4/221
-DTSTART;TZID=Europe/Moscow:20260205T104500
-DTEND;TZID=Europe/Moscow:20260205T121500
-DTSTAMP:20260320T141041Z
-UID:20260205T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Ф
- из.подготовка\nАудитории: 4/221\nПреподават
- ели: Борцова А.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Пожарно-техническая эксперти
- за 4/320
-DTSTART;TZID=Europe/Moscow:20260205T123000
-DTEND;TZID=Europe/Moscow:20260205T140000
-DTSTAMP:20260320T141041Z
-UID:20260205T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
- ожарно-техническая экспертиза\nАудитори
- и: 4/320\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Психологическая устойчивость
-  в ЧС 3/309
-DTSTART;TZID=Europe/Moscow:20260205T144000
-DTEND;TZID=Europe/Moscow:20260205T161000
-DTSTAMP:20260320T141041Z
-UID:20260205T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
+SUMMARY:(ЗсО)   Психологическая устойчивость
+  в ЧС 1/216
+DTSTART;TZID=Europe/Moscow:20260929T090000
+DTEND;TZID=Europe/Moscow:20260929T103000
+DTSTAMP:20260911T124223Z
+UID:20260929T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: П
  сихологическая устойчивость в ЧС\nАудит
- ории: 3/309\nПреподаватели: Котова Е.В.
-LAST-MODIFIED:20260320T141041Z
+ ории: 1/216\nПреподаватели: Котова Е.В.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Государственный пожарный над
- зор 4/320
-DTSTART;TZID=Europe/Moscow:20260206T090000
-DTEND;TZID=Europe/Moscow:20260206T103000
-DTSTAMP:20260320T141041Z
-UID:20260206T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Г
- осударственный пожарный надзор\nАудитор
- ии: 4/320\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Психологическая устойчивость
+  в ЧС 1/216
+DTSTART;TZID=Europe/Moscow:20260929T104500
+DTEND;TZID=Europe/Moscow:20260929T121500
+DTSTAMP:20260911T124223Z
+UID:20260929T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: П
+ сихологическая устойчивость в ЧС\nАудит
+ ории: 1/216\nПреподаватели: Котова Е.В.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.2 Государственный пожарный над
- зор 4/320
-DTSTART;TZID=Europe/Moscow:20260206T104500
-DTEND;TZID=Europe/Moscow:20260206T121500
-DTSTAMP:20260320T141041Z
-UID:20260206T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Г
- осударственный пожарный надзор\nАудитор
- ии: 4/320\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Зач.)   Базовое шасси пожарных автом
+ обилей и спас.техники 1/216
+DTSTART;TZID=Europe/Moscow:20260929T123000
+DTEND;TZID=Europe/Moscow:20260929T140000
+DTSTAMP:20260911T124223Z
+UID:20260929T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
+ Базовое шасси пожарных автомобилей и сп
+ ас.техники\nАудитории: 1/216\nПреподаватели
+ : Михайлин О.Н.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  1.1 Гос.надзор в области ЗНиТ от Ч
- С 4/407
-DTSTART;TZID=Europe/Moscow:20260206T123000
-DTEND;TZID=Europe/Moscow:20260206T140000
-DTSTAMP:20260320T141041Z
-UID:20260206T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Г
- ос.надзор в области ЗНиТ от ЧС\nАудитории
- : 4/407\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Зач.)   Базовое шасси пожарных автом
+ обилей и спас.техники 1/216
+DTSTART;TZID=Europe/Moscow:20260929T144000
+DTEND;TZID=Europe/Moscow:20260929T161000
+DTSTAMP:20260911T124223Z
+UID:20260929T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Зач.\nТема:  \nПредмет: 
+ Базовое шасси пожарных автомобилей и сп
+ ас.техники\nАудитории: 1/216\nПреподаватели
+ : Михайлин О.Н.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Гос.надзор в области ЗНиТ от Ч
- С 4/407
-DTSTART;TZID=Europe/Moscow:20260206T144000
-DTEND;TZID=Europe/Moscow:20260206T161000
-DTSTAMP:20260320T141041Z
-UID:20260206T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Г
- ос.надзор в области ЗНиТ от ЧС\nАудитории
- : 4/407\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.1 Пожарная тактика 4/221
-DTSTART;TZID=Europe/Moscow:20260207T090000
-DTEND;TZID=Europe/Moscow:20260207T103000
-DTSTAMP:20260320T141041Z
-UID:20260207T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.1\nПредмет: 
- Пожарная тактика\nАудитории: 4/221\nПрепода
- ватели: Заусаев А.А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Пожарная безопасность в строи
- тельстве 4/306
-DTSTART;TZID=Europe/Moscow:20260207T104500
-DTEND;TZID=Europe/Moscow:20260207T121500
-DTSTAMP:20260320T141041Z
-UID:20260207T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
- ожарная безопасность в строительстве\nА
- удитории: 4/306\nПреподаватели: Будыкина Т.
- А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Пожарная безопасность технол.
- процессов 4/306
-DTSTART;TZID=Europe/Moscow:20260207T123000
-DTEND;TZID=Europe/Moscow:20260207T140000
-DTSTAMP:20260320T141041Z
-UID:20260207T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
- ожарная безопасность технол.процессов\n
- Аудитории: 4/306\nПреподаватели: Будыкина Т
- .А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Пожарная безопасность в стро
- ительстве 4/320
-DTSTART;TZID=Europe/Moscow:20260209T090000
-DTEND;TZID=Europe/Moscow:20260209T103000
-DTSTAMP:20260320T141041Z
-UID:20260209T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Пожарная безопасность в строительстве\n
- Аудитории: 4/320\nПреподаватели: Будыкина Т
- .А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Пожарная безопасность в стро
- ительстве 4/320
-DTSTART;TZID=Europe/Moscow:20260209T104500
-DTEND;TZID=Europe/Moscow:20260209T121500
-DTSTAMP:20260320T141041Z
-UID:20260209T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Пожарная безопасность в строительстве\n
- Аудитории: 4/320\nПреподаватели: Будыкина Т
- .А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(См.)  2.2 Гос.надзор в области ЗНиТ от 
- ЧС 4/407
-DTSTART;TZID=Europe/Moscow:20260209T123000
-DTEND;TZID=Europe/Moscow:20260209T140000
-DTSTAMP:20260320T141041Z
-UID:20260209T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: См.\nТема:  2.2\nПредмет: 
- Гос.надзор в области ЗНиТ от ЧС\nАудитори
- и: 4/407\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Гос.надзор в области ЗНиТ от Ч
- С 4/407
-DTSTART;TZID=Europe/Moscow:20260209T144000
-DTEND;TZID=Europe/Moscow:20260209T161000
-DTSTAMP:20260320T141041Z
-UID:20260209T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Г
- ос.надзор в области ЗНиТ от ЧС\nАудитории
- : 4/407\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  1.7 РХБЗ 1/320
-DTSTART;TZID=Europe/Moscow:20260210T090000
-DTEND;TZID=Europe/Moscow:20260210T103000
-DTSTAMP:20260320T141041Z
-UID:20260210T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  1.7\nПредмет: Р
- ХБЗ\nАудитории: 1/320\nПреподаватели: Кольц
- ов Г.И.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.4 ИЗНТ 1/310
-DTSTART;TZID=Europe/Moscow:20260210T104500
-DTEND;TZID=Europe/Moscow:20260210T121500
-DTSTAMP:20260320T141041Z
-UID:20260210T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
- ИЗНТ\nАудитории: 1/310\nПреподаватели: Литв
- ин А.Л.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.5 ИЗНТ 1/310
-DTSTART;TZID=Europe/Moscow:20260210T123000
-DTEND;TZID=Europe/Moscow:20260210T140000
-DTSTAMP:20260320T141041Z
-UID:20260210T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.5\nПредмет: И
+SUMMARY:(ЗсО)   ИЗНТ 1/310
+DTSTART;TZID=Europe/Moscow:20260930T090000
+DTEND;TZID=Europe/Moscow:20260930T103000
+DTSTAMP:20260911T124223Z
+UID:20260930T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
  ЗНТ\nАудитории: 1/310\nПреподаватели: Литви
  н А.Л.
-LAST-MODIFIED:20260320T141041Z
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(См.)  1.4 Государственный пожарный на
- дзор 4/320
-DTSTART;TZID=Europe/Moscow:20260210T144000
-DTEND;TZID=Europe/Moscow:20260210T161000
-DTSTAMP:20260320T141041Z
-UID:20260210T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: См.\nТема:  1.4\nПредмет: 
- Государственный пожарный надзор\nАудито
- рии: 4/320\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   ИЗНТ 1/310
+DTSTART;TZID=Europe/Moscow:20260930T104500
+DTEND;TZID=Europe/Moscow:20260930T121500
+DTSTAMP:20260911T124223Z
+UID:20260930T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: И
+ ЗНТ\nАудитории: 1/310\nПреподаватели: Литви
+ н А.Л.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л/б)  4.2 Пожарная безопасность техно
- л.процессов 4/306 4/306Ф
-DTSTART;TZID=Europe/Moscow:20260211T090000
-DTEND;TZID=Europe/Moscow:20260211T103000
-DTSTAMP:20260320T141041Z
-UID:20260211T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л/б\nТема:  4.2\nПредмет: 
- Пожарная безопасность технол.процессов\
- nАудитории: 4/306 4/306Ф\nПреподаватели: Будык
- ина Т.А. Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   РХБЗ 1/320
+DTSTART;TZID=Europe/Moscow:20260930T123000
+DTEND;TZID=Europe/Moscow:20260930T140000
+DTSTAMP:20260911T124223Z
+UID:20260930T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Р
+ ХБЗ\nАудитории: 1/320\nПреподаватели: Кольц
+ ов Г.И.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л/б)  4.2 Пожарная безопасность техно
- л.процессов 4/306 4/306Ф
-DTSTART;TZID=Europe/Moscow:20260211T104500
-DTEND;TZID=Europe/Moscow:20260211T121500
-DTSTAMP:20260320T141041Z
-UID:20260211T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л/б\nТема:  4.2\nПредмет: 
- Пожарная безопасность технол.процессов\
- nАудитории: 4/306 4/306Ф\nПреподаватели: Будык
- ина Т.А. Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   РХБЗ 1/320
+DTSTART;TZID=Europe/Moscow:20260930T144000
+DTEND;TZID=Europe/Moscow:20260930T161000
+DTSTAMP:20260911T124223Z
+UID:20260930T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Р
+ ХБЗ\nАудитории: 1/320\nПреподаватели: Кольц
+ ов Г.И.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л/б)  4.2 Пожарная безопасность техно
- л.процессов 4/306 4/306Ф
-DTSTART;TZID=Europe/Moscow:20260211T123000
-DTEND;TZID=Europe/Moscow:20260211T140000
-DTSTAMP:20260320T141041Z
-UID:20260211T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л/б\nТема:  4.2\nПредмет: 
- Пожарная безопасность технол.процессов\
- nАудитории: 4/306 4/306Ф\nПреподаватели: Будык
- ина Т.А. Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.4 РХБЗ 1/320
-DTSTART;TZID=Europe/Moscow:20260211T144000
-DTEND;TZID=Europe/Moscow:20260211T161000
-DTSTAMP:20260320T141041Z
-UID:20260211T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.4\nПредмет: 
- РХБЗ\nАудитории: 1/320\nПреподаватели: Коль
- цов Г.И.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.2 Пожарно-техническая эксперт
- иза 4/306
-DTSTART;TZID=Europe/Moscow:20260212T090000
-DTEND;TZID=Europe/Moscow:20260212T103000
-DTSTAMP:20260320T141041Z
-UID:20260212T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.2\nПредмет: 
- Пожарно-техническая экспертиза\nАудитор
- ии: 4/306\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Инф.-методическое обеспечение
-  надзорной деятельности в МЧС России 4/306
-DTSTART;TZID=Europe/Moscow:20260212T104500
-DTEND;TZID=Europe/Moscow:20260212T121500
-DTSTAMP:20260320T141041Z
-UID:20260212T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: И
- нф.-методическое обеспечение надзорной 
- деятельности в МЧС России\nАудитории: 4/306
- \nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.1 Пожарная тактика 4/221
-DTSTART;TZID=Europe/Moscow:20260212T123000
-DTEND;TZID=Europe/Moscow:20260212T140000
-DTSTAMP:20260320T141041Z
-UID:20260212T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
- ожарная тактика\nАудитории: 4/221\nПреподав
- атели: Бобарико А.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Психологическая устойчивость
-  в ЧС 3/308
-DTSTART;TZID=Europe/Moscow:20260212T144000
-DTEND;TZID=Europe/Moscow:20260212T161000
-DTSTAMP:20260320T141041Z
-UID:20260212T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
- сихологическая устойчивость в ЧС\nАудит
- ории: 3/308\nПреподаватели: Котова Е.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 Пожарно-техническая эксперт
- иза 4/320
-DTSTART;TZID=Europe/Moscow:20260213T090000
-DTEND;TZID=Europe/Moscow:20260213T103000
-DTSTAMP:20260320T141041Z
-UID:20260213T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- Пожарно-техническая экспертиза\nАудитор
- ии: 4/320\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.2 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260213T104500
-DTEND;TZID=Europe/Moscow:20260213T121500
-DTSTAMP:20260320T141041Z
-UID:20260213T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.2 Государственный пожарный на
- дзор 4/320
-DTSTART;TZID=Europe/Moscow:20260213T123000
-DTEND;TZID=Europe/Moscow:20260213T140000
-DTSTAMP:20260320T141041Z
-UID:20260213T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
- Государственный пожарный надзор\nАудито
- рии: 4/320\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.2 Государственный пожарный на
- дзор 4/320
-DTSTART;TZID=Europe/Moscow:20260213T144000
-DTEND;TZID=Europe/Moscow:20260213T161000
-DTSTAMP:20260320T141041Z
-UID:20260213T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
- Государственный пожарный надзор\nАудито
- рии: 4/320\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.2 РХБЗ 1/320
-DTSTART;TZID=Europe/Moscow:20260216T090000
-DTEND;TZID=Europe/Moscow:20260216T103000
-DTSTAMP:20260320T141041Z
-UID:20260216T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.2\nПредмет: 
- РХБЗ\nАудитории: 1/320\nПреподаватели: Коль
- цов Г.И.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(См.)  3.2 Гос.надзор в области ЗНиТ от 
- ЧС 4/407
-DTSTART;TZID=Europe/Moscow:20260216T104500
-DTEND;TZID=Europe/Moscow:20260216T121500
-DTSTAMP:20260320T141041Z
-UID:20260216T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: См.\nТема:  3.2\nПредмет: 
- Гос.надзор в области ЗНиТ от ЧС\nАудитори
- и: 4/407\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.3 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260216T123000
-DTEND;TZID=Europe/Moscow:20260216T140000
-DTSTAMP:20260320T141041Z
-UID:20260216T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.3 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260216T144000
-DTEND;TZID=Europe/Moscow:20260216T161000
-DTSTAMP:20260320T141041Z
-UID:20260216T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.1 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260217T090000
-DTEND;TZID=Europe/Moscow:20260217T103000
-DTSTAMP:20260320T141041Z
-UID:20260217T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.1\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  4.2 Пожарная тактика 4/217
-DTSTART;TZID=Europe/Moscow:20260217T104500
-DTEND;TZID=Europe/Moscow:20260217T121500
-DTSTAMP:20260320T141041Z
-UID:20260217T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: П
- ожарная тактика\nАудитории: 4/217\nПреподав
- атели: Бобарико А.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Надежность тех.систем и техно
- генный риск АК/416
-DTSTART;TZID=Europe/Moscow:20260217T123000
-DTEND;TZID=Europe/Moscow:20260217T140000
-DTSTAMP:20260320T141041Z
-UID:20260217T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитории: АК/416\nПреподаватели: Добров А
- .В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  1.6 Надежность тех.систем и техн
- огенный риск АК/416
-DTSTART;TZID=Europe/Moscow:20260217T144000
-DTEND;TZID=Europe/Moscow:20260217T161000
-DTSTAMP:20260320T141041Z
-UID:20260217T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  1.6\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитории: АК/416\nПреподаватели: Шапова
- лова Г.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  1.17 Базовое шасси пожарных авто
- мобилей и спас.техники 1/210
-DTSTART;TZID=Europe/Moscow:20260218T090000
-DTEND;TZID=Europe/Moscow:20260218T103000
-DTSTAMP:20260320T141041Z
-UID:20260218T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  1.17\nПредмет:
-  Базовое шасси пожарных автомобилей и сп
- ас.техники\nАудитории: 1/210\nПреподаватели
- : Михайлин О.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Государственный пожарный над
- зор 4/205
-DTSTART;TZID=Europe/Moscow:20260218T104500
-DTEND;TZID=Europe/Moscow:20260218T121500
-DTSTAMP:20260320T141041Z
-UID:20260218T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Г
+SUMMARY:(ЗсО)   Государственный пожарный над
+ зор 4/319
+DTSTART;TZID=Europe/Moscow:20261001T090000
+DTEND;TZID=Europe/Moscow:20261001T103000
+DTSTAMP:20260911T124223Z
+UID:20261001T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
  осударственный пожарный надзор\nАудитор
- ии: 4/205\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
+ ии: 4/319\nПреподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Пожарно-техническая эксперти
- за 4/306
-DTSTART;TZID=Europe/Moscow:20260218T123000
-DTEND;TZID=Europe/Moscow:20260218T140000
-DTSTAMP:20260320T141041Z
-UID:20260218T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: П
- ожарно-техническая экспертиза\nАудитори
- и: 4/306\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Государственный пожарный над
+ зор 4/319
+DTSTART;TZID=Europe/Moscow:20261001T104500
+DTEND;TZID=Europe/Moscow:20261001T121500
+DTSTAMP:20260911T124223Z
+UID:20261001T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
+ осударственный пожарный надзор\nАудитор
+ ии: 4/319\nПреподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Пожарная безопасность в строи
- тельстве 4/320
-DTSTART;TZID=Europe/Moscow:20260219T090000
-DTEND;TZID=Europe/Moscow:20260219T103000
-DTSTAMP:20260320T141041Z
-UID:20260219T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: П
- ожарная безопасность в строительстве\nА
- удитории: 4/320\nПреподаватели: Будыкина Т.
- А.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   ПП\, по получению проф.умений и
+  опыта проф.деятельности 4/306
+DTSTART;TZID=Europe/Moscow:20261001T123000
+DTEND;TZID=Europe/Moscow:20261001T140000
+DTSTAMP:20260911T124223Z
+UID:20261001T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: П
+ П\, по получению проф.умений и опыта проф.
+ деятельности\nАудитории: 4/306\nПреподават
+ ели: Аносова Е.Б.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  3.8 РХБЗ 1/321
-DTSTART;TZID=Europe/Moscow:20260219T104500
-DTEND;TZID=Europe/Moscow:20260219T121500
-DTSTAMP:20260320T141041Z
-UID:20260219T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.8\nПредмет: 
- РХБЗ\nАудитории: 1/321\nПреподаватели: Коль
- цов Г.И.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   ПП\, по получению проф.умений и
+  опыта проф.деятельности 4/306
+DTSTART;TZID=Europe/Moscow:20261001T144000
+DTEND;TZID=Europe/Moscow:20261001T161000
+DTSTAMP:20260911T124223Z
+UID:20261001T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: П
+ П\, по получению проф.умений и опыта проф.
+ деятельности\nАудитории: 4/306\nПреподават
+ ели: Аносова Е.Б.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  3.4 ИЗНТ 1/311
-DTSTART;TZID=Europe/Moscow:20260219T123000
-DTEND;TZID=Europe/Moscow:20260219T140000
-DTSTAMP:20260320T141041Z
-UID:20260219T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.4\nПредмет: 
- ИЗНТ\nАудитории: 1/311\nПреподаватели: Литв
- ин А.Л.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Надежность технических систе
+ м и техногенный риск АК/401
+DTSTART;TZID=Europe/Moscow:20261002T090000
+DTEND;TZID=Europe/Moscow:20261002T103000
+DTSTAMP:20260911T124223Z
+UID:20261002T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Н
+ адежность технических систем и техноген
+ ный риск\nАудитории: АК/401\nПреподаватели:
+  Шаповалова Г.Н.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  3.4 ИЗНТ 1/311
-DTSTART;TZID=Europe/Moscow:20260219T144000
-DTEND;TZID=Europe/Moscow:20260219T161000
-DTSTAMP:20260320T141041Z
-UID:20260219T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.4\nПредмет: 
- ИЗНТ\nАудитории: 1/311\nПреподаватели: Литв
- ин А.Л.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Надежность технических систе
+ м и техногенный риск АК/401
+DTSTART;TZID=Europe/Moscow:20261002T104500
+DTEND;TZID=Europe/Moscow:20261002T121500
+DTSTAMP:20260911T124223Z
+UID:20261002T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Н
+ адежность технических систем и техноген
+ ный риск\nАудитории: АК/401\nПреподаватели:
+  Шаповалова Г.Н.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  4.3 Пожарная безопасность техно
- л.процессов Выезд
-DTSTART;TZID=Europe/Moscow:20260220T090000
-DTEND;TZID=Europe/Moscow:20260220T103000
-DTSTAMP:20260320T141041Z
-UID:20260220T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.3\nПредмет: 
- Пожарная безопасность технол.процессов\
- nАудитории: Выезд\nПреподаватели: Будыки
- на Т.А.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Гос.надзор в области ЗНТ от ЧС 
+ 4/419
+DTSTART;TZID=Europe/Moscow:20261002T123000
+DTEND;TZID=Europe/Moscow:20261002T140000
+DTSTAMP:20260911T124223Z
+UID:20261002T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
+ ос.надзор в области ЗНТ от ЧС\nАудитории: 
+ 4/419\nПреподаватели: Коваль Г.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  4.3 Пожарная безопасность техно
- л.процессов Выезд
-DTSTART;TZID=Europe/Moscow:20260220T104500
-DTEND;TZID=Europe/Moscow:20260220T121500
-DTSTAMP:20260320T141041Z
-UID:20260220T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.3\nПредмет: 
- Пожарная безопасность технол.процессов\
- nАудитории: Выезд\nПреподаватели: Будыки
- на Т.А.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(ЗсО)   Гос.надзор в области ЗНТ от ЧС 
+ 4/419
+DTSTART;TZID=Europe/Moscow:20261002T144000
+DTEND;TZID=Europe/Moscow:20261002T161000
+DTSTAMP:20260911T124223Z
+UID:20261002T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: ЗсО\nТема:  \nПредмет: Г
+ ос.надзор в области ЗНТ от ЧС\nАудитории: 
+ 4/419\nПреподаватели: Коваль Г.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  4.3 Пожарная безопасность техно
- л.процессов Выезд
-DTSTART;TZID=Europe/Moscow:20260220T123000
-DTEND;TZID=Europe/Moscow:20260220T140000
-DTSTAMP:20260320T141041Z
-UID:20260220T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.3\nПредмет: 
- Пожарная безопасность технол.процессов\
- nАудитории: Выезд\nПреподаватели: Будыки
- на Т.А.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная безопасность технол
+ огических процессов 3/510
+DTSTART;TZID=Europe/Moscow:20261005T090000
+DTEND;TZID=Europe/Moscow:20261005T103000
+DTSTAMP:20260911T124223Z
+UID:20261005T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная безопасность технологических 
+ процессов\nАудитории: 3/510\nПреподаватели:
+  Будыкина Т.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  2.2 Надежность тех.систем и техн
- огенный риск АК/403
-DTSTART;TZID=Europe/Moscow:20260224T090000
-DTEND;TZID=Europe/Moscow:20260224T103000
-DTSTAMP:20260320T141041Z
-UID:20260224T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитории: АК/403\nПреподаватели: Шапова
- лова Г.Н.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная безопасность технол
+ огических процессов 4/319
+DTSTART;TZID=Europe/Moscow:20261005T104500
+DTEND;TZID=Europe/Moscow:20261005T121500
+DTSTAMP:20260911T124223Z
+UID:20261005T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная безопасность технологических 
+ процессов\nАудитории: 4/319\nПреподаватели:
+  Будыкина Т.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  2.3 Надежность тех.систем и техно
- генный риск АК/403
-DTSTART;TZID=Europe/Moscow:20260224T104500
-DTEND;TZID=Europe/Moscow:20260224T121500
-DTSTAMP:20260320T141041Z
-UID:20260224T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.3\nПредмет: Н
- адежность тех.систем и техногенный риск\
- nАудитории: АК/403\nПреподаватели: Добров А
- .В.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная безопасность технол
+ огических процессов 4/306
+DTSTART;TZID=Europe/Moscow:20261005T123000
+DTEND;TZID=Europe/Moscow:20261005T140000
+DTSTAMP:20260911T124223Z
+UID:20261005T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная безопасность технологических 
+ процессов\nАудитории: 4/306\nПреподаватели:
+  Будыкина Т.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Гос.надзор в области ЗНиТ от Ч
- С 4/407
-DTSTART;TZID=Europe/Moscow:20260224T123000
-DTEND;TZID=Europe/Moscow:20260224T140000
-DTSTAMP:20260320T141041Z
-UID:20260224T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: Г
- ос.надзор в области ЗНиТ от ЧС\nАудитории
- : 4/407\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Информационно-методическое о
+ беспечение надзорной деятельности в МЧС
+  России 4/306
+DTSTART;TZID=Europe/Moscow:20261006T090000
+DTEND;TZID=Europe/Moscow:20261006T103000
+DTSTAMP:20260911T124223Z
+UID:20261006T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Информационно-методическое обеспечение
+  надзорной деятельности в МЧС России\nАу
+ дитории: 4/306\nПреподаватели: Ляшенко С.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(См.)  2.2 Психологическая устойчивост
- ь в ЧС 3/309
-DTSTART;TZID=Europe/Moscow:20260224T144000
-DTEND;TZID=Europe/Moscow:20260224T161000
-DTSTAMP:20260320T141041Z
-UID:20260224T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: См.\nТема:  2.2\nПредмет: 
- Психологическая устойчивость в ЧС\nАуди
- тории: 3/309\nПреподаватели: Котова Е.В.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Информационно-методическое о
+ беспечение надзорной деятельности в МЧС
+  России 4/320
+DTSTART;TZID=Europe/Moscow:20261006T104500
+DTEND;TZID=Europe/Moscow:20261006T121500
+DTSTAMP:20260911T124223Z
+UID:20261006T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Информационно-методическое обеспечение
+  надзорной деятельности в МЧС России\nАу
+ дитории: 4/320\nПреподаватели: Ляшенко С.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  10.1 Здания\, сооружения и их устой
- чивость при пожаре 4/306
-DTSTART;TZID=Europe/Moscow:20260225T090000
-DTEND;TZID=Europe/Moscow:20260225T103000
-DTSTAMP:20260320T141041Z
-UID:20260225T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  10.1\nПредмет: 
- Здания\, сооружения и их устойчивость пр
- и пожаре\nАудитории: 4/306\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Информационно-методическое о
+ беспечение надзорной деятельности в МЧС
+  России 4/320
+DTSTART;TZID=Europe/Moscow:20261006T123000
+DTEND;TZID=Europe/Moscow:20261006T140000
+DTSTAMP:20260911T124223Z
+UID:20261006T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Информационно-методическое обеспечение
+  надзорной деятельности в МЧС России\nАу
+ дитории: 4/320\nПреподаватели: Ляшенко С.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  10.1 Здания\, сооружения и их устой
- чивость при пожаре 4/306
-DTSTART;TZID=Europe/Moscow:20260225T104500
-DTEND;TZID=Europe/Moscow:20260225T121500
-DTSTAMP:20260320T141041Z
-UID:20260225T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  10.1\nПредмет: 
- Здания\, сооружения и их устойчивость пр
- и пожаре\nАудитории: 4/306\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.2 Управление персоналом 1/109
-DTSTART;TZID=Europe/Moscow:20260225T123000
-DTEND;TZID=Europe/Moscow:20260225T140000
-DTSTAMP:20260320T141041Z
-UID:20260225T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
- Управление персоналом\nАудитории: 1/109\nПр
- еподаватели: Гуськова Т.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  2.1 Базовое шасси пожарных автомо
- билей и спас.техники 1/220
-DTSTART;TZID=Europe/Moscow:20260225T144000
-DTEND;TZID=Europe/Moscow:20260225T161000
-DTSTAMP:20260320T141041Z
-UID:20260225T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Б
- азовое шасси пожарных автомобилей и спа
- с.техники\nАудитории: 1/220\nПреподаватели: 
- Борисов А.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Конс.)   Здания\, сооружения и их усто
- йчивость при пожаре 4/319
-DTSTART;TZID=Europe/Moscow:20260225T162500
-DTEND;TZID=Europe/Moscow:20260225T175500
-DTSTAMP:20260320T141041Z
-UID:20260225T162500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Здания\, сооружения и их устойчивость пр
- и пожаре\nАудитории: 4/319\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260226T090000
-DTEND;TZID=Europe/Moscow:20260226T103000
-DTSTAMP:20260320T141041Z
-UID:20260226T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260226T104500
-DTEND;TZID=Europe/Moscow:20260226T121500
-DTSTAMP:20260320T141041Z
-UID:20260226T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Инф.-методическое обеспечени
- е надзорной деятельности в МЧС России 4/32
- 0
-DTSTART;TZID=Europe/Moscow:20260226T123000
-DTEND;TZID=Europe/Moscow:20260226T140000
-DTSTAMP:20260320T141041Z
-UID:20260226T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Инф.-методическое обеспечение надзорной
-  деятельности в МЧС России\nАудитории: 4/32
- 0\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Пожарная безопасность технол.
- процессов 4/320
-DTSTART;TZID=Europe/Moscow:20260226T144000
-DTEND;TZID=Europe/Moscow:20260226T161000
-DTSTAMP:20260320T141041Z
-UID:20260226T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: П
- ожарная безопасность технол.процессов\n
- Аудитории: 4/320\nПреподаватели: Будыкина Т
- .А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.4 Пожарная тактика 1/111
-DTSTART;TZID=Europe/Moscow:20260227T090000
-DTEND;TZID=Europe/Moscow:20260227T103000
-DTSTAMP:20260320T141041Z
-UID:20260227T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.4\nПредмет: 
- Пожарная тактика\nАудитории: 1/111\nПрепода
- ватели: Заусаев А.А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.4 Пожарная тактика 4/218
-DTSTART;TZID=Europe/Moscow:20260227T104500
-DTEND;TZID=Europe/Moscow:20260227T121500
-DTSTAMP:20260320T141041Z
-UID:20260227T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.4\nПредмет: 
+SUMMARY:(Экз.)   Пожарная тактика 4/218
+DTSTART;TZID=Europe/Moscow:20261007T090000
+DTEND;TZID=Europe/Moscow:20261007T103000
+DTSTAMP:20260911T124223Z
+UID:20261007T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
  Пожарная тактика\nАудитории: 4/218\nПрепода
- ватели: Заусаев А.А.
-LAST-MODIFIED:20260320T141041Z
+ ватели: Москалев Д.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Пожарно-техническая эксперт
- иза 4/320Ф
-DTSTART;TZID=Europe/Moscow:20260227T123000
-DTEND;TZID=Europe/Moscow:20260227T140000
-DTSTAMP:20260320T141041Z
-UID:20260227T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Пожарно-техническая экспертиза\nАудитор
- ии: 4/320Ф\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная тактика 4/218
+DTSTART;TZID=Europe/Moscow:20261007T104500
+DTEND;TZID=Europe/Moscow:20261007T121500
+DTSTAMP:20260911T124223Z
+UID:20261007T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная тактика\nАудитории: 4/218\nПрепода
+ ватели: Москалев Д.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(л.)  5.2 Пожарная безопасность технол.
- процессов 4/320
-DTSTART;TZID=Europe/Moscow:20260227T144000
-DTEND;TZID=Europe/Moscow:20260227T161000
-DTSTAMP:20260320T141041Z
-UID:20260227T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.2\nПредмет: П
- ожарная безопасность технол.процессов\n
- Аудитории: 4/320\nПреподаватели: Будыкина Т
- .А.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная тактика 4/218
+DTSTART;TZID=Europe/Moscow:20261007T123000
+DTEND;TZID=Europe/Moscow:20261007T140000
+DTSTAMP:20260911T124223Z
+UID:20261007T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная тактика\nАудитории: 4/218\nПрепода
+ ватели: Москалев Д.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  10.2 Здания\, сооружения и их усто
- йчивость при пожаре 4/320
-DTSTART;TZID=Europe/Moscow:20260228T090000
-DTEND;TZID=Europe/Moscow:20260228T103000
-DTSTAMP:20260320T141041Z
-UID:20260228T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  10.2\nПредмет:
-  Здания\, сооружения и их устойчивость пр
- и пожаре\nАудитории: 4/320\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  10.2 Здания\, сооружения и их усто
- йчивость при пожаре 4/320
-DTSTART;TZID=Europe/Moscow:20260228T104500
-DTEND;TZID=Europe/Moscow:20260228T121500
-DTSTAMP:20260320T141041Z
-UID:20260228T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  10.2\nПредмет:
-  Здания\, сооружения и их устойчивость пр
- и пожаре\nАудитории: 4/320\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  10.2 Здания\, сооружения и их усто
- йчивость при пожаре 4/320
-DTSTART;TZID=Europe/Moscow:20260228T123000
-DTEND;TZID=Europe/Moscow:20260228T140000
-DTSTAMP:20260320T141041Z
-UID:20260228T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  10.2\nПредмет:
-  Здания\, сооружения и их устойчивость пр
- и пожаре\nАудитории: 4/320\nПреподаватели: А
- носова Е.Б.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.1 Надежность тех.систем и техн
- огенный риск АК/416
-DTSTART;TZID=Europe/Moscow:20260302T090000
-DTEND;TZID=Europe/Moscow:20260302T103000
-DTSTAMP:20260320T141041Z
-UID:20260302T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.1\nПредмет: 
- Надежность тех.систем и техногенный рис
- к\nАудитории: АК/416\nПреподаватели: Шапова
- лова Г.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  5.1 Управление персоналом 3/308
-DTSTART;TZID=Europe/Moscow:20260302T104500
-DTEND;TZID=Europe/Moscow:20260302T121500
-DTSTAMP:20260320T141041Z
-UID:20260302T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  5.1\nПредмет: У
- правление персоналом\nАудитории: 3/308\nПре
- подаватели: Гуськова Т.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  6.1 Гос.надзор в области ЗНиТ от Ч
- С 3/308
-DTSTART;TZID=Europe/Moscow:20260302T123000
-DTEND;TZID=Europe/Moscow:20260302T140000
-DTSTAMP:20260320T141041Z
-UID:20260302T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  6.1\nПредмет: Г
- ос.надзор в области ЗНиТ от ЧС\nАудитории
- : 3/308\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.3 Психологическая устойчивост
- ь в ЧС 3/308
-DTSTART;TZID=Europe/Moscow:20260302T144000
-DTEND;TZID=Europe/Moscow:20260302T161000
-DTSTAMP:20260320T141041Z
-UID:20260302T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.3\nПредмет: 
- Психологическая устойчивость в ЧС\nАуди
- тории: 3/308\nПреподаватели: Котова Е.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  7.2 Пожарная безопасность в стро
- ительстве 4/306
-DTSTART;TZID=Europe/Moscow:20260303T090000
-DTEND;TZID=Europe/Moscow:20260303T103000
-DTSTAMP:20260320T141041Z
-UID:20260303T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  7.2\nПредмет: 
+SUMMARY:(Экз.)   Пожарная безопасность в стро
+ ительстве 4/319
+DTSTART;TZID=Europe/Moscow:20261008T090000
+DTEND;TZID=Europe/Moscow:20261008T103000
+DTSTAMP:20260911T124223Z
+UID:20261008T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
  Пожарная безопасность в строительстве\n
- Аудитории: 4/306\nПреподаватели: Будыкина Т
- .А.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  4.2 ИЗНТ 1/311
-DTSTART;TZID=Europe/Moscow:20260303T104500
-DTEND;TZID=Europe/Moscow:20260303T121500
-DTSTAMP:20260320T141041Z
-UID:20260303T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
- ИЗНТ\nАудитории: 1/311\nПреподаватели: Литв
- ин А.Л.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  6.2 Гос.надзор в области ЗНиТ от 
- ЧС 1/311
-DTSTART;TZID=Europe/Moscow:20260303T123000
-DTEND;TZID=Europe/Moscow:20260303T140000
-DTSTAMP:20260320T141041Z
-UID:20260303T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  6.2\nПредмет: 
- Гос.надзор в области ЗНиТ от ЧС\nАудитори
- и: 1/311\nПреподаватели: Белоусов В.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(л.)  3.1 Психологическая устойчивость
-  в ЧС 3/309
-DTSTART;TZID=Europe/Moscow:20260303T144000
-DTEND;TZID=Europe/Moscow:20260303T161000
-DTSTAMP:20260320T141041Z
-UID:20260303T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: П
- сихологическая устойчивость в ЧС\nАудит
- ории: 3/309\nПреподаватели: Котова Е.В.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  7.2 Пожарно-техническая эксперт
- иза 4/306
-DTSTART;TZID=Europe/Moscow:20260304T090000
-DTEND;TZID=Europe/Moscow:20260304T103000
-DTSTAMP:20260320T141041Z
-UID:20260304T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  7.2\nПредмет: 
- Пожарно-техническая экспертиза\nАудитор
- ии: 4/306\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.15 РХБЗ 1/321
-DTSTART;TZID=Europe/Moscow:20260304T104500
-DTEND;TZID=Europe/Moscow:20260304T121500
-DTSTAMP:20260320T141041Z
-UID:20260304T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.15\nПредмет:
-  РХБЗ\nАудитории: 1/321\nПреподаватели: Коль
- цов Г.И.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  2.12 Базовое шасси пожарных авто
- мобилей и спас.техники 1/210
-DTSTART;TZID=Europe/Moscow:20260304T123000
-DTEND;TZID=Europe/Moscow:20260304T140000
-DTSTAMP:20260320T141041Z
-UID:20260304T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  2.12\nПредмет:
-  Базовое шасси пожарных автомобилей и сп
- ас.техники\nАудитории: 1/210\nПреподаватели
- : Михайлин О.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Пр.)  3.5 Базовое шасси пожарных автом
- обилей и спас.техники 1/210
-DTSTART;TZID=Europe/Moscow:20260304T144000
-DTEND;TZID=Europe/Moscow:20260304T161000
-DTSTAMP:20260320T141041Z
-UID:20260304T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  3.5\nПредмет: 
- Базовое шасси пожарных автомобилей и сп
- ас.техники\nАудитории: 1/210\nПреподаватели
- : Михайлин О.Н.
-LAST-MODIFIED:20260320T141041Z
-TRANSP:OPAQUE
-END:VEVENT
-BEGIN:VEVENT
-SUMMARY:(Конс.)   Пожарная безопасность в стр
- оительстве 4/319
-DTSTART;TZID=Europe/Moscow:20260305T090000
-DTEND;TZID=Europe/Moscow:20260305T103000
-DTSTAMP:20260320T141041Z
-UID:20260305T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Пожарная безопасность в строительстве\n
  Аудитории: 4/319\nПреподаватели: Будыкина Т
  .А.
-LAST-MODIFIED:20260320T141041Z
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Конс.)   Пожарная безопасность техно
- л.процессов 4/319
-DTSTART;TZID=Europe/Moscow:20260305T104500
-DTEND;TZID=Europe/Moscow:20260305T121500
-DTSTAMP:20260320T141041Z
-UID:20260305T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Пожарная безопасность технол.процессов
- \nАудитории: 4/319\nПреподаватели: Будыкина 
- Т.А.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная безопасность в стро
+ ительстве 4/319
+DTSTART;TZID=Europe/Moscow:20261008T104500
+DTEND;TZID=Europe/Moscow:20261008T121500
+DTSTAMP:20260911T124223Z
+UID:20261008T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная безопасность в строительстве\n
+ Аудитории: 4/319\nПреподаватели: Будыкина Т
+ .А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Конс.)   Пожарно-техническая эксперт
- иза 4/319
-DTSTART;TZID=Europe/Moscow:20260305T123000
-DTEND;TZID=Europe/Moscow:20260305T140000
-DTSTAMP:20260320T141041Z
-UID:20260305T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Пожарно-техническая экспертиза\nАудито
- рии: 4/319\nПреподаватели: Михайлова С.М.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарная безопасность в стро
+ ительстве 4/319
+DTSTART;TZID=Europe/Moscow:20261008T123000
+DTEND;TZID=Europe/Moscow:20261008T140000
+DTSTAMP:20260911T124223Z
+UID:20261008T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарная безопасность в строительстве\n
+ Аудитории: 4/319\nПреподаватели: Будыкина Т
+ .А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(См.)  2.6 Государственный пожарный на
- дзор 4/319
-DTSTART;TZID=Europe/Moscow:20260305T144000
-DTEND;TZID=Europe/Moscow:20260305T161000
-DTSTAMP:20260320T141041Z
-UID:20260305T144000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: См.\nТема:  2.6\nПредмет: 
- Государственный пожарный надзор\nАудито
- рии: 4/319\nПреподаватели: Фатыхов Р.Р.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарно-техническая эксперти
+ за 4/306
+DTSTART;TZID=Europe/Moscow:20261009T090000
+DTEND;TZID=Europe/Moscow:20261009T103000
+DTSTAMP:20260911T124223Z
+UID:20261009T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарно-техническая экспертиза\nАудитор
+ ии: 4/306\nПреподаватели: Михайлова С.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Пр.)  7.2 Управление персоналом 1/207
-DTSTART;TZID=Europe/Moscow:20260306T090000
-DTEND;TZID=Europe/Moscow:20260306T103000
-DTSTAMP:20260320T141041Z
-UID:20260306T090000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Пр.\nТема:  7.2\nПредмет: 
- Управление персоналом\nАудитории: 1/207\nПр
- еподаватели: Гуськова Т.В.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарно-техническая эксперти
+ за 4/306
+DTSTART;TZID=Europe/Moscow:20261009T104500
+DTEND;TZID=Europe/Moscow:20261009T121500
+DTSTAMP:20260911T124223Z
+UID:20261009T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарно-техническая экспертиза\nАудитор
+ ии: 4/306\nПреподаватели: Михайлова С.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Конс.)   Инф.-методическое обеспечен
- ие надзорной деятельности в МЧС России 4/
- 320
-DTSTART;TZID=Europe/Moscow:20260306T104500
-DTEND;TZID=Europe/Moscow:20260306T121500
-DTSTAMP:20260320T141041Z
-UID:20260306T104500@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Инф.-методическое обеспечение надзорно
- й деятельности в МЧС России\nАудитории: 4/
- 320\nПреподаватели: Ляшенко С.М.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Пожарно-техническая эксперти
+ за 4/306
+DTSTART;TZID=Europe/Moscow:20261009T123000
+DTEND;TZID=Europe/Moscow:20261009T140000
+DTSTAMP:20260911T124223Z
+UID:20261009T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Пожарно-техническая экспертиза\nАудитор
+ ии: 4/306\nПреподаватели: Михайлова С.М.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
-SUMMARY:(Конс.)   Пожарная тактика 4/320
-DTSTART;TZID=Europe/Moscow:20260306T123000
-DTEND;TZID=Europe/Moscow:20260306T140000
-DTSTAMP:20260320T141041Z
-UID:20260306T123000@20260320T171041@510В
-CREATED:20260320T141041Z
-DESCRIPTION:Тип занятия: Конс.\nТема:  \nПредмет:
-  Пожарная тактика\nАудитории: 4/320\nПрепод
- аватели: Бобарико А.В.
-LAST-MODIFIED:20260320T141041Z
+SUMMARY:(Экз.)   Здания\, сооружения и их устой
+ чивость при пожаре 4/320
+DTSTART;TZID=Europe/Moscow:20261010T090000
+DTEND;TZID=Europe/Moscow:20261010T103000
+DTSTAMP:20260911T124223Z
+UID:20261010T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Здания\, сооружения и их устойчивость пр
+ и пожаре\nАудитории: 4/320\nПреподаватели: А
+ носова Е.Б.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Экз.)   Здания\, сооружения и их устой
+ чивость при пожаре 4/320
+DTSTART;TZID=Europe/Moscow:20261010T104500
+DTEND;TZID=Europe/Moscow:20261010T121500
+DTSTAMP:20260911T124223Z
+UID:20261010T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Здания\, сооружения и их устойчивость пр
+ и пожаре\nАудитории: 4/320\nПреподаватели: А
+ носова Е.Б.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Экз.)   Здания\, сооружения и их устой
+ чивость при пожаре 4/320
+DTSTART;TZID=Europe/Moscow:20261010T123000
+DTEND;TZID=Europe/Moscow:20261010T140000
+DTSTAMP:20260911T124223Z
+UID:20261010T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Экз.\nТема:  \nПредмет: 
+ Здания\, сооружения и их устойчивость пр
+ и пожаре\nАудитории: 4/320\nПреподаватели: А
+ носова Е.Б.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.2 Организация связи и оповещени
+ я в РСЧС 3/702
+DTSTART;TZID=Europe/Moscow:20261012T090000
+DTEND;TZID=Europe/Moscow:20261012T103000
+DTSTAMP:20260911T124223Z
+UID:20261012T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: О
+ рганизация связи и оповещения в РСЧС\nАу
+ дитории: 3/702\nПреподаватели: Карташев А.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Профессиональная этика 3/411
+DTSTART;TZID=Europe/Moscow:20261012T104500
+DTEND;TZID=Europe/Moscow:20261012T121500
+DTSTAMP:20260911T124223Z
+UID:20261012T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
+ рофессиональная этика\nАудитории: 3/411\nПр
+ еподаватели: Сорокина А.С.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Устойчивость объектов эконом
+ ики в ЧС АК/416
+DTSTART;TZID=Europe/Moscow:20261012T123000
+DTEND;TZID=Europe/Moscow:20261012T140000
+DTSTAMP:20260911T124223Z
+UID:20261012T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: У
+ стойчивость объектов экономики в ЧС\nАуд
+ итории: АК/416\nПреподаватели: Тугушов К.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Пожаровзрывозащита 4/306
+DTSTART;TZID=Europe/Moscow:20261012T144000
+DTEND;TZID=Europe/Moscow:20261012T161000
+DTSTAMP:20260911T124223Z
+UID:20261012T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
+ ожаровзрывозащита\nАудитории: 4/306\nПрепо
+ даватели: Будыкина Т.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Противопожарное водоснабжени
+ е 4/320
+DTSTART;TZID=Europe/Moscow:20261013T090000
+DTEND;TZID=Europe/Moscow:20261013T103000
+DTSTAMP:20260911T124223Z
+UID:20261013T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: П
+ ротивопожарное водоснабжение\nАудитори
+ и: 4/320\nПреподаватели: Блохин А.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.2 Пожаровзрывозащита 4/306
+DTSTART;TZID=Europe/Moscow:20261013T104500
+DTEND;TZID=Europe/Moscow:20261013T121500
+DTSTAMP:20260911T124223Z
+UID:20261013T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: П
+ ожаровзрывозащита\nАудитории: 4/306\nПрепо
+ даватели: Будыкина Т.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Гос.надзор в области ГО 4/306
+DTSTART;TZID=Europe/Moscow:20261013T123000
+DTEND;TZID=Europe/Moscow:20261013T140000
+DTSTAMP:20260911T124223Z
+UID:20261013T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Г
+ ос.надзор в области ГО\nАудитории: 4/306\nПр
+ еподаватели: Коваль Г.М.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Основы гос.политики по обеспе
+ чению безопасности в техносфере АК/403
+DTSTART;TZID=Europe/Moscow:20261013T144000
+DTEND;TZID=Europe/Moscow:20261013T161000
+DTSTAMP:20260911T124223Z
+UID:20261013T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ сновы гос.политики по обеспечению безоп
+ асности в техносфере\nАудитории: АК/403\nПр
+ еподаватели: Лебедев А.Ю.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.2 Устойчивость объектов эконо
+ мики в ЧС АК/403
+DTSTART;TZID=Europe/Moscow:20261014T090000
+DTEND;TZID=Europe/Moscow:20261014T103000
+DTSTAMP:20260911T124223Z
+UID:20261014T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Устойчивость объектов экономики в ЧС\nАу
+ дитории: АК/403\nПреподаватели: Сидоров А.В
+ .
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Профессиональная этика 3/402
+DTSTART;TZID=Europe/Moscow:20261014T104500
+DTEND;TZID=Europe/Moscow:20261014T121500
+DTSTAMP:20260911T124223Z
+UID:20261014T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
+ рофессиональная этика\nАудитории: 3/402\nПр
+ еподаватели: Сорокина А.С.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Расследование пожаров 4/320
+DTSTART;TZID=Europe/Moscow:20261014T123000
+DTEND;TZID=Europe/Moscow:20261014T140000
+DTSTAMP:20260911T124223Z
+UID:20261014T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: Р
+ асследование пожаров\nАудитории: 4/320\nПре
+ подаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.2 Расследование пожаров 4/320
+DTSTART;TZID=Europe/Moscow:20261014T144000
+DTEND;TZID=Europe/Moscow:20261014T161000
+DTSTAMP:20260911T124223Z
+UID:20261014T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: Р
+ асследование пожаров\nАудитории: 4/320\nПре
+ подаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Противопожарное водоснабжени
+ е 4/320
+DTSTART;TZID=Europe/Moscow:20261015T090000
+DTEND;TZID=Europe/Moscow:20261015T103000
+DTSTAMP:20260911T124223Z
+UID:20261015T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
+ ротивопожарное водоснабжение\nАудитори
+ и: 4/320\nПреподаватели: Блохин А.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.1 Основы гос.политики по обесп
+ ечению безопасности в техносфере АК/403
+DTSTART;TZID=Europe/Moscow:20261015T104500
+DTEND;TZID=Europe/Moscow:20261015T121500
+DTSTAMP:20260911T124223Z
+UID:20261015T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.1\nПредмет: 
+ Основы гос.политики по обеспечению безо
+ пасности в техносфере\nАудитории: АК/403\nП
+ реподаватели: Руденко К.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.1 Основы оперативного управлен
+ ия в МЧС России 4/207
+DTSTART;TZID=Europe/Moscow:20261015T123000
+DTEND;TZID=Europe/Moscow:20261015T140000
+DTSTAMP:20260911T124223Z
+UID:20261015T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.1\nПредмет: О
+ сновы оперативного управления в МЧС Рос
+ сии\nАудитории: 4/207\nПреподаватели: Иванч
+ енко Д.И.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  1.2 Основы оперативного управлен
+ ия в МЧС России 4/406
+DTSTART;TZID=Europe/Moscow:20261015T144000
+DTEND;TZID=Europe/Moscow:20261015T161000
+DTSTAMP:20260911T124223Z
+UID:20261015T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  1.2\nПредмет: О
+ сновы оперативного управления в МЧС Рос
+ сии\nАудитории: 4/406\nПреподаватели: Иванч
+ енко Д.И.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Государственный пожарный над
+ зор 4/319
+DTSTART;TZID=Europe/Moscow:20261016T090000
+DTEND;TZID=Europe/Moscow:20261016T103000
+DTSTAMP:20260911T124223Z
+UID:20261016T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: Г
+ осударственный пожарный надзор\nАудитор
+ ии: 4/319\nПреподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.2 Государственный пожарный над
+ зор 4/319
+DTSTART;TZID=Europe/Moscow:20261016T104500
+DTEND;TZID=Europe/Moscow:20261016T121500
+DTSTAMP:20260911T124223Z
+UID:20261016T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: Г
+ осударственный пожарный надзор\nАудитор
+ ии: 4/319\nПреподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.2 Медико-биологические основы б
+ езопасности 1/417
+DTSTART;TZID=Europe/Moscow:20261016T123000
+DTEND;TZID=Europe/Moscow:20261016T140000
+DTSTAMP:20260911T124223Z
+UID:20261016T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.2\nПредмет: М
+ едико-биологические основы безопасност
+ и\nАудитории: 1/417\nПреподаватели: Золотух
+ ин А.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Гос.надзор в области ГО 4/406
+DTSTART;TZID=Europe/Moscow:20261016T144000
+DTEND;TZID=Europe/Moscow:20261016T161000
+DTSTAMP:20260911T124223Z
+UID:20261016T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Г
+ ос.надзор в области ГО\nАудитории: 4/406\nПр
+ еподаватели: Коваль Г.М.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Пожаровзрывозащита 4/306
+DTSTART;TZID=Europe/Moscow:20261019T090000
+DTEND;TZID=Europe/Moscow:20261019T103000
+DTSTAMP:20260911T124223Z
+UID:20261019T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: П
+ ожаровзрывозащита\nАудитории: 4/306\nПрепо
+ даватели: Будыкина Т.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Гос.надзор в области ГО 4/319
+DTSTART;TZID=Europe/Moscow:20261019T104500
+DTEND;TZID=Europe/Moscow:20261019T121500
+DTSTAMP:20260911T124223Z
+UID:20261019T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: Г
+ ос.надзор в области ГО\nАудитории: 4/319\nПр
+ еподаватели: Коваль Г.М.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Профессиональная этика 3/402
+DTSTART;TZID=Europe/Moscow:20261019T123000
+DTEND;TZID=Europe/Moscow:20261019T140000
+DTSTAMP:20260911T124223Z
+UID:20261019T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
+ рофессиональная этика\nАудитории: 3/402\nПр
+ еподаватели: Сорокина А.С.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Противопожарное водоснабжени
+ е 4/320
+DTSTART;TZID=Europe/Moscow:20261020T090000
+DTEND;TZID=Europe/Moscow:20261020T103000
+DTSTAMP:20260911T124223Z
+UID:20261020T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: П
+ ротивопожарное водоснабжение\nАудитори
+ и: 4/320\nПреподаватели: Блохин А.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.2 Организация связи и оповещени
+ я в РСЧС 3/702
+DTSTART;TZID=Europe/Moscow:20261020T104500
+DTEND;TZID=Europe/Moscow:20261020T121500
+DTSTAMP:20260911T124223Z
+UID:20261020T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.2\nПредмет: О
+ рганизация связи и оповещения в РСЧС\nАу
+ дитории: 3/702\nПреподаватели: Карташев А.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Устойчивость объектов эконом
+ ики в ЧС АК/401
+DTSTART;TZID=Europe/Moscow:20261021T104500
+DTEND;TZID=Europe/Moscow:20261021T121500
+DTSTAMP:20260911T124223Z
+UID:20261021T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: У
+ стойчивость объектов экономики в ЧС\nАуд
+ итории: АК/401\nПреподаватели: Руденко К.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.3 Государственный пожарный над
+ зор АК/401
+DTSTART;TZID=Europe/Moscow:20261021T123000
+DTEND;TZID=Europe/Moscow:20261021T140000
+DTSTAMP:20260911T124223Z
+UID:20261021T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.3\nПредмет: Г
+ осударственный пожарный надзор\nАудитор
+ ии: АК/401\nПреподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  2.1 Расследование пожаров 4/306
+DTSTART;TZID=Europe/Moscow:20261021T144000
+DTEND;TZID=Europe/Moscow:20261021T161000
+DTSTAMP:20260911T124223Z
+UID:20261021T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  2.1\nПредмет: Р
+ асследование пожаров\nАудитории: 4/306\nПре
+ подаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.1 Основы гос.политики по обеспе
+ чению безопасности в техносфере АК/403
+DTSTART;TZID=Europe/Moscow:20261022T090000
+DTEND;TZID=Europe/Moscow:20261022T103000
+DTSTAMP:20260911T124223Z
+UID:20261022T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.1\nПредмет: О
+ сновы гос.политики по обеспечению безоп
+ асности в техносфере\nАудитории: АК/403\nПр
+ еподаватели: Тугушов К.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.1 Устойчивость объектов эконом
+ ики в ЧС АК/403
+DTSTART;TZID=Europe/Moscow:20261022T104500
+DTEND;TZID=Europe/Moscow:20261022T121500
+DTSTAMP:20260911T124223Z
+UID:20261022T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.1\nПредмет: У
+ стойчивость объектов экономики в ЧС\nАуд
+ итории: АК/403\nПреподаватели: Тугушов К.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  5.1 Основы гос.политики по обесп
+ ечению безопасности в техносфере АК/401
+DTSTART;TZID=Europe/Moscow:20261022T123000
+DTEND;TZID=Europe/Moscow:20261022T140000
+DTSTAMP:20260911T124223Z
+UID:20261022T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  5.1\nПредмет: 
+ Основы гос.политики по обеспечению безо
+ пасности в техносфере\nАудитории: АК/401\nП
+ реподаватели: Сидоров А.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  3.1 Основы гос.политики по обесп
+ ечению безопасности в техносфере АК/401
+DTSTART;TZID=Europe/Moscow:20261022T144000
+DTEND;TZID=Europe/Moscow:20261022T161000
+DTSTAMP:20260911T124223Z
+UID:20261022T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  3.1\nПредмет: 
+ Основы гос.политики по обеспечению безо
+ пасности в техносфере\nАудитории: АК/401\nП
+ реподаватели: Руденко К.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  5.2 Устойчивость объектов эконо
+ мики в ЧС АК/401
+DTSTART;TZID=Europe/Moscow:20261022T162500
+DTEND;TZID=Europe/Moscow:20261022T175500
+DTSTAMP:20260911T124223Z
+UID:20261022T162500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  5.2\nПредмет: 
+ Устойчивость объектов экономики в ЧС\nАу
+ дитории: АК/401\nПреподаватели: Руденко К.А
+ .
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  3.3 Медико-биологические основы б
+ езопасности 1/417
+DTSTART;TZID=Europe/Moscow:20261023T090000
+DTEND;TZID=Europe/Moscow:20261023T103000
+DTSTAMP:20260911T124223Z
+UID:20261023T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  3.3\nПредмет: М
+ едико-биологические основы безопасност
+ и\nАудитории: 1/417\nПреподаватели: Золотух
+ ин А.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.2 Организация связи и оповещени
+ я в РСЧС 3/702
+DTSTART;TZID=Europe/Moscow:20261023T104500
+DTEND;TZID=Europe/Moscow:20261023T121500
+DTSTAMP:20260911T124223Z
+UID:20261023T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.2\nПредмет: О
+ рганизация связи и оповещения в РСЧС\nАу
+ дитории: 3/702\nПреподаватели: Карташев А.В.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(л.)  4.4 Государственный пожарный над
+ зор 4/306
+DTSTART;TZID=Europe/Moscow:20261024T090000
+DTEND;TZID=Europe/Moscow:20261024T103000
+DTSTAMP:20260911T124223Z
+UID:20261024T090000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: л.\nТема:  4.4\nПредмет: Г
+ осударственный пожарный надзор\nАудитор
+ ии: 4/306\nПреподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.2 Расследование пожаров 4/306
+DTSTART;TZID=Europe/Moscow:20261024T104500
+DTEND;TZID=Europe/Moscow:20261024T121500
+DTSTAMP:20260911T124223Z
+UID:20261024T104500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Расследование пожаров\nАудитории: 4/306\nПр
+ еподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  2.2 Расследование пожаров 4/306
+DTSTART;TZID=Europe/Moscow:20261024T123000
+DTEND;TZID=Europe/Moscow:20261024T140000
+DTSTAMP:20260911T124223Z
+UID:20261024T123000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  2.2\nПредмет: 
+ Расследование пожаров\nАудитории: 4/306\nПр
+ еподаватели: Фатыхов Р.Р.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  4.2 Медико-биологические основы 
+ безопасности 4/306
+DTSTART;TZID=Europe/Moscow:20261024T144000
+DTEND;TZID=Europe/Moscow:20261024T161000
+DTSTAMP:20260911T124223Z
+UID:20261024T144000@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  4.2\nПредмет: 
+ Медико-биологические основы безопаснос
+ ти\nАудитории: 4/306\nПреподаватели: Чернов 
+ К.А.
+LAST-MODIFIED:20260911T124223Z
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:(Пр.)  4.3 Медико-биологические основы 
+ безопасности 4/306
+DTSTART;TZID=Europe/Moscow:20261024T162500
+DTEND;TZID=Europe/Moscow:20261024T175500
+DTSTAMP:20260911T124223Z
+UID:20261024T162500@20260911T154223@510В
+CREATED:20260911T124223Z
+DESCRIPTION:Тип занятия: Пр.\nТема:  4.3\nПредмет: 
+ Медико-биологические основы безопаснос
+ ти\nАудитории: 4/306\nПреподаватели: Чернов 
+ К.А.
+LAST-MODIFIED:20260911T124223Z
 TRANSP:OPAQUE
 END:VEVENT
 END:VCALENDAR
